@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
+    - name: Install xmllint
+      run: sudo apt-get install libxml2-utils
     - name: Fetch latest data
       run: |-
         curl https://www.toronto.ca/data/fire/livecad.xml > unformatted.xml
