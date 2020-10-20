@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-20 19:30:02</update_from_db_time>
-  <event>
-    <prime_street>BISHOP AVE, NY</prime_street>
-    <cross_streets>YONGE ST / KENNETH AVE</cross_streets>
-    <dispatch_time>2020-10-20 18:26:12</dispatch_time>
-    <event_num>F20104809</event_num>
-    <event_type>Fire Highrise Residential North</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>114</beat>
-    <units_disp> R112, P114, HR114, P111, P121, T114, C11, A113, LA111, R122, S143, C13, HZ145, P116, P131, P143, CMD10, CMD10C</units_disp>
-  </event>
+  <update_from_db_time>2020-10-20 19:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>TRANSIT RD / WILSON AVE</cross_streets>
@@ -22,16 +12,6 @@
     <units_disp> P145</units_disp>
   </event>
   <event>
-    <prime_street>TIDWORTH SQ, SC</prime_street>
-    <cross_streets>PITFIELD RD / PITFIELD RD</cross_streets>
-    <dispatch_time>2020-10-20 19:23:48</dispatch_time>
-    <event_num>F20104827</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243, A244, C24, P232, P242</units_disp>
-  </event>
-  <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>GALT AVE / JONES AVE</cross_streets>
     <dispatch_time>2020-10-20 19:25:28</dispatch_time>
@@ -40,5 +20,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>324</beat>
     <units_disp> P324, R326, A324, C32, P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-20 19:29:25</dispatch_time>
+    <event_num>F20104829</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DUFFERIN ST / FINCH AVE W</cross_streets>
+    <dispatch_time>2020-10-20 19:32:14</dispatch_time>
+    <event_num>F20104830</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P433, C14, HZ145, P141, P142</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>CLENDENAN AVE / BLOOR ST W</cross_streets>
+    <dispatch_time>2020-10-20 19:33:12</dispatch_time>
+    <event_num>F20104831</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
+  </event>
+  <event>
+    <prime_street>WARREN CRES, YK</prime_street>
+    <cross_streets>CROSBY AVE / LUNDY AVE</cross_streets>
+    <dispatch_time>2020-10-20 19:34:04</dispatch_time>
+    <event_num>F20104832</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P422, P431, A423, R423, C42</units_disp>
+  </event>
+  <event>
+    <prime_street>M5J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-20 19:36:32</dispatch_time>
+    <event_num>F20104833</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
