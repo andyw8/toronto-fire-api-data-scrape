@@ -1,56 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-20 21:40:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>OVERLEA BLVD / THORNCLIFFE PARK DR</cross_streets>
-    <dispatch_time>2020-10-20 20:27:10</dispatch_time>
-    <event_num>F20104841</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322, C32, R321, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-20 21:02:10</dispatch_time>
-    <event_num>F20104846</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-20 21:10:29</dispatch_time>
-    <event_num>F20104851</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-20 21:23:37</dispatch_time>
-    <event_num>F20104857</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-20 21:24:40</dispatch_time>
-    <event_num>F20104858</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
-  </event>
+  <update_from_db_time>2020-10-20 22:20:02</update_from_db_time>
   <event>
     <prime_street>M1B</prime_street>
     <cross_streets/>
@@ -62,13 +12,53 @@
     <units_disp> A213</units_disp>
   </event>
   <event>
-    <prime_street>M8Z</prime_street>
+    <prime_street>M9P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-20 21:35:56</dispatch_time>
-    <event_num>F20104860</event_num>
+    <dispatch_time>2020-10-20 22:00:23</dispatch_time>
+    <event_num>F20104864</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>WINDERMERE AVE / SOUTHPORT ST</cross_streets>
+    <dispatch_time>2020-10-20 22:06:34</dispatch_time>
+    <event_num>F20104866</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425, P433, A433, C42, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-20 22:09:36</dispatch_time>
+    <event_num>F20104867</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>JUDSON ST, ET</prime_street>
+    <cross_streets>WILLOWBROOK RD / OURLAND AVE</cross_streets>
+    <dispatch_time>2020-10-20 22:12:09</dispatch_time>
+    <event_num>F20104868</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
     <beat>433</beat>
-    <units_disp> P433</units_disp>
+    <units_disp> R435, P431, C43, PL432, R434</units_disp>
+  </event>
+  <event>
+    <prime_street>BROWN'S LINE, ET</prime_street>
+    <cross_streets>ROSELAND DR / BURLINGAME RD</cross_streets>
+    <dispatch_time>2020-10-20 22:14:32</dispatch_time>
+    <event_num>F20104869</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> A423, C44, P422, P445, R444, S445</units_disp>
   </event>
 </tfs_active_incidents>
