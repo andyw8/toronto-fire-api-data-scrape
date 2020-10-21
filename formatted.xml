@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-21 16:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-21 16:40:02</update_from_db_time>
   <event>
     <prime_street>DONWOODS DR, NY</prime_street>
     <cross_streets>SCOTCH ELMWAY / DONWOODS LANE</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>121</beat>
     <units_disp> HZ145, P113, P131, C11</units_disp>
-  </event>
-  <event>
-    <prime_street>SANDRINGHAM DR, NY</prime_street>
-    <cross_streets>BARWICK DR / MARCHWOOD DR</cross_streets>
-    <dispatch_time>2020-10-21 15:36:08</dispatch_time>
-    <event_num>F20105103</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
   </event>
   <event>
     <prime_street>M2R</prime_street>
@@ -32,16 +22,6 @@
     <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-21 16:04:00</dispatch_time>
-    <event_num>F20105111</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>YONGE ST / LAWRENCE AVE E</cross_streets>
     <dispatch_time>2020-10-21 16:10:55</dispatch_time>
@@ -50,36 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>131</beat>
     <units_disp> P132, R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M9P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-21 16:13:39</dispatch_time>
-    <event_num>F20105115</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-21 16:17:33</dispatch_time>
-    <event_num>F20105118</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, A331</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>EDITHVALE PARK TRL / EDITHVALE DR</cross_streets>
-    <dispatch_time>2020-10-21 16:18:27</dispatch_time>
-    <event_num>F20105119</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> P111, P143, C11, R122, T114, C11</units_disp>
   </event>
   <event>
     <prime_street>SHEPPARD AVE, NY</prime_street>
@@ -107,28 +57,38 @@
     <dispatch_time>2020-10-21 16:22:25</dispatch_time>
     <event_num>F20105122</event_num>
     <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
+    <alarm_lev>2</alarm_lev>
     <beat>134</beat>
-    <units_disp> P135, R321, A135, C32, P311, S313, P132</units_disp>
+    <units_disp> P135, R321, A135, C32, P311, S313, P132, A321, LA333, P312, R345, P125, C33, HR332, P313, C10, CMD10, CMD10C</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-21 16:23:40</dispatch_time>
-    <event_num>F20105123</event_num>
+    <dispatch_time>2020-10-21 16:28:03</dispatch_time>
+    <event_num>F20105125</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> HR114</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>ALLEN X N LAWRENCE RAMP / ALLEN X S LAWRENCE E RAMP</cross_streets>
+    <dispatch_time>2020-10-21 16:31:33</dispatch_time>
+    <event_num>F20105126</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> A133</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>MURRAY ROSS PKWY / SHOREHAM DR</cross_streets>
-    <dispatch_time>2020-10-21 16:26:31</dispatch_time>
-    <event_num>F20105124</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-10-21 16:33:26</dispatch_time>
+    <event_num>F20105127</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> A142</units_disp>
+    <beat>113</beat>
+    <units_disp> A113, R115</units_disp>
   </event>
 </tfs_active_incidents>
