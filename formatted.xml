@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-21 06:25:02</update_from_db_time>
+  <update_from_db_time>2020-10-21 06:45:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -22,23 +22,33 @@
     <units_disp> P121</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-21 06:08:03</dispatch_time>
-    <event_num>F20104948</event_num>
+    <dispatch_time>2020-10-21 06:22:23</dispatch_time>
+    <event_num>F20104950</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-21 06:17:25</dispatch_time>
-    <event_num>F20104949</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>LAKE SHORE BLVD W / FLEECELINE RD</cross_streets>
+    <dispatch_time>2020-10-21 06:34:25</dispatch_time>
+    <event_num>F20104951</event_num>
+    <event_type>Public Hazard</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SCARLETT RD / ELLINS AVE</cross_streets>
+    <dispatch_time>2020-10-21 06:40:48</dispatch_time>
+    <event_num>F20104954</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
   </event>
 </tfs_active_incidents>
