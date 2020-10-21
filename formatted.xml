@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-21 16:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-21 16:30:02</update_from_db_time>
   <event>
     <prime_street>DONWOODS DR, NY</prime_street>
     <cross_streets>SCOTCH ELMWAY / DONWOODS LANE</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>121</beat>
     <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>KINGSTON RD / MARKHAM RD</cross_streets>
-    <dispatch_time>2020-10-21 15:46:58</dispatch_time>
-    <event_num>F20105106</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P234, R225, C22, S232</units_disp>
   </event>
   <event>
     <prime_street>M2R</prime_street>
@@ -62,16 +52,6 @@
     <units_disp> P132, R134</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>BAMBURGH CRCL / WARDEN AVE</cross_streets>
-    <dispatch_time>2020-10-21 16:12:28</dispatch_time>
-    <event_num>F20105114</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
     <prime_street>M9P</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-21 16:13:39</dispatch_time>
@@ -82,13 +62,73 @@
     <units_disp> P443</units_disp>
   </event>
   <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-21 16:17:33</dispatch_time>
+    <event_num>F20105118</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, A331</units_disp>
+  </event>
+  <event>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>EDITHVALE PARK TRL / EDITHVALE DR</cross_streets>
+    <dispatch_time>2020-10-21 16:18:27</dispatch_time>
+    <event_num>F20105119</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> P111, P143, C11, R122, T114, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>HAWKSBURY DR / CUSACK CRT</cross_streets>
+    <dispatch_time>2020-10-21 16:20:20</dispatch_time>
+    <event_num>F20105120</event_num>
+    <event_type>Hazmat Level 2</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116, C31, HZ332, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M4E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-21 16:19:34</dispatch_time>
+    <event_num>F20105121</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, TT</prime_street>
+    <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
+    <dispatch_time>2020-10-21 16:22:25</dispatch_time>
+    <event_num>F20105122</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> P135, R321, A135, C32, P311, S313, P132</units_disp>
+  </event>
+  <event>
     <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-21 16:16:22</dispatch_time>
-    <event_num>F20105116</event_num>
+    <dispatch_time>2020-10-21 16:23:40</dispatch_time>
+    <event_num>F20105123</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
-    <units_disp> P114</units_disp>
+    <units_disp> HR114</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MURRAY ROSS PKWY / SHOREHAM DR</cross_streets>
+    <dispatch_time>2020-10-21 16:26:31</dispatch_time>
+    <event_num>F20105124</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> A142</units_disp>
   </event>
 </tfs_active_incidents>
