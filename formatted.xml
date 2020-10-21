@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-21 07:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-21 07:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>SCARLETT RD / ELLINS AVE</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>422</beat>
     <units_disp> P422</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>YONGE ST / PARK RD</cross_streets>
-    <dispatch_time>2020-10-21 07:02:51</dispatch_time>
-    <event_num>F20104956</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312, A312, C31, P313, P314</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -32,13 +22,33 @@
     <units_disp> A142, A411</units_disp>
   </event>
   <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-21 07:11:43</dispatch_time>
-    <event_num>F20104958</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BLOOR ST, ET</prime_street>
+    <cross_streets>HUMBERVALE BLVD / ROYAL YORK RD</cross_streets>
+    <dispatch_time>2020-10-21 07:17:11</dispatch_time>
+    <event_num>F20104959</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P245</units_disp>
+    <beat>431</beat>
+    <units_disp> P445, P443, A433, C44, R423</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR AVE, TT</prime_street>
+    <cross_streets>WESTON RD / OLD STOCK YARDS RD</cross_streets>
+    <dispatch_time>2020-10-21 07:19:58</dispatch_time>
+    <event_num>F20104960</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> P342, R345, A423, C42, P343</units_disp>
+  </event>
+  <event>
+    <prime_street>OVERLEA BLVD, EY</prime_street>
+    <cross_streets>WILLIAM MORGAN DR / CHARLES H HISCOTT BDGE</cross_streets>
+    <dispatch_time>2020-10-21 07:25:25</dispatch_time>
+    <event_num>F20104961</event_num>
+    <event_type>Rescue - Personal Entrapment</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P313, C32, P322, S313</units_disp>
   </event>
 </tfs_active_incidents>
