@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-21 00:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-21 00:45:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>SHAUGHNESSY BLVD / SHEPPARD AVE E</cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> R115</units_disp>
   </event>
   <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>ST GEORGE ST / HURON ST</cross_streets>
-    <dispatch_time>2020-10-21 00:00:14</dispatch_time>
-    <event_num>F20104895</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P315, A312, C31, P312, P314, P332</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>KENNEDY RD / SHEPPARD AVE E</cross_streets>
     <dispatch_time>2020-10-21 00:10:53</dispatch_time>
@@ -30,5 +20,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> A244</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-21 00:28:51</dispatch_time>
+    <event_num>F20104899</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-21 00:37:35</dispatch_time>
+    <event_num>F20104900</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, TT</prime_street>
+    <cross_streets>OLD FOREST HILL RD / BATHURST ST</cross_streets>
+    <dispatch_time>2020-10-21 00:40:12</dispatch_time>
+    <event_num>F20104901</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P131, P132, R134, P343, A135, C13</units_disp>
   </event>
 </tfs_active_incidents>
