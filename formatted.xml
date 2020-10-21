@@ -1,54 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-21 07:45:02</update_from_db_time>
+  <update_from_db_time>2020-10-21 08:30:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>SCARLETT RD / ELLINS AVE</cross_streets>
-    <dispatch_time>2020-10-21 06:40:48</dispatch_time>
-    <event_num>F20104954</event_num>
-    <event_type>Wires Down - Hydro</event_type>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>YORK ST / UNIVERSITY AVE</cross_streets>
+    <dispatch_time>2020-10-21 07:55:50</dispatch_time>
+    <event_num>F20104965</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <beat>332</beat>
+    <units_disp> A331, C33, HR332, P333, P333CT, P334</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-21 07:09:04</dispatch_time>
-    <event_num>F20104957</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>BATHURST ST, TT</prime_street>
+    <cross_streets>RIDGE HILL DR / SHALLMAR BLVD</cross_streets>
+    <dispatch_time>2020-10-21 08:11:52</dispatch_time>
+    <event_num>F20104969</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142, A411</units_disp>
+    <beat>135</beat>
+    <units_disp> A135, P135</units_disp>
   </event>
   <event>
-    <prime_street>OVERLEA BLVD, EY</prime_street>
-    <cross_streets>WILLIAM MORGAN DR / CHARLES H HISCOTT BDGE</cross_streets>
-    <dispatch_time>2020-10-21 07:25:25</dispatch_time>
-    <event_num>F20104961</event_num>
-    <event_type>Rescue - Personal Entrapment</event_type>
+    <prime_street>M4P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-21 08:14:29</dispatch_time>
+    <event_num>F20104970</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> C32, P313, P322, S313</units_disp>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
   <event>
-    <prime_street>INTERNATIONAL BLVD, ET</prime_street>
-    <cross_streets>CARLINGVIEW DR / VOYAGER CRT N</cross_streets>
-    <dispatch_time>2020-10-21 07:35:27</dispatch_time>
-    <event_num>F20104962</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>BROADWAY AVE, TT</prime_street>
+    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
+    <dispatch_time>2020-10-21 08:27:00</dispatch_time>
+    <event_num>F20104971</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444, R441, A415, C41, P443</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-21 07:40:05</dispatch_time>
-    <event_num>F20104963</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123, P233</units_disp>
+    <beat>134</beat>
+    <units_disp> P131, P311, A135, P125, C31</units_disp>
   </event>
 </tfs_active_incidents>
