@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-21 15:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-21 15:45:02</update_from_db_time>
   <event>
     <prime_street>DONWOODS DR, NY</prime_street>
     <cross_streets>SCOTCH ELMWAY / DONWOODS LANE</cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> HZ145, P113, P131, C11</units_disp>
   </event>
   <event>
-    <prime_street>KENDLETON DR, ET</prime_street>
-    <cross_streets>ORPINGTON CRES / WARRENDALE CRT</cross_streets>
-    <dispatch_time>2020-10-21 15:04:56</dispatch_time>
-    <event_num>F20105096</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> A415, C41, P415, R411, R413</units_disp>
-  </event>
-  <event>
     <prime_street>M4C</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-21 15:25:45</dispatch_time>
@@ -30,5 +20,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>323</beat>
     <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M5R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-21 15:30:12</dispatch_time>
+    <event_num>F20105100</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-21 15:34:57</dispatch_time>
+    <event_num>F20105101</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-21 15:35:20</dispatch_time>
+    <event_num>F20105102</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>SANDRINGHAM DR, NY</prime_street>
+    <cross_streets>BARWICK DR / MARCHWOOD DR</cross_streets>
+    <dispatch_time>2020-10-21 15:36:08</dispatch_time>
+    <event_num>F20105103</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
   </event>
 </tfs_active_incidents>
