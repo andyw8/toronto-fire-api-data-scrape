@@ -1,64 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-20 22:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-20 22:45:02</update_from_db_time>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>VICTORIA PARK AVE, NY</prime_street>
+    <cross_streets>DRAYCOTT DR / INNISMORE CRES</cross_streets>
+    <dispatch_time>2020-10-20 22:17:18</dispatch_time>
+    <event_num>F20104870</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-20 21:26:23</dispatch_time>
-    <event_num>F20104859</event_num>
+    <dispatch_time>2020-10-20 22:28:02</dispatch_time>
+    <event_num>F20104874</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
   </event>
   <event>
-    <prime_street>M9P</prime_street>
+    <prime_street>M5J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-20 22:00:23</dispatch_time>
-    <event_num>F20104864</event_num>
+    <dispatch_time>2020-10-20 22:28:55</dispatch_time>
+    <event_num>F20104875</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>WINDERMERE AVE / SOUTHPORT ST</cross_streets>
-    <dispatch_time>2020-10-20 22:06:34</dispatch_time>
-    <event_num>F20104866</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425, P433, A433, C42, R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M5S</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-20 22:09:36</dispatch_time>
-    <event_num>F20104867</event_num>
+    <dispatch_time>2020-10-20 22:29:48</dispatch_time>
+    <event_num>F20104876</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
   <event>
-    <prime_street>JUDSON ST, ET</prime_street>
-    <cross_streets>WILLOWBROOK RD / OURLAND AVE</cross_streets>
-    <dispatch_time>2020-10-20 22:12:09</dispatch_time>
-    <event_num>F20104868</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M1H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-20 22:32:07</dispatch_time>
+    <event_num>F20104877</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> R435, P431, C43, PL432, R434</units_disp>
+    <beat>231</beat>
+    <units_disp> R231</units_disp>
   </event>
   <event>
-    <prime_street>BROWN'S LINE, ET</prime_street>
-    <cross_streets>ROSELAND DR / BURLINGAME RD</cross_streets>
-    <dispatch_time>2020-10-20 22:14:32</dispatch_time>
-    <event_num>F20104869</event_num>
+    <prime_street>ORTON PARK RD, SC</prime_street>
+    <cross_streets>AMBOY RD / THORNBECK DR</cross_streets>
+    <dispatch_time>2020-10-20 22:40:15</dispatch_time>
+    <event_num>F20104878</event_num>
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> A423, C44, P422, P445, R444, S445</units_disp>
+    <beat>231</beat>
+    <units_disp> A231, C23, P223, P232, P234, S232</units_disp>
   </event>
 </tfs_active_incidents>
