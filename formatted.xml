@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-22 13:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-22 13:30:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
@@ -23,53 +23,13 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>KINGSTON RD / SCARBOROUGH GOLF CLUB RD</cross_streets>
-    <dispatch_time>2020-10-22 12:57:35</dispatch_time>
-    <event_num>F20105389</event_num>
-    <event_type>Vehicle Accident with Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234, R231</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-22 13:00:32</dispatch_time>
-    <event_num>F20105391</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>WANLESS AVE / BEDFORD PARK AVE</cross_streets>
-    <dispatch_time>2020-10-22 13:05:26</dispatch_time>
-    <event_num>F20105394</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131, C11, P132, P145, S143, A321</units_disp>
-  </event>
-  <event>
-    <prime_street>ELLESMERE RD, SC</prime_street>
-    <cross_streets>2863 ELLESMERE RD / NEILSON RD</cross_streets>
-    <dispatch_time>2020-10-22 13:08:01</dispatch_time>
-    <event_num>F20105395</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R231, R214, A213, C21, P212, R243</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
     <cross_streets>OVERLAND DR / SANDERLING PL</cross_streets>
     <dispatch_time>2020-10-22 13:08:06</dispatch_time>
     <event_num>F20105396</event_num>
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>123</beat>
-    <units_disp> P116, P233, R235, A322, P322, C32</units_disp>
+    <units_disp> P116, P233, R235, P322, A322, C32</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -82,16 +42,6 @@
     <units_disp> A315, P315, P331, C34</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-22 13:13:00</dispatch_time>
-    <event_num>F20105401</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
-  </event>
-  <event>
     <prime_street>M3C</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-22 13:15:08</dispatch_time>
@@ -99,7 +49,7 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>235</beat>
-    <units_disp> A321</units_disp>
+    <units_disp> A321, R235</units_disp>
   </event>
   <event>
     <prime_street>M8W</prime_street>
@@ -110,5 +60,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>434</beat>
     <units_disp> R434</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWTON BLVD, TT</prime_street>
+    <cross_streets>DUGGAN AVE / GORMLEY AVE</cross_streets>
+    <dispatch_time>2020-10-22 13:23:03</dispatch_time>
+    <event_num>F20105404</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> C34, P311, A135, P135, R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M5C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-22 13:25:30</dispatch_time>
+    <event_num>F20105405</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
 </tfs_active_incidents>
