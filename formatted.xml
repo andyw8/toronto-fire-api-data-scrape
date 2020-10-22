@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-21 21:40:02</update_from_db_time>
-  <event>
-    <prime_street>EGLINTON AVE, TT</prime_street>
-    <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
-    <dispatch_time>2020-10-21 16:22:25</dispatch_time>
-    <event_num>F20105122</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>134</beat>
-    <units_disp> P135, R321, A135, C32, P311, S313, P132, A321, LA333, P312, R345, P125, C33, HR332, P313, C10, CMD10, CMD10C, HZ332, C31, C7, FI11, C2, R134, P121</units_disp>
-  </event>
+  <update_from_db_time>2020-10-21 22:25:02</update_from_db_time>
   <event>
     <prime_street>SILVER SPRINGS BLVD, SC</prime_street>
     <cross_streets>L'AMOREAUX SPORTS COMPLEX TRL / L'AMOREAUX SPORTS COMPLEX TRL</cross_streets>
@@ -19,47 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>241</beat>
-    <units_disp> R241, P242, A244, C24, P113, R115</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>LESLIE ST / SHEPPARD AVE E</cross_streets>
-    <dispatch_time>2020-10-21 20:59:55</dispatch_time>
-    <event_num>F20105206</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116, P116, R122</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-21 21:17:41</dispatch_time>
-    <event_num>F20105215</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M3A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-21 21:30:43</dispatch_time>
-    <event_num>F20105216</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-21 21:30:44</dispatch_time>
-    <event_num>F20105217</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <units_disp> R241, P242, A244, C24, P113, R115, P211</units_disp>
   </event>
   <event>
     <prime_street>ROXTON RD, TT</prime_street>
@@ -69,6 +19,46 @@
     <event_type>Vehicle Fire</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>345</beat>
-    <units_disp> R345</units_disp>
+    <units_disp> R345, C34</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, TT</prime_street>
+    <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
+    <dispatch_time>2020-10-21 21:37:24</dispatch_time>
+    <event_num>F20105219</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> P121, C13</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-21 22:00:29</dispatch_time>
+    <event_num>F20105226</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> A244</units_disp>
+  </event>
+  <event>
+    <prime_street>SHUTER ST, TT</prime_street>
+    <cross_streets>SEATON ST / NIGHTHAWK LANE</cross_streets>
+    <dispatch_time>2020-10-21 22:13:12</dispatch_time>
+    <event_num>F20105230</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> S313, P333, A325, C33, P314, P332, HR332, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-21 22:20:57</dispatch_time>
+    <event_num>F20105231</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
 </tfs_active_incidents>
