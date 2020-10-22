@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-22 04:45:02</update_from_db_time>
+  <update_from_db_time>2020-10-22 05:20:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
@@ -9,26 +9,26 @@
     <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
-    <units_disp> P121, C13, P233, P125, P132</units_disp>
+    <units_disp> P121, C13, P233, P125, P132, P311</units_disp>
   </event>
   <event>
-    <prime_street>M4R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-22 04:24:55</dispatch_time>
-    <event_num>F20105297</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>JANE ST / WOOLNER AVE</cross_streets>
+    <dispatch_time>2020-10-22 05:12:52</dispatch_time>
+    <event_num>F20105301</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131</units_disp>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-22 04:32:05</dispatch_time>
-    <event_num>F20105298</event_num>
+    <dispatch_time>2020-10-22 05:16:38</dispatch_time>
+    <event_num>F20105302</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
