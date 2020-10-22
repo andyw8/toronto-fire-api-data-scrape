@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-22 00:40:02</update_from_db_time>
+  <update_from_db_time>2020-10-22 01:20:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
@@ -9,66 +9,46 @@
     <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
-    <units_disp> P121, C13, P233</units_disp>
+    <units_disp> P121, C13, P233, P125</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>BILLY BISHOP WAY / WILSON AVE</cross_streets>
-    <dispatch_time>2020-10-21 23:55:41</dispatch_time>
-    <event_num>F20105254</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street>DUFFERIN ST, TT</prime_street>
-    <cross_streets>PARR ST / MOUTRAY ST</cross_streets>
-    <dispatch_time>2020-10-22 00:09:51</dispatch_time>
-    <event_num>F20105258</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, P426, A345, C34, P331, R345</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
+    <prime_street>M1R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-22 00:21:29</dispatch_time>
-    <event_num>F20105260</event_num>
+    <dispatch_time>2020-10-22 00:40:36</dispatch_time>
+    <event_num>F20105266</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
   </event>
   <event>
-    <prime_street>BRIDLETOWNE CRCL, SC</prime_street>
-    <cross_streets>L'AMOREAUX DR / ECHO POINT</cross_streets>
-    <dispatch_time>2020-10-22 00:26:14</dispatch_time>
-    <event_num>F20105261</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-22 01:04:32</dispatch_time>
+    <event_num>F20105271</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241, P242, A244, C24, P113</units_disp>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
   </event>
   <event>
-    <prime_street>WESTON RD, NY</prime_street>
-    <cross_streets>HUMBER RIVER RECREATIONAL TRL / SHEPPARD AVE W</cross_streets>
-    <dispatch_time>2020-10-22 00:30:57</dispatch_time>
-    <event_num>F20105262</event_num>
+    <prime_street>ISLINGTON AVE, ET</prime_street>
+    <cross_streets>ST ANDREWS BLVD / FAIRHAVEN PARK TRL</cross_streets>
+    <dispatch_time>2020-10-22 01:07:49</dispatch_time>
+    <event_num>F20105272</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411, P442, R411, C14, P146</units_disp>
+    <beat>443</beat>
+    <units_disp> P443, R441, A415, C41, P415</units_disp>
   </event>
   <event>
-    <prime_street>M9L</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-22 00:32:34</dispatch_time>
-    <event_num>F20105263</event_num>
+    <dispatch_time>2020-10-22 01:08:02</dispatch_time>
+    <event_num>F20105273</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R413</units_disp>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
 </tfs_active_incidents>
