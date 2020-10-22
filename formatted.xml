@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-22 07:20:04</update_from_db_time>
+  <update_from_db_time>2020-10-22 07:30:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> R115, A244, P245, P116, R243</units_disp>
   </event>
   <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-22 07:08:00</dispatch_time>
-    <event_num>F20105312</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
-  </event>
-  <event>
     <prime_street>M4T</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-22 07:11:32</dispatch_time>
@@ -40,5 +30,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>311</beat>
     <units_disp> P311, S313</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DANFORTH RD / ST CLAIR AVE E</cross_streets>
+    <dispatch_time>2020-10-22 07:25:25</dispatch_time>
+    <event_num>F20105314</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
 </tfs_active_incidents>
