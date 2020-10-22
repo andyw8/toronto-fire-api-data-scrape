@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-22 14:25:02</update_from_db_time>
+  <update_from_db_time>2020-10-22 14:40:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
@@ -32,33 +32,53 @@
     <units_disp> A423, A423</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-22 14:13:18</dispatch_time>
-    <event_num>F20105418</event_num>
+    <dispatch_time>2020-10-22 14:23:41</dispatch_time>
+    <event_num>F20105422</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>313</beat>
+    <units_disp> P324, P313, P313</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-22 14:19:05</dispatch_time>
-    <event_num>F20105419</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>HUMBER COLLEGE BLVD / HIGHWAY 27 N</cross_streets>
+    <dispatch_time>2020-10-22 14:27:41</dispatch_time>
+    <event_num>F20105424</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
+    <beat>413</beat>
+    <units_disp> R411</units_disp>
   </event>
   <event>
-    <prime_street>SHUTER ST, TT</prime_street>
-    <cross_streets>SEATON ST / NIGHTHAWK LANE</cross_streets>
-    <dispatch_time>2020-10-22 14:20:24</dispatch_time>
-    <event_num>F20105420</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>COLLEGE ST, TT</prime_street>
+    <cross_streets>AUGUSTA AVE / CAMPBELL RUSSELL LANE</cross_streets>
+    <dispatch_time>2020-10-22 14:33:38</dispatch_time>
+    <event_num>F20105427</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, C31, P313, P315, P332, P333</units_disp>
+    <beat>315</beat>
+    <units_disp> P315, P331, A315, C34, P312</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>YONGE ST / BOGERT AVE</cross_streets>
+    <dispatch_time>2020-10-22 14:36:01</dispatch_time>
+    <event_num>F20105428</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> HR114</units_disp>
+  </event>
+  <event>
+    <prime_street>AVENUE RD, NY</prime_street>
+    <cross_streets>ST GERMAIN AVE / MELROSE AVE</cross_streets>
+    <dispatch_time>2020-10-22 14:36:39</dispatch_time>
+    <event_num>F20105429</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132, A135, C11, P131, R122</units_disp>
   </event>
 </tfs_active_incidents>
