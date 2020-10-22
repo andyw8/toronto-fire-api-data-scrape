@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-22 09:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-22 09:30:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
     <units_disp> P121, C13, P233, P125, P132, P311, P135, P121</units_disp>
-  </event>
-  <event>
-    <prime_street>YORK MILLS RD, NY</prime_street>
-    <cross_streets>RAYOAK DR / VICTORIA PARK AVE</cross_streets>
-    <dispatch_time>2020-10-22 08:32:04</dispatch_time>
-    <event_num>F20105331</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
   </event>
   <event>
     <prime_street>M9A</prime_street>
@@ -60,5 +50,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>346</beat>
     <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-22 09:17:20</dispatch_time>
+    <event_num>F20105341</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
