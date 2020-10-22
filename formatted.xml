@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-22 08:50:02</update_from_db_time>
+  <update_from_db_time>2020-10-22 09:20:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
     <units_disp> P121, C13, P233, P125, P132, P311, P135, P121</units_disp>
-  </event>
-  <event>
-    <prime_street>CAPRI RD, ET</prime_street>
-    <cross_streets>THE EAST MALL / </cross_streets>
-    <dispatch_time>2020-10-22 08:31:38</dispatch_time>
-    <event_num>F20105330</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445, R444, C44, PL432, R434</units_disp>
   </event>
   <event>
     <prime_street>YORK MILLS RD, NY</prime_street>
@@ -32,23 +22,43 @@
     <units_disp> P233</units_disp>
   </event>
   <event>
-    <prime_street>M9B</prime_street>
+    <prime_street>M9A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-22 08:35:22</dispatch_time>
-    <event_num>F20105332</event_num>
+    <dispatch_time>2020-10-22 09:04:08</dispatch_time>
+    <event_num>F20105336</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
-    <units_disp> S445</units_disp>
+    <units_disp> P445</units_disp>
   </event>
   <event>
-    <prime_street>M4Y</prime_street>
+    <prime_street>AMBLESIDE AVE, ET</prime_street>
+    <cross_streets>BENTLEY DR / UNO DR</cross_streets>
+    <dispatch_time>2020-10-22 09:06:59</dispatch_time>
+    <event_num>F20105338</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433, R435</units_disp>
+  </event>
+  <event>
+    <prime_street>M3B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-22 08:38:50</dispatch_time>
-    <event_num>F20105333</event_num>
+    <dispatch_time>2020-10-22 09:11:56</dispatch_time>
+    <event_num>F20105339</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
+    <beat>122</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-22 09:14:36</dispatch_time>
+    <event_num>F20105340</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P426</units_disp>
   </event>
 </tfs_active_incidents>
