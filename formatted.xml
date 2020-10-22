@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-22 03:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-22 03:40:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
@@ -20,5 +20,25 @@
     <alarm_lev>2</alarm_lev>
     <beat>426</beat>
     <units_disp> P426, R426, P331, C42, P344, A331, R423, A423, LA421, R425, C34, HR332, HZ332, P315, R345, S331, C40, CMD30, CMD30C</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-22 03:30:45</dispatch_time>
+    <event_num>F20105287</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR AVE, YK</prime_street>
+    <cross_streets>RUNNYMEDE RD / CASTLETON AVE</cross_streets>
+    <dispatch_time>2020-10-22 03:36:47</dispatch_time>
+    <event_num>F20105288</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P422, R423, A421, C42, R425</units_disp>
   </event>
 </tfs_active_incidents>
