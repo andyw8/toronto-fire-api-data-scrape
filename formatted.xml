@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-22 19:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-22 19:45:02</update_from_db_time>
   <event>
     <prime_street>HOWLAND AVE, TT</prime_street>
     <cross_streets>LN N BLOOR E ALBANY / BARTON AVE</cross_streets>
@@ -12,23 +12,33 @@
     <units_disp> LA333</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-22 19:15:49</dispatch_time>
-    <event_num>F20105524</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>HEARTH PL, SC</prime_street>
+    <cross_streets>SMITHY CRT / </cross_streets>
+    <dispatch_time>2020-10-22 19:33:38</dispatch_time>
+    <event_num>F20105527</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
+    <beat>214</beat>
+    <units_disp> P234, C21, R214, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>BEECHGROVE DR, SC</prime_street>
-    <cross_streets>FERGALEA AVE / COLERAINE AVE</cross_streets>
-    <dispatch_time>2020-10-22 19:20:05</dispatch_time>
-    <event_num>F20105525</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-22 19:35:28</dispatch_time>
+    <event_num>F20105528</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> P234, R214, A215, C21, P212</units_disp>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-22 19:39:11</dispatch_time>
+    <event_num>F20105529</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
 </tfs_active_incidents>
