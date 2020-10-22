@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-22 12:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-22 12:45:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
     <units_disp> P121, C13, P233, P125, P132, P311, P135, P121, FI11, R134</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BRIDLETOWNE CRCL / WARDEN AVE</cross_streets>
-    <dispatch_time>2020-10-22 11:52:25</dispatch_time>
-    <event_num>F20105373</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241, S232</units_disp>
   </event>
   <event>
     <prime_street>M5P</prime_street>
@@ -32,26 +22,6 @@
     <units_disp> P311</units_disp>
   </event>
   <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-22 12:13:59</dispatch_time>
-    <event_num>F20105382</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-22 12:18:23</dispatch_time>
-    <event_num>F20105383</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
     <prime_street>BOWOOD AVE, TT</prime_street>
     <cross_streets>MOUNT PLEASANT RD / RONAN AVE</cross_streets>
     <dispatch_time>2020-10-22 12:24:35</dispatch_time>
@@ -60,5 +30,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>131</beat>
     <units_disp> P324, P131, C11, HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-22 12:30:26</dispatch_time>
+    <event_num>F20105385</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M2M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-22 12:37:59</dispatch_time>
+    <event_num>F20105386</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-22 12:41:51</dispatch_time>
+    <event_num>F20105387</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> R122</units_disp>
   </event>
 </tfs_active_incidents>
