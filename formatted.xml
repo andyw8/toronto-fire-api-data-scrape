@@ -1,54 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-22 21:10:02</update_from_db_time>
+  <update_from_db_time>2020-10-22 22:25:02</update_from_db_time>
   <event>
-    <prime_street>M3H</prime_street>
+    <prime_street>ELLESMERE RD, SC</prime_street>
+    <cross_streets>VICTORIA PARK AVE / POLLARD DR</cross_streets>
+    <dispatch_time>2020-10-22 21:29:37</dispatch_time>
+    <event_num>F20105559</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-22 20:11:33</dispatch_time>
-    <event_num>F20105535</event_num>
+    <dispatch_time>2020-10-22 22:01:16</dispatch_time>
+    <event_num>F20105563</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>MARLBOROUGH AVE, TT</prime_street>
-    <cross_streets>ALEX MEWS / MARLBOROUGH PL</cross_streets>
-    <dispatch_time>2020-10-22 20:56:32</dispatch_time>
-    <event_num>F20105546</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P312, P313, P314, A312, C31</units_disp>
-  </event>
-  <event>
-    <prime_street>WATERTON RD, ET</prime_street>
-    <cross_streets> / TILDEN CRES</cross_streets>
-    <dispatch_time>2020-10-22 20:56:44</dispatch_time>
-    <event_num>F20105547</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, P443, R421, A421, C44</units_disp>
-  </event>
-  <event>
-    <prime_street>PEMBROKE ST, TT</prime_street>
-    <cross_streets>LN N DUNDAS W PEMBROKE / GLENHOLME PL</cross_streets>
-    <dispatch_time>2020-10-22 21:01:52</dispatch_time>
-    <event_num>F20105548</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>SHUTER ST, TT</prime_street>
+    <cross_streets>SEATON ST / NIGHTHAWK LANE</cross_streets>
+    <dispatch_time>2020-10-22 22:06:17</dispatch_time>
+    <event_num>F20105564</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
-    <units_disp> R325, P332, A325, C33, P314, C31</units_disp>
+    <units_disp> R325, P332, C33, P314, P333, T333</units_disp>
   </event>
   <event>
-    <prime_street>KEELE ST, NY</prime_street>
-    <cross_streets>MAPLE LEAF DR / MAPLE LEAF DR</cross_streets>
-    <dispatch_time>2020-10-22 21:04:25</dispatch_time>
-    <event_num>F20105549</event_num>
-    <event_type>Vehicle Fire</event_type>
+    <prime_street>GLAMORGAN AVE, SC</prime_street>
+    <cross_streets>KENNEDY RD / DUNDALK DR</cross_streets>
+    <dispatch_time>2020-10-22 22:07:52</dispatch_time>
+    <event_num>F20105565</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133, P146</units_disp>
+    <beat>245</beat>
+    <units_disp> S232, P245</units_disp>
+  </event>
+  <event>
+    <prime_street>HALLMARK AVE, ET</prime_street>
+    <cross_streets>RIMILTON AVE / VALERMO DR</cross_streets>
+    <dispatch_time>2020-10-22 22:17:37</dispatch_time>
+    <event_num>F20105566</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434, C43, P433, PL432, R435</units_disp>
+  </event>
+  <event>
+    <prime_street>BROCKLEY DR, SC</prime_street>
+    <cross_streets>LAWRENCE AVE E / ARCHIBALD MEWS</cross_streets>
+    <dispatch_time>2020-10-22 22:20:08</dispatch_time>
+    <event_num>F20105567</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232, R231, A231, C23, P221</units_disp>
   </event>
 </tfs_active_incidents>
