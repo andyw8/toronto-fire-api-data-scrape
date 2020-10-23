@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-23 14:25:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>STEELES AVE W / KEELE ST</cross_streets>
-    <dispatch_time>2020-10-23 13:39:42</dispatch_time>
-    <event_num>F20105787</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>SHEPPARD AVE E / YONGE ST</cross_streets>
-    <dispatch_time>2020-10-23 13:51:50</dispatch_time>
-    <event_num>F20105796</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P116</units_disp>
-  </event>
+  <update_from_db_time>2020-10-23 14:30:02</update_from_db_time>
   <event>
     <prime_street>M8Z</prime_street>
     <cross_streets/>
@@ -82,16 +62,6 @@
     <units_disp> P145, A441, C41, HZ145</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-23 14:14:48</dispatch_time>
-    <event_num>F20105811</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P131, P132</units_disp>
-  </event>
-  <event>
     <prime_street>BASTEDO AVE, TT</prime_street>
     <cross_streets>STACY ST / LN S DANFORTH W ROSEHEATH</cross_streets>
     <dispatch_time>2020-10-23 14:16:30</dispatch_time>
@@ -119,7 +89,7 @@
     <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>116</beat>
-    <units_disp> R115, R122</units_disp>
+    <units_disp> R115, R122, P132</units_disp>
   </event>
   <event>
     <prime_street>M9V</prime_street>
