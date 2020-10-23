@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-23 06:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-23 06:40:02</update_from_db_time>
   <event>
     <prime_street>YONGE ST, TT</prime_street>
     <cross_streets>SOUDAN AVE / EGLINTON AVE W</cross_streets>
@@ -22,13 +22,43 @@
     <units_disp> R412</units_disp>
   </event>
   <event>
-    <prime_street>TUXEDO CRT, SC</prime_street>
-    <cross_streets>MARKHAM RD / </cross_streets>
-    <dispatch_time>2020-10-23 06:08:03</dispatch_time>
-    <event_num>F20105649</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>MARTIN GROVE RD / EGLINTON AVE W</cross_streets>
+    <dispatch_time>2020-10-23 06:19:20</dispatch_time>
+    <event_num>F20105650</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231, R243, A231, C23, P234</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>EGLINTON AVE W / OAKWOOD AVE</cross_streets>
+    <dispatch_time>2020-10-23 06:26:39</dispatch_time>
+    <event_num>F20105651</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
+  </event>
+  <event>
+    <prime_street>FORDOVER DR, SC</prime_street>
+    <cross_streets>CUSHENDUN RD / MOSS ST</cross_streets>
+    <dispatch_time>2020-10-23 06:33:17</dispatch_time>
+    <event_num>F20105652</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234, P223, A215, C23, R231</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-10-23 06:36:06</dispatch_time>
+    <event_num>F20105653</event_num>
+    <event_type>Vehicle Fire - Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425, C43, P431</units_disp>
   </event>
 </tfs_active_incidents>
