@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-23 18:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-23 18:40:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>WAYLAND AVE / MALVERN AVE</cross_streets>
@@ -52,26 +52,6 @@
     <units_disp> R243, P212, A213, C23, P211</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 18:20:55</dispatch_time>
-    <event_num>F20105896</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M5G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 18:22:18</dispatch_time>
-    <event_num>F20105897</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
     <prime_street>M2J</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-23 18:26:11</dispatch_time>
@@ -90,5 +70,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>125</beat>
     <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M5E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 18:27:31</dispatch_time>
+    <event_num>F20105900</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 18:33:59</dispatch_time>
+    <event_num>F20105901</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
   </event>
 </tfs_active_incidents>
