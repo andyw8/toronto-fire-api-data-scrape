@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-23 17:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-23 17:30:03</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>WAYLAND AVE / MALVERN AVE</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> R214</units_disp>
   </event>
   <event>
-    <prime_street>SHAW ST, TT</prime_street>
-    <cross_streets>BRANCA GOMES LANE / ACHTMAN LANE</cross_streets>
-    <dispatch_time>2020-10-23 16:36:10</dispatch_time>
-    <event_num>F20105865</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
     <prime_street>SUMMERLAND TER, ET</prime_street>
     <cross_streets>DUNBLOOR RD / DUNDAS ST W</cross_streets>
     <dispatch_time>2020-10-23 16:54:40</dispatch_time>
@@ -42,26 +32,6 @@
     <units_disp> P431</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 17:00:53</dispatch_time>
-    <event_num>F20105873</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 17:06:54</dispatch_time>
-    <event_num>F20105874</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
     <prime_street>M5V</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-23 17:13:05</dispatch_time>
@@ -70,5 +40,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>334</beat>
     <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 17:19:02</dispatch_time>
+    <event_num>F20105876</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 17:21:37</dispatch_time>
+    <event_num>F20105877</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 17:24:43</dispatch_time>
+    <event_num>F20105878</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
