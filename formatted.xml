@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-23 18:40:02</update_from_db_time>
+  <update_from_db_time>2020-10-23 19:20:03</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>WAYLAND AVE / MALVERN AVE</cross_streets>
@@ -12,83 +12,103 @@
     <units_disp> P226, P227, R224, R225, A322, C33, S232, A324, LA333, R326, C20, FI11, P227</units_disp>
   </event>
   <event>
-    <prime_street>SUMMERLAND TER, ET</prime_street>
-    <cross_streets>DUNBLOOR RD / DUNDAS ST W</cross_streets>
-    <dispatch_time>2020-10-23 16:54:40</dispatch_time>
-    <event_num>F20105872</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
+    <prime_street>LING RD, SC</prime_street>
+    <cross_streets>MORNINGSIDE AVE / 110 LING RD</cross_streets>
+    <dispatch_time>2020-10-23 18:45:02</dispatch_time>
+    <event_num>F20105904</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street>HUMBERLINE DR, ET</prime_street>
-    <cross_streets>HUDDERSFIELD RD / CLAIREVILLE DR</cross_streets>
-    <dispatch_time>2020-10-23 17:53:38</dispatch_time>
-    <event_num>F20105889</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> C41, R412, R413, S445</units_disp>
+    <beat>234</beat>
+    <units_disp> P234, A215, P223, R214, C23</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>KEELE ST / DENSLEY AVE</cross_streets>
-    <dispatch_time>2020-10-23 18:09:05</dispatch_time>
-    <event_num>F20105892</event_num>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-10-23 18:45:38</dispatch_time>
+    <event_num>F20105905</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P131, P132, S143, R341, C13, P143, P116</units_disp>
+  </event>
+  <event>
+    <prime_street>FENMAR DR, NY</prime_street>
+    <cross_streets>KENHAR DR / ORMONT DR</cross_streets>
+    <dispatch_time>2020-10-23 18:51:18</dispatch_time>
+    <event_num>F20105913</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411, P142, A411, R413, C14</units_disp>
+  </event>
+  <event>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 18:53:04</dispatch_time>
+    <event_num>F20105914</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>CREDIT UNION DR / EGLINTON AVE E</cross_streets>
+    <dispatch_time>2020-10-23 18:53:16</dispatch_time>
+    <event_num>F20105915</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
   <event>
-    <prime_street>SHEPPARD AVE, SC</prime_street>
-    <cross_streets>ROSEBANK PARK TRL / GATEFORTH DR</cross_streets>
-    <dispatch_time>2020-10-23 18:19:47</dispatch_time>
-    <event_num>F20105895</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>TOBERMORY DR, NY</prime_street>
+    <cross_streets>FINCH AVE W / POTSDAM RD</cross_streets>
+    <dispatch_time>2020-10-23 19:07:46</dispatch_time>
+    <event_num>F20105917</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141, P142</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 19:09:40</dispatch_time>
+    <event_num>F20105918</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 19:13:38</dispatch_time>
+    <event_num>F20105919</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>213</beat>
-    <units_disp> R243, P212, A213, C23, P211</units_disp>
+    <units_disp> A213</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 18:26:11</dispatch_time>
-    <event_num>F20105898</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>LAKE SHORE BLVD W / REMEMBRANCE DR</cross_streets>
+    <dispatch_time>2020-10-23 19:14:59</dispatch_time>
+    <event_num>F20105920</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
   <event>
-    <prime_street>LESLIE ST, NY</prime_street>
-    <cross_streets>EGLINTON AVE E / SUNNYBROOK PARK TRL</cross_streets>
-    <dispatch_time>2020-10-23 18:26:32</dispatch_time>
-    <event_num>F20105899</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>NISKA RD, NY</prime_street>
+    <cross_streets>TOBERMORY DR / DRIFTWOOD AVE</cross_streets>
+    <dispatch_time>2020-10-23 19:16:19</dispatch_time>
+    <event_num>F20105921</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
-  </event>
-  <event>
-    <prime_street>M5E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 18:27:31</dispatch_time>
-    <event_num>F20105900</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 18:33:59</dispatch_time>
-    <event_num>F20105901</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
+    <beat>141</beat>
+    <units_disp> P141, P143, A142, C14, P146</units_disp>
   </event>
 </tfs_active_incidents>
