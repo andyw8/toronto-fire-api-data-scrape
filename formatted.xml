@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-23 15:40:02</update_from_db_time>
+  <update_from_db_time>2020-10-23 16:20:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>WAYLAND AVE / MALVERN AVE</cross_streets>
@@ -9,17 +9,7 @@
     <event_type>Fire - Institution</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>226</beat>
-    <units_disp> P226, P227, R224, R225, A322, C33, S232, A324, LA333, R326, C20, FI11</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>BERESFORD AVE / DURIE ST</cross_streets>
-    <dispatch_time>2020-10-23 14:46:07</dispatch_time>
-    <event_num>F20105826</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425</units_disp>
+    <units_disp> P226, P227, R224, R225, A322, C33, S232, A324, LA333, R326, C20, FI11, P227</units_disp>
   </event>
   <event>
     <prime_street>SUMMERLAND TER, ET</prime_street>
@@ -42,43 +32,53 @@
     <units_disp> A222, C23, R235, S232</units_disp>
   </event>
   <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>M3C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-23 15:21:35</dispatch_time>
-    <event_num>F20105839</event_num>
+    <dispatch_time>2020-10-23 15:37:16</dispatch_time>
+    <event_num>F20105846</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, P322</units_disp>
+    <beat>235</beat>
+    <units_disp> P125</units_disp>
   </event>
   <event>
-    <prime_street>NEILSON RD, SC</prime_street>
-    <cross_streets>FINCH AVE E / C P R</cross_streets>
-    <dispatch_time>2020-10-23 15:27:27</dispatch_time>
-    <event_num>F20105843</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P212, P242, A213, C21, R243</units_disp>
-  </event>
-  <event>
-    <prime_street>DAVENPORT RD, TT</prime_street>
-    <cross_streets>AVENUE RD / LN W AVENUE S DAVENPORT</cross_streets>
-    <dispatch_time>2020-10-23 15:28:30</dispatch_time>
-    <event_num>F20105844</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> A312</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-23 15:29:36</dispatch_time>
-    <event_num>F20105845</event_num>
+    <dispatch_time>2020-10-23 16:01:51</dispatch_time>
+    <event_num>F20105855</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MORNINGSIDE AVE / ELLESMERE RD</cross_streets>
+    <dispatch_time>2020-10-23 16:03:42</dispatch_time>
+    <event_num>F20105856</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 16:06:30</dispatch_time>
+    <event_num>F20105857</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 16:06:32</dispatch_time>
+    <event_num>F20105858</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
