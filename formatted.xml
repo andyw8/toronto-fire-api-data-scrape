@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-23 07:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-23 07:40:02</update_from_db_time>
   <event>
     <prime_street>YONGE ST, TT</prime_street>
     <cross_streets>SOUDAN AVE / EGLINTON AVE W</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> A415</units_disp>
   </event>
   <event>
-    <prime_street>DUFFERIN ST, TT</prime_street>
-    <cross_streets>LN N DUNDAS E DUFFERIN / FISHER ST</cross_streets>
-    <dispatch_time>2020-10-23 07:14:40</dispatch_time>
-    <event_num>F20105659</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, P426, A345, C34, P331</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>MCCOWAN RD / ELLESMERE RD</cross_streets>
     <dispatch_time>2020-10-23 07:15:13</dispatch_time>
@@ -50,5 +40,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
     <units_disp> C44, P432, P433, P445, PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 07:32:50</dispatch_time>
+    <event_num>F20105663</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
   </event>
 </tfs_active_incidents>
