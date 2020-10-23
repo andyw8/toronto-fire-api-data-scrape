@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-23 11:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-23 11:35:02</update_from_db_time>
   <event>
     <prime_street>MABELLE AVE, ET</prime_street>
     <cross_streets>CORDOVA AVE / DUNDAS ST W</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> C13, HZ145, P132, P145</units_disp>
   </event>
   <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 11:03:26</dispatch_time>
-    <event_num>F20105730</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
-  </event>
-  <event>
     <prime_street>ROSEGLOR CRES, SC</prime_street>
     <cross_streets>BRITWELL AVE / BRITWELL AVE</cross_streets>
     <dispatch_time>2020-10-23 11:08:51</dispatch_time>
@@ -52,13 +42,43 @@
     <units_disp> P232, P234, C23, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>DANFORTH AVE, SC</prime_street>
+    <cross_streets>ROBINSON AVE / LEYTON AVE</cross_streets>
+    <dispatch_time>2020-10-23 11:17:22</dispatch_time>
+    <event_num>F20105733</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> C24, P226, R224, R225, A322</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-23 11:09:21</dispatch_time>
-    <event_num>F20105732</event_num>
+    <dispatch_time>2020-10-23 11:17:59</dispatch_time>
+    <event_num>F20105734</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
+    <beat>226</beat>
+    <units_disp> P227</units_disp>
+  </event>
+  <event>
+    <prime_street>EXBURY RD, NY</prime_street>
+    <cross_streets>MONCLOVA RD / JANE ST</cross_streets>
+    <dispatch_time>2020-10-23 11:22:51</dispatch_time>
+    <event_num>F20105735</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146, P142, A142, C13, P442</units_disp>
+  </event>
+  <event>
+    <prime_street>EASTDALE AVE, EY</prime_street>
+    <cross_streets>GOODWOOD PARK CRES / LUMSDEN AVE</cross_streets>
+    <dispatch_time>2020-10-23 11:28:48</dispatch_time>
+    <event_num>F20105736</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> C24, R224, R235, A322, P323</units_disp>
   </event>
 </tfs_active_incidents>
