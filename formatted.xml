@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-23 12:35:02</update_from_db_time>
+  <update_from_db_time>2020-10-23 12:40:02</update_from_db_time>
   <event>
     <prime_street>DUFFERIN ST, NY</prime_street>
     <cross_streets>GLEN PARK AVE / GLENGROVE AVE</cross_streets>
@@ -20,26 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>411</beat>
     <units_disp> R411</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 12:22:02</dispatch_time>
-    <event_num>F20105759</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 12:27:27</dispatch_time>
-    <event_num>F20105760</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> P226</units_disp>
   </event>
   <event>
     <prime_street>M8Z</prime_street>
@@ -80,5 +60,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> P227</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MARKHAM RD / MILNER AVE</cross_streets>
+    <dispatch_time>2020-10-23 12:32:13</dispatch_time>
+    <event_num>F20105765</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> A213, C23, R243, S232, S143, P143</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 12:35:20</dispatch_time>
+    <event_num>F20105767</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 12:36:32</dispatch_time>
+    <event_num>F20105768</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
