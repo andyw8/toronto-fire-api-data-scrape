@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-24 14:35:01</update_from_db_time>
+  <update_from_db_time>2020-10-24 14:40:02</update_from_db_time>
   <event>
     <prime_street>SOUDAN AVE, TT</prime_street>
     <cross_streets>YONGE ST / COWBELL LANE</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>435</beat>
     <units_disp> R435</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-24 14:23:05</dispatch_time>
-    <event_num>F20106193</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -70,5 +60,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>243</beat>
     <units_disp> R243, P245, A231, C23, P242</units_disp>
+  </event>
+  <event>
+    <prime_street>DUFFERIN ST, TT</prime_street>
+    <cross_streets>DUFFERIN GROVE PARK TRL / DUFFERIN GROVE PARK TRL</cross_streets>
+    <dispatch_time>2020-10-24 14:35:09</dispatch_time>
+    <event_num>F20106200</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> A331</units_disp>
   </event>
 </tfs_active_incidents>
