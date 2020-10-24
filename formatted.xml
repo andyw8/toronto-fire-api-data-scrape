@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-23 21:50:02</update_from_db_time>
+  <update_from_db_time>2020-10-23 22:25:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>WAYLAND AVE / MALVERN AVE</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> R425</units_disp>
   </event>
   <event>
-    <prime_street>JARVIS ST, TT</prime_street>
-    <cross_streets>CAWTHRA SQ / GLOUCESTER ST</cross_streets>
-    <dispatch_time>2020-10-23 20:58:45</dispatch_time>
-    <event_num>F20105976</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P312, P332, A312, C31, P315, P331, R325</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-23 21:06:47</dispatch_time>
-    <event_num>F20105981</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P323, S313</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>TWENTY SIXTH ST / LAKE SHORE BLVD W</cross_streets>
     <dispatch_time>2020-10-23 21:20:23</dispatch_time>
@@ -52,56 +32,6 @@
     <units_disp> R435</units_disp>
   </event>
   <event>
-    <prime_street>KINGSWAY CRES, ET</prime_street>
-    <cross_streets>THORNDALE AVE / OLD DUNDAS ST</cross_streets>
-    <dispatch_time>2020-10-23 21:32:59</dispatch_time>
-    <event_num>F20105984</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431, P426, A433, C44, P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 21:41:39</dispatch_time>
-    <event_num>F20105985</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M5P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 21:42:40</dispatch_time>
-    <event_num>F20105986</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-23 21:45:36</dispatch_time>
-    <event_num>F20105987</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>BRAEMAR AVE, TT</prime_street>
-    <cross_streets>COLLEGE VIEW AVE / EGLINTON AVE W</cross_streets>
-    <dispatch_time>2020-10-23 21:45:59</dispatch_time>
-    <event_num>F20105988</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P135</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>DUPONT ST / BATHURST ST</cross_streets>
     <dispatch_time>2020-10-23 21:46:48</dispatch_time>
@@ -110,5 +40,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>344</beat>
     <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M2K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 22:01:38</dispatch_time>
+    <event_num>F20105993</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
+  </event>
+  <event>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 22:14:32</dispatch_time>
+    <event_num>F20105995</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-23 22:21:52</dispatch_time>
+    <event_num>F20105996</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
   </event>
 </tfs_active_incidents>
