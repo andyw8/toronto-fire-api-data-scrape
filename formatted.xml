@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-24 05:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-24 05:40:02</update_from_db_time>
   <event>
     <prime_street>M6K</prime_street>
     <cross_streets/>
@@ -20,15 +20,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>123</beat>
     <units_disp> C11, P123, R235, S232</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DUFFERIN ST / ROWAN AVE</cross_streets>
-    <dispatch_time>2020-10-24 05:00:05</dispatch_time>
-    <event_num>F20106075</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
   </event>
 </tfs_active_incidents>
