@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-24 04:45:02</update_from_db_time>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-24 04:13:42</dispatch_time>
-    <event_num>F20106070</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>WILLIAM R ALLEN RD N / TRANSIT RD</cross_streets>
-    <dispatch_time>2020-10-24 04:21:46</dispatch_time>
-    <event_num>F20106071</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
+  <update_from_db_time>2020-10-24 05:15:02</update_from_db_time>
   <event>
     <prime_street>M6K</prime_street>
     <cross_streets/>
@@ -40,5 +20,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>123</beat>
     <units_disp> C11, P123, R235, S232</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>BEACONSFIELD AVE / NORTHCOTE AVE</cross_streets>
+    <dispatch_time>2020-10-24 04:52:18</dispatch_time>
+    <event_num>F20106074</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DUFFERIN ST / ROWAN AVE</cross_streets>
+    <dispatch_time>2020-10-24 05:00:05</dispatch_time>
+    <event_num>F20106075</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
 </tfs_active_incidents>
