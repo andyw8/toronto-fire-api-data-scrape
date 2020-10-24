@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-24 19:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-24 19:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -29,37 +29,7 @@
     <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>214</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-24 19:04:03</dispatch_time>
-    <event_num>F20106278</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-24 19:05:10</dispatch_time>
-    <event_num>F20106279</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-24 19:05:34</dispatch_time>
-    <event_num>F20106280</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
+    <units_disp> R214, C21</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -72,16 +42,6 @@
     <units_disp> P445, C43, R434</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-24 19:07:33</dispatch_time>
-    <event_num>F20106282</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
     <prime_street>JOE SHUSTER WAY, TT</prime_street>
     <cross_streets>KING ST W / MACHELLS AVE</cross_streets>
     <dispatch_time>2020-10-24 19:12:38</dispatch_time>
@@ -90,5 +50,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>346</beat>
     <units_disp> S331, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-24 19:18:32</dispatch_time>
+    <event_num>F20106284</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
+  </event>
+  <event>
+    <prime_street>CHARLES ST, TT</prime_street>
+    <cross_streets>GEORGE HISLOP PARK TRL / MACY DUBOIS LANE</cross_streets>
+    <dispatch_time>2020-10-24 19:25:50</dispatch_time>
+    <event_num>F20106285</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312, A312, C31, P313, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-24 19:26:34</dispatch_time>
+    <event_num>F20106286</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
 </tfs_active_incidents>
