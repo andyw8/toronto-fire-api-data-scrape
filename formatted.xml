@@ -1,54 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-24 03:40:02</update_from_db_time>
+  <update_from_db_time>2020-10-24 04:25:02</update_from_db_time>
   <event>
-    <prime_street>M4C</prime_street>
+    <prime_street>M8V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-24 03:17:34</dispatch_time>
-    <event_num>F20106063</event_num>
+    <dispatch_time>2020-10-24 04:13:42</dispatch_time>
+    <event_num>F20106070</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M9L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-24 03:20:24</dispatch_time>
-    <event_num>F20106064</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-24 03:28:12</dispatch_time>
-    <event_num>F20106065</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415</units_disp>
-  </event>
-  <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-24 03:30:17</dispatch_time>
-    <event_num>F20106066</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>KIPLING AVE / ALBION RD</cross_streets>
-    <dispatch_time>2020-10-24 03:33:44</dispatch_time>
-    <event_num>F20106067</event_num>
+    <cross_streets>WILLIAM R ALLEN RD N / TRANSIT RD</cross_streets>
+    <dispatch_time>2020-10-24 04:21:46</dispatch_time>
+    <event_num>F20106071</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
   </event>
 </tfs_active_incidents>
