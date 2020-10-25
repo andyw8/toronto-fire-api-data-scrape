@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-25 02:50:02</update_from_db_time>
+  <update_from_db_time>2020-10-25 03:25:02</update_from_db_time>
   <event>
     <prime_street>BERWICK AVE, TT</prime_street>
     <cross_streets>LN W YONGE N HILLSDALE / DUPLEX AVE</cross_streets>
@@ -22,33 +22,53 @@
     <units_disp> R326, P227, P226, A324, C32, P323</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>EDEN PL, TT</prime_street>
+    <cross_streets>BATHURST ST / LN E BATHURST S CARR</cross_streets>
+    <dispatch_time>2020-10-25 03:04:47</dispatch_time>
+    <event_num>F20106400</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331, P315, A331, C33, P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-25 02:42:34</dispatch_time>
-    <event_num>F20106396</event_num>
+    <dispatch_time>2020-10-25 03:10:36</dispatch_time>
+    <event_num>F20106401</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>114</beat>
+    <units_disp> P114, T114</units_disp>
   </event>
   <event>
-    <prime_street>MANITOBA ST, ET</prime_street>
-    <cross_streets>GRAND AVE / LEGION RD N</cross_streets>
-    <dispatch_time>2020-10-25 02:44:34</dispatch_time>
-    <event_num>F20106397</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>HEATHROW DR, NY</prime_street>
+    <cross_streets>JANE ST / DATCHET RD</cross_streets>
+    <dispatch_time>2020-10-25 03:10:58</dispatch_time>
+    <event_num>F20106402</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, R435, A433, C43, P431</units_disp>
+    <beat>146</beat>
+    <units_disp> P146, P442, A142, C14, P141, P146</units_disp>
   </event>
   <event>
-    <prime_street>RICHMOND ST, TT</prime_street>
-    <cross_streets>JOHN ST / WIDMER ST</cross_streets>
-    <dispatch_time>2020-10-25 02:44:47</dispatch_time>
-    <event_num>F20106398</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-25 03:12:45</dispatch_time>
+    <event_num>F20106403</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P331, A331, C33, HR332, P334</units_disp>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
+  </event>
+  <event>
+    <prime_street>M3J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-25 03:21:30</dispatch_time>
+    <event_num>F20106404</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P143</units_disp>
   </event>
 </tfs_active_incidents>
