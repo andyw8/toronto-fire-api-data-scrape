@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-25 16:40:02</update_from_db_time>
+  <update_from_db_time>2020-10-25 17:20:02</update_from_db_time>
   <event>
     <prime_street>M2R</prime_street>
     <cross_streets/>
@@ -19,46 +19,16 @@
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <units_disp> R112, P143</units_disp>
   </event>
   <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-25 16:28:13</dispatch_time>
-    <event_num>F20106563</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>OAKMEADOW BLVD, SC</prime_street>
-    <cross_streets>LOGSTONE CRES / LOGSTONE CRES</cross_streets>
-    <dispatch_time>2020-10-25 16:30:08</dispatch_time>
-    <event_num>F20106564</event_num>
+    <prime_street>GENERATION BLVD, SC</prime_street>
+    <cross_streets>MEADOWVALE RD / BRIARCREEK RD</cross_streets>
+    <dispatch_time>2020-10-25 17:03:25</dispatch_time>
+    <event_num>F20106574</event_num>
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213, C23, P212, P234, R214, R243</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-25 16:31:56</dispatch_time>
-    <event_num>F20106565</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> A231</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-25 16:35:48</dispatch_time>
-    <event_num>F20106566</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P343</units_disp>
+    <beat>214</beat>
+    <units_disp> A215, P212, R214, R243, C21, S232</units_disp>
   </event>
 </tfs_active_incidents>
