@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-25 09:30:02</update_from_db_time>
-  <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-25 09:15:02</dispatch_time>
-    <event_num>F20106455</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
-  </event>
+  <update_from_db_time>2020-10-25 09:40:02</update_from_db_time>
   <event>
     <prime_street>M5G</prime_street>
     <cross_streets/>
@@ -20,5 +10,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
     <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>DORSET RD, SC</prime_street>
+    <cross_streets>ALLISTER AVE / ANSON AVE</cross_streets>
+    <dispatch_time>2020-10-25 09:35:03</dispatch_time>
+    <event_num>F20106457</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> R225, C22, P223, S232</units_disp>
   </event>
 </tfs_active_incidents>
