@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-25 07:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-25 07:45:02</update_from_db_time>
   <event>
     <prime_street>M4L</prime_street>
     <cross_streets/>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>223</beat>
     <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-25 07:20:02</dispatch_time>
-    <event_num>F20106441</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> S232, R235</units_disp>
   </event>
   <event>
     <prime_street>DRIFTWOOD AVE, NY</prime_street>
