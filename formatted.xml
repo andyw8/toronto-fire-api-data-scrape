@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-25 03:25:02</update_from_db_time>
+  <update_from_db_time>2020-10-25 03:30:02</update_from_db_time>
   <event>
     <prime_street>BERWICK AVE, TT</prime_street>
     <cross_streets>LN W YONGE N HILLSDALE / DUPLEX AVE</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> P331, P315, A331, C33, P332</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-25 03:10:36</dispatch_time>
-    <event_num>F20106401</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, T114</units_disp>
-  </event>
-  <event>
     <prime_street>HEATHROW DR, NY</prime_street>
     <cross_streets>JANE ST / DATCHET RD</cross_streets>
     <dispatch_time>2020-10-25 03:10:58</dispatch_time>
@@ -70,5 +60,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
     <units_disp> P143</units_disp>
+  </event>
+  <event>
+    <prime_street>ADELAIDE ST, TT</prime_street>
+    <cross_streets>SHERBOURNE ST / PRINCESS ST</cross_streets>
+    <dispatch_time>2020-10-25 03:24:41</dispatch_time>
+    <event_num>F20106405</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, S313</units_disp>
   </event>
 </tfs_active_incidents>
