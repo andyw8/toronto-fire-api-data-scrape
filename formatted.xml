@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-25 13:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-25 13:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>LAKE SHORE BLVD E / COXWELL AVE</cross_streets>
@@ -20,5 +20,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
     <units_disp> A423</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-25 13:28:39</dispatch_time>
+    <event_num>F20106509</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-25 13:31:24</dispatch_time>
+    <event_num>F20106511</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNCAIRN RD, NY</prime_street>
+    <cross_streets>HEMFORD CRES / DUNCAIRN PARK TRL</cross_streets>
+    <dispatch_time>2020-10-25 13:33:43</dispatch_time>
+    <event_num>F20106512</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123, P125, C11, A321, P233</units_disp>
   </event>
 </tfs_active_incidents>
