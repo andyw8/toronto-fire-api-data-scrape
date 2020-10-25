@@ -1,14 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-25 11:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-25 11:30:02</update_from_db_time>
   <event>
-    <prime_street>MIDLAND AVE, SC</prime_street>
-    <cross_streets>FINCH CORRIDOR TRL / MCNICOLL AVE</cross_streets>
-    <dispatch_time>2020-10-25 10:54:22</dispatch_time>
-    <event_num>F20106475</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-25 11:20:29</dispatch_time>
+    <event_num>F20106478</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> A244, C24, P211, P242, R241</units_disp>
+    <beat>441</beat>
+    <units_disp> A441</units_disp>
+  </event>
+  <event>
+    <prime_street>SACKVILLE ST, TT</prime_street>
+    <cross_streets>LN N QUEEN W SACKVILLE ST / SYDENHAM ST</cross_streets>
+    <dispatch_time>2020-10-25 11:22:43</dispatch_time>
+    <event_num>F20106479</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325, P234, C33, HZ332</units_disp>
   </event>
 </tfs_active_incidents>
