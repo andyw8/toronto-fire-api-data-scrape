@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-25 07:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-25 07:30:02</update_from_db_time>
   <event>
     <prime_street>M4L</prime_street>
     <cross_streets/>
@@ -22,23 +22,23 @@
     <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-25 07:11:01</dispatch_time>
-    <event_num>F20106439</event_num>
+    <dispatch_time>2020-10-25 07:20:02</dispatch_time>
+    <event_num>F20106441</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P426</units_disp>
+    <beat>222</beat>
+    <units_disp> S232, R235</units_disp>
   </event>
   <event>
-    <prime_street>KENMARK BLVD, SC</prime_street>
-    <cross_streets>KENNEDY RD / CHEVRON CRES</cross_streets>
-    <dispatch_time>2020-10-25 07:14:11</dispatch_time>
-    <event_num>F20106440</event_num>
-    <event_type>Alarm - Institution - School</event_type>
+    <prime_street>DRIFTWOOD AVE, NY</prime_street>
+    <cross_streets>FUTURA DR / YORKWOODS GT</cross_streets>
+    <dispatch_time>2020-10-25 07:25:34</dispatch_time>
+    <event_num>F20106442</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> A222, C22, P221, P232, R225, R235</units_disp>
+    <beat>142</beat>
+    <units_disp> P146, P141, A142, C14, P143</units_disp>
   </event>
 </tfs_active_incidents>
