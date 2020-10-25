@@ -1,66 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-25 14:40:02</update_from_db_time>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-25 13:26:00</dispatch_time>
-    <event_num>F20106508</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423</units_disp>
-  </event>
-  <event>
-    <prime_street>ALBION RD, ET</prime_street>
-    <cross_streets>ARMEL CRT / SHENDALE DR</cross_streets>
-    <dispatch_time>2020-10-25 14:06:43</dispatch_time>
-    <event_num>F20106518</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> S445, P415</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>VICTORIA PARK AVE / EGLINTON SQ</cross_streets>
-    <dispatch_time>2020-10-25 14:15:59</dispatch_time>
-    <event_num>F20106523</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-25 14:24:02</dispatch_time>
-    <event_num>F20106525</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415</units_disp>
-  </event>
-  <event>
-    <prime_street>STRATHALLAN BLVD, TT</prime_street>
-    <cross_streets>AVENUE RD / MONA DR</cross_streets>
-    <dispatch_time>2020-10-25 14:29:14</dispatch_time>
-    <event_num>F20106526</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P234, C13, HZ145, P132</units_disp>
-  </event>
-  <event>
-    <prime_street>DANFORTH AVE, TT</prime_street>
-    <cross_streets>DONLANDS AVE / BYRON AVE</cross_streets>
-    <dispatch_time>2020-10-25 14:31:51</dispatch_time>
-    <event_num>F20106527</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, P322, A322, C32, P324</units_disp>
-  </event>
+  <update_from_db_time>2020-10-25 15:20:02</update_from_db_time>
   <event>
     <prime_street>SAN GABRIELE PL, NY</prime_street>
     <cross_streets>OLITI CRT / </cross_streets>
@@ -70,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>411</beat>
     <units_disp> R412, R413, P141, A411, C41, P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-25 15:16:00</dispatch_time>
+    <event_num>F20106537</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street>TIMBERLANE DR, NY</prime_street>
+    <cross_streets>EARL BALES PARK TRL / </cross_streets>
+    <dispatch_time>2020-10-25 15:16:49</dispatch_time>
+    <event_num>F20106538</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
