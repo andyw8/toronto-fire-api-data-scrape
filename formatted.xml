@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-26 04:30:02</update_from_db_time>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-26 03:50:43</dispatch_time>
-    <event_num>F20106721</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
-  </event>
+  <update_from_db_time>2020-10-26 04:40:03</update_from_db_time>
   <event>
     <prime_street>M4V</prime_street>
     <cross_streets/>
@@ -22,13 +12,13 @@
     <units_disp> P311</units_disp>
   </event>
   <event>
-    <prime_street>M2K</prime_street>
+    <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-26 04:20:20</dispatch_time>
-    <event_num>F20106726</event_num>
+    <dispatch_time>2020-10-26 04:29:07</dispatch_time>
+    <event_num>F20106727</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
+    <beat>441</beat>
+    <units_disp> A441</units_disp>
   </event>
 </tfs_active_incidents>
