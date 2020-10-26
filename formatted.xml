@@ -1,14 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-26 18:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-26 18:40:02</update_from_db_time>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-26 18:03:35</dispatch_time>
-    <event_num>F20106906</event_num>
+    <dispatch_time>2020-10-26 18:21:19</dispatch_time>
+    <event_num>F20106909</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>ELLERSLIE AVE, NY</prime_street>
+    <cross_streets>SENLAC RD / COBDEN ST</cross_streets>
+    <dispatch_time>2020-10-26 18:23:21</dispatch_time>
+    <event_num>F20106910</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P145, C11, HZ145, P114</units_disp>
+  </event>
+  <event>
+    <prime_street>WARREN RD, TT</prime_street>
+    <cross_streets>FRYBROOK RD / FRYBROOK RD</cross_streets>
+    <dispatch_time>2020-10-26 18:27:02</dispatch_time>
+    <event_num>F20106911</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P311, R134, A135, C34, P343</units_disp>
+  </event>
+  <event>
+    <prime_street>FIFTH ST, TT</prime_street>
+    <cross_streets>LAKESHORE AVE / CHANNEL AVE</cross_streets>
+    <dispatch_time>2020-10-26 18:27:07</dispatch_time>
+    <event_num>F20106912</event_num>
+    <event_type>Island Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>335</beat>
+    <units_disp> HR332, P335, C33, HZ332, FB334, V335</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR AVE, TT</prime_street>
+    <cross_streets>TWEEDSMUIR AVE / NORDHEIMER RAVINE TRL</cross_streets>
+    <dispatch_time>2020-10-26 18:30:40</dispatch_time>
+    <event_num>F20106913</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-26 18:31:02</dispatch_time>
+    <event_num>F20106914</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
 </tfs_active_incidents>
