@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-26 18:40:02</update_from_db_time>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-26 18:21:19</dispatch_time>
-    <event_num>F20106909</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
+  <update_from_db_time>2020-10-26 19:20:02</update_from_db_time>
   <event>
     <prime_street>ELLERSLIE AVE, NY</prime_street>
     <cross_streets>SENLAC RD / COBDEN ST</cross_streets>
@@ -20,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
     <units_disp> P145, C11, HZ145, P114</units_disp>
-  </event>
-  <event>
-    <prime_street>WARREN RD, TT</prime_street>
-    <cross_streets>FRYBROOK RD / FRYBROOK RD</cross_streets>
-    <dispatch_time>2020-10-26 18:27:02</dispatch_time>
-    <event_num>F20106911</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P311, R134, A135, C34, P343</units_disp>
-  </event>
-  <event>
-    <prime_street>FIFTH ST, TT</prime_street>
-    <cross_streets>LAKESHORE AVE / CHANNEL AVE</cross_streets>
-    <dispatch_time>2020-10-26 18:27:07</dispatch_time>
-    <event_num>F20106912</event_num>
-    <event_type>Island Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>335</beat>
-    <units_disp> HR332, P335, C33, HZ332, FB334, V335</units_disp>
   </event>
   <event>
     <prime_street>ST CLAIR AVE, TT</prime_street>
@@ -52,13 +22,23 @@
     <units_disp> P312</units_disp>
   </event>
   <event>
-    <prime_street>M6A</prime_street>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-26 18:31:02</dispatch_time>
-    <event_num>F20106914</event_num>
+    <dispatch_time>2020-10-26 18:38:15</dispatch_time>
+    <event_num>F20106915</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>BOND ST, TT</prime_street>
+    <cross_streets>QUEEN ST E / SHUTER ST</cross_streets>
+    <dispatch_time>2020-10-26 19:07:51</dispatch_time>
+    <event_num>F20106922</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> C33, P314, P325, P333, R325, T333</units_disp>
   </event>
 </tfs_active_incidents>
