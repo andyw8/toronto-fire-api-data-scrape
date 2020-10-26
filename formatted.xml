@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-26 03:20:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>SUNNYSIDE AVE / GLENDALE AVE</cross_streets>
-    <dispatch_time>2020-10-26 02:32:14</dispatch_time>
-    <event_num>F20106707</event_num>
-    <event_type>Fire - Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426CA, R426, A423, C42, R425, R423</units_disp>
-  </event>
+  <update_from_db_time>2020-10-26 03:45:02</update_from_db_time>
   <event>
     <prime_street>BRIAR HILL AVE, TT</prime_street>
     <cross_streets>CASTLEWOOD RD / CALDOW RD</cross_streets>
@@ -22,26 +12,6 @@
     <units_disp> A135, C13, HZ145, P145</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-26 02:59:05</dispatch_time>
-    <event_num>F20106712</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-26 03:01:06</dispatch_time>
-    <event_num>F20106713</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
-  </event>
-  <event>
     <prime_street>CANEROUTH DR, ET</prime_street>
     <cross_streets>IVYBRIDGE DR / ELMCREST PARK TRL</cross_streets>
     <dispatch_time>2020-10-26 03:16:20</dispatch_time>
@@ -49,7 +19,7 @@
     <event_type>Water Problem</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>444</beat>
-    <units_disp> R444, PL432</units_disp>
+    <units_disp> PL432, R444</units_disp>
   </event>
   <event>
     <prime_street>M4V</prime_street>
@@ -60,5 +30,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>135</beat>
     <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-26 03:23:04</dispatch_time>
+    <event_num>F20106716</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426CA</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-26 03:26:02</dispatch_time>
+    <event_num>F20106717</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>MIDLAND AVE, SC</prime_street>
+    <cross_streets>DANFORTH RD / WOLFE AVE</cross_streets>
+    <dispatch_time>2020-10-26 03:35:06</dispatch_time>
+    <event_num>F20106718</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M3L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-26 03:40:33</dispatch_time>
+    <event_num>F20106719</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
 </tfs_active_incidents>
