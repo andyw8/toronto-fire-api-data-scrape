@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-27 07:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-27 07:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -12,13 +12,33 @@
     <units_disp> P432, PL432</units_disp>
   </event>
   <event>
-    <prime_street>BELVIDERE AVE, YK</prime_street>
-    <cross_streets>GLENORA AVE / OAKWOOD AVE</cross_streets>
-    <dispatch_time>2020-10-27 07:20:38</dispatch_time>
-    <event_num>F20107033</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>BRIMLEY RD / MCNICOLL AVE</cross_streets>
+    <dispatch_time>2020-10-27 07:30:36</dispatch_time>
+    <event_num>F20107034</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>M2M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-27 07:30:42</dispatch_time>
+    <event_num>F20107035</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>JARVIS ST / GEORGE ST</cross_streets>
+    <dispatch_time>2020-10-27 07:32:46</dispatch_time>
+    <event_num>F20107036</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, P332, P325, C33, P314, T333</units_disp>
   </event>
 </tfs_active_incidents>
