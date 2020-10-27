@@ -1,64 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-26 23:40:02</update_from_db_time>
+  <update_from_db_time>2020-10-27 00:30:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>YORKVILLE AVE / HAZELTON AVE</cross_streets>
-    <dispatch_time>2020-10-26 23:07:12</dispatch_time>
-    <event_num>F20106968</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-26 23:21:22</dispatch_time>
-    <event_num>F20106971</event_num>
+    <dispatch_time>2020-10-26 23:55:25</dispatch_time>
+    <event_num>F20106980</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
   <event>
-    <prime_street>BELLEVUE CRES, YK</prime_street>
-    <cross_streets>LN S WESTON W BELLEVUE / HICKORY TREE RD</cross_streets>
-    <dispatch_time>2020-10-26 23:21:57</dispatch_time>
-    <event_num>F20106973</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-27 00:08:25</dispatch_time>
+    <event_num>F20106984</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, P146, R421, A133, C42</units_disp>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
   <event>
-    <prime_street>FOREST MANOR RD, NY</prime_street>
-    <cross_streets>GEORGE HENRY BLVD / PARKWAY FOREST DR</cross_streets>
-    <dispatch_time>2020-10-26 23:23:43</dispatch_time>
-    <event_num>F20106974</event_num>
-    <event_type>Police Assist - Non Emergency</event_type>
+    <prime_street>M3J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-27 00:14:06</dispatch_time>
+    <event_num>F20106985</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
+    <beat>141</beat>
+    <units_disp> P143</units_disp>
   </event>
   <event>
-    <prime_street>CHERRY ST, TT</prime_street>
-    <cross_streets>FRONT ST E / EASTERN AVE</cross_streets>
-    <dispatch_time>2020-10-26 23:34:04</dispatch_time>
-    <event_num>F20106975</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>EGLINTON AVE E / CARDIFF RD</cross_streets>
+    <dispatch_time>2020-10-27 00:18:22</dispatch_time>
+    <event_num>F20106986</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, R325, C33, P325, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>PRINCES' BLVD, TT</prime_street>
-    <cross_streets>NUNAVUT RD / ONTARIO DR</cross_streets>
-    <dispatch_time>2020-10-26 23:35:18</dispatch_time>
-    <event_num>F20106976</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> A331, C34, P331, P334, P344</units_disp>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
