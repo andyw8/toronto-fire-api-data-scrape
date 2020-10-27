@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-27 08:50:02</update_from_db_time>
+  <update_from_db_time>2020-10-27 09:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>BAYVIEW AVE / KILGOUR RD</cross_streets>
@@ -33,12 +33,52 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>COLLEGE ST / QUEEN'S PARK</cross_streets>
-    <dispatch_time>2020-10-27 08:46:15</dispatch_time>
-    <event_num>F20107056</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
+    <cross_streets>LESLIE ST / WICKSTEED AVE</cross_streets>
+    <dispatch_time>2020-10-27 08:50:30</dispatch_time>
+    <event_num>F20107058</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> S331, P314, P332, A312, C33, P312</units_disp>
+    <beat>321</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-27 08:59:13</dispatch_time>
+    <event_num>F20107060</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-27 09:14:05</dispatch_time>
+    <event_num>F20107063</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-27 09:14:21</dispatch_time>
+    <event_num>F20107064</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-27 09:15:40</dispatch_time>
+    <event_num>F20107065</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
 </tfs_active_incidents>
