@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-27 13:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-27 13:30:02</update_from_db_time>
   <event>
     <prime_street>DAVENPORT RD, TT</prime_street>
     <cross_streets>MADISON AVE / SPADINA RD</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> R224, C32, P145</units_disp>
   </event>
   <event>
-    <prime_street>MELBOURNE AVE, TT</prime_street>
-    <cross_streets>ELM GROVE AVE / COWAN AVE</cross_streets>
-    <dispatch_time>2020-10-27 13:04:58</dispatch_time>
-    <event_num>F20107140</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426, R426, A331, C33, R345</units_disp>
-  </event>
-  <event>
     <prime_street>MCCOWAN RD, SC</prime_street>
     <cross_streets>TRUDELLE ST / THICKETWOOD DR</cross_streets>
     <dispatch_time>2020-10-27 13:12:53</dispatch_time>
@@ -40,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>221</beat>
     <units_disp> P221, P232, A222, C23, P234</units_disp>
+  </event>
+  <event>
+    <prime_street>UNIVERSITY AVE, TT</prime_street>
+    <cross_streets>GERRARD ST W / ORDE ST</cross_streets>
+    <dispatch_time>2020-10-27 13:17:56</dispatch_time>
+    <event_num>F20107142</event_num>
+    <event_type>Alarms Highrise Institution Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314, P332, A331, HR332, P313, P315, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-27 13:26:41</dispatch_time>
+    <event_num>F20107143</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
 </tfs_active_incidents>
