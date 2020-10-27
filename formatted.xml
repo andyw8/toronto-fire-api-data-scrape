@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-27 08:30:03</update_from_db_time>
+  <update_from_db_time>2020-10-27 08:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>BAYVIEW AVE / KILGOUR RD</cross_streets>
@@ -12,46 +12,6 @@
     <units_disp> R321</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-27 08:07:02</dispatch_time>
-    <event_num>F20107045</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-27 08:14:01</dispatch_time>
-    <event_num>F20107048</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-27 08:15:28</dispatch_time>
-    <event_num>F20107049</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M3A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-27 08:17:37</dispatch_time>
-    <event_num>F20107050</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> R122</units_disp>
-  </event>
-  <event>
     <prime_street>M6G</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-27 08:21:39</dispatch_time>
@@ -59,16 +19,26 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <units_disp> P315, A331</units_disp>
   </event>
   <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-27 08:24:38</dispatch_time>
-    <event_num>F20107054</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>DUPLEX AVE / CRAIGHURST AVE</cross_streets>
+    <dispatch_time>2020-10-27 08:39:59</dispatch_time>
+    <event_num>F20107055</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
+    <beat>134</beat>
+    <units_disp> P145, R134, HZ145, C31</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>COLLEGE ST / QUEEN'S PARK</cross_streets>
+    <dispatch_time>2020-10-27 08:46:15</dispatch_time>
+    <event_num>F20107056</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> S331, P314, P332, A312, C33, P312</units_disp>
   </event>
 </tfs_active_incidents>
