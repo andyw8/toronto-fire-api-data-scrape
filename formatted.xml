@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-27 13:45:02</update_from_db_time>
+  <update_from_db_time>2020-10-27 14:25:02</update_from_db_time>
   <event>
     <prime_street>DAVENPORT RD, TT</prime_street>
     <cross_streets>MADISON AVE / SPADINA RD</cross_streets>
@@ -12,63 +12,63 @@
     <units_disp> P324, P312, C31, HZ145, A312</units_disp>
   </event>
   <event>
-    <prime_street>VIRGINIA AVE, EY</prime_street>
-    <cross_streets>BINSWOOD AVE / GLEBEMOUNT AVE</cross_streets>
-    <dispatch_time>2020-10-27 12:58:53</dispatch_time>
-    <event_num>F20107139</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224, C32, P145</units_disp>
-  </event>
-  <event>
-    <prime_street>AVENUE RD, NY</prime_street>
-    <cross_streets>OTTER CRES / CARIBOU RD</cross_streets>
-    <dispatch_time>2020-10-27 13:27:39</dispatch_time>
-    <event_num>F20107144</event_num>
+    <prime_street>CAMERON AVE, YK</prime_street>
+    <cross_streets>SUNDEL AVE / SILVERTHORN AVE</cross_streets>
+    <dispatch_time>2020-10-27 14:08:41</dispatch_time>
+    <event_num>F20107154</event_num>
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> R134, A135, C11, P131, P132, P135</units_disp>
+    <beat>421</beat>
+    <units_disp> R421, A421, P342, P422, P442, C42</units_disp>
   </event>
   <event>
-    <prime_street>TRANSIT RD, NY</prime_street>
-    <cross_streets>WILSON AVE / TRANSIT RD ALLEN S RAMP</cross_streets>
-    <dispatch_time>2020-10-27 13:28:10</dispatch_time>
-    <event_num>F20107145</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P143, P121, A133, C14, P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-27 13:28:53</dispatch_time>
-    <event_num>F20107146</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423</units_disp>
-  </event>
-  <event>
-    <prime_street>KENDLETON DR, ET</prime_street>
-    <cross_streets>ORPINGTON CRES / WARRENDALE CRT</cross_streets>
-    <dispatch_time>2020-10-27 13:31:45</dispatch_time>
-    <event_num>F20107147</event_num>
+    <prime_street>CLAIRTRELL RD, NY</prime_street>
+    <cross_streets>SHEPPARD AVE E / ESPANA LANE</cross_streets>
+    <dispatch_time>2020-10-27 14:11:41</dispatch_time>
+    <event_num>F20107155</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413, P415, A415, C41, R412</units_disp>
+    <beat>122</beat>
+    <units_disp> P113, P116, A113, C11, HR114, P121, T114</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
+    <prime_street>MIRANDA AVE, YK</prime_street>
+    <cross_streets>BOWIE AVE / SCHELL AVE</cross_streets>
+    <dispatch_time>2020-10-27 14:14:54</dispatch_time>
+    <event_num>F20107156</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-27 13:32:09</dispatch_time>
-    <event_num>F20107148</event_num>
+    <dispatch_time>2020-10-27 14:16:51</dispatch_time>
+    <event_num>F20107157</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>YONGE ST / O'KEEFE LANE</cross_streets>
+    <dispatch_time>2020-10-27 14:19:24</dispatch_time>
+    <event_num>F20107158</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314, P325, A312, C31, P313, P332</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>THE QUEENSWAY / KIPLING AVE</cross_streets>
+    <dispatch_time>2020-10-27 14:19:22</dispatch_time>
+    <event_num>F20107159</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
   </event>
 </tfs_active_incidents>
