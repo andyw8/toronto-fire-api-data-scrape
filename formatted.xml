@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-26 23:25:02</update_from_db_time>
+  <update_from_db_time>2020-10-26 23:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>YORKVILLE AVE / HAZELTON AVE</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-26 23:10:58</dispatch_time>
-    <event_num>F20106969</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-26 23:18:14</dispatch_time>
-    <event_num>F20106970</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
   </event>
   <event>
     <prime_street>M1C</prime_street>
@@ -42,16 +22,6 @@
     <units_disp> R214</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-26 23:21:53</dispatch_time>
-    <event_num>F20106972</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
-  </event>
-  <event>
     <prime_street>BELLEVUE CRES, YK</prime_street>
     <cross_streets>LN S WESTON W BELLEVUE / HICKORY TREE RD</cross_streets>
     <dispatch_time>2020-10-26 23:21:57</dispatch_time>
@@ -60,5 +30,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
     <units_disp> P442, P146, R421, A133, C42</units_disp>
+  </event>
+  <event>
+    <prime_street>FOREST MANOR RD, NY</prime_street>
+    <cross_streets>GEORGE HENRY BLVD / PARKWAY FOREST DR</cross_streets>
+    <dispatch_time>2020-10-26 23:23:43</dispatch_time>
+    <event_num>F20106974</event_num>
+    <event_type>Police Assist - Non Emergency</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>CHERRY ST, TT</prime_street>
+    <cross_streets>FRONT ST E / EASTERN AVE</cross_streets>
+    <dispatch_time>2020-10-26 23:34:04</dispatch_time>
+    <event_num>F20106975</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, R325, C33, P325, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>PRINCES' BLVD, TT</prime_street>
+    <cross_streets>NUNAVUT RD / ONTARIO DR</cross_streets>
+    <dispatch_time>2020-10-26 23:35:18</dispatch_time>
+    <event_num>F20106976</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> A331, C34, P331, P334, P344</units_disp>
   </event>
 </tfs_active_incidents>
