@@ -1,24 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-26 21:10:02</update_from_db_time>
+  <update_from_db_time>2020-10-26 21:50:02</update_from_db_time>
   <event>
-    <prime_street>M6L</prime_street>
+    <prime_street>M9M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-26 20:49:12</dispatch_time>
-    <event_num>F20106936</event_num>
+    <dispatch_time>2020-10-26 21:17:34</dispatch_time>
+    <event_num>F20106939</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133</units_disp>
+    <beat>146</beat>
+    <units_disp> P146, A142</units_disp>
   </event>
   <event>
-    <prime_street>M9B</prime_street>
+    <prime_street>M6P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-26 20:59:16</dispatch_time>
-    <event_num>F20106938</event_num>
+    <dispatch_time>2020-10-26 21:27:24</dispatch_time>
+    <event_num>F20106943</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>423</beat>
+    <units_disp> R423, R423</units_disp>
+  </event>
+  <event>
+    <prime_street>ADANAC DR, SC</prime_street>
+    <cross_streets>BELLAMY RD S / MASON RD</cross_streets>
+    <dispatch_time>2020-10-26 21:28:42</dispatch_time>
+    <event_num>F20106945</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223, P221, A222, C23, R231</units_disp>
+  </event>
+  <event>
+    <prime_street>M4E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-26 21:30:13</dispatch_time>
+    <event_num>F20106946</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>GERRARD PL / SACKVILLE ST</cross_streets>
+    <dispatch_time>2020-10-26 21:32:44</dispatch_time>
+    <event_num>F20106947</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325, R325, A325, C31, P313, S313</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-26 21:40:21</dispatch_time>
+    <event_num>F20106948</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
   </event>
 </tfs_active_incidents>
