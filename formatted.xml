@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-28 17:40:02</update_from_db_time>
+  <update_from_db_time>2020-10-28 18:20:02</update_from_db_time>
   <event>
     <prime_street>GREENFIELD AVE, NY</prime_street>
     <cross_streets>LN E YONGE N GREENFIELD AVE / DORIS AVE</cross_streets>
@@ -10,96 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>114</beat>
     <units_disp> P114, P121, C11, HR114, P111, T114, R112, A113, R115, S143, LA421, C13, HZ145, P116, P131, P132, CMD10, CMD10C, C10, FI16, LA111, P143, LA111, HR114, P121, FI21</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-28 16:55:59</dispatch_time>
-    <event_num>F20107539</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113</units_disp>
-  </event>
-  <event>
-    <prime_street>DONWOODS DR, NY</prime_street>
-    <cross_streets>SCOTCH ELMWAY / DONWOODS LANE</cross_streets>
-    <dispatch_time>2020-10-28 17:00:36</dispatch_time>
-    <event_num>F20107543</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> A135, C14, P121, P131, P132</units_disp>
-  </event>
-  <event>
-    <prime_street>LAPPIN AVE, TT</prime_street>
-    <cross_streets>LN W DUFFERIN S LAPPIN / EMERSON AVE</cross_streets>
-    <dispatch_time>2020-10-28 17:04:59</dispatch_time>
-    <event_num>F20107544</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R423, P342, A345, C34, P343, P426</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-28 17:10:27</dispatch_time>
-    <event_num>F20107546</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>VICTORIA PARK AVE, NY</prime_street>
-    <cross_streets>EGLINTON AVE E / CRAIGTON DR</cross_streets>
-    <dispatch_time>2020-10-28 17:13:15</dispatch_time>
-    <event_num>F20107548</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> A222, P221, P233, P125, C22</units_disp>
-  </event>
-  <event>
-    <prime_street>NIAGARA ST, TT</prime_street>
-    <cross_streets>VICTORIA MEMORIAL SQUARE PARK TRL / LN E BATHURST S WELLINGTON</cross_streets>
-    <dispatch_time>2020-10-28 17:17:35</dispatch_time>
-    <event_num>F20107550</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331, P332, A331, C33, HR332, P334</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ROYAL YORK RD / LAMBETH RD</cross_streets>
-    <dispatch_time>2020-10-28 17:21:48</dispatch_time>
-    <event_num>F20107552</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-28 17:31:28</dispatch_time>
-    <event_num>F20107553</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116, R115, P123</units_disp>
-  </event>
-  <event>
-    <prime_street>EGLINTON AVE, SC</prime_street>
-    <cross_streets>SINNOTT RD / BIRCHMOUNT RD</cross_streets>
-    <dispatch_time>2020-10-28 17:31:41</dispatch_time>
-    <event_num>F20107554</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> R235, P221, A222, P245, C32</units_disp>
   </event>
   <event>
     <prime_street>FAIRFIELD AVE, ET</prime_street>
@@ -112,13 +22,93 @@
     <units_disp> P432, P433, PL432, R434, R435, C43</units_disp>
   </event>
   <event>
-    <prime_street>GEORGE ST, TT</prime_street>
-    <cross_streets>DUNDAS ST E / LN N DUNDAS E GEORGE</cross_streets>
-    <dispatch_time>2020-10-28 17:35:38</dispatch_time>
-    <event_num>F20107556</event_num>
+    <prime_street>LAKE SHORE BLVD, ET</prime_street>
+    <cross_streets>PARK LAWN RD / HUMBER BAY PARK EAST TRL</cross_streets>
+    <dispatch_time>2020-10-28 18:00:37</dispatch_time>
+    <event_num>F20107562</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433, P431</units_disp>
+  </event>
+  <event>
+    <prime_street>COLBORNE LODGE DR, TT</prime_street>
+    <cross_streets>HIGH PARK TRL / HIGH PARK TRL</cross_streets>
+    <dispatch_time>2020-10-28 18:01:29</dispatch_time>
+    <event_num>F20107563</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M5S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-28 18:02:29</dispatch_time>
+    <event_num>F20107565</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>ROYAL YORK RD, ET</prime_street>
+    <cross_streets>DRUMMOND ST / STANLEY AVE</cross_streets>
+    <dispatch_time>2020-10-28 18:03:15</dispatch_time>
+    <event_num>F20107566</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> R425, P445, A423, C44, P422</units_disp>
+  </event>
+  <event>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>ARDWICK BLVD / MILADY RD</cross_streets>
+    <dispatch_time>2020-10-28 18:03:53</dispatch_time>
+    <event_num>F20107567</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411, R413, P142, A411, C41</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>FINCH AVE W / ARROW RD</cross_streets>
+    <dispatch_time>2020-10-28 18:07:04</dispatch_time>
+    <event_num>F20107568</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-28 18:08:02</dispatch_time>
+    <event_num>F20107569</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ALGIE AVE / ATOMIC AVE</cross_streets>
+    <dispatch_time>2020-10-28 18:09:15</dispatch_time>
+    <event_num>F20107570</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P443, R444, A441, C42, R423, PL432, P433</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-28 18:16:14</dispatch_time>
+    <event_num>F20107572</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> A415</units_disp>
   </event>
 </tfs_active_incidents>
