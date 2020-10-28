@@ -1,94 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-27 21:10:02</update_from_db_time>
+  <update_from_db_time>2020-10-27 21:55:02</update_from_db_time>
   <event>
-    <prime_street>KING ST, YK</prime_street>
-    <cross_streets>GEORGE ST / C N R / C P R</cross_streets>
-    <dispatch_time>2020-10-27 19:10:56</dispatch_time>
-    <event_num>F20107241</event_num>
+    <prime_street>DON MILLS RD, EY</prime_street>
+    <cross_streets>TAYLOR CREEK TRL / GATEWAY BLVD</cross_streets>
+    <dispatch_time>2020-10-27 21:17:28</dispatch_time>
+    <event_num>F20107284</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322, C32, P322, R321, P125, R224</units_disp>
+  </event>
+  <event>
+    <prime_street>PORTLAND ST, TT</prime_street>
+    <cross_streets>RICHMOND ST W / RUSH LANE</cross_streets>
+    <dispatch_time>2020-10-27 21:33:38</dispatch_time>
+    <event_num>F20107288</event_num>
     <event_type>Water Problem</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, A421</units_disp>
+    <beat>331</beat>
+    <units_disp> A331, P331</units_disp>
   </event>
   <event>
-    <prime_street>KIPLING AVE, ET</prime_street>
-    <cross_streets>KIPLING AVE BICYCLE TRL / MARKBROOK LANE</cross_streets>
-    <dispatch_time>2020-10-27 20:35:01</dispatch_time>
-    <event_num>F20107270</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>SPRINGHURST AVE, TT</prime_street>
-    <cross_streets>JAMESON AVE / KING ST W</cross_streets>
-    <dispatch_time>2020-10-27 20:35:39</dispatch_time>
-    <event_num>F20107271</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> A331, P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
+    <prime_street>M1V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-27 20:43:15</dispatch_time>
-    <event_num>F20107278</event_num>
+    <dispatch_time>2020-10-27 21:39:24</dispatch_time>
+    <event_num>F20107289</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
   </event>
   <event>
-    <prime_street>ANTRIM CRES, SC</prime_street>
-    <cross_streets>KENNEDY RD / DUNDALK DR</cross_streets>
-    <dispatch_time>2020-10-27 20:48:18</dispatch_time>
-    <event_num>F20107279</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245, P221</units_disp>
-  </event>
-  <event>
-    <prime_street>GLEN EVEREST RD, SC</prime_street>
-    <cross_streets>ROSETTA MCCLAIN GARDENS TRL / WYNNVIEW CRT</cross_streets>
-    <dispatch_time>2020-10-27 20:53:24</dispatch_time>
-    <event_num>F20107280</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225, P223, A226, C22, P226, A222</units_disp>
-  </event>
-  <event>
-    <prime_street>M9M</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-27 20:53:47</dispatch_time>
-    <event_num>F20107281</event_num>
+    <dispatch_time>2020-10-27 21:40:56</dispatch_time>
+    <event_num>F20107290</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411</units_disp>
+    <beat>241</beat>
+    <units_disp> A244</units_disp>
   </event>
   <event>
-    <prime_street>M4A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-27 21:02:34</dispatch_time>
-    <event_num>F20107282</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>VIRGILWOOD DR / GOLDFINCH CRT</cross_streets>
+    <dispatch_time>2020-10-27 21:45:18</dispatch_time>
+    <event_num>F20107291</event_num>
+    <event_type>Alarm Institution</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-27 21:02:26</dispatch_time>
-    <event_num>F20107283</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> R235</units_disp>
+    <beat>112</beat>
+    <units_disp> HR114, P114, P141, P143, R112, T114, C11</units_disp>
   </event>
 </tfs_active_incidents>
