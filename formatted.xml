@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-28 12:50:03</update_from_db_time>
+  <update_from_db_time>2020-10-28 13:20:02</update_from_db_time>
   <event>
     <prime_street>LANSDOWNE AVE, TT</prime_street>
     <cross_streets>LN N WHYTOCK W LANSDOWNE / LN 2 S BLOOR E LANSDOWNE</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P114, P121, C11, HR114, P111, T114, R112, A113, R115, S143, LA421, C13, HZ145, P116, P131, P132, CMD10, CMD10C, C10, FI16, LA111, P143, LA111, HR114, P121, FI21</units_disp>
   </event>
   <event>
-    <prime_street>M6R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-28 12:22:24</dispatch_time>
-    <event_num>F20107439</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
     <prime_street>M4V</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-28 12:38:52</dispatch_time>
@@ -43,32 +33,121 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>BLOOR ST W / DUFFERIN ST</cross_streets>
-    <dispatch_time>2020-10-28 12:38:59</dispatch_time>
-    <event_num>F20107444</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-10-28 12:53:25</dispatch_time>
+    <event_num>F20107451</event_num>
+    <event_type>Rescue - High Level</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
+    <beat>322</beat>
+    <units_disp> R235, P125, C32, R321, S313, P313, S232, A321, P232</units_disp>
+  </event>
+  <event>
+    <prime_street>PARMA CRT, NY</prime_street>
+    <cross_streets>VICTORIA PARK AVE / </cross_streets>
+    <dispatch_time>2020-10-28 13:02:20</dispatch_time>
+    <event_num>F20107455</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P143, A222</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-28 13:02:21</dispatch_time>
+    <event_num>F20107456</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>CANTLE PATH / BURNHAMTHORPE RD</cross_streets>
-    <dispatch_time>2020-10-28 12:41:04</dispatch_time>
-    <event_num>F20107446</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-10-28 13:08:38</dispatch_time>
+    <event_num>F20107458</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>116</beat>
+    <units_disp> P114, P121, P116</units_disp>
   </event>
   <event>
-    <prime_street>M9B</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-28 12:46:01</dispatch_time>
-    <event_num>F20107448</event_num>
+    <dispatch_time>2020-10-28 13:08:10</dispatch_time>
+    <event_num>F20107459</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-28 13:10:34</dispatch_time>
+    <event_num>F20107460</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-28 13:10:54</dispatch_time>
+    <event_num>F20107461</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M4G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-28 13:14:09</dispatch_time>
+    <event_num>F20107462</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>321</beat>
+    <units_disp> A321, R321</units_disp>
+  </event>
+  <event>
+    <prime_street>BROCK AVE, TT</prime_street>
+    <cross_streets>CHESLEY AVE / LN 2 N COLLEGE W BROCK</cross_streets>
+    <dispatch_time>2020-10-28 13:14:37</dispatch_time>
+    <event_num>F20107463</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> P315, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-28 13:14:56</dispatch_time>
+    <event_num>F20107464</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>TUBMAN AVE, TT</prime_street>
+    <cross_streets>WYATT AVE / DUNDAS ST E</cross_streets>
+    <dispatch_time>2020-10-28 13:15:15</dispatch_time>
+    <event_num>F20107465</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-10-28 13:17:01</dispatch_time>
+    <event_num>F20107466</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
   </event>
 </tfs_active_incidents>
