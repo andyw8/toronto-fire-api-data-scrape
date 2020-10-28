@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-28 10:25:02</update_from_db_time>
+  <update_from_db_time>2020-10-28 10:40:02</update_from_db_time>
   <event>
     <prime_street>LANSDOWNE AVE, TT</prime_street>
     <cross_streets>LN N WHYTOCK W LANSDOWNE / LN 2 S BLOOR E LANSDOWNE</cross_streets>
@@ -19,37 +19,7 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>114</beat>
-    <units_disp> P114, P121, C11, HR114, P111, T114, R112, A113, R115, S143, LA421, C13, HZ145, P116, P131, P132, CMD10, CMD10C, C10, FI16, LA111, P143</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-28 09:58:18</dispatch_time>
-    <event_num>F20107399</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
-  </event>
-  <event>
-    <prime_street>BRENYON WAY, SC</prime_street>
-    <cross_streets>245 BRENYON WAY / SEWELL'S RD</cross_streets>
-    <dispatch_time>2020-10-28 10:13:15</dispatch_time>
-    <event_num>F20107401</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> P212, P211, A213, C23, P244, P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-28 10:16:14</dispatch_time>
-    <event_num>F20107402</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
+    <units_disp> P114, P121, C11, HR114, P111, T114, R112, A113, R115, S143, LA421, C13, HZ145, P116, P131, P132, CMD10, CMD10C, C10, FI16, LA111, P143, LA111</units_disp>
   </event>
   <event>
     <prime_street>GORDONRIDGE PL, SC</prime_street>
@@ -60,5 +30,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>221</beat>
     <units_disp> P221, P223, A222, C22, P232</units_disp>
+  </event>
+  <event>
+    <prime_street>CREDIT UNION DR, NY</prime_street>
+    <cross_streets>MOBILE DR / EGLINTON AVE E</cross_streets>
+    <dispatch_time>2020-10-28 10:24:13</dispatch_time>
+    <event_num>F20107404</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, YK</prime_street>
+    <cross_streets>GLENHOLME AVE / LOCKSLEY AVE</cross_streets>
+    <dispatch_time>2020-10-28 10:31:02</dispatch_time>
+    <event_num>F20107405</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> P342, P343, R341, A135, C34, P132</units_disp>
+  </event>
+  <event>
+    <prime_street>CHOICELAND BLVD, SC</prime_street>
+    <cross_streets>GRAPHIC CRT / BRAMBER WOODS PARK TRL</cross_streets>
+    <dispatch_time>2020-10-28 10:34:24</dispatch_time>
+    <event_num>F20107406</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214, P212, A215, C23, P234</units_disp>
+  </event>
+  <event>
+    <prime_street>GRACEDALE BLVD, NY</prime_street>
+    <cross_streets>CRIMSCOTT RD / GOLDSBORO RD</cross_streets>
+    <dispatch_time>2020-10-28 10:35:28</dispatch_time>
+    <event_num>F20107407</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411, R413, A411, C41, R412, P142</units_disp>
   </event>
 </tfs_active_incidents>
