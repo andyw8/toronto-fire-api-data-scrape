@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-28 13:40:03</update_from_db_time>
+  <update_from_db_time>2020-10-28 14:25:02</update_from_db_time>
   <event>
     <prime_street>LANSDOWNE AVE, TT</prime_street>
     <cross_streets>LN N WHYTOCK W LANSDOWNE / LN 2 S BLOOR E LANSDOWNE</cross_streets>
@@ -32,83 +32,93 @@
     <units_disp> R235, P125, C32, R321, S313, P313, S232, A321, P232</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-28 13:08:38</dispatch_time>
-    <event_num>F20107458</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P114, P121, P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
+    <prime_street>M1S</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-28 13:10:34</dispatch_time>
-    <event_num>F20107460</event_num>
+    <dispatch_time>2020-10-28 13:54:40</dispatch_time>
+    <event_num>F20107485</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
+    <beat>243</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KENNEDY RD / BERTRAND AVE</cross_streets>
+    <dispatch_time>2020-10-28 13:58:13</dispatch_time>
+    <event_num>F20107486</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-28 14:00:57</dispatch_time>
+    <event_num>F20107488</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
     <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>M6B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-28 13:10:54</dispatch_time>
-    <event_num>F20107461</event_num>
+    <dispatch_time>2020-10-28 14:14:37</dispatch_time>
+    <event_num>F20107493</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
   </event>
   <event>
-    <prime_street>M6S</prime_street>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>BANTING AVE / DUFFERIN ST</cross_streets>
+    <dispatch_time>2020-10-28 14:15:21</dispatch_time>
+    <event_num>F20107494</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> R112, P141, C11, HR114, P114, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>GIBSON AVE, YK</prime_street>
+    <cross_streets>SPEERS AVE / ELLIS AVE</cross_streets>
+    <dispatch_time>2020-10-28 14:15:50</dispatch_time>
+    <event_num>F20107495</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> R133, P146, R421, R423, A133, C42</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-28 13:25:14</dispatch_time>
-    <event_num>F20107469</event_num>
+    <dispatch_time>2020-10-28 14:16:06</dispatch_time>
+    <event_num>F20107496</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <beat>442</beat>
+    <units_disp> A421</units_disp>
   </event>
   <event>
     <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-28 13:27:45</dispatch_time>
-    <event_num>F20107470</event_num>
+    <dispatch_time>2020-10-28 14:17:12</dispatch_time>
+    <event_num>F20107497</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>ST THOMAS ST / QUEEN'S PARK</cross_streets>
-    <dispatch_time>2020-10-28 13:28:55</dispatch_time>
-    <event_num>F20107471</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>LANSDOWNE AVE, TT</prime_street>
+    <cross_streets>LN N LAPPIN E LANSDOWNE / LN S DUPONT E LANSDOWNE</cross_streets>
+    <dispatch_time>2020-10-28 14:19:23</dispatch_time>
+    <event_num>F20107498</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-28 13:31:49</dispatch_time>
-    <event_num>F20107472</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>HUMBERWOOD BLVD / MORNING STAR DR</cross_streets>
-    <dispatch_time>2020-10-28 13:35:15</dispatch_time>
-    <event_num>F20107473</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
+    <beat>345</beat>
+    <units_disp> R426, P343, C34, R341, A423</units_disp>
   </event>
 </tfs_active_incidents>
