@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-27 21:55:02</update_from_db_time>
-  <event>
-    <prime_street>DON MILLS RD, EY</prime_street>
-    <cross_streets>TAYLOR CREEK TRL / GATEWAY BLVD</cross_streets>
-    <dispatch_time>2020-10-27 21:17:28</dispatch_time>
-    <event_num>F20107284</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322, C32, P322, R321, P125, R224</units_disp>
-  </event>
+  <update_from_db_time>2020-10-27 22:30:02</update_from_db_time>
   <event>
     <prime_street>PORTLAND ST, TT</prime_street>
     <cross_streets>RICHMOND ST W / RUSH LANE</cross_streets>
@@ -32,23 +22,13 @@
     <units_disp> R241</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-27 21:40:56</dispatch_time>
-    <event_num>F20107290</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>RANDOLPH AVE, TT</prime_street>
+    <cross_streets>LN W PERTH N RANDOLPH / WEST TORONTO RAIL PATH TRL</cross_streets>
+    <dispatch_time>2020-10-27 22:18:36</dispatch_time>
+    <event_num>F20107296</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> A244</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>VIRGILWOOD DR / GOLDFINCH CRT</cross_streets>
-    <dispatch_time>2020-10-27 21:45:18</dispatch_time>
-    <event_num>F20107291</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> HR114, P114, P141, P143, R112, T114, C11</units_disp>
+    <beat>423</beat>
+    <units_disp> A423</units_disp>
   </event>
 </tfs_active_incidents>
