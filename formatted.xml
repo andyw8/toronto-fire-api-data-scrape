@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-28 13:30:02</update_from_db_time>
+  <update_from_db_time>2020-10-28 13:40:03</update_from_db_time>
   <event>
     <prime_street>LANSDOWNE AVE, TT</prime_street>
     <cross_streets>LN N WHYTOCK W LANSDOWNE / LN 2 S BLOOR E LANSDOWNE</cross_streets>
@@ -62,46 +62,6 @@
     <units_disp> P324</units_disp>
   </event>
   <event>
-    <prime_street>M4G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-28 13:14:09</dispatch_time>
-    <event_num>F20107462</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> A321, R321</units_disp>
-  </event>
-  <event>
-    <prime_street>BROCK AVE, TT</prime_street>
-    <cross_streets>CHESLEY AVE / LN 2 N COLLEGE W BROCK</cross_streets>
-    <dispatch_time>2020-10-28 13:14:37</dispatch_time>
-    <event_num>F20107463</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> P315, R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-28 13:14:56</dispatch_time>
-    <event_num>F20107464</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>M5C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-28 13:20:52</dispatch_time>
-    <event_num>F20107467</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> T333</units_disp>
-  </event>
-  <event>
     <prime_street>M6S</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-28 13:25:14</dispatch_time>
@@ -110,5 +70,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>422</beat>
     <units_disp> P422</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-28 13:27:45</dispatch_time>
+    <event_num>F20107470</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>ST THOMAS ST / QUEEN'S PARK</cross_streets>
+    <dispatch_time>2020-10-28 13:28:55</dispatch_time>
+    <event_num>F20107471</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M5S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-28 13:31:49</dispatch_time>
+    <event_num>F20107472</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>HUMBERWOOD BLVD / MORNING STAR DR</cross_streets>
+    <dispatch_time>2020-10-28 13:35:15</dispatch_time>
+    <event_num>F20107473</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
   </event>
 </tfs_active_incidents>
