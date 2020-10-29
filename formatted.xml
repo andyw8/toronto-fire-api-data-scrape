@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-29 18:10:02</update_from_db_time>
+  <update_from_db_time>2020-10-29 18:20:02</update_from_db_time>
   <event>
     <prime_street>M1M</prime_street>
     <cross_streets/>
@@ -20,26 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
     <units_disp> P313, P312, R325, A312, C31, P314</units_disp>
-  </event>
-  <event>
-    <prime_street>BAY MILLS BLVD, SC</prime_street>
-    <cross_streets>EAGLESTONE RD / BIRCHMOUNT RD</cross_streets>
-    <dispatch_time>2020-10-29 17:45:33</dispatch_time>
-    <event_num>F20107895</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-29 17:51:13</dispatch_time>
-    <event_num>F20107896</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P315</units_disp>
   </event>
   <event>
     <prime_street>REPLIN RD, NY</prime_street>
@@ -62,26 +42,6 @@
     <units_disp> R435</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-29 17:59:53</dispatch_time>
-    <event_num>F20107899</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-29 18:03:11</dispatch_time>
-    <event_num>F20107900</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> A244</units_disp>
-  </event>
-  <event>
     <prime_street>M5E</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-29 18:05:14</dispatch_time>
@@ -90,5 +50,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
     <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-29 18:08:52</dispatch_time>
+    <event_num>F20107902</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>M4E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-29 18:09:38</dispatch_time>
+    <event_num>F20107903</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
   </event>
 </tfs_active_incidents>
