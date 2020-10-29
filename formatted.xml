@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-29 13:25:02</update_from_db_time>
+  <update_from_db_time>2020-10-29 13:40:02</update_from_db_time>
   <event>
     <prime_street>BATHURST ST, NY</prime_street>
     <cross_streets>BRENTHALL AVE / HEPC</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P445</units_disp>
   </event>
   <event>
-    <prime_street>ARTINGER CRT, NY</prime_street>
-    <cross_streets>BANBURY RD / </cross_streets>
-    <dispatch_time>2020-10-29 13:10:25</dispatch_time>
-    <event_num>F20107807</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125, A321, A222</units_disp>
-  </event>
-  <event>
     <prime_street>M1K</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-29 13:10:53</dispatch_time>
@@ -40,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>221</beat>
     <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M4W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-29 13:16:00</dispatch_time>
-    <event_num>F20107810</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
   </event>
   <event>
     <prime_street>SHEPPARD AVE, NY</prime_street>
@@ -62,16 +42,6 @@
     <units_disp> C11, P116, R115, A244, P233</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-29 13:21:00</dispatch_time>
-    <event_num>F20107812</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
     <prime_street>ONTARIO ST, TT</prime_street>
     <cross_streets>ST JAMES AVE / </cross_streets>
     <dispatch_time>2020-10-29 13:20:41</dispatch_time>
@@ -80,5 +50,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>313</beat>
     <units_disp> P313, P314, P333, A312, C31</units_disp>
+  </event>
+  <event>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-29 13:23:56</dispatch_time>
+    <event_num>F20107815</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>326</beat>
+    <units_disp> R326</units_disp>
+  </event>
+  <event>
+    <prime_street>MEADOWVALE RD, SC</prime_street>
+    <cross_streets>WANITA RD / DUNWATSON DR</cross_streets>
+    <dispatch_time>2020-10-29 13:28:12</dispatch_time>
+    <event_num>F20107816</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> A215, C23, P324, HZ332</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-29 13:29:40</dispatch_time>
+    <event_num>F20107817</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-29 13:31:04</dispatch_time>
+    <event_num>F20107818</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>WELLESLEY ST, TT</prime_street>
+    <cross_streets>ROSE AVE / DARLING LANE</cross_streets>
+    <dispatch_time>2020-10-29 13:32:08</dispatch_time>
+    <event_num>F20107819</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P325, A325, P312, P333, C31, A312</units_disp>
+  </event>
+  <event>
+    <prime_street>M2K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-29 13:34:18</dispatch_time>
+    <event_num>F20107820</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
 </tfs_active_incidents>
