@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-29 19:20:03</update_from_db_time>
+  <update_from_db_time>2020-10-29 19:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>213</beat>
     <units_disp> A213, P212, R214, S232, C21</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BRIMLEY RD / SKAGWAY AVE</cross_streets>
-    <dispatch_time>2020-10-29 18:57:55</dispatch_time>
-    <event_num>F20107915</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P223</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -42,16 +32,6 @@
     <units_disp> R115</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-29 19:03:46</dispatch_time>
-    <event_num>F20107919</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
     <prime_street>M1E</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-29 19:06:28</dispatch_time>
@@ -62,16 +42,6 @@
     <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>WESTON RD, NY</prime_street>
-    <cross_streets>CORONADO CRT / DAMASK AVE</cross_streets>
-    <dispatch_time>2020-10-29 19:15:38</dispatch_time>
-    <event_num>F20107921</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> P146, P442, A411, R413, C14</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2020-10-29 19:16:31</dispatch_time>
@@ -80,5 +50,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
     <units_disp> P132, P145, C13</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-29 19:18:12</dispatch_time>
+    <event_num>F20107923</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> A415</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-10-29 19:21:51</dispatch_time>
+    <event_num>F20107925</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235, P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-29 19:29:22</dispatch_time>
+    <event_num>F20107928</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
