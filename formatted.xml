@@ -1,44 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-29 09:40:02</update_from_db_time>
+  <update_from_db_time>2020-10-29 10:25:02</update_from_db_time>
   <event>
-    <prime_street>DUPONT ST, TT</prime_street>
-    <cross_streets>LN E SYMINGTON N DUPONT / SYMINGTON AVE</cross_streets>
-    <dispatch_time>2020-10-29 09:17:30</dispatch_time>
-    <event_num>F20107751</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>QUEBEC AVE, TT</prime_street>
+    <cross_streets>HUMBERSIDE AVE / ANNETTE ST</cross_streets>
+    <dispatch_time>2020-10-29 09:37:09</dispatch_time>
+    <event_num>F20107755</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> P342, P343, A345, C34, P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-29 09:21:45</dispatch_time>
-    <event_num>F20107752</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A315</units_disp>
-  </event>
-  <event>
-    <prime_street>M6B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-29 09:21:55</dispatch_time>
-    <event_num>F20107753</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
+    <beat>423</beat>
+    <units_disp> HZ332</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>KEELE ST / CALVINGTON DR</cross_streets>
-    <dispatch_time>2020-10-29 09:25:40</dispatch_time>
-    <event_num>F20107754</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
+    <cross_streets>BORDEN ST / COLLEGE ST</cross_streets>
+    <dispatch_time>2020-10-29 10:01:23</dispatch_time>
+    <event_num>F20107762</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> S143, A133, C14, P141, P143, P146</units_disp>
+    <beat>315</beat>
+    <units_disp> A315, P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-29 10:15:08</dispatch_time>
+    <event_num>F20107764</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>MACPHERSON AVE, TT</prime_street>
+    <cross_streets>LN W YONGE N MACPHERSON / MOLSON ST</cross_streets>
+    <dispatch_time>2020-10-29 10:16:13</dispatch_time>
+    <event_num>F20107765</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P312, R325, A312, C31, P313, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>MARKLAND DR, ET</prime_street>
+    <cross_streets>SILVERTHORNE BUSH DR / BLOOR ST W</cross_streets>
+    <dispatch_time>2020-10-29 10:19:36</dispatch_time>
+    <event_num>F20107766</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432, R444, C44, P445, PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-29 10:20:11</dispatch_time>
+    <event_num>F20107767</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
   </event>
 </tfs_active_incidents>
