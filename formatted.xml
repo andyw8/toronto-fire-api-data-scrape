@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-30 12:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-30 12:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>VANSCO RD / ALGIE AVE</cross_streets>
@@ -22,23 +22,43 @@
     <units_disp> A441, P415</units_disp>
   </event>
   <event>
-    <prime_street>M2K</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-30 12:11:10</dispatch_time>
-    <event_num>F20108161</event_num>
+    <dispatch_time>2020-10-30 12:23:34</dispatch_time>
+    <event_num>F20108163</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>M6L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-30 12:13:36</dispatch_time>
-    <event_num>F20108162</event_num>
+    <dispatch_time>2020-10-30 12:31:25</dispatch_time>
+    <event_num>F20108164</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> R345</units_disp>
+    <beat>133</beat>
+    <units_disp> A133</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-30 12:32:55</dispatch_time>
+    <event_num>F20108165</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-30 12:33:55</dispatch_time>
+    <event_num>F20108166</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
