@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-30 11:10:02</update_from_db_time>
+  <update_from_db_time>2020-10-30 11:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>BAYVIEW AVE / PRINCE EDWARD VIADUCT</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> A133</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>PAPE AVE / O'CONNOR DR</cross_streets>
-    <dispatch_time>2020-10-30 10:54:47</dispatch_time>
-    <event_num>F20108141</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
     <prime_street>CATARAQUI CRES, SC</prime_street>
     <cross_streets>WARDEN AVE / FIRVALLEY CRT</cross_streets>
     <dispatch_time>2020-10-30 11:03:47</dispatch_time>
@@ -60,5 +50,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
     <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-30 11:07:52</dispatch_time>
+    <event_num>F20108144</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> R231</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-30 11:09:05</dispatch_time>
+    <event_num>F20108145</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>HAWKSBURY DR / CUSACK CRT</cross_streets>
+    <dispatch_time>2020-10-30 11:09:30</dispatch_time>
+    <event_num>F20108146</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
 </tfs_active_incidents>
