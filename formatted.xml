@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-30 17:10:02</update_from_db_time>
+  <update_from_db_time>2020-10-30 17:20:02</update_from_db_time>
   <event>
     <prime_street>M1W</prime_street>
     <cross_streets/>
@@ -22,46 +22,6 @@
     <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>M6B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-30 16:56:26</dispatch_time>
-    <event_num>F20108269</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>GERRARD ST, TT</prime_street>
-    <cross_streets>BOWMORE RD / BELLHAVEN RD</cross_streets>
-    <dispatch_time>2020-10-30 16:58:51</dispatch_time>
-    <event_num>F20108270</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-30 16:58:42</dispatch_time>
-    <event_num>F20108271</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
-  </event>
-  <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-30 17:00:28</dispatch_time>
-    <event_num>F20108272</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
     <prime_street>BAMBER CRT, NY</prime_street>
     <cross_streets>ROANOKE RD / </cross_streets>
     <dispatch_time>2020-10-30 17:04:01</dispatch_time>
@@ -69,16 +29,86 @@
     <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>233</beat>
-    <units_disp> P324, C22, P233, HZ145</units_disp>
+    <units_disp> P324, C22, P233, HZ145, P324</units_disp>
   </event>
   <event>
-    <prime_street>PALACE ST, TT</prime_street>
-    <cross_streets>COOPERAGE ST / ROLLING MILLS RD</cross_streets>
-    <dispatch_time>2020-10-30 17:04:07</dispatch_time>
-    <event_num>F20108274</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>COLBORNE ST / KING ST W</cross_streets>
+    <dispatch_time>2020-10-30 17:08:37</dispatch_time>
+    <event_num>F20108275</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
-    <units_disp> P333, P325, C33, R326, T333</units_disp>
+    <units_disp> P332, P334, A325, HR332, P312, C31, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, SC</prime_street>
+    <cross_streets>ALLANFORD RD / KENNEDY RD</cross_streets>
+    <dispatch_time>2020-10-30 17:10:47</dispatch_time>
+    <event_num>F20108276</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P245, R243, A244, C24, P232</units_disp>
+  </event>
+  <event>
+    <prime_street>KINGSTON RD, SC</prime_street>
+    <cross_streets>PARKCREST DR / LOCHLEVEN DR</cross_streets>
+    <dispatch_time>2020-10-30 17:12:17</dispatch_time>
+    <event_num>F20108277</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223, P221, A231, C22, R231, P234</units_disp>
+  </event>
+  <event>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>TANGIERS RD / KEELE ST</cross_streets>
+    <dispatch_time>2020-10-30 17:14:22</dispatch_time>
+    <event_num>F20108278</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141, P143, C14, R112, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-30 17:14:08</dispatch_time>
+    <event_num>F20108279</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
+  </event>
+  <event>
+    <prime_street>NORTHTOWN WAY, NY</prime_street>
+    <cross_streets>YONGE ST / DORIS AVE</cross_streets>
+    <dispatch_time>2020-10-30 17:15:21</dispatch_time>
+    <event_num>F20108280</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, P121, A113, C11, R122</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>CORPORATE DR / LEE CENTRE DR</cross_streets>
+    <dispatch_time>2020-10-30 17:15:27</dispatch_time>
+    <event_num>F20108281</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>243</beat>
+    <units_disp> S232</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-30 17:16:34</dispatch_time>
+    <event_num>F20108283</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
   </event>
 </tfs_active_incidents>
