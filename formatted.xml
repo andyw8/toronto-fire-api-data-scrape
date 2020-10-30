@@ -1,34 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-30 11:40:02</update_from_db_time>
+  <update_from_db_time>2020-10-30 12:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>BAYVIEW AVE / PRINCE EDWARD VIADUCT</cross_streets>
-    <dispatch_time>2020-10-30 09:58:11</dispatch_time>
-    <event_num>F20108115</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
+    <cross_streets>VANSCO RD / ALGIE AVE</cross_streets>
+    <dispatch_time>2020-10-30 11:50:17</dispatch_time>
+    <event_num>F20108157</event_num>
+    <event_type>Wires Down - Hydro</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> C32, P313, R326, S313</units_disp>
+    <beat>432</beat>
+    <units_disp> P432</units_disp>
   </event>
   <event>
-    <prime_street>SHEPPARD AVE, NY</prime_street>
-    <cross_streets>HAWKSBURY DR / CUSACK CRT</cross_streets>
-    <dispatch_time>2020-10-30 11:09:30</dispatch_time>
-    <event_num>F20108146</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-10-30 12:10:51</dispatch_time>
+    <event_num>F20108160</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
+    <beat>441</beat>
+    <units_disp> A441, P415</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M2K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-30 11:32:44</dispatch_time>
-    <event_num>F20108152</event_num>
+    <dispatch_time>2020-10-30 12:11:10</dispatch_time>
+    <event_num>F20108161</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
+  </event>
+  <event>
+    <prime_street>M6G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-30 12:13:36</dispatch_time>
+    <event_num>F20108162</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> R345</units_disp>
   </event>
 </tfs_active_incidents>
