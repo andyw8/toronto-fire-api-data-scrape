@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-31 19:20:03</update_from_db_time>
+  <update_from_db_time>2020-10-31 19:35:02</update_from_db_time>
   <event>
     <prime_street>LA ROSE AVE, ET</prime_street>
     <cross_streets>SCARLETT RD / ARCADE DR</cross_streets>
@@ -24,26 +24,6 @@
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-31 18:42:08</dispatch_time>
-    <event_num>F20108717</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> R235, P125</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>PRINCESS ST / HAHN PL</cross_streets>
-    <dispatch_time>2020-10-31 18:48:35</dispatch_time>
-    <event_num>F20108720</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, R325, C33, P314, P332, T333</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
     <dispatch_time>2020-10-31 18:56:35</dispatch_time>
     <event_num>F20108724</event_num>
     <event_type>Vehicle - Personal Injury Highway</event_type>
@@ -58,28 +38,8 @@
     <event_num>F20108725</event_num>
     <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
+    <beat>235</beat>
     <units_disp> A222, P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 19:07:27</dispatch_time>
-    <event_num>F20108729</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>MILLBANK AVE, TT</prime_street>
-    <cross_streets>STRATHEARN BLVD / VESTA DR</cross_streets>
-    <dispatch_time>2020-10-31 19:09:25</dispatch_time>
-    <event_num>F20108730</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135, R134, C13, P311, P343</units_disp>
   </event>
   <event>
     <prime_street>M3C</prime_street>
@@ -100,5 +60,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>322</beat>
     <units_disp> R321, P323, A312, C32, P324, S313</units_disp>
+  </event>
+  <event>
+    <prime_street>BATHURST ST, NY</prime_street>
+    <cross_streets>BROOKDALE AVE / PRINCE CHARLES DR</cross_streets>
+    <dispatch_time>2020-10-31 19:23:56</dispatch_time>
+    <event_num>F20108733</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M3M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 19:23:59</dispatch_time>
+    <event_num>F20108734</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>EVELYN AVE, TT</prime_street>
+    <cross_streets>IDYLLWOOD CRES / GLENDONWYNNE RD</cross_streets>
+    <dispatch_time>2020-10-31 19:30:37</dispatch_time>
+    <event_num>F20108736</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
   </event>
 </tfs_active_incidents>
