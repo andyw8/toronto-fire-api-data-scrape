@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-31 07:40:02</update_from_db_time>
+  <update_from_db_time>2020-10-31 08:15:02</update_from_db_time>
   <event>
     <prime_street>COLEMAN AVE, TT</prime_street>
     <cross_streets>COLEMAN PARK TRL / COLEMAN PARK TRL</cross_streets>
@@ -12,13 +12,23 @@
     <units_disp> A222, P226, P227, R224, R225, C32, R235, A322, LA333, S313, C20, P323, R235, P233, P227, P226</units_disp>
   </event>
   <event>
-    <prime_street>KENDLETON DR, ET</prime_street>
-    <cross_streets>ORPINGTON CRES / WARRENDALE CRT</cross_streets>
-    <dispatch_time>2020-10-31 07:22:54</dispatch_time>
-    <event_num>F20108492</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 07:55:13</dispatch_time>
+    <event_num>F20108493</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413, R412, A415, C41, R411</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 08:08:23</dispatch_time>
+    <event_num>F20108494</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
