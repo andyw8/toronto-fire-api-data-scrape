@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-30 20:35:02</update_from_db_time>
+  <update_from_db_time>2020-10-30 20:50:03</update_from_db_time>
   <event>
     <prime_street>FINCH AVE, SC</prime_street>
     <cross_streets>BRIDLETOWNE CRCL / WARDEN AVE</cross_streets>
@@ -9,37 +9,7 @@
     <event_type>Fire - Institution</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>244</beat>
-    <units_disp> R241, R115, A244, C24, P242, S232, CMD10, CMD10C, R231, A231, C23, P245, R235, R243, HZ145, LA111, P116, C20, FI17, FI19</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DORIS AVE / FINCH AVE E</cross_streets>
-    <dispatch_time>2020-10-30 19:51:25</dispatch_time>
-    <event_num>F20108338</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> A113, C11, R112, S143</units_disp>
-  </event>
-  <event>
-    <prime_street>CASS AVE, SC</prime_street>
-    <cross_streets>MALAMUTE CRES / LYNNGATE PARK TRL</cross_streets>
-    <dispatch_time>2020-10-30 20:02:52</dispatch_time>
-    <event_num>F20108341</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> R115, P245, A244, C24, R243, P116</units_disp>
-  </event>
-  <event>
-    <prime_street>HOLMESDALE CRES, YK</prime_street>
-    <cross_streets>PRESTON RD / ENNERDALE RD</cross_streets>
-    <dispatch_time>2020-10-30 20:06:26</dispatch_time>
-    <event_num>F20108343</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341, P145, C34, HZ145</units_disp>
+    <units_disp> R241, R115, A244, C24, P242, S232, CMD10, CMD10C, R231, A231, C23, P245, R235, R243, HZ145, LA111, P116, C20, FI17, FI19, R243</units_disp>
   </event>
   <event>
     <prime_street>M1B</prime_street>
@@ -62,26 +32,6 @@
     <units_disp> A222, P226, P227, R224, R225, C32, R235, A322, LA333, S313, C20</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-30 20:08:58</dispatch_time>
-    <event_num>F20108347</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> A133</units_disp>
-  </event>
-  <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-30 20:09:25</dispatch_time>
-    <event_num>F20108348</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>DUFFERIN ST / HIGHWAY 401 X E</cross_streets>
     <dispatch_time>2020-10-30 20:12:17</dispatch_time>
@@ -100,36 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>215</beat>
     <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-30 20:21:27</dispatch_time>
-    <event_num>F20108353</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>SHUTER ST, TT</prime_street>
-    <cross_streets>SEATON ST / NIGHTHAWK LANE</cross_streets>
-    <dispatch_time>2020-10-30 20:24:25</dispatch_time>
-    <event_num>F20108354</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, C33, P315, P325, P333, P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-30 20:26:30</dispatch_time>
-    <event_num>F20108355</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> P323</units_disp>
   </event>
   <event>
     <prime_street>HIGH PARK AVE, TT</prime_street>
@@ -162,13 +82,93 @@
     <units_disp> P314</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>M1G</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-30 20:31:33</dispatch_time>
-    <event_num>F20108359</event_num>
+    <dispatch_time>2020-10-30 20:34:12</dispatch_time>
+    <event_num>F20108361</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R411</units_disp>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-10-30 20:34:47</dispatch_time>
+    <event_num>F20108362</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433, R425</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>DORIS AVE / BONNINGTON PL</cross_streets>
+    <dispatch_time>2020-10-30 20:35:09</dispatch_time>
+    <event_num>F20108363</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> HR114, P116, P121, R122, C11, T114, C13</units_disp>
+  </event>
+  <event>
+    <prime_street>MARTIN GROVE RD, ET</prime_street>
+    <cross_streets>COWLEY AVE / DONALBERT RD</cross_streets>
+    <dispatch_time>2020-10-30 20:36:02</dispatch_time>
+    <event_num>F20108364</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>ATLANTIC AVE, TT</prime_street>
+    <cross_streets>LIBERTY ST / LN S KING E JEFFERSON</cross_streets>
+    <dispatch_time>2020-10-30 20:38:10</dispatch_time>
+    <event_num>F20108366</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344, P331, A331, C33, R426</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>STEPHEN DR / SMITHFIELD DR</cross_streets>
+    <dispatch_time>2020-10-30 20:38:55</dispatch_time>
+    <event_num>F20108367</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>433</beat>
+    <units_disp> S445, P431, A426, C43, P432, R435, LA421, PL432, R425, R434</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-30 20:39:08</dispatch_time>
+    <event_num>F20108368</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
+  </event>
+  <event>
+    <prime_street>DAVISVILLE AVE, TT</prime_street>
+    <cross_streets>YONGE ST / PAILTON CRES</cross_streets>
+    <dispatch_time>2020-10-30 20:39:32</dispatch_time>
+    <event_num>F20108369</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M4E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-30 20:42:13</dispatch_time>
+    <event_num>F20108370</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P123</units_disp>
   </event>
 </tfs_active_incidents>
