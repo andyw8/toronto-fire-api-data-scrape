@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-31 13:10:02</update_from_db_time>
+  <update_from_db_time>2020-10-31 13:20:03</update_from_db_time>
   <event>
     <prime_street>COLEMAN AVE, TT</prime_street>
     <cross_streets>COLEMAN PARK TRL / COLEMAN PARK TRL</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>342</beat>
     <units_disp> P342</units_disp>
-  </event>
-  <event>
-    <prime_street>CANTERBURY PL, NY</prime_street>
-    <cross_streets>ELLERSLIE AVE / CHURCHILL AVE</cross_streets>
-    <dispatch_time>2020-10-31 12:24:46</dispatch_time>
-    <event_num>F20108577</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> S143, P114</units_disp>
   </event>
   <event>
     <prime_street>M1C</prime_street>
@@ -52,8 +42,8 @@
     <units_disp> P123, P233</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>FINCH AVE E / MIDDLEFIELD RD</cross_streets>
+    <prime_street>FINCH AVE, SC</prime_street>
+    <cross_streets>EAST HIGHLAND CREEK TRL / MIDLAND AVE</cross_streets>
     <dispatch_time>2020-10-31 13:04:42</dispatch_time>
     <event_num>F20108586</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
@@ -70,5 +60,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>113</beat>
     <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 13:09:44</dispatch_time>
+    <event_num>F20108588</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>STARFIRE DR, SC</prime_street>
+    <cross_streets>SCARBELL DR / </cross_streets>
+    <dispatch_time>2020-10-31 13:12:15</dispatch_time>
+    <event_num>F20108589</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> P212</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 13:12:25</dispatch_time>
+    <event_num>F20108590</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> R243</units_disp>
+  </event>
+  <event>
+    <prime_street>M5M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 13:16:55</dispatch_time>
+    <event_num>F20108592</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
 </tfs_active_incidents>
