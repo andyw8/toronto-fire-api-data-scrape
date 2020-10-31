@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-31 06:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-31 06:45:02</update_from_db_time>
   <event>
     <prime_street>COLEMAN AVE, TT</prime_street>
     <cross_streets>COLEMAN PARK TRL / COLEMAN PARK TRL</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>226</beat>
     <units_disp> A222, P226, P227, R224, R225, C32, R235, A322, LA333, S313, C20, P323, R235, P233, P227</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>STRATHGOWAN AVE / GLENGROVE AVE W</cross_streets>
-    <dispatch_time>2020-10-31 06:07:27</dispatch_time>
-    <event_num>F20108477</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> P131, P135, A135, C13, P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 06:13:39</dispatch_time>
-    <event_num>F20108478</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
   </event>
   <event>
     <prime_street>M1P</prime_street>
@@ -42,13 +22,33 @@
     <units_disp> P245</units_disp>
   </event>
   <event>
-    <prime_street>MARKHAM RD, SC</prime_street>
-    <cross_streets>SHIRLEY CRES / SERVICE RD</cross_streets>
-    <dispatch_time>2020-10-31 06:16:17</dispatch_time>
-    <event_num>F20108480</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>ST CLAIR AVE, EY</prime_street>
+    <cross_streets>PLAXTON DR / VICROSS RD</cross_streets>
+    <dispatch_time>2020-10-31 06:20:07</dispatch_time>
+    <event_num>F20108481</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>ALCORN AVE, TT</prime_street>
+    <cross_streets>YONGE ST / LN W YONGE S ALCORN</cross_streets>
+    <dispatch_time>2020-10-31 06:21:28</dispatch_time>
+    <event_num>F20108482</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311, P312, A312, C31, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M5E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 06:41:10</dispatch_time>
+    <event_num>F20108483</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
