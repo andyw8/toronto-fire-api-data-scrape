@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-31 16:45:02</update_from_db_time>
+  <update_from_db_time>2020-10-31 17:05:02</update_from_db_time>
   <event>
     <prime_street>COLEMAN AVE, TT</prime_street>
     <cross_streets>COLEMAN PARK TRL / COLEMAN PARK TRL</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> A421, C41, P422, P431, P442, R421, A433, LA421, R444, C44, P445, R425, S445, HR332, HZ145, R133, C40, P443, CMD30, C42, CMD30C</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-31 15:39:54</dispatch_time>
-    <event_num>F20108654</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P131, P132</units_disp>
-  </event>
-  <event>
     <prime_street>UNDERHILL DR, NY</prime_street>
     <cross_streets>BROADLANDS BLVD / DOONAREE DR</cross_streets>
     <dispatch_time>2020-10-31 15:40:44</dispatch_time>
@@ -40,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>233</beat>
     <units_disp> R235, P233, A222, C22, P245, P123, LA231</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 16:11:46</dispatch_time>
-    <event_num>F20108666</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -72,13 +52,73 @@
     <units_disp> P221</units_disp>
   </event>
   <event>
-    <prime_street>DUNDAS SQ, TT</prime_street>
-    <cross_streets>O'KEEFE LANE / VICTORIA ST</cross_streets>
-    <dispatch_time>2020-10-31 16:37:53</dispatch_time>
-    <event_num>F20108676</event_num>
+    <prime_street>CANTERBURY PL, NY</prime_street>
+    <cross_streets>ELLERSLIE AVE / CHURCHILL AVE</cross_streets>
+    <dispatch_time>2020-10-31 16:44:05</dispatch_time>
+    <event_num>F20108677</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> HR114, P111, P114, P121, R112, T114, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>M6C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 16:47:28</dispatch_time>
+    <event_num>F20108678</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 16:48:42</dispatch_time>
+    <event_num>F20108679</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>MORNELLE CRT, SC</prime_street>
+    <cross_streets>ELLESMERE RD / </cross_streets>
+    <dispatch_time>2020-10-31 16:52:24</dispatch_time>
+    <event_num>F20108680</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, P332, A325, C33, R325</units_disp>
+    <beat>212</beat>
+    <units_disp> P212, R326, A231, C21, R214, P234</units_disp>
+  </event>
+  <event>
+    <prime_street>GAINSBOROUGH RD, TT</prime_street>
+    <cross_streets>GERRARD ST E / WEMBLEY DR</cross_streets>
+    <dispatch_time>2020-10-31 16:55:10</dispatch_time>
+    <event_num>F20108681</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P324, P227, C32, HZ332</units_disp>
+  </event>
+  <event>
+    <prime_street>SAWLEY DR, NY</prime_street>
+    <cross_streets>TOLLERTON AVE / BANSTOCK DR</cross_streets>
+    <dispatch_time>2020-10-31 17:00:28</dispatch_time>
+    <event_num>F20108682</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>MILNER AVE, SC</prime_street>
+    <cross_streets>CINEMART DR / SHADOWOOD CRT</cross_streets>
+    <dispatch_time>2020-10-31 17:01:11</dispatch_time>
+    <event_num>F20108683</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> R243, P211, A215, C23, P232</units_disp>
   </event>
 </tfs_active_incidents>
