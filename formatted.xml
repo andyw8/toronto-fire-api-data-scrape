@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-31 12:40:03</update_from_db_time>
+  <update_from_db_time>2020-10-31 13:10:02</update_from_db_time>
   <event>
     <prime_street>COLEMAN AVE, TT</prime_street>
     <cross_streets>COLEMAN PARK TRL / COLEMAN PARK TRL</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>226</beat>
     <units_disp> A222, P226, P227, R224, R225, C32, R235, A322, LA333, S313, C20, P323, R235, P233, P227, P226, FI8, C22, FI19</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MARTIN GROVE RD / BURNHAMTHORPE RD</cross_streets>
-    <dispatch_time>2020-10-31 11:05:43</dispatch_time>
-    <event_num>F20108542</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> C44, P445, HZ145, P145, P324</units_disp>
   </event>
   <event>
     <prime_street>ST CLAIR AVE, TT</prime_street>
@@ -32,16 +22,6 @@
     <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 12:14:17</dispatch_time>
-    <event_num>F20108575</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415</units_disp>
-  </event>
-  <event>
     <prime_street>CANTERBURY PL, NY</prime_street>
     <cross_streets>ELLERSLIE AVE / CHURCHILL AVE</cross_streets>
     <dispatch_time>2020-10-31 12:24:46</dispatch_time>
@@ -52,16 +32,6 @@
     <units_disp> S143, P114</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>ASHTONBEE RD / PHARMACY AVE</cross_streets>
-    <dispatch_time>2020-10-31 12:29:10</dispatch_time>
-    <event_num>F20108578</event_num>
-    <event_type>Vehicle Accident with Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222, R235</units_disp>
-  </event>
-  <event>
     <prime_street>M1C</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-31 12:32:08</dispatch_time>
@@ -70,5 +40,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>214</beat>
     <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-10-31 12:37:34</dispatch_time>
+    <event_num>F20108580</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123, P233</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>FINCH AVE E / MIDDLEFIELD RD</cross_streets>
+    <dispatch_time>2020-10-31 13:04:42</dispatch_time>
+    <event_num>F20108586</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>WILLESDEN RD, NY</prime_street>
+    <cross_streets>BEETHOVEN CRT / WILLESDEN PARK TRL</cross_streets>
+    <dispatch_time>2020-10-31 13:06:59</dispatch_time>
+    <event_num>F20108587</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
   </event>
 </tfs_active_incidents>
