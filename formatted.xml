@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-31 03:45:02</update_from_db_time>
+  <update_from_db_time>2020-10-31 04:10:02</update_from_db_time>
   <event>
     <prime_street>COLEMAN AVE, TT</prime_street>
     <cross_streets>COLEMAN PARK TRL / COLEMAN PARK TRL</cross_streets>
@@ -12,43 +12,43 @@
     <units_disp> A222, P226, P227, R224, R225, C32, R235, A322, LA333, S313, C20, P323, R235, P233</units_disp>
   </event>
   <event>
-    <prime_street>DISCO RD, ET</prime_street>
-    <cross_streets>CARLINGVIEW DR / ATTWELL DR</cross_streets>
-    <dispatch_time>2020-10-31 03:08:47</dispatch_time>
-    <event_num>F20108447</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> P441CA, P415, R412, A415, C41</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>YARN RD / LYNNFORD DR</cross_streets>
-    <dispatch_time>2020-10-31 03:13:28</dispatch_time>
-    <event_num>F20108449</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432, P445, C44, PL432, R444</units_disp>
-  </event>
-  <event>
-    <prime_street>WILSON AVE, NY</prime_street>
-    <cross_streets>FAYWOOD BLVD / WILSON HEIGHTS BLVD</cross_streets>
-    <dispatch_time>2020-10-31 03:22:05</dispatch_time>
-    <event_num>F20108450</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P132, P145, S143, HR114, P143, T114, C13</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M5H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-31 03:39:43</dispatch_time>
-    <event_num>F20108452</event_num>
+    <dispatch_time>2020-10-31 04:00:58</dispatch_time>
+    <event_num>F20108453</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 04:02:31</dispatch_time>
+    <event_num>F20108455</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>ARLETA AVE, NY</prime_street>
+    <cross_streets>SHEPPARD AVE W / ANCHOR DR</cross_streets>
+    <dispatch_time>2020-10-31 04:03:03</dispatch_time>
+    <event_num>F20108456</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P146, P141, A142, C14, P143</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 04:04:53</dispatch_time>
+    <event_num>F20108457</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
