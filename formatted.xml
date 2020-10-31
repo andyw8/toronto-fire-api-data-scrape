@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-31 12:20:02</update_from_db_time>
+  <update_from_db_time>2020-10-31 12:30:02</update_from_db_time>
   <event>
     <prime_street>COLEMAN AVE, TT</prime_street>
     <cross_streets>COLEMAN PARK TRL / COLEMAN PARK TRL</cross_streets>
@@ -20,46 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
     <units_disp> C44, P445, HZ145, P145, P324</units_disp>
-  </event>
-  <event>
-    <prime_street>WELLINGTON ST, TT</prime_street>
-    <cross_streets>STAFFORD ST / STRACHAN AVE</cross_streets>
-    <dispatch_time>2020-10-31 11:27:57</dispatch_time>
-    <event_num>F20108552</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> A331, P331, P332, P334, S331, C33, P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 11:29:01</dispatch_time>
-    <event_num>F20108553</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>JAPONICA RD, SC</prime_street>
-    <cross_streets>CROSLAND DR / WHITE ABBEY PK</cross_streets>
-    <dispatch_time>2020-10-31 11:30:33</dispatch_time>
-    <event_num>F20108554</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> A222, P233, P245, R235, R243, C24</units_disp>
-  </event>
-  <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 11:50:28</dispatch_time>
-    <event_num>F20108565</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
   </event>
   <event>
     <prime_street>ERSKINE AVE, TT</prime_street>
@@ -82,26 +42,6 @@
     <units_disp> A421</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>JANE ST / SHEPPARD AVE W</cross_streets>
-    <dispatch_time>2020-10-31 12:05:49</dispatch_time>
-    <event_num>F20108569</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 12:07:25</dispatch_time>
-    <event_num>F20108570</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, R325</units_disp>
-  </event>
-  <event>
     <prime_street>ST CLAIR AVE, TT</prime_street>
     <cross_streets>LANSDOWNE AVE / LN W LANSDOWNE S ST CLAIR</cross_streets>
     <dispatch_time>2020-10-31 12:09:35</dispatch_time>
@@ -110,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>342</beat>
     <units_disp> P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 12:09:39</dispatch_time>
-    <event_num>F20108572</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> A222</units_disp>
   </event>
   <event>
     <prime_street>ROBERT ST, TT</prime_street>
@@ -132,16 +62,6 @@
     <units_disp> P315</units_disp>
   </event>
   <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 12:11:26</dispatch_time>
-    <event_num>F20108574</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
-  </event>
-  <event>
     <prime_street>M9W</prime_street>
     <cross_streets/>
     <dispatch_time>2020-10-31 12:14:17</dispatch_time>
@@ -152,13 +72,13 @@
     <units_disp> A415</units_disp>
   </event>
   <event>
-    <prime_street>WEMBLEY RD, TT</prime_street>
-    <cross_streets>OLD PARK RD / GLENARDEN RD</cross_streets>
-    <dispatch_time>2020-10-31 12:15:58</dispatch_time>
-    <event_num>F20108576</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>CANTERBURY PL, NY</prime_street>
+    <cross_streets>ELLERSLIE AVE / CHURCHILL AVE</cross_streets>
+    <dispatch_time>2020-10-31 12:24:46</dispatch_time>
+    <event_num>F20108577</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P132, P343, C13, A341, P311</units_disp>
+    <beat>114</beat>
+    <units_disp> S143, P114</units_disp>
   </event>
 </tfs_active_incidents>
