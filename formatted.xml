@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-31 13:40:02</update_from_db_time>
+  <update_from_db_time>2020-10-31 14:05:02</update_from_db_time>
   <event>
     <prime_street>COLEMAN AVE, TT</prime_street>
     <cross_streets>COLEMAN PARK TRL / COLEMAN PARK TRL</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>226</beat>
     <units_disp> A222, P226, P227, R224, R225, C32, R235, A322, LA333, S313, C20, P323, R235, P233, P227, P226, FI8, C22, FI19</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-31 12:37:34</dispatch_time>
-    <event_num>F20108580</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123, P233</units_disp>
-  </event>
-  <event>
-    <prime_street>M1G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 13:22:26</dispatch_time>
-    <event_num>F20108593</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> A231</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 13:27:15</dispatch_time>
-    <event_num>F20108594</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
   </event>
   <event>
     <prime_street>M1N</prime_street>
@@ -52,33 +22,73 @@
     <units_disp> P227</units_disp>
   </event>
   <event>
-    <prime_street>M1X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 13:30:26</dispatch_time>
-    <event_num>F20108597</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>NASHDENE RD, SC</prime_street>
+    <cross_streets>C P R / DYNAMIC DR</cross_streets>
+    <dispatch_time>2020-10-31 13:48:46</dispatch_time>
+    <event_num>F20108603</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>211</beat>
-    <units_disp> P211</units_disp>
+    <units_disp> A231, P211, P242, R326, C24</units_disp>
   </event>
   <event>
-    <prime_street>ST CLAIR AVE, TT</prime_street>
-    <cross_streets>HARVIE AVE / LANSDOWNE AVE</cross_streets>
-    <dispatch_time>2020-10-31 13:35:04</dispatch_time>
-    <event_num>F20108598</event_num>
-    <event_type>Vehicle Accident - Minor Fuel Leak</event_type>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 13:50:03</dispatch_time>
+    <event_num>F20108604</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 13:52:41</dispatch_time>
+    <event_num>F20108606</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
+  </event>
+  <event>
+    <prime_street>M3J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 13:57:15</dispatch_time>
+    <event_num>F20108607</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>SAINTFIELD AVE, NY</prime_street>
+    <cross_streets>POOL PL / </cross_streets>
+    <dispatch_time>2020-10-31 13:57:09</dispatch_time>
+    <event_num>F20108608</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125, R122, C13, A322, P233</units_disp>
+  </event>
+  <event>
+    <prime_street>NAVY WHARF CRT, TT</prime_street>
+    <cross_streets>BREMNER BLVD / MARINER TER</cross_streets>
+    <dispatch_time>2020-10-31 13:58:36</dispatch_time>
+    <event_num>F20108609</event_num>
+    <event_type>Water Problem</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334, A331</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-31 13:36:25</dispatch_time>
-    <event_num>F20108599</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
+    <cross_streets>ROYAL YORK RD / EGLINTON AVE W</cross_streets>
+    <dispatch_time>2020-10-31 13:59:24</dispatch_time>
+    <event_num>F20108610</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P233, P245, C11</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
