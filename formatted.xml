@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-10-31 20:50:02</update_from_db_time>
+  <update_from_db_time>2020-10-31 21:15:02</update_from_db_time>
   <event>
     <prime_street>LA ROSE AVE, ET</prime_street>
     <cross_streets>SCARLETT RD / ARCADE DR</cross_streets>
@@ -13,72 +13,72 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>ROYAL YORK RD / DIXON RD</cross_streets>
-    <dispatch_time>2020-10-31 20:01:01</dispatch_time>
-    <event_num>F20108747</event_num>
+    <cross_streets>BRIMLEY RD / ELLESMERE RD</cross_streets>
+    <dispatch_time>2020-10-31 20:47:37</dispatch_time>
+    <event_num>F20108767</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P443</units_disp>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-10-31 20:24:56</dispatch_time>
-    <event_num>F20108755</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>M8X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 20:57:43</dispatch_time>
+    <event_num>F20108771</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213, A231</units_disp>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
   </event>
   <event>
-    <prime_street>LANSDOWNE AVE, TT</prime_street>
-    <cross_streets>LN N LAPPIN E LANSDOWNE / LN S DUPONT E LANSDOWNE</cross_streets>
-    <dispatch_time>2020-10-31 20:31:16</dispatch_time>
-    <event_num>F20108761</event_num>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 21:05:16</dispatch_time>
+    <event_num>F20108772</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-10-31 21:06:47</dispatch_time>
+    <event_num>F20108773</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>JANE ST, NY</prime_street>
+    <cross_streets>SHOREHAM DR / HULLMAR DR</cross_streets>
+    <dispatch_time>2020-10-31 21:09:15</dispatch_time>
+    <event_num>F20108774</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> P342, R426, A341, C34, P343</units_disp>
+    <beat>142</beat>
+    <units_disp> P141, R411, A142, C14, P146</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>EDGEWOOD AVE, TT</prime_street>
+    <cross_streets>KELLNER CRT / EDGEWOOD GRV</cross_streets>
+    <dispatch_time>2020-10-31 21:11:03</dispatch_time>
+    <event_num>F20108775</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227, P226, A322, C32, R326</units_disp>
+  </event>
+  <event>
+    <prime_street>M1N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-10-31 20:37:40</dispatch_time>
-    <event_num>F20108763</event_num>
+    <dispatch_time>2020-10-31 21:11:32</dispatch_time>
+    <event_num>F20108776</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 20:42:21</dispatch_time>
-    <event_num>F20108764</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>ORIOLE PKWY, TT</prime_street>
-    <cross_streets>FROBISHER AVE / CHAPLIN CRES</cross_streets>
-    <dispatch_time>2020-10-31 20:44:30</dispatch_time>
-    <event_num>F20108765</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 20:46:39</dispatch_time>
-    <event_num>F20108766</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <beat>225</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
