@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-01 05:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-01 05:40:02</update_from_db_time>
   <event>
     <prime_street>M9M</prime_street>
     <cross_streets/>
@@ -12,16 +12,6 @@
     <units_disp> R411</units_disp>
   </event>
   <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-01 04:58:17</dispatch_time>
-    <event_num>F20108910</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
     <prime_street>M9C</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-01 05:04:51</dispatch_time>
@@ -30,5 +20,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>444</beat>
     <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>BRIDLETOWNE CRCL, SC</prime_street>
+    <cross_streets>ECHO POINT / BROOKMILL BLVD</cross_streets>
+    <dispatch_time>2020-11-01 05:21:52</dispatch_time>
+    <event_num>F20108914</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>241</beat>
+    <units_disp> R115, P244, C24, P242, R243, A113</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-01 05:28:32</dispatch_time>
+    <event_num>F20108915</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>M1N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-01 05:30:41</dispatch_time>
+    <event_num>F20108916</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEBEC AVE, TT</prime_street>
+    <cross_streets>GLENDONWYNNE RD / HUMBERSIDE AVE</cross_streets>
+    <dispatch_time>2020-11-01 05:34:07</dispatch_time>
+    <event_num>F20108917</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R425, P422, A423, C42, P431, R421</units_disp>
   </event>
 </tfs_active_incidents>
