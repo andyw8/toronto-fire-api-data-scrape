@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-01 00:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-01 00:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>ROYAL YORK RD / SINCLAIR ST</cross_streets>
@@ -82,26 +82,6 @@
     <units_disp> R421, A415, A411, P442</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-10-31 23:59:40</dispatch_time>
-    <event_num>F20108835</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M5P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-01 00:00:40</dispatch_time>
-    <event_num>F20108836</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135</units_disp>
-  </event>
-  <event>
     <prime_street>M3H</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-01 00:03:25</dispatch_time>
@@ -130,5 +110,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
     <units_disp> P443, R411, R412, R413, A415, C41</units_disp>
+  </event>
+  <event>
+    <prime_street>HUMBER BLVD, YK</prime_street>
+    <cross_streets>AVON AVE / ALLIANCE AVE</cross_streets>
+    <dispatch_time>2020-11-01 00:12:55</dispatch_time>
+    <event_num>F20108842</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> P422</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-01 00:15:22</dispatch_time>
+    <event_num>F20108843</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
