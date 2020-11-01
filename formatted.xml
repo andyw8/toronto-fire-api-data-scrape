@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-01 02:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-01 02:35:02</update_from_db_time>
   <event>
     <prime_street>LAKE SHORE BLVD, ET</prime_street>
     <cross_streets>HUMBER BAY PARK RD W / LEGION RD</cross_streets>
@@ -10,25 +10,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>433</beat>
     <units_disp> R435, P431, A433, C43, R425</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-01 02:06:08</dispatch_time>
-    <event_num>F20108878</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-01 02:14:11</dispatch_time>
-    <event_num>F20108879</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
