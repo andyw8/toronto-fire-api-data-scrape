@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-01 14:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-01 15:10:02</update_from_db_time>
   <event>
     <prime_street>GRANDRAVINE DR, NY</prime_street>
     <cross_streets>GAMBELLO CRES / ELDORADO CRT</cross_streets>
@@ -12,36 +12,6 @@
     <units_disp> A142, C14, P141, P143, P146, S143, A411, LA421, R411, R413, C10, CMD10, CMD10C, P145, FI19, FI11</units_disp>
   </event>
   <event>
-    <prime_street>M6R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-01 13:46:17</dispatch_time>
-    <event_num>F20109040</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-01 14:11:11</dispatch_time>
-    <event_num>F20109047</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-01 14:21:41</dispatch_time>
-    <event_num>F20109050</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113</units_disp>
-  </event>
-  <event>
     <prime_street>M6G</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-01 14:36:49</dispatch_time>
@@ -50,5 +20,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>344</beat>
     <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-01 14:44:15</dispatch_time>
+    <event_num>F20109054</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-01 14:44:39</dispatch_time>
+    <event_num>F20109055</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-01 14:47:13</dispatch_time>
+    <event_num>F20109056</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-01 14:49:45</dispatch_time>
+    <event_num>F20109059</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> R122, P121</units_disp>
+  </event>
+  <event>
+    <prime_street>PETER ST, TT</prime_street>
+    <cross_streets>ADELAIDE ST W / LN N ADELAIDE E PETER</cross_streets>
+    <dispatch_time>2020-11-01 15:03:20</dispatch_time>
+    <event_num>F20109064</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P331, P334, A331, C33, HR332, P315</units_disp>
   </event>
 </tfs_active_incidents>
