@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-01 10:15:02</update_from_db_time>
-  <event>
-    <prime_street>HEINTZMAN ST, TT</prime_street>
-    <cross_streets>LN N DUNDAS E KEELE / LN 2 N DUNDAS W INDIAN GRV</cross_streets>
-    <dispatch_time>2020-11-01 09:28:09</dispatch_time>
-    <event_num>F20108955</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423, A423</units_disp>
-  </event>
+  <update_from_db_time>2020-11-01 10:20:02</update_from_db_time>
   <event>
     <prime_street>M8Z</prime_street>
     <cross_streets/>
@@ -20,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>433</beat>
     <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-01 09:49:34</dispatch_time>
-    <event_num>F20108960</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -42,13 +22,33 @@
     <units_disp> R425</units_disp>
   </event>
   <event>
-    <prime_street>M4Y</prime_street>
+    <prime_street>M6G</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-01 09:58:49</dispatch_time>
-    <event_num>F20108965</event_num>
+    <dispatch_time>2020-11-01 10:12:24</dispatch_time>
+    <event_num>F20108966</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-01 10:13:05</dispatch_time>
+    <event_num>F20108967</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-01 10:15:24</dispatch_time>
+    <event_num>F20108968</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325</units_disp>
   </event>
 </tfs_active_incidents>
