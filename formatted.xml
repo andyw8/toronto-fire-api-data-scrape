@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-01 03:15:02</update_from_db_time>
-  <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-01 02:43:47</dispatch_time>
-    <event_num>F20108880</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
-  </event>
+  <update_from_db_time>2020-11-01 03:20:02</update_from_db_time>
   <event>
     <prime_street>M9B</prime_street>
     <cross_streets/>
