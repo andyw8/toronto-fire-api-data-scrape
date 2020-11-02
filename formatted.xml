@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-02 16:20:02</update_from_db_time>
-  <event>
-    <prime_street>DORIS AVE, NY</prime_street>
-    <cross_streets>PARKVIEW AVE / MCKENZIE PARKETTE TRL</cross_streets>
-    <dispatch_time>2020-11-02 16:03:44</dispatch_time>
-    <event_num>F20109436</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, P111, C11, HR114, R112, T114, P121</units_disp>
-  </event>
-  <event>
-    <prime_street>UNIVERSITY AVE, TT</prime_street>
-    <cross_streets>ADELAIDE ST W / RICHMOND ST W</cross_streets>
-    <dispatch_time>2020-11-02 16:09:24</dispatch_time>
-    <event_num>F20109438</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P334, A331, C33, HR332, P331</units_disp>
-  </event>
+  <update_from_db_time>2020-11-02 16:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>FINCH AVE E / WILLOWDALE AVE</cross_streets>
@@ -30,5 +10,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
     <units_disp> P111</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ALBION RD / CLAIREPORT CRES</cross_streets>
+    <dispatch_time>2020-11-02 16:27:54</dispatch_time>
+    <event_num>F20109442</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-02 16:36:16</dispatch_time>
+    <event_num>F20109444</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
+  </event>
+  <event>
+    <prime_street>M5M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-02 16:38:47</dispatch_time>
+    <event_num>F20109445</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DUNDAS ST E / DON VALLEY PKWY N</cross_streets>
+    <dispatch_time>2020-11-02 16:44:34</dispatch_time>
+    <event_num>F20109446</event_num>
+    <event_type>Rescue - High Level</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325, P313, P331, R325, S313, S331, C32</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-02 16:45:37</dispatch_time>
+    <event_num>F20109448</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> A133</units_disp>
   </event>
 </tfs_active_incidents>
