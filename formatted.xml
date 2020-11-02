@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-01 22:15:02</update_from_db_time>
-  <event>
-    <prime_street>M8W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-01 21:23:22</dispatch_time>
-    <event_num>F20109174</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> P426</units_disp>
-  </event>
+  <update_from_db_time>2020-11-01 22:20:02</update_from_db_time>
   <event>
     <prime_street>M3B</prime_street>
     <cross_streets/>
@@ -32,16 +22,6 @@
     <units_disp> S232, P234, A231, P232, R243, C23</units_disp>
   </event>
   <event>
-    <prime_street>WINSTON PARK BLVD, NY</prime_street>
-    <cross_streets>IONIC LANE / LADY YORK AVE</cross_streets>
-    <dispatch_time>2020-11-01 22:08:09</dispatch_time>
-    <event_num>F20109188</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
     <prime_street>RIPLEY AVE, TT</prime_street>
     <cross_streets>SOUTH KINGSWAY / ORMSKIRK AVE</cross_streets>
     <dispatch_time>2020-11-01 22:10:00</dispatch_time>
@@ -60,5 +40,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
     <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>MORTIMER AVE, EY</prime_street>
+    <cross_streets>LOGAN AVE / DILWORTH CRES</cross_streets>
+    <dispatch_time>2020-11-01 22:14:10</dispatch_time>
+    <event_num>F20109191</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
+  </event>
+  <event>
+    <prime_street>HILLSIDE DR, EY</prime_street>
+    <cross_streets>GAMBLE AVE / DON VALLEY DR</cross_streets>
+    <dispatch_time>2020-11-01 22:14:17</dispatch_time>
+    <event_num>F20109192</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MARKDALE AVE / BATHURST ST</cross_streets>
+    <dispatch_time>2020-11-01 22:15:00</dispatch_time>
+    <event_num>F20109193</event_num>
+    <event_type>Fire - Transformer/Pole</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>3950 LAWRENCE AVE E / 3967 LAWRENCE AVE E</cross_streets>
+    <dispatch_time>2020-11-01 22:16:45</dispatch_time>
+    <event_num>F20109194</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234, P221, A215, C23, P223</units_disp>
   </event>
 </tfs_active_incidents>
