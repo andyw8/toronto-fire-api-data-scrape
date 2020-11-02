@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-02 08:20:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BLOOR ST E / PARLIAMENT ST</cross_streets>
-    <dispatch_time>2020-11-02 07:57:31</dispatch_time>
-    <event_num>F20109300</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-02 08:05:22</dispatch_time>
-    <event_num>F20109305</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
+  <update_from_db_time>2020-11-02 08:40:02</update_from_db_time>
   <event>
     <prime_street>WILSON AVE, NY</prime_street>
     <cross_streets>JULIAN RD / RIDGE RD</cross_streets>
@@ -32,33 +12,23 @@
     <units_disp> P146</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-02 08:14:14</dispatch_time>
-    <event_num>F20109307</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>DELAWARE AVE / DOVERCOURT RD</cross_streets>
+    <dispatch_time>2020-11-02 08:31:18</dispatch_time>
+    <event_num>F20109311</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445, PL432</units_disp>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>NORTHCOTE AVE / GLADSTONE AVE</cross_streets>
-    <dispatch_time>2020-11-02 08:15:18</dispatch_time>
-    <event_num>F20109308</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-02 08:31:36</dispatch_time>
+    <event_num>F20109312</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426, R426, A426, C33, P331</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>PARLIAMENT ST / ST JAMES AVE</cross_streets>
-    <dispatch_time>2020-11-02 08:16:22</dispatch_time>
-    <event_num>F20109309</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> A325</units_disp>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
 </tfs_active_incidents>
