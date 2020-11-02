@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-02 03:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-02 04:10:03</update_from_db_time>
   <event>
     <prime_street>M1M</prime_street>
     <cross_streets/>
@@ -12,33 +12,43 @@
     <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>M4V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-02 03:24:38</dispatch_time>
-    <event_num>F20109255</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>MIDLAND AVE, SC</prime_street>
+    <cross_streets>ROMULUS DR / HEPC</cross_streets>
+    <dispatch_time>2020-11-02 03:46:54</dispatch_time>
+    <event_num>F20109259</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
+    <beat>232</beat>
+    <units_disp> P234, P232, C23, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
+    <prime_street>M2H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-02 03:26:23</dispatch_time>
-    <event_num>F20109256</event_num>
+    <dispatch_time>2020-11-02 03:51:05</dispatch_time>
+    <event_num>F20109260</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
   </event>
   <event>
-    <prime_street>STRATHMORE BLVD, TT</prime_street>
-    <cross_streets>CAITHNESS AVE / GREENWOOD AVE</cross_streets>
-    <dispatch_time>2020-11-02 03:30:29</dispatch_time>
-    <event_num>F20109257</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-02 03:56:25</dispatch_time>
+    <event_num>F20109261</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, P324, A322, C32, R224</units_disp>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-02 04:03:46</dispatch_time>
+    <event_num>F20109262</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
