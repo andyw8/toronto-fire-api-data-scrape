@@ -1,24 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-02 01:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-02 02:10:02</update_from_db_time>
   <event>
-    <prime_street>WESTERN BATTERY RD, TT</prime_street>
-    <cross_streets>PIRANDELLO ST / LYNN WILLIAMS ST</cross_streets>
-    <dispatch_time>2020-11-02 01:29:11</dispatch_time>
-    <event_num>F20109241</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> S331, P344, A331, C33, P331, P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
+    <prime_street>M4G</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-02 01:30:52</dispatch_time>
-    <event_num>F20109242</event_num>
+    <dispatch_time>2020-11-02 01:55:12</dispatch_time>
+    <event_num>F20109243</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>321</beat>
+    <units_disp> R321</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-02 01:58:31</dispatch_time>
+    <event_num>F20109244</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>M4P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-02 02:01:46</dispatch_time>
+    <event_num>F20109245</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
