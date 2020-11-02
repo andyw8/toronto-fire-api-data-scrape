@@ -1,34 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-02 01:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-02 01:45:02</update_from_db_time>
   <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-01 23:43:35</dispatch_time>
-    <event_num>F20109223</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>WESTERN BATTERY RD, TT</prime_street>
+    <cross_streets>PIRANDELLO ST / LYNN WILLIAMS ST</cross_streets>
+    <dispatch_time>2020-11-02 01:29:11</dispatch_time>
+    <event_num>F20109241</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, S445</units_disp>
+    <beat>346</beat>
+    <units_disp> S331, P344, A331, C33, P331, P334</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-02 01:05:40</dispatch_time>
-    <event_num>F20109237</event_num>
+    <dispatch_time>2020-11-02 01:30:52</dispatch_time>
+    <event_num>F20109242</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
-  </event>
-  <event>
-    <prime_street>COLEMAN AVE, TT</prime_street>
-    <cross_streets>MARYLAND BLVD / AVONLEA BLVD</cross_streets>
-    <dispatch_time>2020-11-02 01:19:36</dispatch_time>
-    <event_num>F20109239</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226, R224, A222, C22, R225</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
