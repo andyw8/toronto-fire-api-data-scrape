@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-02 10:40:34</update_from_db_time>
+  <update_from_db_time>2020-11-02 11:25:13</update_from_db_time>
   <event>
     <prime_street>M6S</prime_street>
     <cross_streets/>
@@ -12,83 +12,63 @@
     <units_disp> R425, HZ332</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-02 10:14:44</dispatch_time>
-    <event_num>F20109342</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M1H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-02 10:19:21</dispatch_time>
-    <event_num>F20109344</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
-  </event>
-  <event>
-    <prime_street>M3A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-02 10:19:34</dispatch_time>
-    <event_num>F20109345</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, A113, R115</units_disp>
-  </event>
-  <event>
-    <prime_street>STAG HILL DR, EY</prime_street>
-    <cross_streets>GLENWOOD CRES / HALE CRT</cross_streets>
-    <dispatch_time>2020-11-02 10:24:15</dispatch_time>
-    <event_num>F20109347</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224, R235, A322, C32, P322</units_disp>
-  </event>
-  <event>
-    <prime_street>VILLAGE GREEN SQ, SC</prime_street>
-    <cross_streets>401 C W KENNEDY RD N RAMP / </cross_streets>
-    <dispatch_time>2020-11-02 10:27:51</dispatch_time>
-    <event_num>F20109348</event_num>
+    <prime_street>WESTON RD, NY</prime_street>
+    <cross_streets>HUMBER RIVER RECREATIONAL TRL / SHEPPARD AVE W</cross_streets>
+    <dispatch_time>2020-11-02 10:48:02</dispatch_time>
+    <event_num>F20109356</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A213, C24, P242, P244, P245</units_disp>
+    <beat>411</beat>
+    <units_disp> A411, P442, R411, C14, P146, P141, C41, A142</units_disp>
+  </event>
+  <event>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-02 10:59:04</dispatch_time>
+    <event_num>F20109360</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> P114</units_disp>
   </event>
   <event>
     <prime_street>M6G</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-02 10:31:59</dispatch_time>
-    <event_num>F20109349</event_num>
+    <dispatch_time>2020-11-02 11:10:20</dispatch_time>
+    <event_num>F20109362</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P343</units_disp>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
   </event>
   <event>
-    <prime_street>M1C</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-02 10:33:55</dispatch_time>
-    <event_num>F20109350</event_num>
+    <dispatch_time>2020-11-02 11:10:27</dispatch_time>
+    <event_num>F20109363</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
   <event>
-    <prime_street>M8Y</prime_street>
+    <prime_street>M3C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-02 10:33:50</dispatch_time>
-    <event_num>F20109351</event_num>
+    <dispatch_time>2020-11-02 11:16:39</dispatch_time>
+    <event_num>F20109364</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>NEW FOREST SQ, SC</prime_street>
+    <cross_streets>CANONGATE TRL / WW S STEELES W KENNEDY</cross_streets>
+    <dispatch_time>2020-11-02 11:21:13</dispatch_time>
+    <event_num>F20109365</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>241</beat>
+    <units_disp> R241, P242, A213, C24, R243, R115</units_disp>
   </event>
 </tfs_active_incidents>
