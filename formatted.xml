@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-02 05:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-02 06:15:02</update_from_db_time>
   <event>
     <prime_street>M1K</prime_street>
     <cross_streets/>
@@ -12,13 +12,43 @@
     <units_disp> R225</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-02 05:20:12</dispatch_time>
-    <event_num>F20109271</event_num>
+    <dispatch_time>2020-11-02 05:55:26</dispatch_time>
+    <event_num>F20109274</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>133</beat>
+    <units_disp> A133</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-02 06:05:14</dispatch_time>
+    <event_num>F20109275</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-02 06:05:23</dispatch_time>
+    <event_num>F20109276</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>RITA DR / JANE ST</cross_streets>
+    <dispatch_time>2020-11-02 06:09:11</dispatch_time>
+    <event_num>F20109277</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
 </tfs_active_incidents>
