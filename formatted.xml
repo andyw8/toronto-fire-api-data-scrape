@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-02 00:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-02 00:45:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -22,18 +22,8 @@
     <units_disp> P433, S445</units_disp>
   </event>
   <event>
-    <prime_street>DAILING GT, SC</prime_street>
-    <cross_streets>2 DAILING GT / BURROWS HALL BLVD</cross_streets>
-    <dispatch_time>2020-11-02 00:08:55</dispatch_time>
-    <event_num>F20109225</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BAY ST / WELLINGTON ST W</cross_streets>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>FRONT ST W / WELLINGTON ST W</cross_streets>
     <dispatch_time>2020-11-02 00:16:14</dispatch_time>
     <event_num>F20109226</event_num>
     <event_type>Fire - Commercial/Industrial</event_type>
@@ -42,13 +32,13 @@
     <units_disp> R325, P332, C33, P333, P334, T333</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-02 00:16:30</dispatch_time>
-    <event_num>F20109227</event_num>
+    <dispatch_time>2020-11-02 00:41:34</dispatch_time>
+    <event_num>F20109234</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
