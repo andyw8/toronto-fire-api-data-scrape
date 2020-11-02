@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-01 19:35:03</update_from_db_time>
+  <update_from_db_time>2020-11-01 19:55:02</update_from_db_time>
   <event>
     <prime_street>BLUE JAYS WAY, TT</prime_street>
     <cross_streets>MERCER ST / LN S KING W BLUE JAYS WAY</cross_streets>
@@ -29,16 +29,36 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P312, S313, A325, C33, P313, P315</units_disp>
+    <units_disp> P312, S313, A325, C33, P313, P315, R325</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-01 19:30:35</dispatch_time>
-    <event_num>F20109152</event_num>
+    <dispatch_time>2020-11-01 19:43:02</dispatch_time>
+    <event_num>F20109154</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> C34</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>CHAPMAN RD, ET</prime_street>
+    <cross_streets>SCARLETT RD / EASTHAMPTON DR</cross_streets>
+    <dispatch_time>2020-11-01 19:45:31</dispatch_time>
+    <event_num>F20109155</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> R421, P443, A421, C44, P422, R441</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ROBINGLADE DR / WEST DEANE PARK DR</cross_streets>
+    <dispatch_time>2020-11-01 19:48:09</dispatch_time>
+    <event_num>F20109156</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P432, P445, PL432, R444, C43</units_disp>
   </event>
 </tfs_active_incidents>
