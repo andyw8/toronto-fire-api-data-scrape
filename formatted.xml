@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-02 00:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-02 01:05:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -22,23 +22,23 @@
     <units_disp> P433, S445</units_disp>
   </event>
   <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>FRONT ST W / WELLINGTON ST W</cross_streets>
-    <dispatch_time>2020-11-02 00:16:14</dispatch_time>
-    <event_num>F20109226</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>UNIVERSITY AVE / EMILY ST</cross_streets>
+    <dispatch_time>2020-11-02 00:51:02</dispatch_time>
+    <event_num>F20109235</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>332</beat>
-    <units_disp> R325, P332, C33, P333, P334, T333</units_disp>
+    <units_disp> P332, P334, A331, C33, HR332, P331</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M6S</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-02 00:41:34</dispatch_time>
-    <event_num>F20109234</event_num>
+    <dispatch_time>2020-11-02 00:58:12</dispatch_time>
+    <event_num>F20109236</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
   </event>
 </tfs_active_incidents>
