@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-03 18:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-03 18:20:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -60,5 +60,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>213</beat>
     <units_disp> S232, A213</units_disp>
+  </event>
+  <event>
+    <prime_street>MC CAUL ST, TT</prime_street>
+    <cross_streets>RENFREW PL / STEPHANIE ST</cross_streets>
+    <dispatch_time>2020-11-03 18:13:48</dispatch_time>
+    <event_num>F20109800</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> A331, C31, HR332, P315, P331, P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-03 18:13:53</dispatch_time>
+    <event_num>F20109801</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>MC MASTER AVE, TT</prime_street>
+    <cross_streets>MICHAEL SNOW LANE / ROBIN FRASER LANE</cross_streets>
+    <dispatch_time>2020-11-03 18:14:17</dispatch_time>
+    <event_num>F20109802</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311, R345, A312, C34, P343</units_disp>
+  </event>
+  <event>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>MUTUAL ST / LN E MUTUAL S GERRARD</cross_streets>
+    <dispatch_time>2020-11-03 18:16:29</dispatch_time>
+    <event_num>F20109803</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P324</units_disp>
   </event>
 </tfs_active_incidents>
