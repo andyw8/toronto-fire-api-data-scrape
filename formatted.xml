@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-04 00:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-04 01:05:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -22,23 +22,43 @@
     <units_disp> P313</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-04 00:22:06</dispatch_time>
-    <event_num>F20109884</event_num>
+    <dispatch_time>2020-11-04 00:48:48</dispatch_time>
+    <event_num>F20109888</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>243</beat>
+    <units_disp> R243</units_disp>
   </event>
   <event>
-    <prime_street>GRENVILLE ST, TT</prime_street>
-    <cross_streets>ST LUKE LANE / ST VINCENT LANE</cross_streets>
-    <dispatch_time>2020-11-04 00:34:20</dispatch_time>
-    <event_num>F20109885</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 00:52:50</dispatch_time>
+    <event_num>F20109889</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> A312, HR332, P312, P314, P315, C31</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>KING ST W / ADELAIDE ST E</cross_streets>
+    <dispatch_time>2020-11-04 00:56:30</dispatch_time>
+    <event_num>F20109890</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> HR332, P332, P333, P334, T333, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 00:58:34</dispatch_time>
+    <event_num>F20109891</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
   </event>
 </tfs_active_incidents>
