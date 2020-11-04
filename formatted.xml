@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-04 17:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-04 17:20:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -22,36 +22,6 @@
     <units_disp> P116, R122, A113, C11, P113</units_disp>
   </event>
   <event>
-    <prime_street>SHEPPARD AVE, SC</prime_street>
-    <cross_streets>ALLANFORD RD / KENNEDY RD</cross_streets>
-    <dispatch_time>2020-11-04 16:41:13</dispatch_time>
-    <event_num>F20110108</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P245, R243, A244, C24, P244</units_disp>
-  </event>
-  <event>
-    <prime_street>WAKUNDA PL, NY</prime_street>
-    <cross_streets>O'CONNOR DR / </cross_streets>
-    <dispatch_time>2020-11-04 16:59:31</dispatch_time>
-    <event_num>F20110114</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235, P221, A222, R224, C32</units_disp>
-  </event>
-  <event>
-    <prime_street>WALTER ST, TT</prime_street>
-    <cross_streets>KINGSTON RD / LYALL AVE</cross_streets>
-    <dispatch_time>2020-11-04 17:03:28</dispatch_time>
-    <event_num>F20110115</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226, P227, C22, R225, A322</units_disp>
-  </event>
-  <event>
     <prime_street>M6R</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-04 17:03:46</dispatch_time>
@@ -60,5 +30,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
     <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>LINDEN AVE, SC</prime_street>
+    <cross_streets>SUMMER DR / CORVETTE AVE</cross_streets>
+    <dispatch_time>2020-11-04 17:07:32</dispatch_time>
+    <event_num>F20110117</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> S232, A231, C23, P221, P223, P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 17:08:22</dispatch_time>
+    <event_num>F20110118</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 17:12:11</dispatch_time>
+    <event_num>F20110119</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 17:12:33</dispatch_time>
+    <event_num>F20110120</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 17:14:27</dispatch_time>
+    <event_num>F20110121</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> R321</units_disp>
   </event>
 </tfs_active_incidents>
