@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-04 07:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-04 08:10:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -22,33 +22,33 @@
     <units_disp> P311</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-04 07:07:28</dispatch_time>
-    <event_num>F20109943</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>M4E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 07:48:41</dispatch_time>
+    <event_num>F20109947</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> P415, P441CA, R441</units_disp>
+    <beat>227</beat>
+    <units_disp> P226, P226</units_disp>
   </event>
   <event>
-    <prime_street>ADELAIDE ST, TT</prime_street>
-    <cross_streets>GRAND OPERA LANE / BAY ST</cross_streets>
-    <dispatch_time>2020-11-04 07:22:24</dispatch_time>
-    <event_num>F20109944</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, C33, P314, P333, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>JANE ST, NY</prime_street>
-    <cross_streets>SHOREHAM DR / HULLMAR DR</cross_streets>
-    <dispatch_time>2020-11-04 07:28:58</dispatch_time>
-    <event_num>F20109945</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 07:55:23</dispatch_time>
+    <event_num>F20109948</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
-    <units_disp> P141, R411, A142, C14, P146, P142</units_disp>
+    <units_disp> P142</units_disp>
+  </event>
+  <event>
+    <prime_street>EDINBOROUGH CRT, YK</prime_street>
+    <cross_streets>EDINBOROUGH PARK TRL / SCARLETT RD</cross_streets>
+    <dispatch_time>2020-11-04 08:04:18</dispatch_time>
+    <event_num>F20109950</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> R423, A421, P422, P431, P443, C42</units_disp>
   </event>
 </tfs_active_incidents>
