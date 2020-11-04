@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-04 06:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-04 07:20:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -9,36 +9,36 @@
     <event_type>Fire - Highrise Residential - Downtown</event_type>
     <alarm_lev>3</alarm_lev>
     <beat>314</beat>
-    <units_disp> P314, P312, A312, C31, R325, S313, A325, CMD30, CMD30C, LA333, P313, P315, P332, R326, T333, C33, HZ332, P333, C30, HR332, A331, C32, P331, P334, P344, REHAB01, C2, FI8, C7, CMD10, CMD10C, C34, P323, P311, P342, R321, C32, P312, C32, A325, C30, CMD30C, CMD30, FI4, FI19, FI8, A341, P324, C31, A321, R326, P342, P314, P314, R321, R341, P343, P311, P322</units_disp>
+    <units_disp> P314, P312, A312, C31, R325, S313, A325, CMD30, CMD30C, LA333, P313, P315, P332, R326, T333, C33, HZ332, P333, C30, HR332, A331, C32, P331, P334, P344, REHAB01, C2, FI8, C7, CMD10, CMD10C, C34, P323, P311, P342, R321, C32, P312, C32, A325, C30, CMD30C, CMD30, FI4, FI19, FI8, A341, P324, C31, A321, R326, P342, P314, P314, R321, R341, P343, P311, P322, P312</units_disp>
   </event>
   <event>
-    <prime_street>PHARMACY AVE, SC</prime_street>
-    <cross_streets>REDDINS RD / PENWORTH RD</cross_streets>
-    <dispatch_time>2020-11-04 05:55:54</dispatch_time>
-    <event_num>F20109931</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>ST CLAIR AVE, TT</prime_street>
+    <cross_streets>ALVIN AVE / FERNDALE AVE</cross_streets>
+    <dispatch_time>2020-11-04 06:54:45</dispatch_time>
+    <event_num>F20109939</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233, P245, A244, C24, R115, S232</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-04 06:25:51</dispatch_time>
-    <event_num>F20109934</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>DUFFERIN ST / DUNDAS ST W</cross_streets>
-    <dispatch_time>2020-11-04 06:35:31</dispatch_time>
-    <event_num>F20109935</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-04 06:57:07</dispatch_time>
+    <event_num>F20109942</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>445</beat>
+    <units_disp> P445, R444</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-04 07:07:28</dispatch_time>
+    <event_num>F20109943</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> P415, P441CA, R441</units_disp>
   </event>
 </tfs_active_incidents>
