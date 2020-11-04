@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-04 09:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-04 09:45:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -22,13 +22,33 @@
     <units_disp> R423, A421, P422, P431, P443, C42</units_disp>
   </event>
   <event>
-    <prime_street>GREEN BUSH RD, NY</prime_street>
-    <cross_streets>TANJOE CRES / TANJOE CRES</cross_streets>
-    <dispatch_time>2020-11-04 09:14:16</dispatch_time>
-    <event_num>F20109960</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 09:26:49</dispatch_time>
+    <event_num>F20109961</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112, A113, P111, P121, P143, C11</units_disp>
+    <beat>331</beat>
+    <units_disp> A331</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 09:34:32</dispatch_time>
+    <event_num>F20109962</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> R243</units_disp>
+  </event>
+  <event>
+    <prime_street>CHARLES ST, TT</prime_street>
+    <cross_streets>AL SPARROW LANE / JARVIS ST</cross_streets>
+    <dispatch_time>2020-11-04 09:40:03</dispatch_time>
+    <event_num>F20109963</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
 </tfs_active_incidents>
