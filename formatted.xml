@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-04 11:30:02</update_from_db_time>
+  <update_from_db_time>2020-11-04 11:40:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>3</alarm_lev>
     <beat>314</beat>
     <units_disp> P314, P312, A312, C31, R325, S313, A325, CMD30, CMD30C, LA333, P313, P315, P332, R326, T333, C33, HZ332, P333, C30, HR332, A331, C32, P331, P334, P344, REHAB01, C2, FI8, C7, CMD10, CMD10C, C34, P323, P311, P342, R321, C32, P312, C32, A325, C30, CMD30C, CMD30, FI4, FI19, FI8, A341, P324, C31, A321, R326, P342, P314, P314, R321, R341, P343, P311, P322, P312, P331, FI4</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-04 11:09:16</dispatch_time>
-    <event_num>F20109991</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
   </event>
   <event>
     <prime_street>M1K</prime_street>
@@ -42,23 +32,33 @@
     <units_disp> P145, P121, C11, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-04 11:15:32</dispatch_time>
-    <event_num>F20109995</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-04 11:27:27</dispatch_time>
+    <event_num>F20109997</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123, R122</units_disp>
+    <beat>442</beat>
+    <units_disp> P415, R441, R441, P415</units_disp>
   </event>
   <event>
-    <prime_street>M3J</prime_street>
+    <prime_street>MARKLAND DR, ET</prime_street>
+    <cross_streets>MOUNTAIN ASH CRT / CONIFER DR</cross_streets>
+    <dispatch_time>2020-11-04 11:27:38</dispatch_time>
+    <event_num>F20109998</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-04 11:19:33</dispatch_time>
-    <event_num>F20109996</event_num>
+    <dispatch_time>2020-11-04 11:35:45</dispatch_time>
+    <event_num>F20109999</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
 </tfs_active_incidents>
