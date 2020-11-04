@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-03 21:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-03 21:40:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>3</alarm_lev>
     <beat>314</beat>
     <units_disp> P314, P312, A312, C31, R325, S313, A325, CMD30, CMD30C, LA333, P313, P315, P332, R326, T333, C33, HZ332, P333, C30, HR332, A331, C32, P331, P334, P344, REHAB01, C2, FI8, C7, CMD10, CMD10C, C34, P323, P311, P342, R321, C32, P312, C32, A325, C30, CMD30C, CMD30, FI4, FI19, FI8, A341, P324, C31, A321, R326, P342, P314, P314, R321</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-03 20:44:37</dispatch_time>
-    <event_num>F20109841</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -32,23 +22,23 @@
     <units_disp> A135, P131, R341, S143, C13, S143, P143</units_disp>
   </event>
   <event>
-    <prime_street>SACKVILLE ST, TT</prime_street>
-    <cross_streets>ST BARTHOLOMEW ST / DUNDAS ST E</cross_streets>
-    <dispatch_time>2020-11-03 21:10:59</dispatch_time>
-    <event_num>F20109845</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325, P333, A325, C33, P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M1H</prime_street>
+    <prime_street>M4V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-03 21:11:20</dispatch_time>
-    <event_num>F20109846</event_num>
+    <dispatch_time>2020-11-03 21:27:49</dispatch_time>
+    <event_num>F20109848</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> A231</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-03 21:36:34</dispatch_time>
+    <event_num>F20109849</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> T333</units_disp>
   </event>
 </tfs_active_incidents>
