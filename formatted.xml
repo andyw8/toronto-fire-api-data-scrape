@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-04 14:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-04 14:40:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>3</alarm_lev>
     <beat>314</beat>
     <units_disp> P314, P312, A312, C31, R325, S313, A325, CMD30, CMD30C, LA333, P313, P315, P332, R326, T333, C33, HZ332, P333, C30, HR332, A331, C32, P331, P334, P344, REHAB01, C2, FI8, C7, CMD10, CMD10C, C34, P323, P311, P342, R321, C32, P312, C32, A325, C30, CMD30C, CMD30, FI4, FI19, FI8, A341, P324, C31, A321, R326, P342, P314, P314, R321, R341, P343, P311, P322, P312, P331, FI4, P322</units_disp>
-  </event>
-  <event>
-    <prime_street>M4X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-04 13:59:01</dispatch_time>
-    <event_num>F20110053</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
   </event>
   <event>
     <prime_street>M3J</prime_street>
@@ -42,46 +32,6 @@
     <units_disp> A244</units_disp>
   </event>
   <event>
-    <prime_street>KIPLING AVE, ET</prime_street>
-    <cross_streets>BEACONHILL RD / KIDRON VALLEY DR</cross_streets>
-    <dispatch_time>2020-11-04 14:10:57</dispatch_time>
-    <event_num>F20110057</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> S445, R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-04 14:12:03</dispatch_time>
-    <event_num>F20110058</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>SIDNEY BELSEY CRES, YK</prime_street>
-    <cross_streets>WESTPOINT LANE / PORTAGE GARDENS PARK TRL</cross_streets>
-    <dispatch_time>2020-11-04 14:15:06</dispatch_time>
-    <event_num>F20110059</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> R341, P442, A421, C42, P443, P146</units_disp>
-  </event>
-  <event>
-    <prime_street>FAIRHOLME AVE, NY</prime_street>
-    <cross_streets>SHERMOUNT AVE / DELL PARK AVE</cross_streets>
-    <dispatch_time>2020-11-04 14:16:04</dispatch_time>
-    <event_num>F20110060</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P135</units_disp>
-  </event>
-  <event>
     <prime_street>MACLEOD ST, NY</prime_street>
     <cross_streets>RUSTIC RD / FLORAL PKWY</cross_streets>
     <dispatch_time>2020-11-04 14:15:39</dispatch_time>
@@ -90,5 +40,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>133</beat>
     <units_disp> A133, P132</units_disp>
+  </event>
+  <event>
+    <prime_street>ST DENNIS DR, NY</prime_street>
+    <cross_streets>DON MILLS RD / DEAUVILLE LANE</cross_streets>
+    <dispatch_time>2020-11-04 14:18:14</dispatch_time>
+    <event_num>F20110064</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125, R235, P123, A322, C32, R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 14:29:11</dispatch_time>
+    <event_num>F20110065</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>M6B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 14:31:33</dispatch_time>
+    <event_num>F20110066</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> A135</units_disp>
+  </event>
+  <event>
+    <prime_street>M2K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 14:36:20</dispatch_time>
+    <event_num>F20110067</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
 </tfs_active_incidents>
