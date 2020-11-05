@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 04:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-05 04:25:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -12,23 +12,33 @@
     <units_disp> P314, P312, A312, C31, R325, S313, A325, CMD30, CMD30C, LA333, P313, P315, P332, R326, T333, C33, HZ332, P333, C30, HR332, A331, C32, P331, P334, P344, REHAB01, C2, FI8, C7, CMD10, CMD10C, C34, P323, P311, P342, R321, C32, P312, C32, A325, C30, CMD30C, CMD30, FI4, FI19, FI8, A341, P324, C31, A321, R326, P342, P314, P314, R321, R341, P343, P311, P322, P312, P331, FI4, P322, P311, R325, R321, P311, P342, P135, P227, R341, R326</units_disp>
   </event>
   <event>
-    <prime_street>BATHURST ST, NY</prime_street>
-    <cross_streets>ELLISON AVE / RAOUL WALLENBERG</cross_streets>
-    <dispatch_time>2020-11-05 03:49:23</dispatch_time>
-    <event_num>F20110267</event_num>
+    <prime_street>OXFORD ST, TT</prime_street>
+    <cross_streets>SONYA'S PARK TRL / SONYA'S PARK TRL</cross_streets>
+    <dispatch_time>2020-11-05 04:15:55</dispatch_time>
+    <event_num>F20110270</event_num>
     <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
   </event>
   <event>
-    <prime_street>ALBION RD, ET</prime_street>
-    <cross_streets>ALBION RD WESTON RD RAMP / ARMEL CRT</cross_streets>
-    <dispatch_time>2020-11-05 04:03:26</dispatch_time>
-    <event_num>F20110269</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 04:17:12</dispatch_time>
+    <event_num>F20110271</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415, S445</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>OAKWOOD AVE / ROGERS RD</cross_streets>
+    <dispatch_time>2020-11-05 04:18:31</dispatch_time>
+    <event_num>F20110272</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
   </event>
 </tfs_active_incidents>
