@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-04 18:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-04 19:40:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -19,66 +19,136 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P314, A325</units_disp>
+    <units_disp> P314, A325, HR332, C33</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-04 17:43:18</dispatch_time>
-    <event_num>F20110135</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> A133, P442</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>TRETHEWEY DR / BROOKHAVEN DR</cross_streets>
-    <dispatch_time>2020-11-04 18:05:55</dispatch_time>
-    <event_num>F20110143</event_num>
+    <cross_streets>PROGRESS AVE / WILLIAM KITCHEN RD</cross_streets>
+    <dispatch_time>2020-11-04 19:09:13</dispatch_time>
+    <event_num>F20110161</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> R133</units_disp>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
   </event>
   <event>
-    <prime_street>WAGNER DR, SC</prime_street>
-    <cross_streets>GARDENTREE ST / CORONATION DR</cross_streets>
-    <dispatch_time>2020-11-04 18:14:55</dispatch_time>
-    <event_num>F20110148</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> A231, C23, P223, P234, R214, R231</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-04 18:23:54</dispatch_time>
-    <event_num>F20110151</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233, P123</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-04 18:33:19</dispatch_time>
-    <event_num>F20110152</event_num>
+    <dispatch_time>2020-11-04 19:11:59</dispatch_time>
+    <event_num>F20110165</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
+  </event>
+  <event>
+    <prime_street>M5J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 19:12:59</dispatch_time>
+    <event_num>F20110166</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>335</beat>
+    <units_disp> P335, FB334B, P332, V335, FB334</units_disp>
+  </event>
+  <event>
+    <prime_street>GEORGE ST, TT</prime_street>
+    <cross_streets>ADELAIDE ST E / RICHMOND ST E</cross_streets>
+    <dispatch_time>2020-11-04 19:16:42</dispatch_time>
+    <event_num>F20110170</event_num>
+    <event_type>Fire - Highrise Residential - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> S313, P333, C31, P312, P332, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 19:22:42</dispatch_time>
+    <event_num>F20110171</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
+  </event>
+  <event>
+    <prime_street>GOLDFINCH CRT, NY</prime_street>
+    <cross_streets> / FINCH AVE W</cross_streets>
+    <dispatch_time>2020-11-04 19:24:04</dispatch_time>
+    <event_num>F20110172</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> P143, P114, C11, HR114, P141, T114, R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 19:24:08</dispatch_time>
+    <event_num>F20110173</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>WILLIAMSON RD, TT</prime_street>
+    <cross_streets>SOUTHWOOD DR / GLEN MANOR DR W</cross_streets>
+    <dispatch_time>2020-11-04 19:27:35</dispatch_time>
+    <event_num>F20110174</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P227, R224, A322, C32, R326</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 19:32:04</dispatch_time>
+    <event_num>F20110175</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 19:32:48</dispatch_time>
+    <event_num>F20110176</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 19:32:57</dispatch_time>
+    <event_num>F20110177</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
     <units_disp> P323</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-04 18:33:50</dispatch_time>
-    <event_num>F20110153</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 19:34:30</dispatch_time>
+    <event_num>F20110178</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> P212, R214</units_disp>
+    <beat>243</beat>
+    <units_disp> R243</units_disp>
+  </event>
+  <event>
+    <prime_street>M6B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-04 19:35:17</dispatch_time>
+    <event_num>F20110179</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P135</units_disp>
   </event>
 </tfs_active_incidents>
