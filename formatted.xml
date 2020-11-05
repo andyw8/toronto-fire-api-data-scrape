@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 13:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-05 13:40:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -19,86 +19,106 @@
     <event_type>Fire - Hydro Vault</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
-    <units_disp> R225, S331, C22, P227, R224, A324, HR114, HZ332, LA231</units_disp>
+    <units_disp> S331, C22, P227, R224, R225, A324, HR114, HZ332, LA231</units_disp>
   </event>
   <event>
-    <prime_street>KING GEORGE RD, YK</prime_street>
-    <cross_streets>CHURCH ST / COULTER AVE</cross_streets>
-    <dispatch_time>2020-11-05 12:43:55</dispatch_time>
-    <event_num>F20110397</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>MOORE AVE / POTTERY RD</cross_streets>
+    <dispatch_time>2020-11-05 13:23:54</dispatch_time>
+    <event_num>F20110418</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> C41, P442, P443, R421, A133, P146</units_disp>
+    <beat>321</beat>
+    <units_disp> A321</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
+    <prime_street>VAUGHAN RD, YK</prime_street>
+    <cross_streets>LOUISE AVE / MAPLEWOOD AVE</cross_streets>
+    <dispatch_time>2020-11-05 13:28:19</dispatch_time>
+    <event_num>F20110421</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> A341, P311, P342, R341, C42</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-05 12:53:59</dispatch_time>
-    <event_num>F20110403</event_num>
+    <dispatch_time>2020-11-05 13:29:05</dispatch_time>
+    <event_num>F20110422</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 12:55:42</dispatch_time>
-    <event_num>F20110405</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 13:12:55</dispatch_time>
-    <event_num>F20110408</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M6R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 13:13:15</dispatch_time>
-    <event_num>F20110409</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>SPADINA RD, TT</prime_street>
-    <cross_streets>ANNEX LANE / LOWTHER AVE</cross_streets>
-    <dispatch_time>2020-11-05 13:14:06</dispatch_time>
-    <event_num>F20110410</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A312, C33, P311, P314, P315</units_disp>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
   </event>
   <event>
     <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-05 13:14:21</dispatch_time>
-    <event_num>F20110411</event_num>
+    <dispatch_time>2020-11-05 13:29:36</dispatch_time>
+    <event_num>F20110423</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <units_disp> A411, R441, R412</units_disp>
   </event>
   <event>
-    <prime_street>DUFFERIN ST, TT</prime_street>
-    <cross_streets>LN N DUNDAS E DUFFERIN / FISHER ST</cross_streets>
-    <dispatch_time>2020-11-05 13:14:55</dispatch_time>
-    <event_num>F20110412</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 13:29:25</dispatch_time>
+    <event_num>F20110424</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P331, A426, C42, R425, P334</units_disp>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 13:30:08</dispatch_time>
+    <event_num>F20110425</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>FLETCHERDON CRES, NY</prime_street>
+    <cross_streets>GOSFORD BLVD / HULLMAR PARK TRL</cross_streets>
+    <dispatch_time>2020-11-05 13:32:14</dispatch_time>
+    <event_num>F20110426</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A133, P114, P145, P442, C14</units_disp>
+  </event>
+  <event>
+    <prime_street>CORTLEIGH BLVD, NY</prime_street>
+    <cross_streets>ALEXANDRA WOOD / RUBY CRES</cross_streets>
+    <dispatch_time>2020-11-05 13:33:19</dispatch_time>
+    <event_num>F20110427</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P121, P131, R134, A135, C13</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 13:34:28</dispatch_time>
+    <event_num>F20110428</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325</units_disp>
+  </event>
+  <event>
+    <prime_street>BRANT ST, TT</prime_street>
+    <cross_streets>KING ST W / LN S ADELAIDE E BRANT</cross_streets>
+    <dispatch_time>2020-11-05 13:35:50</dispatch_time>
+    <event_num>F20110429</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P334, P314, HR332, A331, C33, R426</units_disp>
   </event>
 </tfs_active_incidents>
