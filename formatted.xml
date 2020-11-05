@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 02:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-05 02:40:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -22,53 +22,33 @@
     <units_disp> P331</units_disp>
   </event>
   <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 02:15:08</dispatch_time>
-    <event_num>F20110247</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>HILLSBORO AVE, TT</prime_street>
+    <cross_streets>LN E DAVENPORT N BELMONT / NORTH VIEW TER</cross_streets>
+    <dispatch_time>2020-11-05 02:30:03</dispatch_time>
+    <event_num>F20110252</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
+    <beat>312</beat>
+    <units_disp> P312, P311, A312, C31, P313</units_disp>
   </event>
   <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 02:15:45</dispatch_time>
-    <event_num>F20110248</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LAKE SHORE BLVD, TT</prime_street>
+    <cross_streets>NET DR / BUDAPEST LANE</cross_streets>
+    <dispatch_time>2020-11-05 02:30:56</dispatch_time>
+    <event_num>F20110253</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
   <event>
-    <prime_street>M5J</prime_street>
+    <prime_street>M9C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-05 02:17:18</dispatch_time>
-    <event_num>F20110249</event_num>
+    <dispatch_time>2020-11-05 02:31:10</dispatch_time>
+    <event_num>F20110254</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> R326</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 02:17:59</dispatch_time>
-    <event_num>F20110250</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M5P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 02:18:25</dispatch_time>
-    <event_num>F20110251</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
   </event>
 </tfs_active_incidents>
