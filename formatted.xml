@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 12:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-05 13:10:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -9,17 +9,7 @@
     <event_type>Fire - Highrise Residential - Downtown</event_type>
     <alarm_lev>3</alarm_lev>
     <beat>314</beat>
-    <units_disp> P314, P312, A312, C31, R325, S313, A325, CMD30, CMD30C, LA333, P313, P315, P332, R326, T333, C33, HZ332, P333, C30, HR332, A331, C32, P331, P334, P344, REHAB01, C2, FI8, C7, CMD10, CMD10C, C34, P323, P311, P342, R321, C32, P312, C32, A325, C30, CMD30C, CMD30, FI4, FI19, FI8, A341, P324, C31, A321, R326, P342, P314, P314, R321, R341, P343, P311, P322, P312, P331, FI4, P322, P311, R325, R321, P311, P342, P135, P227, R341, R326, P313, P312, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>CHARTWELL RD, ET</prime_street>
-    <cross_streets>HEPC / ELFORD BLVD</cross_streets>
-    <dispatch_time>2020-11-05 11:46:46</dispatch_time>
-    <event_num>F20110376</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433, C44, R434, S445</units_disp>
+    <units_disp> P314, P312, A312, C31, R325, S313, A325, CMD30, CMD30C, LA333, P313, P315, P332, R326, T333, C33, HZ332, P333, C30, HR332, A331, C32, P331, P334, P344, REHAB01, C2, FI8, C7, CMD10, CMD10C, C34, P323, P311, P342, R321, C32, P312, C32, A325, C30, CMD30C, CMD30, FI4, FI19, FI8, A341, P324, C31, A321, R326, P342, P314, P314, R321, R341, P343, P311, P322, P312, P331, FI4, P322, P311, R325, R321, P311, P342, P135, P227, R341, R326, P313, P312, P332, R326</units_disp>
   </event>
   <event>
     <prime_street>M2H</prime_street>
@@ -32,16 +22,6 @@
     <units_disp> A113</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>WILLOWDALE AVE / CUMMER AVE</cross_streets>
-    <dispatch_time>2020-11-05 12:01:24</dispatch_time>
-    <event_num>F20110384</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
-  </event>
-  <event>
     <prime_street>TEESDALE PL, SC</prime_street>
     <cross_streets>PHARMACY AVE / </cross_streets>
     <dispatch_time>2020-11-05 12:09:26</dispatch_time>
@@ -49,56 +29,76 @@
     <event_type>Fire - Hydro Vault</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
-    <units_disp> R224, R225, S331, C22, P227, A324, HR114, HZ332</units_disp>
+    <units_disp> R225, S331, C22, P227, R224, A324, HR114, HZ332, LA231</units_disp>
   </event>
   <event>
-    <prime_street>TEESDALE PL, SC</prime_street>
-    <cross_streets>PHARMACY AVE / </cross_streets>
-    <dispatch_time>2020-11-05 12:13:57</dispatch_time>
-    <event_num>F20110388</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street>KING GEORGE RD, YK</prime_street>
+    <cross_streets>CHURCH ST / COULTER AVE</cross_streets>
+    <dispatch_time>2020-11-05 12:43:55</dispatch_time>
+    <event_num>F20110397</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> P313, R235, P223, S331</units_disp>
+    <beat>442</beat>
+    <units_disp> C41, P442, P443, R421, A133, P146</units_disp>
   </event>
   <event>
-    <prime_street>DEAUVILLE LANE, NY</prime_street>
-    <cross_streets>GRENOBLE DR / ST DENNIS DR</cross_streets>
-    <dispatch_time>2020-11-05 12:28:51</dispatch_time>
-    <event_num>F20110392</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125, P233, R134, A321, C31</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>M4B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-05 12:29:46</dispatch_time>
-    <event_num>F20110393</event_num>
+    <dispatch_time>2020-11-05 12:45:45</dispatch_time>
+    <event_num>F20110399</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <beat>224</beat>
+    <units_disp> A222</units_disp>
   </event>
   <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 12:30:49</dispatch_time>
-    <event_num>F20110394</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>SUMACH ST, TT</prime_street>
-    <cross_streets>WYATT AVE / DUNDAS ST E</cross_streets>
-    <dispatch_time>2020-11-05 12:32:14</dispatch_time>
-    <event_num>F20110395</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>SHERBOURNE ST / OSKENONTON LANE</cross_streets>
+    <dispatch_time>2020-11-05 12:47:30</dispatch_time>
+    <event_num>F20110401</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
-    <units_disp> A312, C33, P312, P314, P323, C32, T333, A325</units_disp>
+    <units_disp> P324, A325, C31, P311, P323, S331, A312, P312, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 12:53:59</dispatch_time>
+    <event_num>F20110403</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 12:55:42</dispatch_time>
+    <event_num>F20110405</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street>M4P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 12:57:08</dispatch_time>
+    <event_num>F20110406</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134, P131</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 12:59:07</dispatch_time>
+    <event_num>F20110407</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
 </tfs_active_incidents>
