@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 01:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-05 02:10:05</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -12,13 +12,13 @@
     <units_disp> P314, P312, A312, C31, R325, S313, A325, CMD30, CMD30C, LA333, P313, P315, P332, R326, T333, C33, HZ332, P333, C30, HR332, A331, C32, P331, P334, P344, REHAB01, C2, FI8, C7, CMD10, CMD10C, C34, P323, P311, P342, R321, C32, P312, C32, A325, C30, CMD30C, CMD30, FI4, FI19, FI8, A341, P324, C31, A321, R326, P342, P314, P314, R321, R341, P343, P311, P322, P312, P331, FI4, P322, P311, R325, R321, P311, P342, P135, P227</units_disp>
   </event>
   <event>
-    <prime_street>BRAHMS AVE, NY</prime_street>
-    <cross_streets>FINCH AVE E / RAMEAU DR</cross_streets>
-    <dispatch_time>2020-11-05 01:40:22</dispatch_time>
-    <event_num>F20110244</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 01:52:37</dispatch_time>
+    <event_num>F20110245</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113, P111, A113, C11, P244</units_disp>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
   </event>
 </tfs_active_incidents>
