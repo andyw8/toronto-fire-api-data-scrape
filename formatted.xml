@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 12:20:03</update_from_db_time>
+  <update_from_db_time>2020-11-05 12:40:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>3</alarm_lev>
     <beat>314</beat>
     <units_disp> P314, P312, A312, C31, R325, S313, A325, CMD30, CMD30C, LA333, P313, P315, P332, R326, T333, C33, HZ332, P333, C30, HR332, A331, C32, P331, P334, P344, REHAB01, C2, FI8, C7, CMD10, CMD10C, C34, P323, P311, P342, R321, C32, P312, C32, A325, C30, CMD30C, CMD30, FI4, FI19, FI8, A341, P324, C31, A321, R326, P342, P314, P314, R321, R341, P343, P311, P322, P312, P331, FI4, P322, P311, R325, R321, P311, P342, P135, P227, R341, R326, P313, P312, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 11:16:32</dispatch_time>
-    <event_num>F20110363</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426</units_disp>
   </event>
   <event>
     <prime_street>CHARTWELL RD, ET</prime_street>
@@ -42,46 +32,6 @@
     <units_disp> A113</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 11:58:15</dispatch_time>
-    <event_num>F20110380</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>YONGE ST / SPRING GARDEN AVE</cross_streets>
-    <dispatch_time>2020-11-05 11:58:44</dispatch_time>
-    <event_num>F20110381</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 11:59:52</dispatch_time>
-    <event_num>F20110382</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
-    <prime_street>ARDAGH ST, TT</prime_street>
-    <cross_streets>BERESFORD AVE / LN E DURIE N ARDAGH</cross_streets>
-    <dispatch_time>2020-11-05 11:59:54</dispatch_time>
-    <event_num>F20110383</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>WILLOWDALE AVE / CUMMER AVE</cross_streets>
     <dispatch_time>2020-11-05 12:01:24</dispatch_time>
@@ -92,26 +42,6 @@
     <units_disp> P111</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 12:05:08</dispatch_time>
-    <event_num>F20110385</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>WARDEN AVE, SC</prime_street>
-    <cross_streets>662 WARDEN AVE / HEPC</cross_streets>
-    <dispatch_time>2020-11-05 12:06:10</dispatch_time>
-    <event_num>F20110386</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
-  </event>
-  <event>
     <prime_street>TEESDALE PL, SC</prime_street>
     <cross_streets>PHARMACY AVE / </cross_streets>
     <dispatch_time>2020-11-05 12:09:26</dispatch_time>
@@ -119,7 +49,7 @@
     <event_type>Fire - Hydro Vault</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
-    <units_disp> P227, R224, R225, S331, C22, A324, HR114, HZ332</units_disp>
+    <units_disp> R224, R225, S331, C22, P227, A324, HR114, HZ332</units_disp>
   </event>
   <event>
     <prime_street>TEESDALE PL, SC</prime_street>
@@ -129,26 +59,46 @@
     <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
-    <units_disp> P313, R235, P223</units_disp>
+    <units_disp> P313, R235, P223, S331</units_disp>
   </event>
   <event>
-    <prime_street>M1S</prime_street>
+    <prime_street>DEAUVILLE LANE, NY</prime_street>
+    <cross_streets>GRENOBLE DR / ST DENNIS DR</cross_streets>
+    <dispatch_time>2020-11-05 12:28:51</dispatch_time>
+    <event_num>F20110392</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125, P233, R134, A321, C31</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-05 12:14:20</dispatch_time>
-    <event_num>F20110389</event_num>
+    <dispatch_time>2020-11-05 12:29:46</dispatch_time>
+    <event_num>F20110393</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>SHUTER ST, TT</prime_street>
-    <cross_streets>SEATON ST / NIGHTHAWK LANE</cross_streets>
-    <dispatch_time>2020-11-05 12:15:39</dispatch_time>
-    <event_num>F20110390</event_num>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 12:30:49</dispatch_time>
+    <event_num>F20110394</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>SUMACH ST, TT</prime_street>
+    <cross_streets>WYATT AVE / DUNDAS ST E</cross_streets>
+    <dispatch_time>2020-11-05 12:32:14</dispatch_time>
+    <event_num>F20110395</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
-    <units_disp> P324, P312, A325, C33, P334</units_disp>
+    <units_disp> A312, C33, P312, P314, P323, C32, T333, A325</units_disp>
   </event>
 </tfs_active_incidents>
