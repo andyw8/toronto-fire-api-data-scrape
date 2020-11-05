@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 13:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-05 14:10:03</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -19,17 +19,7 @@
     <event_type>Fire - Hydro Vault</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
-    <units_disp> S331, C22, P227, R224, R225, A324, HR114, HZ332, LA231</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MOORE AVE / POTTERY RD</cross_streets>
-    <dispatch_time>2020-11-05 13:23:54</dispatch_time>
-    <event_num>F20110418</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> A321</units_disp>
+    <units_disp> C22, P227, R224, R225, A324, HR114, S331, HZ332, LA231, LA333</units_disp>
   </event>
   <event>
     <prime_street>VAUGHAN RD, YK</prime_street>
@@ -39,86 +29,76 @@
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>343</beat>
-    <units_disp> A341, P311, P342, R341, C42</units_disp>
+    <units_disp> P311, P342, R341, A341, C42</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-05 13:52:07</dispatch_time>
+    <event_num>F20110431</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> HZ332, A322</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-05 13:55:11</dispatch_time>
+    <event_num>F20110433</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A321, P125, P125, A321</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-05 13:29:05</dispatch_time>
-    <event_num>F20110422</event_num>
+    <dispatch_time>2020-11-05 13:57:11</dispatch_time>
+    <event_num>F20110434</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <units_disp> A421</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>COATSWORTH CRES, TT</prime_street>
+    <cross_streets>HANSON ST / HILLINGDON AVE</cross_streets>
+    <dispatch_time>2020-11-05 13:57:39</dispatch_time>
+    <event_num>F20110435</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323, P324, P226, R134, A324, C32</units_disp>
+  </event>
+  <event>
+    <prime_street>STOKES ST, TT</prime_street>
+    <cross_streets>GORDON BELL RD / LOWER OSSINGTON AVE</cross_streets>
+    <dispatch_time>2020-11-05 13:58:37</dispatch_time>
+    <event_num>F20110436</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331, P344, A331, C33, P426, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>WEST DEANE PARK DR, ET</prime_street>
+    <cross_streets>ARCHERHILL DR / MERRYGALE CRES</cross_streets>
+    <dispatch_time>2020-11-05 14:05:56</dispatch_time>
+    <event_num>F20110437</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P145, C44, P445, HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-05 13:29:36</dispatch_time>
-    <event_num>F20110423</event_num>
+    <dispatch_time>2020-11-05 14:06:37</dispatch_time>
+    <event_num>F20110438</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> A411, R441, R412</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 13:29:25</dispatch_time>
-    <event_num>F20110424</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 13:30:08</dispatch_time>
-    <event_num>F20110425</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>FLETCHERDON CRES, NY</prime_street>
-    <cross_streets>GOSFORD BLVD / HULLMAR PARK TRL</cross_streets>
-    <dispatch_time>2020-11-05 13:32:14</dispatch_time>
-    <event_num>F20110426</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A133, P114, P145, P442, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>CORTLEIGH BLVD, NY</prime_street>
-    <cross_streets>ALEXANDRA WOOD / RUBY CRES</cross_streets>
-    <dispatch_time>2020-11-05 13:33:19</dispatch_time>
-    <event_num>F20110427</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P121, P131, R134, A135, C13</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 13:34:28</dispatch_time>
-    <event_num>F20110428</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
-  </event>
-  <event>
-    <prime_street>BRANT ST, TT</prime_street>
-    <cross_streets>KING ST W / LN S ADELAIDE E BRANT</cross_streets>
-    <dispatch_time>2020-11-05 13:35:50</dispatch_time>
-    <event_num>F20110429</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P334, P314, HR332, A331, C33, R426</units_disp>
+    <beat>341</beat>
+    <units_disp> P342</units_disp>
   </event>
 </tfs_active_incidents>
