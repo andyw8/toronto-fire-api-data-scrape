@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 14:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-05 14:45:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> HZ332, A322</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-05 13:55:11</dispatch_time>
-    <event_num>F20110433</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A321, P125, P125, A321</units_disp>
-  </event>
-  <event>
     <prime_street>WEST DEANE PARK DR, ET</prime_street>
     <cross_streets>ARCHERHILL DR / MERRYGALE CRES</cross_streets>
     <dispatch_time>2020-11-05 14:05:56</dispatch_time>
@@ -60,5 +50,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>341</beat>
     <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 14:24:49</dispatch_time>
+    <event_num>F20110443</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> P116</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BLACK CREEK / WESTON RD</cross_streets>
+    <dispatch_time>2020-11-05 14:26:50</dispatch_time>
+    <event_num>F20110444</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>MARBLE ARCH CRES, SC</prime_street>
+    <cross_streets>LANCEFIELD AVE / WW W WARDEN SE MARBLE ARCH</cross_streets>
+    <dispatch_time>2020-11-05 14:28:21</dispatch_time>
+    <event_num>F20110445</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P324, P233, C22</units_disp>
   </event>
 </tfs_active_incidents>
