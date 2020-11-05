@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 11:30:02</update_from_db_time>
+  <update_from_db_time>2020-11-05 11:50:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -32,53 +32,53 @@
     <units_disp> P426</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-05 11:17:42</dispatch_time>
-    <event_num>F20110364</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142, A411</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-05 11:20:25</dispatch_time>
-    <event_num>F20110365</event_num>
+    <dispatch_time>2020-11-05 11:34:36</dispatch_time>
+    <event_num>F20110372</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>426</beat>
+    <units_disp> A426</units_disp>
   </event>
   <event>
-    <prime_street>D'ARCY ST, TT</prime_street>
-    <cross_streets>LN E BEVERLEY S D ARCY / BEVERLEY ST</cross_streets>
-    <dispatch_time>2020-11-05 11:21:19</dispatch_time>
-    <event_num>F20110366</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P331, P334, A312, C33, P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>M5S</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-05 11:24:52</dispatch_time>
-    <event_num>F20110368</event_num>
+    <dispatch_time>2020-11-05 11:37:04</dispatch_time>
+    <event_num>F20110373</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 11:38:40</dispatch_time>
+    <event_num>F20110374</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <units_disp> A423</units_disp>
   </event>
   <event>
-    <prime_street>ARLSTAN DR, NY</prime_street>
-    <cross_streets>EVANSTON DR / </cross_streets>
-    <dispatch_time>2020-11-05 11:26:15</dispatch_time>
-    <event_num>F20110369</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 11:43:13</dispatch_time>
+    <event_num>F20110375</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P313</units_disp>
+    <beat>314</beat>
+    <units_disp> A325</units_disp>
+  </event>
+  <event>
+    <prime_street>CHARTWELL RD, ET</prime_street>
+    <cross_streets>HEPC / ELFORD BLVD</cross_streets>
+    <dispatch_time>2020-11-05 11:46:46</dispatch_time>
+    <event_num>F20110376</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> R434, S445, A433, C44</units_disp>
   </event>
 </tfs_active_incidents>
