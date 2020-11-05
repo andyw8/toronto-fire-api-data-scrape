@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 14:10:03</update_from_db_time>
+  <update_from_db_time>2020-11-05 14:20:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
     <units_disp> C22, P227, R224, R225, A324, HR114, S331, HZ332, LA231, LA333</units_disp>
-  </event>
-  <event>
-    <prime_street>VAUGHAN RD, YK</prime_street>
-    <cross_streets>LOUISE AVE / MAPLEWOOD AVE</cross_streets>
-    <dispatch_time>2020-11-05 13:28:19</dispatch_time>
-    <event_num>F20110421</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P311, P342, R341, A341, C42</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -52,36 +42,6 @@
     <units_disp> A321, P125, P125, A321</units_disp>
   </event>
   <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 13:57:11</dispatch_time>
-    <event_num>F20110434</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421</units_disp>
-  </event>
-  <event>
-    <prime_street>COATSWORTH CRES, TT</prime_street>
-    <cross_streets>HANSON ST / HILLINGDON AVE</cross_streets>
-    <dispatch_time>2020-11-05 13:57:39</dispatch_time>
-    <event_num>F20110435</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, P324, P226, R134, A324, C32</units_disp>
-  </event>
-  <event>
-    <prime_street>STOKES ST, TT</prime_street>
-    <cross_streets>GORDON BELL RD / LOWER OSSINGTON AVE</cross_streets>
-    <dispatch_time>2020-11-05 13:58:37</dispatch_time>
-    <event_num>F20110436</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331, P344, A331, C33, P426, R426</units_disp>
-  </event>
-  <event>
     <prime_street>WEST DEANE PARK DR, ET</prime_street>
     <cross_streets>ARCHERHILL DR / MERRYGALE CRES</cross_streets>
     <dispatch_time>2020-11-05 14:05:56</dispatch_time>
@@ -89,7 +49,7 @@
     <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
-    <units_disp> P145, C44, P445, HZ145</units_disp>
+    <units_disp> C44, P445, HZ145, P145</units_disp>
   </event>
   <event>
     <prime_street>M6E</prime_street>
