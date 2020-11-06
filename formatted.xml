@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 20:35:02</update_from_db_time>
+  <update_from_db_time>2020-11-05 20:40:24</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> P242, R241, S232, R115, A244, C24</units_disp>
   </event>
   <event>
-    <prime_street>M4H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 19:50:13</dispatch_time>
-    <event_num>F20110542</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
     <prime_street>M1J</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-05 19:54:52</dispatch_time>
@@ -52,16 +42,6 @@
     <units_disp> A231</units_disp>
   </event>
   <event>
-    <prime_street>GEORGE APPLETON WAY, NY</prime_street>
-    <cross_streets>KEELE ST / JAMES FINLAY WAY</cross_streets>
-    <dispatch_time>2020-11-05 20:16:15</dispatch_time>
-    <event_num>F20110549</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145, P146, A133, C14, P143</units_disp>
-  </event>
-  <event>
     <prime_street>M1N</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-05 20:20:53</dispatch_time>
@@ -70,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
     <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-05 20:21:41</dispatch_time>
-    <event_num>F20110551</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> R231</units_disp>
   </event>
   <event>
     <prime_street>M2K</prime_street>
@@ -100,5 +70,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>315</beat>
     <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 20:35:56</dispatch_time>
+    <event_num>F20110554</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 20:36:30</dispatch_time>
+    <event_num>F20110555</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
