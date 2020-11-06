@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-05 20:40:24</update_from_db_time>
+  <update_from_db_time>2020-11-05 21:15:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -22,73 +22,63 @@
     <units_disp> P114, P121, C11, HR114, P116, T114</units_disp>
   </event>
   <event>
-    <prime_street>AURORA CRT, SC</prime_street>
-    <cross_streets>BRIDLETOWNE CRCL / </cross_streets>
-    <dispatch_time>2020-11-05 19:46:34</dispatch_time>
-    <event_num>F20110539</event_num>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-05 21:05:30</dispatch_time>
+    <event_num>F20110561</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
+  </event>
+  <event>
+    <prime_street>IRON ST, ET</prime_street>
+    <cross_streets>VULCAN ST / C N R</cross_streets>
+    <dispatch_time>2020-11-05 21:05:30</dispatch_time>
+    <event_num>F20110562</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441, P415, R412, A415, C41</units_disp>
+  </event>
+  <event>
+    <prime_street>LAKE SHORE BLVD, ET</prime_street>
+    <cross_streets>HUMBER BAY PARK RD W / LEGION RD</cross_streets>
+    <dispatch_time>2020-11-05 21:08:25</dispatch_time>
+    <event_num>F20110563</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
+  </event>
+  <event>
+    <prime_street>BOULTBEE AVE, TT</prime_street>
+    <cross_streets>KISWICK ST / BLAKE ST</cross_streets>
+    <dispatch_time>2020-11-05 21:08:39</dispatch_time>
+    <event_num>F20110564</event_num>
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P242, R241, S232, R115, A244, C24</units_disp>
+    <beat>324</beat>
+    <units_disp> R326, P324, A324, C32, P323, R325</units_disp>
   </event>
   <event>
-    <prime_street>M1J</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-05 19:54:52</dispatch_time>
-    <event_num>F20110543</event_num>
+    <dispatch_time>2020-11-05 21:09:57</dispatch_time>
+    <event_num>F20110565</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> A231</units_disp>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
   </event>
   <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 20:20:53</dispatch_time>
-    <event_num>F20110550</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LOGAN AVE, TT</prime_street>
+    <cross_streets>GRANDVIEW AVE / WITHROW PARK TRL</cross_streets>
+    <dispatch_time>2020-11-05 21:10:37</dispatch_time>
+    <event_num>F20110566</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M2K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 20:24:56</dispatch_time>
-    <event_num>F20110552</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 20:31:58</dispatch_time>
-    <event_num>F20110553</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 20:35:56</dispatch_time>
-    <event_num>F20110554</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M4X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-05 20:36:30</dispatch_time>
-    <event_num>F20110555</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>324</beat>
+    <units_disp> A322</units_disp>
   </event>
 </tfs_active_incidents>
