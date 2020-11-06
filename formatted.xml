@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-06 00:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-06 00:45:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> P415, P443, R413, R441, A415, C41, A411, LA421, R444, S445, C40, P442, R412, C44, P146, HZ145, CMD10, CMD10C</units_disp>
   </event>
   <event>
-    <prime_street>ST CLAIR AVE, SC</prime_street>
-    <cross_streets>MIDLAND AVE / CHINE DR</cross_streets>
-    <dispatch_time>2020-11-05 23:09:20</dispatch_time>
-    <event_num>F20110596</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> S232, P232, P234, A231, C23, R224, P223</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>KEELE ST / ROMFIELD LANE</cross_streets>
-    <dispatch_time>2020-11-05 23:37:39</dispatch_time>
-    <event_num>F20110607</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P114, P141, P143, R112, A142, C14</units_disp>
-  </event>
-  <event>
     <prime_street>M2R</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-05 23:46:53</dispatch_time>
@@ -52,23 +32,43 @@
     <units_disp> P111, P121, C11, P132, T114, R112</units_disp>
   </event>
   <event>
-    <prime_street>WOODINGTON AVE, TT</prime_street>
-    <cross_streets>WOLVERLEIGH BLVD / GLEBEHOLME BLVD</cross_streets>
-    <dispatch_time>2020-11-06 00:03:30</dispatch_time>
-    <event_num>F20110618</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> A322, C32, P323, P324, P226, R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M1R</prime_street>
+    <prime_street>M8V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-06 00:10:50</dispatch_time>
-    <event_num>F20110620</event_num>
+    <dispatch_time>2020-11-06 00:30:00</dispatch_time>
+    <event_num>F20110621</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
+  </event>
+  <event>
+    <prime_street>SPADINA RD, TT</prime_street>
+    <cross_streets>ST CLAIR AVE W / SHORNCLIFFE AVE</cross_streets>
+    <dispatch_time>2020-11-06 00:30:43</dispatch_time>
+    <event_num>F20110622</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MILL ST / TRINITY ST</cross_streets>
+    <dispatch_time>2020-11-06 00:39:33</dispatch_time>
+    <event_num>F20110623</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>MARJORY AVE, TT</prime_street>
+    <cross_streets>AUSTIN AVE / LN S GERRARD W MARJORY</cross_streets>
+    <dispatch_time>2020-11-06 00:40:30</dispatch_time>
+    <event_num>F20110624</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
   </event>
 </tfs_active_incidents>
