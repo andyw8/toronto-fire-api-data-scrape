@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-06 09:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-06 10:10:02</update_from_db_time>
   <event>
     <prime_street>ALLENBY AVE, ET</prime_street>
     <cross_streets>CHALFONT RD / HATFIELD CRES</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>415</beat>
     <units_disp> P415, P443, R413, R441, A415, C41, A411, LA421, R444, S445, C40, P442, R412, C44, P146, HZ145, CMD10, CMD10C, R444, P442, P445, P415, FI15, FI20, R441</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>KEELE ST / VICTORY DR</cross_streets>
-    <dispatch_time>2020-11-06 09:02:55</dispatch_time>
-    <event_num>F20110702</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> HZ145</units_disp>
   </event>
   <event>
     <prime_street>TYRE AVE, ET</prime_street>
@@ -40,5 +30,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> A312</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 09:47:35</dispatch_time>
+    <event_num>F20110712</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 09:58:08</dispatch_time>
+    <event_num>F20110713</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 10:04:29</dispatch_time>
+    <event_num>F20110714</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
+  </event>
+  <event>
+    <prime_street>M4B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 10:04:31</dispatch_time>
+    <event_num>F20110715</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> A226</units_disp>
   </event>
 </tfs_active_incidents>
