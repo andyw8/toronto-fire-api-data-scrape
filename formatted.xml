@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-06 10:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-06 10:40:02</update_from_db_time>
   <event>
     <prime_street>ALLENBY AVE, ET</prime_street>
     <cross_streets>CHALFONT RD / HATFIELD CRES</cross_streets>
@@ -12,36 +12,6 @@
     <units_disp> P415, P443, R413, R441, A415, C41, A411, LA421, R444, S445, C40, P442, R412, C44, P146, HZ145, CMD10, CMD10C, R444, P442, P445, P415, FI15, FI20, R441</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-06 09:47:35</dispatch_time>
-    <event_num>F20110712</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-06 10:04:29</dispatch_time>
-    <event_num>F20110714</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-06 10:04:31</dispatch_time>
-    <event_num>F20110715</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> A226</units_disp>
-  </event>
-  <event>
     <prime_street>EGLINTON AVE, NY</prime_street>
     <cross_streets>SLOANE AVE / HEPC</cross_streets>
     <dispatch_time>2020-11-06 10:15:18</dispatch_time>
@@ -50,5 +20,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>235</beat>
     <units_disp> R231, P233, A222, C22, P221, C23</units_disp>
+  </event>
+  <event>
+    <prime_street>LISGAR ST, TT</prime_street>
+    <cross_streets>LN N QUEEN E LISGAR / LN S ARGYLE E BEACONSFIELD</cross_streets>
+    <dispatch_time>2020-11-06 10:19:09</dispatch_time>
+    <event_num>F20110717</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P324, R426, C33, HZ332</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 10:24:37</dispatch_time>
+    <event_num>F20110720</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>WILSON AVE / BATHURST ST</cross_streets>
+    <dispatch_time>2020-11-06 10:29:59</dispatch_time>
+    <event_num>F20110722</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 10:33:22</dispatch_time>
+    <event_num>F20110723</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>M2K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 10:36:03</dispatch_time>
+    <event_num>F20110724</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
 </tfs_active_incidents>
