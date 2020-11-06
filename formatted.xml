@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-06 14:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-06 15:10:02</update_from_db_time>
   <event>
     <prime_street>ALLENBY AVE, ET</prime_street>
     <cross_streets>CHALFONT RD / HATFIELD CRES</cross_streets>
@@ -12,73 +12,73 @@
     <units_disp> P415, P443, R413, R441, A415, C41, A411, LA421, R444, S445, C40, P442, R412, C44, P146, HZ145, CMD10, CMD10C, R444, P442, P445, P415, FI15, FI20, R441</units_disp>
   </event>
   <event>
-    <prime_street>M1N</prime_street>
+    <prime_street>LIMESTONE CRES, NY</prime_street>
+    <cross_streets>PETROLIA RD / SHALE GT</cross_streets>
+    <dispatch_time>2020-11-06 14:49:15</dispatch_time>
+    <event_num>F20110822</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-06 14:13:12</dispatch_time>
-    <event_num>F20110807</event_num>
+    <dispatch_time>2020-11-06 14:54:02</dispatch_time>
+    <event_num>F20110824</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>244</beat>
+    <units_disp> P244, A244</units_disp>
   </event>
   <event>
-    <prime_street>FLAGSTAFF RD, SC</prime_street>
-    <cross_streets>ANNAN DR / TRINNELL BLVD</cross_streets>
-    <dispatch_time>2020-11-06 14:13:30</dispatch_time>
-    <event_num>F20110808</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> P222</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>M4B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-06 14:22:10</dispatch_time>
-    <event_num>F20110815</event_num>
+    <dispatch_time>2020-11-06 14:54:41</dispatch_time>
+    <event_num>F20110825</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
   <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>CORNWALLIS DR / WICKWARE GT</cross_streets>
-    <dispatch_time>2020-11-06 14:22:35</dispatch_time>
-    <event_num>F20110816</event_num>
-    <event_type>Vehicle - Spill Clean Up</event_type>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 14:56:13</dispatch_time>
+    <event_num>F20110827</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P245</units_disp>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 14:58:38</dispatch_time>
+    <event_num>F20110828</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M5M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 14:59:19</dispatch_time>
+    <event_num>F20110830</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>ROYAL YORK RD / LA ROSE AVE</cross_streets>
-    <dispatch_time>2020-11-06 14:25:24</dispatch_time>
-    <event_num>F20110817</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <cross_streets>PARK RD / ROSEDALE VALLEY RD</cross_streets>
+    <dispatch_time>2020-11-06 15:04:44</dispatch_time>
+    <event_num>F20110831</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443, P445, P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M8W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-06 14:31:11</dispatch_time>
-    <event_num>F20110820</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-06 14:36:44</dispatch_time>
-    <event_num>F20110821</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> HR114</units_disp>
+    <beat>312</beat>
+    <units_disp> P313</units_disp>
   </event>
 </tfs_active_incidents>
