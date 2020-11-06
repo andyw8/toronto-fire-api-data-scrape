@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-06 13:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-06 13:20:02</update_from_db_time>
   <event>
     <prime_street>ALLENBY AVE, ET</prime_street>
     <cross_streets>CHALFONT RD / HATFIELD CRES</cross_streets>
@@ -62,16 +62,6 @@
     <units_disp> P422, P442, R421, P342, A421, C42</units_disp>
   </event>
   <event>
-    <prime_street>WALPOLE AVE, TT</prime_street>
-    <cross_streets>HIGHFIELD RD / WOODFIELD RD</cross_streets>
-    <dispatch_time>2020-11-06 13:03:50</dispatch_time>
-    <event_num>F20110781</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
     <prime_street>M9P</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-06 13:07:34</dispatch_time>
@@ -120,5 +110,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
     <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street>GERRY FITZGERALD DR, NY</prime_street>
+    <cross_streets>DUFFERIN ST / STEELES AVE W</cross_streets>
+    <dispatch_time>2020-11-06 13:12:04</dispatch_time>
+    <event_num>F20110788</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141, R112, C14, P145, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 13:16:09</dispatch_time>
+    <event_num>F20110789</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
