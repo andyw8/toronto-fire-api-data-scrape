@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-06 18:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-06 18:20:02</update_from_db_time>
   <event>
     <prime_street>ALLENBY AVE, ET</prime_street>
     <cross_streets>CHALFONT RD / HATFIELD CRES</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> A226, P234</units_disp>
   </event>
   <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-06 17:46:12</dispatch_time>
-    <event_num>F20110891</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> A312</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>LAKE SHORE BLVD W / COLBORNE LODGE DR</cross_streets>
     <dispatch_time>2020-11-06 17:51:50</dispatch_time>
@@ -52,16 +42,6 @@
     <units_disp> P426</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-06 17:53:36</dispatch_time>
-    <event_num>F20110893</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
-  </event>
-  <event>
     <prime_street>M4W</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-06 17:54:25</dispatch_time>
@@ -70,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>313</beat>
     <units_disp> S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-06 17:55:31</dispatch_time>
-    <event_num>F20110896</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
   </event>
   <event>
     <prime_street>WILSON AVE, NY</prime_street>
@@ -102,23 +72,33 @@
     <units_disp> P223, P221, A231, R225, C23</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M4B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-06 18:02:48</dispatch_time>
-    <event_num>F20110899</event_num>
+    <dispatch_time>2020-11-06 18:09:13</dispatch_time>
+    <event_num>F20110901</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>226</beat>
+    <units_disp> A226</units_disp>
   </event>
   <event>
-    <prime_street>ST CLAIR AVE, TT</prime_street>
-    <cross_streets>WYCHWOOD AVE / PINEWOOD AVE</cross_streets>
-    <dispatch_time>2020-11-06 18:04:28</dispatch_time>
-    <event_num>F20110900</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-06 18:10:25</dispatch_time>
+    <event_num>F20110902</event_num>
+    <event_type>Vehicle Fire - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343, P342, A315, C34, R345</units_disp>
+    <beat>445</beat>
+    <units_disp> C44, P445, R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-06 18:14:08</dispatch_time>
+    <event_num>F20110903</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P222</units_disp>
   </event>
 </tfs_active_incidents>
