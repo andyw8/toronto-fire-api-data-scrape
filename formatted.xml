@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-07 11:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-07 12:15:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -9,47 +9,17 @@
     <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411</units_disp>
+    <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>LAWRENCE AVE W / AVENUE RD</cross_streets>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>EDGECOMBE AVE / GREY RD</cross_streets>
     <dispatch_time>2020-11-07 10:34:52</dispatch_time>
     <event_num>F20111117</event_num>
     <event_type>Vehicle Fire</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
     <units_disp> P131, P132</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-07 10:54:23</dispatch_time>
-    <event_num>F20111123</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415, P415, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 11:07:59</dispatch_time>
-    <event_num>F20111129</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>DUNDAS ST E / LN N DUNDAS W SHERBOURNE</cross_streets>
-    <dispatch_time>2020-11-07 11:18:03</dispatch_time>
-    <event_num>F20111134</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P323, P325, A325, C33, P314</units_disp>
   </event>
   <event>
     <prime_street>VICTORIA ST, TT</prime_street>
@@ -62,63 +32,83 @@
     <units_disp> T333</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, NY</prime_street>
-    <cross_streets>KEELE ST / PIMLICO RD</cross_streets>
-    <dispatch_time>2020-11-07 11:21:58</dispatch_time>
-    <event_num>F20111136</event_num>
+    <prime_street> </prime_street>
+    <cross_streets> / EAST DON RIVER TRL</cross_streets>
+    <dispatch_time>2020-11-07 11:42:03</dispatch_time>
+    <event_num>F20111144</event_num>
     <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133</units_disp>
+    <beat>111</beat>
+    <units_disp> P113</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 11:24:45</dispatch_time>
-    <event_num>F20111137</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-07 11:49:03</dispatch_time>
+    <event_num>F20111148</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
+    <beat>116</beat>
+    <units_disp> P116, R122</units_disp>
   </event>
   <event>
-    <prime_street>M3L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 11:29:39</dispatch_time>
-    <event_num>F20111138</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>RANEE AVE / KHEDIVE AVE</cross_streets>
+    <dispatch_time>2020-11-07 11:51:19</dispatch_time>
+    <event_num>F20111150</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142, A142</units_disp>
+    <beat>132</beat>
+    <units_disp> P145</units_disp>
   </event>
   <event>
-    <prime_street>M5M</prime_street>
+    <prime_street>M8W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-07 11:32:25</dispatch_time>
-    <event_num>F20111139</event_num>
+    <dispatch_time>2020-11-07 11:54:24</dispatch_time>
+    <event_num>F20111152</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P132</units_disp>
+    <beat>435</beat>
+    <units_disp> R435</units_disp>
   </event>
   <event>
-    <prime_street>M1H</prime_street>
+    <prime_street>M9B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-07 11:33:46</dispatch_time>
-    <event_num>F20111140</event_num>
+    <dispatch_time>2020-11-07 12:02:51</dispatch_time>
+    <event_num>F20111155</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <beat>445</beat>
+    <units_disp> S445, P445</units_disp>
   </event>
   <event>
-    <prime_street>M3L</prime_street>
+    <prime_street>M9L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-07 11:34:16</dispatch_time>
-    <event_num>F20111141</event_num>
+    <dispatch_time>2020-11-07 12:04:45</dispatch_time>
+    <event_num>F20111156</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P146</units_disp>
+    <beat>411</beat>
+    <units_disp> A411</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-07 12:08:45</dispatch_time>
+    <event_num>F20111157</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-07 12:08:55</dispatch_time>
+    <event_num>F20111158</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> P433</units_disp>
   </event>
 </tfs_active_incidents>
