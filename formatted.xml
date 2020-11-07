@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-07 13:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-07 13:20:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> T333</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 12:54:02</dispatch_time>
-    <event_num>F20111177</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
     <prime_street>M1B</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-07 13:11:57</dispatch_time>
@@ -50,5 +40,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>214</beat>
     <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ST CLAIR AVE E / VERNADALE CRES</cross_streets>
+    <dispatch_time>2020-11-07 13:15:01</dispatch_time>
+    <event_num>F20111180</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
 </tfs_active_incidents>
