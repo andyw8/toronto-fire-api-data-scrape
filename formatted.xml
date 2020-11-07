@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-07 18:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-07 18:45:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -9,17 +9,7 @@
     <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342</units_disp>
-  </event>
-  <event>
-    <prime_street>BAYVIEW AVE, TT</prime_street>
-    <cross_streets>DAVISVILLE AVE / MILLWOOD RD</cross_streets>
-    <dispatch_time>2020-11-07 16:03:01</dispatch_time>
-    <event_num>F20111250</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R321, C31, HZ332, P324, A321, MPV341, A331, A341, HR332, C30</units_disp>
+    <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325</units_disp>
   </event>
   <event>
     <prime_street>STONG CRT, NY</prime_street>
@@ -29,7 +19,7 @@
     <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
-    <units_disp> P141, C7, LA111, LA231</units_disp>
+    <units_disp> P141, C7, LA111, LA231, C14</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -49,116 +39,106 @@
     <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>313</beat>
-    <units_disp> P312, P324, P323</units_disp>
+    <units_disp> P312, P324, P323, C31</units_disp>
   </event>
   <event>
-    <prime_street>DON MILLS RD, NY</prime_street>
-    <cross_streets>KERN RD / YORK MILLS RD</cross_streets>
-    <dispatch_time>2020-11-07 17:38:55</dispatch_time>
-    <event_num>F20111302</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-07 18:07:26</dispatch_time>
+    <event_num>F20111316</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
+    <beat>215</beat>
+    <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>PARK RD, TT</prime_street>
-    <cross_streets>MEREDITH CRES / SOUTH DR</cross_streets>
-    <dispatch_time>2020-11-07 17:41:25</dispatch_time>
-    <event_num>F20111303</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-07 18:12:16</dispatch_time>
+    <event_num>F20111318</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P311, P314, A312, C34, P332</units_disp>
+    <beat>234</beat>
+    <units_disp> P221, P223</units_disp>
   </event>
   <event>
-    <prime_street>MARTIN GROVE RD, ET</prime_street>
-    <cross_streets>LONGBOURNE DR / WESTGROVE PARK TRL</cross_streets>
-    <dispatch_time>2020-11-07 17:48:53</dispatch_time>
-    <event_num>F20111307</event_num>
-    <event_type>Vehicle Fire - Underground</event_type>
+    <prime_street>ST CLAIR AVE, SC</prime_street>
+    <cross_streets>MIDLAND AVE / CHINE DR</cross_streets>
+    <dispatch_time>2020-11-07 18:14:33</dispatch_time>
+    <event_num>F20111319</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> P443, P445, R441, R444, S445, A415, C44, HR114</units_disp>
+    <beat>223</beat>
+    <units_disp> S232, A222, C22, P221, P232, R225</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>FINCH AVE W / PEARLDALE AVE</cross_streets>
-    <dispatch_time>2020-11-07 17:51:22</dispatch_time>
-    <event_num>F20111308</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-07 18:26:39</dispatch_time>
+    <event_num>F20111321</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-07 18:27:44</dispatch_time>
+    <event_num>F20111323</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> R231</units_disp>
+  </event>
+  <event>
+    <prime_street>TREHORNE DR, ET</prime_street>
+    <cross_streets>DUFFIELD RD / TALLON RD</cross_streets>
+    <dispatch_time>2020-11-07 18:28:45</dispatch_time>
+    <event_num>F20111324</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> A421, P442, P443, R421, R441, C44</units_disp>
+  </event>
+  <event>
+    <prime_street>FRANEL CRES, NY</prime_street>
+    <cross_streets>AVIEMORE DR / ISLINGTON PARK TRL</cross_streets>
+    <dispatch_time>2020-11-07 18:36:24</dispatch_time>
+    <event_num>F20111325</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>411</beat>
     <units_disp> R411</units_disp>
   </event>
   <event>
-    <prime_street>FOREST GROVE DR, NY</prime_street>
-    <cross_streets>PAGE AVE / EARLYWOOD CRT</cross_streets>
-    <dispatch_time>2020-11-07 17:57:57</dispatch_time>
-    <event_num>F20111309</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111, P113, A113, C11, P114, R122</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
-    <cross_streets>TECUMSETH ST / NIAGARA ST</cross_streets>
-    <dispatch_time>2020-11-07 18:00:12</dispatch_time>
-    <event_num>F20111310</event_num>
-    <event_type>Check Call</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-07 18:38:20</dispatch_time>
+    <event_num>F20111326</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
+    <beat>145</beat>
+    <units_disp> A133, C13, P145, R112, S143</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 18:00:38</dispatch_time>
-    <event_num>F20111311</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 18:00:57</dispatch_time>
-    <event_num>F20111312</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>SHEPPARD AVE, NY</prime_street>
-    <cross_streets>JANE ST / LAURA RD</cross_streets>
-    <dispatch_time>2020-11-07 18:03:41</dispatch_time>
-    <event_num>F20111313</event_num>
+    <prime_street>SACKVILLE ST, TT</prime_street>
+    <cross_streets>ST BARTHOLOMEW ST / DUNDAS ST E</cross_streets>
+    <dispatch_time>2020-11-07 18:38:34</dispatch_time>
+    <event_num>F20111327</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P146, P141, A142, C14, P143</units_disp>
+    <beat>325</beat>
+    <units_disp> P325, P333, A312, C32, P324</units_disp>
   </event>
   <event>
-    <prime_street>GLEN MUIR DR, SC</prime_street>
-    <cross_streets>BARE ROCK DR / BELLAMY RD S</cross_streets>
-    <dispatch_time>2020-11-07 18:04:35</dispatch_time>
-    <event_num>F20111314</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>SHERMOUNT AVE / ALLEN X N LAWRENCE RAMP</cross_streets>
+    <dispatch_time>2020-11-07 18:41:38</dispatch_time>
+    <event_num>F20111329</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>WALPOLE AVE, TT</prime_street>
-    <cross_streets>HIGHFIELD RD / WOODFIELD RD</cross_streets>
-    <dispatch_time>2020-11-07 18:05:43</dispatch_time>
-    <event_num>F20111315</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P324</units_disp>
+    <beat>132</beat>
+    <units_disp> P132, A135, P131, P143, C34</units_disp>
   </event>
 </tfs_active_incidents>
