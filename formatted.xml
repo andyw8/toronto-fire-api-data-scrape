@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-07 00:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-07 00:20:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -13,16 +13,6 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / BELTLINE TRL</cross_streets>
-    <dispatch_time>2020-11-06 23:09:03</dispatch_time>
-    <event_num>F20111004</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> A321</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2020-11-06 23:54:35</dispatch_time>
     <event_num>F20111013</event_num>
@@ -30,26 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
     <units_disp> P333, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-06 23:59:08</dispatch_time>
-    <event_num>F20111014</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
-  </event>
-  <event>
-    <prime_street>ROE AVE, NY</prime_street>
-    <cross_streets>ELM RD / AVENUE RD</cross_streets>
-    <dispatch_time>2020-11-06 23:59:52</dispatch_time>
-    <event_num>F20111015</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121, P132, C13, P131, T114</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -72,13 +42,23 @@
     <units_disp> P313, A312, C31, P312, P314</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-07 00:06:28</dispatch_time>
-    <event_num>F20111018</event_num>
+    <dispatch_time>2020-11-07 00:07:09</dispatch_time>
+    <event_num>F20111019</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-07 00:15:25</dispatch_time>
+    <event_num>F20111021</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
