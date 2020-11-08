@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-07 21:20:03</update_from_db_time>
+  <update_from_db_time>2020-11-07 21:25:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -42,16 +42,6 @@
     <units_disp> A222</units_disp>
   </event>
   <event>
-    <prime_street>DUFFERIN ST, TT</prime_street>
-    <cross_streets>DUFFERIN GROVE PARK TRL / DUFFERIN GROVE PARK TRL</cross_streets>
-    <dispatch_time>2020-11-07 20:41:38</dispatch_time>
-    <event_num>F20111369</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
     <prime_street>ABBEYWOOD TRL, NY</prime_street>
     <cross_streets>BARRYDALE CRES / TOWERCREST DR</cross_streets>
     <dispatch_time>2020-11-07 20:45:10</dispatch_time>
@@ -70,16 +60,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>443</beat>
     <units_disp> P443, HZ332, P431, P445, LA421, S445, C44</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 20:56:19</dispatch_time>
-    <event_num>F20111377</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
