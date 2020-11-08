@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-08 10:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-08 10:40:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325, P311, P332, P343, P323, P331, P312, P314, P333</units_disp>
+    <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325, P311, P332, P343, P323, P331, P312, P314, P333, R325</units_disp>
   </event>
   <event>
     <prime_street>M5J</prime_street>
@@ -22,23 +22,73 @@
     <units_disp> P334</units_disp>
   </event>
   <event>
-    <prime_street>MOGUL DR, NY</prime_street>
-    <cross_streets>MCNICOLL AVE / MENTOR BLVD</cross_streets>
-    <dispatch_time>2020-11-08 10:09:24</dispatch_time>
-    <event_num>F20111520</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>JANE ST / RIVERVIEW GDNS</cross_streets>
+    <dispatch_time>2020-11-08 10:14:33</dispatch_time>
+    <event_num>F20111522</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113, C11, P111, P116, R115, R241</units_disp>
+    <beat>425</beat>
+    <units_disp> P422, R425, A423, C42, R423</units_disp>
   </event>
   <event>
-    <prime_street>M2K</prime_street>
+    <prime_street>BROADVIEW AVE, TT</prime_street>
+    <cross_streets>ERINDALE AVE / PRETORIA AVE</cross_streets>
+    <dispatch_time>2020-11-08 10:24:09</dispatch_time>
+    <event_num>F20111526</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> R224, P313, A324, C32, P323, P324, A322</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-08 10:10:26</dispatch_time>
-    <event_num>F20111521</event_num>
+    <dispatch_time>2020-11-08 10:27:43</dispatch_time>
+    <event_num>F20111527</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> R122</units_disp>
+    <beat>314</beat>
+    <units_disp> A325</units_disp>
+  </event>
+  <event>
+    <prime_street>LAURENTIDE DR, NY</prime_street>
+    <cross_streets>BUSHBURY DR / SILVERDALE CRES</cross_streets>
+    <dispatch_time>2020-11-08 10:30:56</dispatch_time>
+    <event_num>F20111528</event_num>
+    <event_type>Vehicle - Spill Clean Up</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
+  </event>
+  <event>
+    <prime_street>M1X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-08 10:33:09</dispatch_time>
+    <event_num>F20111529</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>211</beat>
+    <units_disp> P211</units_disp>
+  </event>
+  <event>
+    <prime_street>MARKET ST, TT</prime_street>
+    <cross_streets> / CONGER COAL LANE</cross_streets>
+    <dispatch_time>2020-11-08 10:33:30</dispatch_time>
+    <event_num>F20111530</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P332, P344, C33, HR332, P331, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>MARTINI DR, NY</prime_street>
+    <cross_streets>THURODALE AVE / LAWRENCE AVE W</cross_streets>
+    <dispatch_time>2020-11-08 10:33:54</dispatch_time>
+    <event_num>F20111531</event_num>
+    <event_type>Police Assist</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
 </tfs_active_incidents>
