@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-07 22:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-07 23:20:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -19,7 +19,7 @@
     <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
-    <units_disp> P141, C7, LA111, LA231, C14, C11, C14</units_disp>
+    <units_disp> P141, C7, LA111, LA231, C14, C11, C14, LA333, C13, HR114</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -32,16 +32,6 @@
     <units_disp> P325, T333, C33, A331, C33</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>ROYAL YORK RD / DARLINGBROOK CRES</cross_streets>
-    <dispatch_time>2020-11-07 20:50:29</dispatch_time>
-    <event_num>F20111374</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443, HZ332, P431, P445, LA421, S445, C44</units_disp>
-  </event>
-  <event>
     <prime_street>M1K</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-07 22:24:25</dispatch_time>
@@ -50,56 +40,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>223</beat>
     <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Z</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 22:31:36</dispatch_time>
-    <event_num>F20111399</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 22:32:51</dispatch_time>
-    <event_num>F20111400</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 22:33:01</dispatch_time>
-    <event_num>F20111401</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ISLINGTON AVE / MEADOWVALE DR</cross_streets>
-    <dispatch_time>2020-11-07 22:34:46</dispatch_time>
-    <event_num>F20111402</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street>STRATHGOWAN CRES, TT</prime_street>
-    <cross_streets>STRATHGOWAN AVE / GLENGOWAN RD</cross_streets>
-    <dispatch_time>2020-11-07 22:35:34</dispatch_time>
-    <event_num>F20111403</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> R134, P131, C13, P121, R122, A321</units_disp>
   </event>
   <event>
     <prime_street>DUNDAS ST, TT</prime_street>
@@ -112,13 +52,33 @@
     <units_disp> R423, P422, A423, C42, R425</units_disp>
   </event>
   <event>
-    <prime_street>TUBMAN AVE, TT</prime_street>
-    <cross_streets>WYATT AVE / DUNDAS ST E</cross_streets>
-    <dispatch_time>2020-11-07 22:39:55</dispatch_time>
-    <event_num>F20111405</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-07 22:53:32</dispatch_time>
+    <event_num>F20111409</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, C31, P324, P325, P333</units_disp>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-07 22:59:37</dispatch_time>
+    <event_num>F20111411</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-07 23:10:47</dispatch_time>
+    <event_num>F20111413</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
