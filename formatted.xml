@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-08 05:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-08 06:15:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -12,73 +12,13 @@
     <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325, P311, P332, P343, P323, P331, P312</units_disp>
   </event>
   <event>
-    <prime_street>KINGSTON RD, SC</prime_street>
-    <cross_streets>GALLOWAY RD / 4315 KINGSTON RD</cross_streets>
-    <dispatch_time>2020-11-08 04:53:47</dispatch_time>
-    <event_num>F20111472</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> R231, P223, P234, R214, A215, C23</units_disp>
-  </event>
-  <event>
-    <prime_street>M9L</prime_street>
+    <prime_street>M8V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-08 05:21:38</dispatch_time>
-    <event_num>F20111477</event_num>
+    <dispatch_time>2020-11-08 06:04:29</dispatch_time>
+    <event_num>F20111486</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-08 05:22:58</dispatch_time>
-    <event_num>F20111478</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> R231, P445, P445</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>DOVERCOURT RD / COOLMINE RD</cross_streets>
-    <dispatch_time>2020-11-08 05:27:32</dispatch_time>
-    <event_num>F20111479</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, P344, A426, C34, P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-08 05:27:34</dispatch_time>
-    <event_num>F20111480</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-08 05:28:30</dispatch_time>
-    <event_num>F20111481</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-08 05:36:36</dispatch_time>
-    <event_num>F20111482</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
   </event>
 </tfs_active_incidents>
