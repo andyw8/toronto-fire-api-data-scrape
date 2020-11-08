@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-08 04:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-08 05:20:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -9,56 +9,36 @@
     <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325, P311, P332, P343, P323, P331</units_disp>
+    <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325, P311, P332, P343, P323, P331, P312</units_disp>
   </event>
   <event>
-    <prime_street>GOLDEN AVE, TT</prime_street>
-    <cross_streets>SILVER AVE / </cross_streets>
-    <dispatch_time>2020-11-08 04:19:26</dispatch_time>
-    <event_num>F20111466</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>KINGSTON RD, SC</prime_street>
+    <cross_streets>GALLOWAY RD / 4315 KINGSTON RD</cross_streets>
+    <dispatch_time>2020-11-08 04:53:47</dispatch_time>
+    <event_num>F20111472</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R423, R425, A426, C42, P342, R426</units_disp>
+    <beat>234</beat>
+    <units_disp> R231, P223, P234, R214, A215, C23</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>LESLIE ST / EGLINTON AVE E</cross_streets>
-    <dispatch_time>2020-11-08 04:24:16</dispatch_time>
-    <event_num>F20111467</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
+    <prime_street>WELLINGTON ST, TT</prime_street>
+    <cross_streets>DRAPER ST / PORTLAND ST</cross_streets>
+    <dispatch_time>2020-11-08 04:54:10</dispatch_time>
+    <event_num>F20111473</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> R321, P125, P123, A321, C32, R235</units_disp>
+    <beat>332</beat>
+    <units_disp> A331, P332, P334, P344, C33</units_disp>
   </event>
   <event>
-    <prime_street>M4T</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-08 04:30:05</dispatch_time>
-    <event_num>F20111468</event_num>
+    <dispatch_time>2020-11-08 05:05:48</dispatch_time>
+    <event_num>F20111475</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-08 04:34:51</dispatch_time>
-    <event_num>F20111469</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BARTLETT AVE / SHANLY ST</cross_streets>
-    <dispatch_time>2020-11-08 04:37:02</dispatch_time>
-    <event_num>F20111470</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
