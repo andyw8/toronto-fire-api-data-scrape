@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-07 20:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-07 20:45:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -32,56 +32,6 @@
     <units_disp> P325, T333, C33</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 19:10:06</dispatch_time>
-    <event_num>F20111343</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A345, P343</units_disp>
-  </event>
-  <event>
-    <prime_street>MORNINGSIDE AVE, SC</prime_street>
-    <cross_streets>TEFFT RD / WARNSWORTH ST</cross_streets>
-    <dispatch_time>2020-11-07 19:51:12</dispatch_time>
-    <event_num>F20111356</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-07 19:58:40</dispatch_time>
-    <event_num>F20111358</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> A133, HZ145, P132</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MCNICOLL AVE / DYNAMIC DR</cross_streets>
-    <dispatch_time>2020-11-07 20:00:18</dispatch_time>
-    <event_num>F20111359</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 20:02:43</dispatch_time>
-    <event_num>F20111360</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
-  </event>
-  <event>
     <prime_street>M1E</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-07 20:13:35</dispatch_time>
@@ -92,13 +42,53 @@
     <units_disp> R231</units_disp>
   </event>
   <event>
-    <prime_street>M8Z</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-07 20:19:10</dispatch_time>
-    <event_num>F20111363</event_num>
+    <dispatch_time>2020-11-07 20:24:16</dispatch_time>
+    <event_num>F20111365</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-07 20:30:08</dispatch_time>
+    <event_num>F20111366</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>WARDEN AVE / ST CLAIR AVE E</cross_streets>
+    <dispatch_time>2020-11-07 20:33:38</dispatch_time>
+    <event_num>F20111367</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
+  </event>
+  <event>
+    <prime_street>PEACHAM CRES, NY</prime_street>
+    <cross_streets>EXBURY RD / SHERMAN CRT</cross_streets>
+    <dispatch_time>2020-11-07 20:40:26</dispatch_time>
+    <event_num>F20111368</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>DUFFERIN ST, TT</prime_street>
+    <cross_streets>DUFFERIN GROVE PARK TRL / DUFFERIN GROVE PARK TRL</cross_streets>
+    <dispatch_time>2020-11-07 20:41:38</dispatch_time>
+    <event_num>F20111369</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
