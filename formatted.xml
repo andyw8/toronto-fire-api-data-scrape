@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-08 12:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-08 12:40:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -12,83 +12,93 @@
     <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325, P311, P332, P343, P323, P331, P312, P314, P333, R325, P315</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>BRIMLEY RD / MCNICOLL AVE</cross_streets>
-    <dispatch_time>2020-11-08 11:46:03</dispatch_time>
-    <event_num>F20111549</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>GOWER ST, EY</prime_street>
+    <cross_streets>DAWES RD / MEIGHEN AVE</cross_streets>
+    <dispatch_time>2020-11-08 12:18:48</dispatch_time>
+    <event_num>F20111559</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>226</beat>
+    <units_disp> A222, P226, R224, R225, C22</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-08 11:59:52</dispatch_time>
-    <event_num>F20111551</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>GLOUCESTER ST, TT</prime_street>
+    <cross_streets>WABENOSE LANE / CHURCH ST</cross_streets>
+    <dispatch_time>2020-11-08 12:19:59</dispatch_time>
+    <event_num>F20111561</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
-  </event>
-  <event>
-    <prime_street>KING ST, TT</prime_street>
-    <cross_streets>WATERLOO TER / BATHURST ST</cross_streets>
-    <dispatch_time>2020-11-08 12:01:26</dispatch_time>
-    <event_num>F20111552</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-08 12:03:33</dispatch_time>
-    <event_num>F20111554</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441</units_disp>
+    <beat>314</beat>
+    <units_disp> P314, C31, HZ332, P324</units_disp>
   </event>
   <event>
     <prime_street>M6H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-08 12:04:19</dispatch_time>
-    <event_num>F20111555</event_num>
+    <dispatch_time>2020-11-08 12:24:14</dispatch_time>
+    <event_num>F20111562</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>345</beat>
-    <units_disp> A345, R426</units_disp>
+    <units_disp> P426</units_disp>
   </event>
   <event>
-    <prime_street>WESTON RD, YK</prime_street>
-    <cross_streets>JUSTICE GDNS / CONRON PL</cross_streets>
-    <dispatch_time>2020-11-08 12:07:20</dispatch_time>
-    <event_num>F20111556</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-08 12:24:38</dispatch_time>
+    <event_num>F20111563</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, P146, C41, P443, A133, C44</units_disp>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>KENNEDY RD / BONIS AVE</cross_streets>
-    <dispatch_time>2020-11-08 12:08:51</dispatch_time>
-    <event_num>F20111557</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>ST CLAIR AVE, SC</prime_street>
+    <cross_streets>BIRCHMOUNT RD / NORTH WOODROW BLVD</cross_streets>
+    <dispatch_time>2020-11-08 12:25:45</dispatch_time>
+    <event_num>F20111564</event_num>
+    <event_type>Rescue - Structural Collapse</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>222</beat>
+    <units_disp> S232, S331, A244, P221, P232, P313, LA231, R235, TRS235, C32, HR332, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>BLUE JAYS WAY, TT</prime_street>
-    <cross_streets>MERCER ST / LN S KING W BLUE JAYS WAY</cross_streets>
-    <dispatch_time>2020-11-08 12:12:24</dispatch_time>
-    <event_num>F20111558</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <prime_street>M9B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-08 12:27:10</dispatch_time>
+    <event_num>F20111565</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> A331, C34, HR332, P331, P334, P344</units_disp>
+    <beat>432</beat>
+    <units_disp> P432</units_disp>
+  </event>
+  <event>
+    <prime_street>WALMER RD, YK</prime_street>
+    <cross_streets>ST CLAIR AVE W / HEATH ST W</cross_streets>
+    <dispatch_time>2020-11-08 12:27:29</dispatch_time>
+    <event_num>F20111566</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P331, P343</units_disp>
+  </event>
+  <event>
+    <prime_street>HOUNSLOW AVE, NY</prime_street>
+    <cross_streets>SENLAC RD / ELGIN RD</cross_streets>
+    <dispatch_time>2020-11-08 12:30:46</dispatch_time>
+    <event_num>F20111567</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, R112, C11, P121, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-08 12:33:18</dispatch_time>
+    <event_num>F20111568</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P311, P324</units_disp>
   </event>
 </tfs_active_incidents>
