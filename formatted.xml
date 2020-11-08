@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-07 22:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-07 22:20:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -29,7 +29,7 @@
     <event_type>Police Assist</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P325, T333, C33, A331</units_disp>
+    <units_disp> P325, T333, C33, A331, C33</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -70,15 +70,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
     <units_disp> A426, R423, R426, C34, P331, P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-07 21:58:36</dispatch_time>
-    <event_num>F20111394</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
   </event>
 </tfs_active_incidents>
