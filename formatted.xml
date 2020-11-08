@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-08 12:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-08 13:15:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
     <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325, P311, P332, P343, P323, P331, P312, P314, P333, R325, P315</units_disp>
-  </event>
-  <event>
-    <prime_street>GOWER ST, EY</prime_street>
-    <cross_streets>DAWES RD / MEIGHEN AVE</cross_streets>
-    <dispatch_time>2020-11-08 12:18:48</dispatch_time>
-    <event_num>F20111559</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> A222, P226, R224, R225, C22</units_disp>
   </event>
   <event>
     <prime_street>GLOUCESTER ST, TT</prime_street>
@@ -32,73 +22,53 @@
     <units_disp> P314, C31, HZ332, P324</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets>VICTORIA PARK AVE / ELLESMERE RD</cross_streets>
+    <dispatch_time>2020-11-08 12:44:58</dispatch_time>
+    <event_num>F20111570</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-08 12:50:58</dispatch_time>
+    <event_num>F20111572</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-08 12:24:14</dispatch_time>
-    <event_num>F20111562</event_num>
+    <dispatch_time>2020-11-08 13:03:52</dispatch_time>
+    <event_num>F20111574</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> P426</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-08 12:24:38</dispatch_time>
-    <event_num>F20111563</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
-  </event>
-  <event>
-    <prime_street>ST CLAIR AVE, SC</prime_street>
-    <cross_streets>BIRCHMOUNT RD / NORTH WOODROW BLVD</cross_streets>
-    <dispatch_time>2020-11-08 12:25:45</dispatch_time>
-    <event_num>F20111564</event_num>
-    <event_type>Rescue - Structural Collapse</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> S232, S331, A244, P221, P232, P313, LA231, R235, TRS235, C32, HR332, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-08 12:27:10</dispatch_time>
-    <event_num>F20111565</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
-  </event>
-  <event>
-    <prime_street>WALMER RD, YK</prime_street>
-    <cross_streets>ST CLAIR AVE W / HEATH ST W</cross_streets>
-    <dispatch_time>2020-11-08 12:27:29</dispatch_time>
-    <event_num>F20111566</event_num>
+    <prime_street>CHALKFARM DR, NY</prime_street>
+    <cross_streets>MARLINGTON CRES / MARLINGTON CRES</cross_streets>
+    <dispatch_time>2020-11-08 13:06:04</dispatch_time>
+    <event_num>F20111575</event_num>
     <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P331, P343</units_disp>
+    <beat>146</beat>
+    <units_disp> S143, P146</units_disp>
   </event>
   <event>
-    <prime_street>HOUNSLOW AVE, NY</prime_street>
-    <cross_streets>SENLAC RD / ELGIN RD</cross_streets>
-    <dispatch_time>2020-11-08 12:30:46</dispatch_time>
-    <event_num>F20111567</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>REAN DR, NY</prime_street>
+    <cross_streets>BARBERRY PL / REAN PARK TRL</cross_streets>
+    <dispatch_time>2020-11-08 13:09:24</dispatch_time>
+    <event_num>F20111576</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, R112, C11, P121, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-08 12:33:18</dispatch_time>
-    <event_num>F20111568</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P311, P324</units_disp>
+    <beat>116</beat>
+    <units_disp> P116, R122, C11, HR114, P111, T114</units_disp>
   </event>
 </tfs_active_incidents>
