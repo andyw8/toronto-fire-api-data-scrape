@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-09 12:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-09 12:20:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -62,26 +62,6 @@
     <units_disp> A411, P415, R412, R441, C41</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-09 12:00:28</dispatch_time>
-    <event_num>F20111919</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>WENDELL AVE, NY</prime_street>
-    <cross_streets>PELLATT AVE / WILSON AVE</cross_streets>
-    <dispatch_time>2020-11-09 12:01:58</dispatch_time>
-    <event_num>F20111920</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, R421, P146, P443, A133, C14</units_disp>
-  </event>
-  <event>
     <prime_street>COSBURN AVE, EY</prime_street>
     <cross_streets>GOWAN AVE / DONLANDS AVE</cross_streets>
     <dispatch_time>2020-11-09 12:04:33</dispatch_time>
@@ -109,7 +89,7 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
-    <units_disp> P141</units_disp>
+    <units_disp> P141, R412</units_disp>
   </event>
   <event>
     <prime_street>DANFORTH AVE, TT</prime_street>
@@ -140,5 +120,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>243</beat>
     <units_disp> R241, P113, A113, C21, P116</units_disp>
+  </event>
+  <event>
+    <prime_street>GRANDRAVINE DR, NY</prime_street>
+    <cross_streets>ARLETA AVE / DRIFTWOOD AVE</cross_streets>
+    <dispatch_time>2020-11-09 12:15:16</dispatch_time>
+    <event_num>F20111928</event_num>
+    <event_type>Rescue - Personal Entrapment</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P143, S143, C14, A411</units_disp>
   </event>
 </tfs_active_incidents>
