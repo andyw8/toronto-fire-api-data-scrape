@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-09 06:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-09 06:40:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -12,63 +12,43 @@
     <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325, P311, P332, P343, P323, P331, P312, P314, P333, R325, P315, R321, P331, P343, P334, R341, R326, P342, P311</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-09 05:52:31</dispatch_time>
-    <event_num>F20111819</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>KING ST, TT</prime_street>
-    <cross_streets>BATHURST ST / TECUMSETH ST</cross_streets>
-    <dispatch_time>2020-11-09 05:58:16</dispatch_time>
-    <event_num>F20111820</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331, P334, A331, C33, HR332, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>STEELES AVE, NY</prime_street>
-    <cross_streets>FUTURITY GT / ALNESS ST</cross_streets>
-    <dispatch_time>2020-11-09 06:09:26</dispatch_time>
-    <event_num>F20111823</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P143, P114, C11, P145, T114, P141, R112, C14</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>HIGHWAY 27 S / QUEEN'S PLATE DR</cross_streets>
-    <dispatch_time>2020-11-09 06:10:22</dispatch_time>
-    <event_num>F20111824</event_num>
-    <event_type>Fire - Transformer/Pole</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
-  </event>
-  <event>
-    <prime_street>CAPRI RD, ET</prime_street>
-    <cross_streets>THE EAST MALL / </cross_streets>
-    <dispatch_time>2020-11-09 06:13:35</dispatch_time>
-    <event_num>F20111825</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445, R444, C44, P432, PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>BENJAMIN BLVD, SC</prime_street>
-    <cross_streets>INDEPENDENCE DR / CHARITY RD</cross_streets>
-    <dispatch_time>2020-11-09 06:15:47</dispatch_time>
-    <event_num>F20111826</event_num>
+    <prime_street>DUNDAS ST, TT</prime_street>
+    <cross_streets>LAKEVIEW AVE / GROVE AVE</cross_streets>
+    <dispatch_time>2020-11-09 06:18:15</dispatch_time>
+    <event_num>F20111828</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>331</beat>
+    <units_disp> A331</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-09 06:20:03</dispatch_time>
+    <event_num>F20111829</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>NORTH QUEEN ST, ET</prime_street>
+    <cross_streets>MEDULLA AVE / THE EAST MALL</cross_streets>
+    <dispatch_time>2020-11-09 06:27:42</dispatch_time>
+    <event_num>F20111830</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432, R434, C44, P445, PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>TEMPERANCE ST / RICHMOND ST W</cross_streets>
+    <dispatch_time>2020-11-09 06:33:36</dispatch_time>
+    <event_num>F20111831</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P333, C33, HR332, P314, T333</units_disp>
   </event>
 </tfs_active_incidents>
