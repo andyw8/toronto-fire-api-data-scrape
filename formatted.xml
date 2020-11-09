@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-09 17:40:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ORIOLE PKWY / WILBERTON RD</cross_streets>
-    <dispatch_time>2020-11-09 16:43:11</dispatch_time>
-    <event_num>F20112062</event_num>
-    <event_type>Vehicle - Spill Clean Up</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> A135</units_disp>
-  </event>
+  <update_from_db_time>2020-11-09 18:15:02</update_from_db_time>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
     <cross_streets>LN N ANNETTE E RUNNYMEDE / MAHER AVE</cross_streets>
@@ -32,123 +22,73 @@
     <units_disp> R235, P125</units_disp>
   </event>
   <event>
-    <prime_street>M4B</prime_street>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-09 17:15:31</dispatch_time>
-    <event_num>F20112074</event_num>
+    <dispatch_time>2020-11-09 17:54:48</dispatch_time>
+    <event_num>F20112089</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
+    <beat>141</beat>
+    <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>DAVIES AVE / CARROLL ST</cross_streets>
-    <dispatch_time>2020-11-09 17:15:49</dispatch_time>
-    <event_num>F20112075</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-09 17:58:14</dispatch_time>
+    <event_num>F20112090</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, C32, P324, P333, R325</units_disp>
+    <beat>132</beat>
+    <units_disp> P121, P132</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-09 17:16:38</dispatch_time>
-    <event_num>F20112076</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>WARDEN AVE / KINGSTON RD</cross_streets>
+    <dispatch_time>2020-11-09 18:00:36</dispatch_time>
+    <event_num>F20112091</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>GUILDWOOD PKWY, SC</prime_street>
-    <cross_streets>GUILDWOOD PARK TRL / GUILDWOOD PARK TRL</cross_streets>
-    <dispatch_time>2020-11-09 17:19:28</dispatch_time>
-    <event_num>F20112077</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234, P223, A215, C23, R231</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
   <event>
     <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-09 17:19:26</dispatch_time>
-    <event_num>F20112078</event_num>
+    <dispatch_time>2020-11-09 18:05:58</dispatch_time>
+    <event_num>F20112092</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>415</beat>
     <units_disp> P415</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>ATHABASKA AVE / ABITIBI AVE</cross_streets>
-    <dispatch_time>2020-11-09 17:22:44</dispatch_time>
-    <event_num>F20112079</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M3C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-09 17:25:19</dispatch_time>
-    <event_num>F20112080</event_num>
+    <dispatch_time>2020-11-09 18:07:58</dispatch_time>
+    <event_num>F20112093</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211</units_disp>
+    <beat>125</beat>
+    <units_disp> P322</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
+    <prime_street>M8V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-09 17:29:08</dispatch_time>
-    <event_num>F20112081</event_num>
+    <dispatch_time>2020-11-09 18:08:03</dispatch_time>
+    <event_num>F20112094</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P221</units_disp>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>KINGSTON RD / MCCOWAN RD</cross_streets>
-    <dispatch_time>2020-11-09 17:32:16</dispatch_time>
-    <event_num>F20112082</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>GREENTREE CRT, YK</prime_street>
+    <cross_streets>TRETHEWEY DR / CLEARVIEW HTS</cross_streets>
+    <dispatch_time>2020-11-09 18:11:28</dispatch_time>
+    <event_num>F20112095</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-09 17:32:54</dispatch_time>
-    <event_num>F20112083</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
-  </event>
-  <event>
-    <prime_street>PEACHAM CRES, NY</prime_street>
-    <cross_streets>EXBURY RD / SHERMAN CRT</cross_streets>
-    <dispatch_time>2020-11-09 17:33:41</dispatch_time>
-    <event_num>F20112084</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M6B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-09 17:36:33</dispatch_time>
-    <event_num>F20112085</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>133</beat>
+    <units_disp> R341, P146, A133, C13, P442</units_disp>
   </event>
 </tfs_active_incidents>
