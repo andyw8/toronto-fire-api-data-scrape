@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-09 01:20:03</update_from_db_time>
+  <update_from_db_time>2020-11-09 01:45:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -9,27 +9,7 @@
     <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325, P311, P332, P343, P323, P331, P312, P314, P333, R325, P315, R321, P331, P343, P334, R341, R326</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-09 00:59:40</dispatch_time>
-    <event_num>F20111783</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-09 01:01:21</dispatch_time>
-    <event_num>F20111784</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
+    <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325, P311, P332, P343, P323, P331, P312, P314, P333, R325, P315, R321, P331, P343, P334, R341, R326, P342</units_disp>
   </event>
   <event>
     <prime_street>M9N</prime_street>
@@ -40,5 +20,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
     <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-09 01:31:49</dispatch_time>
+    <event_num>F20111786</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>PALACE ST, TT</prime_street>
+    <cross_streets>COOPERAGE ST / ROLLING MILLS RD</cross_streets>
+    <dispatch_time>2020-11-09 01:33:14</dispatch_time>
+    <event_num>F20111787</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, C33, P324, R325, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-09 01:33:50</dispatch_time>
+    <event_num>F20111788</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P232</units_disp>
   </event>
 </tfs_active_incidents>
