@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-09 10:30:02</update_from_db_time>
+  <update_from_db_time>2020-11-09 10:50:02</update_from_db_time>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>CHURCH ST / MUTUAL ST</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
     <units_disp> P314, P313, P312, P322, R341, P324, P343, P314, R321, R411, R326, P322, P342, A325, P311, P332, P343, P323, P331, P312, P314, P333, R325, P315, R321, P331, P343, P334, R341, R326, P342, P311, P314, P331</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>JANE ST / WILSON AVE</cross_streets>
-    <dispatch_time>2020-11-09 09:16:59</dispatch_time>
-    <event_num>F20111868</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
   </event>
   <event>
     <prime_street>CRESTHAVEN DR, NY</prime_street>
@@ -32,36 +22,6 @@
     <units_disp> P113, A113, C11, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>SANDCLIFF RD, YK</prime_street>
-    <cross_streets>STONELEIGH RD / NOBLE PARK TRL</cross_streets>
-    <dispatch_time>2020-11-09 10:07:49</dispatch_time>
-    <event_num>F20111885</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>ALEXANDRA BLVD / GLENCAIRN AVE</cross_streets>
-    <dispatch_time>2020-11-09 10:12:29</dispatch_time>
-    <event_num>F20111886</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> A135, C13, P131, P132, R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-09 10:13:17</dispatch_time>
-    <event_num>F20111887</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> HZ145</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>LAIRD DR / EGLINTON AVE E</cross_streets>
     <dispatch_time>2020-11-09 10:13:29</dispatch_time>
@@ -72,43 +32,23 @@
     <units_disp> R321</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-09 10:20:51</dispatch_time>
-    <event_num>F20111891</event_num>
+    <dispatch_time>2020-11-09 10:41:08</dispatch_time>
+    <event_num>F20111897</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P116</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
   <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-09 10:21:28</dispatch_time>
-    <event_num>F20111892</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>SHEPPARD AVE, SC</prime_street>
+    <cross_streets>ATRIUM LANE / NATURE PTWY</cross_streets>
+    <dispatch_time>2020-11-09 10:43:42</dispatch_time>
+    <event_num>F20111898</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-09 10:22:46</dispatch_time>
-    <event_num>F20111893</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113</units_disp>
-  </event>
-  <event>
-    <prime_street>PRINCESS ANNE CRES, ET</prime_street>
-    <cross_streets>RAVENSBOURNE CRES / OLDHAM RD</cross_streets>
-    <dispatch_time>2020-11-09 10:23:46</dispatch_time>
-    <event_num>F20111894</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443, R441, A421, C44, R444</units_disp>
+    <beat>214</beat>
+    <units_disp> R214, A215, C21, P212, P234</units_disp>
   </event>
 </tfs_active_incidents>
