@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-10 14:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-10 15:15:02</update_from_db_time>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
     <cross_streets>LN N ANNETTE E RUNNYMEDE / MAHER AVE</cross_streets>
@@ -22,103 +22,83 @@
     <units_disp> P233, R235, HZ145</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>NORTH QUEEN ST / THE EAST MALL</cross_streets>
-    <dispatch_time>2020-11-10 14:24:50</dispatch_time>
-    <event_num>F20112378</event_num>
-    <event_type>Public Hazard</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> R434</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 14:34:53</dispatch_time>
-    <event_num>F20112379</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MIDLAND AVE / FINCH AVE E</cross_streets>
-    <dispatch_time>2020-11-10 14:34:53</dispatch_time>
-    <event_num>F20112380</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 14:37:39</dispatch_time>
-    <event_num>F20112381</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>VALECREST DR, ET</prime_street>
-    <cross_streets>GLENDARLING RD / GLENDARLING RD</cross_streets>
-    <dispatch_time>2020-11-10 14:39:01</dispatch_time>
-    <event_num>F20112382</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443, A421, C41, P431, P325</units_disp>
-  </event>
-  <event>
-    <prime_street>YORK MILLS RD, NY</prime_street>
-    <cross_streets>RAYOAK DR / VICTORIA PARK AVE</cross_streets>
-    <dispatch_time>2020-11-10 14:39:40</dispatch_time>
-    <event_num>F20112383</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> A244, C24, P245, P123, R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M4W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 14:40:55</dispatch_time>
-    <event_num>F20112384</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> A321, P322</units_disp>
-  </event>
-  <event>
-    <prime_street>DELSING DR, ET</prime_street>
-    <cross_streets>PORTERFIELD RD / HOLBEACH RD</cross_streets>
-    <dispatch_time>2020-11-10 14:41:04</dispatch_time>
-    <event_num>F20112385</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> R412, R413, R441, A415, R411, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>M4R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 14:41:18</dispatch_time>
-    <event_num>F20112386</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
     <prime_street>KEELE ST, YK</prime_street>
     <cross_streets>LAVENDER RD / HILLARY AVE</cross_streets>
     <dispatch_time>2020-11-10 14:41:33</dispatch_time>
     <event_num>F20112387</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <event_type>Alarm Institution</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>421</beat>
     <units_disp> R423, R133, A423, C42, P422</units_disp>
+  </event>
+  <event>
+    <prime_street>M5P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 14:49:58</dispatch_time>
+    <event_num>F20112390</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 14:54:43</dispatch_time>
+    <event_num>F20112391</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>BLEECKER ST, TT</prime_street>
+    <cross_streets>ST. JAMES TOWN WEST PARK TRL / ST. JAMES TOWN WEST PARK TRL</cross_streets>
+    <dispatch_time>2020-11-10 15:05:23</dispatch_time>
+    <event_num>F20112395</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> S313</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 15:05:50</dispatch_time>
+    <event_num>F20112396</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SPRINGMOUNT AVE / WILLIAM ST</cross_streets>
+    <dispatch_time>2020-11-10 15:08:31</dispatch_time>
+    <event_num>F20112397</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 15:08:57</dispatch_time>
+    <event_num>F20112398</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>M2M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 15:09:47</dispatch_time>
+    <event_num>F20112399</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
