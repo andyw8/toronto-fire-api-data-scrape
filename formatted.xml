@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-10 16:10:03</update_from_db_time>
+  <update_from_db_time>2020-11-10 16:20:02</update_from_db_time>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
     <cross_streets>LN N ANNETTE E RUNNYMEDE / MAHER AVE</cross_streets>
@@ -30,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>215</beat>
     <units_disp> A215, MP212, P212</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 15:52:42</dispatch_time>
-    <event_num>F20112409</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
   </event>
   <event>
     <prime_street>SHUTER ST, TT</prime_street>
@@ -82,16 +72,6 @@
     <units_disp> P211</units_disp>
   </event>
   <event>
-    <prime_street>DON MILLS RD, EY</prime_street>
-    <cross_streets>O'CONNOR DR / DVP N DON MILLS RD S RAMP</cross_streets>
-    <dispatch_time>2020-11-10 16:02:47</dispatch_time>
-    <event_num>F20112415</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
-  </event>
-  <event>
     <prime_street>M6N</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-10 16:05:01</dispatch_time>
@@ -100,5 +80,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
     <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M9B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 16:10:29</dispatch_time>
+    <event_num>F20112417</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>MORNELLE CRT, SC</prime_street>
+    <cross_streets>ELLESMERE RD / </cross_streets>
+    <dispatch_time>2020-11-10 16:12:35</dispatch_time>
+    <event_num>F20112418</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> P233, P242, R241, A113, C32, R115, P116, P125, A213, C23, R224, A215</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>OAKWOOD AVE / EGLINTON AVE W</cross_streets>
+    <dispatch_time>2020-11-10 16:15:32</dispatch_time>
+    <event_num>F20112419</event_num>
+    <event_type>Rescue - High Level</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> S331, S313, A315, A341, C34, P143</units_disp>
   </event>
 </tfs_active_incidents>
