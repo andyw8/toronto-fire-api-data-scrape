@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-10 18:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-10 18:40:02</update_from_db_time>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
     <cross_streets>LN N ANNETTE E RUNNYMEDE / MAHER AVE</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> A415</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 17:52:42</dispatch_time>
-    <event_num>F20112453</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
     <prime_street>WELLESLEY ST, TT</prime_street>
     <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
     <dispatch_time>2020-11-10 17:53:51</dispatch_time>
@@ -40,66 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>313</beat>
     <units_disp> S313, P313, A325, C31, P314, R325</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>YONGE ST / PARK RD</cross_streets>
-    <dispatch_time>2020-11-10 18:02:10</dispatch_time>
-    <event_num>F20112461</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312, P311, A312, C33, P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 18:02:15</dispatch_time>
-    <event_num>F20112462</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>HOLMES AVE / OLIVE AVE</cross_streets>
-    <dispatch_time>2020-11-10 18:06:50</dispatch_time>
-    <event_num>F20112465</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, P111, HR114, P121, T114, C11</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ANNETTE ST / BERESFORD AVE</cross_streets>
-    <dispatch_time>2020-11-10 18:07:07</dispatch_time>
-    <event_num>F20112466</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> R425</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>HUMBERLINE DR / ALBION RD</cross_streets>
-    <dispatch_time>2020-11-10 18:07:54</dispatch_time>
-    <event_num>F20112467</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R441</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 18:12:13</dispatch_time>
-    <event_num>F20112468</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P141</units_disp>
   </event>
   <event>
     <prime_street>M9V</prime_street>
@@ -122,23 +52,23 @@
     <units_disp> R133</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 18:19:07</dispatch_time>
-    <event_num>F20112471</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>CUMBERLAND ST, TT</prime_street>
+    <cross_streets>BELLAIR ST / AVENUE RD</cross_streets>
+    <dispatch_time>2020-11-10 18:26:21</dispatch_time>
+    <event_num>F20112475</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>312</beat>
+    <units_disp> C33</units_disp>
   </event>
   <event>
-    <prime_street>EGLINTON AVE, YK</prime_street>
-    <cross_streets>PEAREN ST / JANE ST</cross_streets>
-    <dispatch_time>2020-11-10 18:18:56</dispatch_time>
-    <event_num>F20112472</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 18:27:08</dispatch_time>
+    <event_num>F20112476</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421</units_disp>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
   </event>
 </tfs_active_incidents>
