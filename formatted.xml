@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-10 17:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-10 17:20:02</update_from_db_time>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
     <cross_streets>LN N ANNETTE E RUNNYMEDE / MAHER AVE</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> A215, MP212, P212</units_disp>
   </event>
   <event>
-    <prime_street>M2L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 16:22:58</dispatch_time>
-    <event_num>F20112422</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122</units_disp>
-  </event>
-  <event>
     <prime_street>M2N</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-10 16:50:34</dispatch_time>
@@ -60,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>344</beat>
     <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 17:03:52</dispatch_time>
-    <event_num>F20112433</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
   </event>
   <event>
     <prime_street>M9A</prime_street>
@@ -100,5 +80,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>321</beat>
     <units_disp> R321</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 17:16:31</dispatch_time>
+    <event_num>F20112438</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
+  </event>
+  <event>
+    <prime_street>M5E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 17:16:51</dispatch_time>
+    <event_num>F20112439</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
 </tfs_active_incidents>
