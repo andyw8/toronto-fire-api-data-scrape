@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-10 09:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-10 09:20:03</update_from_db_time>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
     <cross_streets>LN N ANNETTE E RUNNYMEDE / MAHER AVE</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>422</beat>
     <units_disp> A423, C42, P422, R421, R423, R425, A421, LA421, S445, R345, C40, P431, R426, P342, P445, R434, R411, P443, P431, R423, C42</units_disp>
-  </event>
-  <event>
-    <prime_street>M4H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 08:18:12</dispatch_time>
-    <event_num>F20112271</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>FINCH AVE W / TOPCLIFF AVE</cross_streets>
-    <dispatch_time>2020-11-10 08:56:03</dispatch_time>
-    <event_num>F20112282</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142, P141</units_disp>
   </event>
   <event>
     <prime_street>M4P</prime_street>
@@ -60,5 +40,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>346</beat>
     <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M1N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 09:15:21</dispatch_time>
+    <event_num>F20112289</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
 </tfs_active_incidents>
