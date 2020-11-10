@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-09 22:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-09 22:25:02</update_from_db_time>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
     <cross_streets>LN N ANNETTE E RUNNYMEDE / MAHER AVE</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P145, S143</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-09 21:56:38</dispatch_time>
-    <event_num>F20112174</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441</units_disp>
-  </event>
-  <event>
     <prime_street>M3C</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-09 22:02:53</dispatch_time>
@@ -40,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>123</beat>
     <units_disp> P123</units_disp>
-  </event>
-  <event>
-    <prime_street>DANFORTH AVE, TT</prime_street>
-    <cross_streets>GOUGH AVE / PAPE AVE</cross_streets>
-    <dispatch_time>2020-11-09 22:09:45</dispatch_time>
-    <event_num>F20112176</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, P322, P324, A322, C32</units_disp>
   </event>
   <event>
     <prime_street>HUMBERLINE DR, ET</prime_street>
