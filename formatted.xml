@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-10 13:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-10 13:20:02</update_from_db_time>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
     <cross_streets>LN N ANNETTE E RUNNYMEDE / MAHER AVE</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>433</beat>
     <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTON RD, YK</prime_street>
-    <cross_streets>LAWRENCE AVE W / JOHN ST</cross_streets>
-    <dispatch_time>2020-11-10 12:52:17</dispatch_time>
-    <event_num>F20112354</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, A423, C41, P443, P146, R133</units_disp>
   </event>
   <event>
     <prime_street>BAYVIEW AVE, EY</prime_street>
@@ -70,5 +60,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>344</beat>
     <units_disp> A312, C31, P312, P314, P315</units_disp>
+  </event>
+  <event>
+    <prime_street>DIXON RD, ET</prime_street>
+    <cross_streets>401 X W DIXON W RAMP / KELFIELD ST</cross_streets>
+    <dispatch_time>2020-11-10 13:16:54</dispatch_time>
+    <event_num>F20112364</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
   </event>
 </tfs_active_incidents>
