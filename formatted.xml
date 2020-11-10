@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-10 15:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-10 15:40:02</update_from_db_time>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
     <cross_streets>LN N ANNETTE E RUNNYMEDE / MAHER AVE</cross_streets>
@@ -22,56 +22,6 @@
     <units_disp> P233, R235, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>KEELE ST, YK</prime_street>
-    <cross_streets>LAVENDER RD / HILLARY AVE</cross_streets>
-    <dispatch_time>2020-11-10 14:41:33</dispatch_time>
-    <event_num>F20112387</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R423, R133, A423, C42, P422</units_disp>
-  </event>
-  <event>
-    <prime_street>M5P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 14:49:58</dispatch_time>
-    <event_num>F20112390</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> P135</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 14:54:43</dispatch_time>
-    <event_num>F20112391</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>BLEECKER ST, TT</prime_street>
-    <cross_streets>ST. JAMES TOWN WEST PARK TRL / ST. JAMES TOWN WEST PARK TRL</cross_streets>
-    <dispatch_time>2020-11-10 15:05:23</dispatch_time>
-    <event_num>F20112395</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>SPRINGMOUNT AVE / WILLIAM ST</cross_streets>
-    <dispatch_time>2020-11-10 15:08:31</dispatch_time>
-    <event_num>F20112397</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
     <prime_street>M2H</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-10 15:08:57</dispatch_time>
@@ -90,5 +40,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
     <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>BROCKLEY DR, SC</prime_street>
+    <cross_streets>LAWRENCE AVE E / ARCHIBALD MEWS</cross_streets>
+    <dispatch_time>2020-11-10 15:26:22</dispatch_time>
+    <event_num>F20112401</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>2</alarm_lev>
+    <beat>232</beat>
+    <units_disp> S232, A244, C23, P221, P232, P245, C24, A222, C22, LA231, R235, R243, P223, P234, P244, C21, HR114, HZ145, C20</units_disp>
+  </event>
+  <event>
+    <prime_street>M6L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 15:31:19</dispatch_time>
+    <event_num>F20112402</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 15:32:34</dispatch_time>
+    <event_num>F20112403</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> P114</units_disp>
   </event>
 </tfs_active_incidents>
