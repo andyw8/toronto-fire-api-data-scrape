@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-10 13:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-10 14:10:02</update_from_db_time>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
     <cross_streets>LN N ANNETTE E RUNNYMEDE / MAHER AVE</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> A423, R423</units_disp>
   </event>
   <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 13:27:10</dispatch_time>
-    <event_num>F20112368</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>ELM GROVE AVE / BROCK AVE</cross_streets>
-    <dispatch_time>2020-11-10 13:34:07</dispatch_time>
-    <event_num>F20112369</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426, P441CA, R426, A426, C34, P344</units_disp>
-  </event>
-  <event>
     <prime_street>VICTORIA PARK AVE, NY</prime_street>
     <cross_streets>SWEENEY DR / SLOANE AVE</cross_streets>
     <dispatch_time>2020-11-10 13:39:06</dispatch_time>
@@ -49,6 +29,46 @@
     <event_type>Vehicle Accident - Minor Fuel Leak</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <units_disp> P233, R235, HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 13:59:24</dispatch_time>
+    <event_num>F20112373</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>MAGINN MEWS, NY</prime_street>
+    <cross_streets>AGGIE HOGG GDNS / </cross_streets>
+    <dispatch_time>2020-11-10 14:01:10</dispatch_time>
+    <event_num>F20112374</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123, P125, C11, R122, A321</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 14:04:30</dispatch_time>
+    <event_num>F20112375</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 14:05:38</dispatch_time>
+    <event_num>F20112376</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
