@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-11 12:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-11 12:20:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -30,36 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
     <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>OSLER ST, TT</prime_street>
-    <cross_streets>LN S ST CLAIR E OSLER / ST CLAIR AVE W</cross_streets>
-    <dispatch_time>2020-11-11 11:28:17</dispatch_time>
-    <event_num>F20112696</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> HR332, HZ332, P342, C42, P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-11 11:45:17</dispatch_time>
-    <event_num>F20112703</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M5M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-11 11:52:57</dispatch_time>
-    <event_num>F20112706</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
   </event>
   <event>
     <prime_street>JANE ST, TT</prime_street>
@@ -119,7 +89,7 @@
     <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>343</beat>
-    <units_disp> P312, R341, R134, A315, C34</units_disp>
+    <units_disp> R341, A315, C34, P312, R134</units_disp>
   </event>
   <event>
     <prime_street>M3N</prime_street>
@@ -140,5 +110,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>111</beat>
     <units_disp> P111</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, NY</prime_street>
+    <cross_streets>CONNAUGHT AVE / PATRICIA AVE</cross_streets>
+    <dispatch_time>2020-11-11 12:15:23</dispatch_time>
+    <event_num>F20112715</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> C11, HR114, P113, P114, P121, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>QUEEN'S PARK / BEDFORD RD</cross_streets>
+    <dispatch_time>2020-11-11 12:15:53</dispatch_time>
+    <event_num>F20112716</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> A312</units_disp>
   </event>
 </tfs_active_incidents>
