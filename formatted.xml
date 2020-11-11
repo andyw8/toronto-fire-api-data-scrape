@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-11 14:40:03</update_from_db_time>
+  <update_from_db_time>2020-11-11 15:15:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -9,66 +9,96 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>3</alarm_lev>
     <beat>233</beat>
-    <units_disp> P233, P123, R115, A244, C22, P245, LA231, S232, A113, R122, P244, A222, C23, P116, P125, P232, R235, C32, HZ145, P114, P121, REHAB01, T114, C20, CMD10, CMD10C, R241, P211, C22, P123, P245, FI8, P233, P125, R235</units_disp>
+    <units_disp> P233, P123, R115, A244, C22, P245, LA231, S232, A113, R122, P244, A222, C23, P116, P125, P232, R235, C32, HZ145, P114, P121, REHAB01, T114, C20, CMD10, CMD10C, R241, P211, C22, P123, P245, FI8, P233, P125, R235, P222</units_disp>
   </event>
   <event>
-    <prime_street>M5P</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets>THE POND RD / KEELE ST</cross_streets>
+    <dispatch_time>2020-11-11 14:50:40</dispatch_time>
+    <event_num>F20112766</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>THE EAST MALL / EGLINTON AVE W</cross_streets>
+    <dispatch_time>2020-11-11 14:53:39</dispatch_time>
+    <event_num>F20112767</event_num>
+    <event_type>Vehicle - Spill Clean Up</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>DISTILLERY LANE, TT</prime_street>
+    <cross_streets>TRINITY ST / CHERRY ST</cross_streets>
+    <dispatch_time>2020-11-11 14:55:35</dispatch_time>
+    <event_num>F20112770</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P313, P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-11 14:24:00</dispatch_time>
-    <event_num>F20112756</event_num>
+    <dispatch_time>2020-11-11 15:01:55</dispatch_time>
+    <event_num>F20112772</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P135</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>HEPC / DREWRY AVE</cross_streets>
-    <dispatch_time>2020-11-11 14:27:57</dispatch_time>
-    <event_num>F20112757</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>KING ST / ROSEMOUNT AVE</cross_streets>
+    <dispatch_time>2020-11-11 15:03:22</dispatch_time>
+    <event_num>F20112773</event_num>
+    <event_type>Fire - Hydro Vault</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> HR114, P111, P113, P114, C11, T114</units_disp>
+    <beat>442</beat>
+    <units_disp> R421, S445, A133, HR114, P146, R133, C14</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-11 15:08:15</dispatch_time>
+    <event_num>F20112774</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
   </event>
   <event>
     <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-11 14:30:24</dispatch_time>
-    <event_num>F20112758</event_num>
+    <dispatch_time>2020-11-11 15:08:55</dispatch_time>
+    <event_num>F20112775</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>DUFFERIN ST / QUEEN ST W</cross_streets>
-    <dispatch_time>2020-11-11 14:32:29</dispatch_time>
-    <event_num>F20112759</event_num>
+    <cross_streets>BIRCHMOUNT RD / SHEPPARD AVE E</cross_streets>
+    <dispatch_time>2020-11-11 15:10:26</dispatch_time>
+    <event_num>F20112776</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
   </event>
   <event>
-    <prime_street>WESTON RD, NY</prime_street>
-    <cross_streets>HUMBER RIVER RECREATIONAL TRL / SHEPPARD AVE W</cross_streets>
-    <dispatch_time>2020-11-11 14:32:19</dispatch_time>
-    <event_num>F20112760</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411, P142, A411, P442, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>M1R</prime_street>
+    <prime_street>M4P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-11 14:35:54</dispatch_time>
-    <event_num>F20112761</event_num>
+    <dispatch_time>2020-11-11 15:11:13</dispatch_time>
+    <event_num>F20112777</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
