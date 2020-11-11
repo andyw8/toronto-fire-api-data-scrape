@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-10 19:50:02</update_from_db_time>
+  <update_from_db_time>2020-11-10 20:10:02</update_from_db_time>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
     <cross_streets>LN N ANNETTE E RUNNYMEDE / MAHER AVE</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>422</beat>
     <units_disp> A423, C42, P422, R421, R423, R425, A421, LA421, S445, R345, C40, P431, R426, P342, P445, R434, R411, P443, P431, R423, C42, P431, R425, C42, P426, P422</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 18:46:28</dispatch_time>
-    <event_num>F20112480</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423</units_disp>
   </event>
   <event>
     <prime_street>M6P</prime_street>
@@ -34,52 +24,12 @@
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-10 19:22:10</dispatch_time>
-    <event_num>F20112496</event_num>
-    <event_type>Vehicle Accident - Trapped - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P131, P135, R134, S313, C34</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>DELAWARE AVE / DOVERCOURT RD</cross_streets>
-    <dispatch_time>2020-11-10 19:34:50</dispatch_time>
-    <event_num>F20112500</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> P343, P315, A345, C42, R426, A315</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
     <dispatch_time>2020-11-10 19:40:25</dispatch_time>
     <event_num>F20112501</event_num>
     <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>245</beat>
-    <units_disp> A244, P245</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>AVENUE RD / BOMBAY AVE</cross_streets>
-    <dispatch_time>2020-11-10 19:38:47</dispatch_time>
-    <event_num>F20112502</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>WELLESWORTH DR / </cross_streets>
-    <dispatch_time>2020-11-10 19:43:48</dispatch_time>
-    <event_num>F20112504</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
+    <units_disp> A244, P245, A244</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -90,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 19:58:40</dispatch_time>
+    <event_num>F20112506</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> A415</units_disp>
+  </event>
+  <event>
+    <prime_street>M5H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 20:05:42</dispatch_time>
+    <event_num>F20112507</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
