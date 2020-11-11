@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-11 13:15:03</update_from_db_time>
+  <update_from_db_time>2020-11-11 13:20:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -44,16 +44,6 @@
   <event>
     <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-11 12:57:42</dispatch_time>
-    <event_num>F20112731</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
     <dispatch_time>2020-11-11 13:04:59</dispatch_time>
     <event_num>F20112734</event_num>
     <event_type>MEDICAL</event_type>
@@ -62,13 +52,13 @@
     <units_disp> P212</units_disp>
   </event>
   <event>
-    <prime_street>M5G</prime_street>
+    <prime_street>M4P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-11 13:11:13</dispatch_time>
-    <event_num>F20112736</event_num>
+    <dispatch_time>2020-11-11 13:14:42</dispatch_time>
+    <event_num>F20112737</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
