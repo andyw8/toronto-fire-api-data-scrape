@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-11 05:05:02</update_from_db_time>
+  <update_from_db_time>2020-11-11 05:20:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -12,33 +12,13 @@
     <units_disp> P233, P123, R115, A244, C22, P245, LA231, S232, A113, R122, P244, A222, C23, P116, P125, P232, R235, C32, HZ145, P114, P121, REHAB01, T114, C20, CMD10, CMD10C, R241, P211</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>JARVIS ST / GEORGE ST</cross_streets>
-    <dispatch_time>2020-11-11 04:27:32</dispatch_time>
-    <event_num>F20112606</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, P333, A325, C33, P314</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-11 04:54:39</dispatch_time>
-    <event_num>F20112609</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <cross_streets>QUEEN ST W / GLADSTONE AVE</cross_streets>
+    <dispatch_time>2020-11-11 05:15:57</dispatch_time>
+    <event_num>F20112611</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> P441CA, R444</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Z</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-11 04:55:11</dispatch_time>
-    <event_num>F20112610</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
   </event>
 </tfs_active_incidents>
