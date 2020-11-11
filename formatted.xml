@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-11 16:10:03</update_from_db_time>
+  <update_from_db_time>2020-11-11 16:20:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> R231</units_disp>
   </event>
   <event>
-    <prime_street>M5E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-11 15:46:10</dispatch_time>
-    <event_num>F20112797</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P334, P314</units_disp>
-  </event>
-  <event>
     <prime_street>M4C</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-11 15:52:39</dispatch_time>
@@ -40,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>HEPC / DREWRY AVE</cross_streets>
-    <dispatch_time>2020-11-11 15:57:21</dispatch_time>
-    <event_num>F20112799</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P111, P114, P121, C11, HR114, T114</units_disp>
   </event>
   <event>
     <prime_street>YONGE ST, NY</prime_street>
@@ -62,13 +42,13 @@
     <units_disp> P145, C13, HZ145, R122</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-11 16:02:37</dispatch_time>
-    <event_num>F20112801</event_num>
+    <dispatch_time>2020-11-11 16:10:05</dispatch_time>
+    <event_num>F20112802</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <beat>114</beat>
+    <units_disp> HR114</units_disp>
   </event>
 </tfs_active_incidents>
