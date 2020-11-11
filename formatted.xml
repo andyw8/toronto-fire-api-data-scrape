@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-11 09:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-11 09:20:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -32,13 +32,23 @@
     <units_disp> P333, R325, R326, T333, C32, C33</units_disp>
   </event>
   <event>
-    <prime_street>EGLINTON AVE, TT</prime_street>
-    <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
-    <dispatch_time>2020-11-11 08:59:09</dispatch_time>
-    <event_num>F20112644</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>YUKON PL, TT</prime_street>
+    <cross_streets>ALBERTA CRCL / MARTIN GOODMAN TRL</cross_streets>
+    <dispatch_time>2020-11-11 09:09:32</dispatch_time>
+    <event_num>F20112645</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>346</beat>
+    <units_disp> C34, P315, P331, A426, P426, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-11 09:12:55</dispatch_time>
+    <event_num>F20112646</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> A331</units_disp>
   </event>
 </tfs_active_incidents>
