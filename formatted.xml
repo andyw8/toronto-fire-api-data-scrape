@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-10 22:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-10 22:40:02</update_from_db_time>
   <event>
     <prime_street>UNWIN AVE, TT</prime_street>
     <cross_streets>MARTIN GOODMAN TRL / CHERRY BEACH SPORTS FIELDS TRL</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P212</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 22:06:06</dispatch_time>
-    <event_num>F20112544</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
     <prime_street>NORTON AVE, NY</prime_street>
     <cross_streets>LN E YONGE N NORTON / DORIS AVE</cross_streets>
     <dispatch_time>2020-11-10 22:07:51</dispatch_time>
@@ -42,13 +32,23 @@
     <units_disp> P114, S143</units_disp>
   </event>
   <event>
-    <prime_street>M5M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-10 22:13:36</dispatch_time>
-    <event_num>F20112547</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>BUCKSBURN RD / SILVERSTONE DR</cross_streets>
+    <dispatch_time>2020-11-10 22:22:56</dispatch_time>
+    <event_num>F20112552</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121, R122</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>DAVISVILLE AVE, TT</prime_street>
+    <cross_streets>YONGE ST / PAILTON CRES</cross_streets>
+    <dispatch_time>2020-11-10 22:24:56</dispatch_time>
+    <event_num>F20112554</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
 </tfs_active_incidents>
