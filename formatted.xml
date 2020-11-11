@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-11 17:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-11 17:45:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -24,16 +24,6 @@
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-11 16:38:32</dispatch_time>
-    <event_num>F20112810</event_num>
-    <event_type>Vehicle - Spill Clean Up - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432, P445, C44, PL432</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
     <dispatch_time>2020-11-11 17:00:11</dispatch_time>
     <event_num>F20112813</event_num>
     <event_type>Vehicle - Personal Injury Highway</event_type>
@@ -43,42 +33,92 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>O'CONNOR DR / WOLVERTON AVE</cross_streets>
-    <dispatch_time>2020-11-11 17:10:14</dispatch_time>
-    <event_num>F20112814</event_num>
+    <cross_streets>CHESSWOOD DR / FINCH AVE W</cross_streets>
+    <dispatch_time>2020-11-11 17:21:02</dispatch_time>
+    <event_num>F20112820</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322, P322</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
   <event>
-    <prime_street>PINEMEADOW BLVD, SC</prime_street>
-    <cross_streets>ADENCLIFF RD / LONGFORD CRES</cross_streets>
-    <dispatch_time>2020-11-11 17:11:32</dispatch_time>
-    <event_num>F20112815</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M4E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-11 17:25:13</dispatch_time>
+    <event_num>F20112821</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
+  </event>
+  <event>
+    <prime_street>WESTON RD, NY</prime_street>
+    <cross_streets>HUMBER RIVER RECREATIONAL TRL / SHEPPARD AVE W</cross_streets>
+    <dispatch_time>2020-11-11 17:27:13</dispatch_time>
+    <event_num>F20112822</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> S143, R411</units_disp>
+  </event>
+  <event>
+    <prime_street>GILDER DR, SC</prime_street>
+    <cross_streets>MIDLAND AVE / EGLINTON AVE E</cross_streets>
+    <dispatch_time>2020-11-11 17:27:18</dispatch_time>
+    <event_num>F20112823</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221, P232, A222, C23, P223</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-11 17:32:10</dispatch_time>
+    <event_num>F20112827</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-11 17:34:08</dispatch_time>
+    <event_num>F20112828</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-11 17:37:44</dispatch_time>
+    <event_num>F20112829</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ESQUIRE RD / NOBERT RD</cross_streets>
+    <dispatch_time>2020-11-11 17:39:08</dispatch_time>
+    <event_num>F20112830</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BIRCHMOUNT RD / SHEPPARD AVE E</cross_streets>
+    <dispatch_time>2020-11-11 17:39:03</dispatch_time>
+    <event_num>F20112831</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>FALLINGBROOK CRES / FALLINGBROOK RD</cross_streets>
-    <dispatch_time>2020-11-11 17:12:45</dispatch_time>
-    <event_num>F20112816</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DUFFERIN ST / QUEEN ST W</cross_streets>
-    <dispatch_time>2020-11-11 17:15:31</dispatch_time>
-    <event_num>F20112817</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
