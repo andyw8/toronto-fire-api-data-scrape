@@ -1,54 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-10 22:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-10 23:15:02</update_from_db_time>
   <event>
-    <prime_street>UNWIN AVE, TT</prime_street>
-    <cross_streets>MARTIN GOODMAN TRL / CHERRY BEACH SPORTS FIELDS TRL</cross_streets>
-    <dispatch_time>2020-11-10 21:44:57</dispatch_time>
-    <event_num>F20112537</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M4W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 22:40:51</dispatch_time>
+    <event_num>F20112557</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 22:59:51</dispatch_time>
+    <event_num>F20112561</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>DIXON RD, ET</prime_street>
+    <cross_streets>401 X W DIXON W RAMP / KELFIELD ST</cross_streets>
+    <dispatch_time>2020-11-10 23:05:17</dispatch_time>
+    <event_num>F20112564</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441, P441CA, A415, C41, R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 23:06:58</dispatch_time>
+    <event_num>F20112565</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <units_disp> T333, P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M4H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-10 23:09:55</dispatch_time>
+    <event_num>F20112566</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>MORNINGSIDE AVE / CINEMART DR</cross_streets>
-    <dispatch_time>2020-11-10 21:55:12</dispatch_time>
-    <event_num>F20112539</event_num>
+    <cross_streets>SENTINEL RD / GRANDRAVINE DR</cross_streets>
+    <dispatch_time>2020-11-10 23:11:51</dispatch_time>
+    <event_num>F20112567</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
-  </event>
-  <event>
-    <prime_street>NORTON AVE, NY</prime_street>
-    <cross_streets>LN E YONGE N NORTON / DORIS AVE</cross_streets>
-    <dispatch_time>2020-11-10 22:07:51</dispatch_time>
-    <event_num>F20112545</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, S143</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BUCKSBURN RD / SILVERSTONE DR</cross_streets>
-    <dispatch_time>2020-11-10 22:22:56</dispatch_time>
-    <event_num>F20112552</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>DAVISVILLE AVE, TT</prime_street>
-    <cross_streets>YONGE ST / PAILTON CRES</cross_streets>
-    <dispatch_time>2020-11-10 22:24:56</dispatch_time>
-    <event_num>F20112554</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
 </tfs_active_incidents>
