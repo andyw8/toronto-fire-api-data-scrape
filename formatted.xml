@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-11 15:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-11 15:20:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -42,26 +42,6 @@
     <units_disp> P313, P333</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-11 15:01:55</dispatch_time>
-    <event_num>F20112772</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>KING ST / ROSEMOUNT AVE</cross_streets>
-    <dispatch_time>2020-11-11 15:03:22</dispatch_time>
-    <event_num>F20112773</event_num>
-    <event_type>Fire - Hydro Vault</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> R421, S445, A133, HR114, P146, R133, C14</units_disp>
-  </event>
-  <event>
     <prime_street>M5T</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-11 15:08:15</dispatch_time>
@@ -70,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>315</beat>
     <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-11 15:08:55</dispatch_time>
-    <event_num>F20112775</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -100,5 +70,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
     <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-11 15:12:19</dispatch_time>
+    <event_num>F20112778</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-11 15:13:08</dispatch_time>
+    <event_num>F20112779</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> A421</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-11 15:14:45</dispatch_time>
+    <event_num>F20112780</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
+  </event>
+  <event>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>ST BASIL LANE / ST JOSEPH ST</cross_streets>
+    <dispatch_time>2020-11-11 15:14:52</dispatch_time>
+    <event_num>F20112781</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314, P332, A312, C31, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-11 15:15:56</dispatch_time>
+    <event_num>F20112782</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-11 15:16:18</dispatch_time>
+    <event_num>F20112783</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
   </event>
 </tfs_active_incidents>
