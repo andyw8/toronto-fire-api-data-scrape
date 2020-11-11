@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-11 14:10:03</update_from_db_time>
+  <update_from_db_time>2020-11-11 14:20:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> P311, P313, S313, A135, C13, HR114, R134, CMD30</units_disp>
   </event>
   <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-11 13:43:17</dispatch_time>
-    <event_num>F20112744</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
-    <prime_street>BARBERRY PL, NY</prime_street>
-    <cross_streets>KENASTON GDNS / REAN DR</cross_streets>
-    <dispatch_time>2020-11-11 13:45:00</dispatch_time>
-    <event_num>F20112745</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> R122</units_disp>
-  </event>
-  <event>
     <prime_street>M2M</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-11 13:44:20</dispatch_time>
@@ -62,33 +42,13 @@
     <units_disp> P111</units_disp>
   </event>
   <event>
-    <prime_street>M6S</prime_street>
+    <prime_street>M4J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-11 13:47:21</dispatch_time>
-    <event_num>F20112748</event_num>
+    <dispatch_time>2020-11-11 14:13:25</dispatch_time>
+    <event_num>F20112751</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-11 13:49:51</dispatch_time>
-    <event_num>F20112749</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> P441CA</units_disp>
-  </event>
-  <event>
-    <prime_street>LANSBURY DR, SC</prime_street>
-    <cross_streets>WW N BRIMSTONE W LANSBURY / MIDDLEFIELD RD</cross_streets>
-    <dispatch_time>2020-11-11 14:02:41</dispatch_time>
-    <event_num>F20112750</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P211</units_disp>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
