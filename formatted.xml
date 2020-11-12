@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-12 12:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-12 13:15:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -19,7 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>225</beat>
-    <units_disp> R224, R225, A222, C22, P222, P223, LA231, R235, S232, A322, A322, C23, P221, P226, P232, R225, A222, C23, R224</units_disp>
+    <units_disp> R224, R225, A222, C22, P222, P223, LA231, R235, S232, A322, A322, C23, P221, P226, P232, R225, A222, C23, R224, A222</units_disp>
   </event>
   <event>
     <prime_street>WARLINGHAM CRT, ET</prime_street>
@@ -32,43 +32,53 @@
     <units_disp> A415, C44, P432, P445, R434, R444, S445</units_disp>
   </event>
   <event>
-    <prime_street>SHEPPARD AVE, SC</prime_street>
-    <cross_streets>MARKHAM RD / MALVERN ST</cross_streets>
-    <dispatch_time>2020-11-12 12:18:25</dispatch_time>
-    <event_num>F20113049</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R243, R231, A213, C23, P212</units_disp>
-  </event>
-  <event>
-    <prime_street>DEAUVILLE LANE, NY</prime_street>
-    <cross_streets>GRENOBLE DR / ST DENNIS DR</cross_streets>
-    <dispatch_time>2020-11-12 12:22:36</dispatch_time>
-    <event_num>F20113050</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-12 13:03:06</dispatch_time>
+    <event_num>F20113063</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>125</beat>
-    <units_disp> P125, A222, C32, P322, R235, R321, A222</units_disp>
+    <units_disp> P125</units_disp>
   </event>
   <event>
-    <prime_street>ORIOLE PKWY, TT</prime_street>
-    <cross_streets>TRANMER AVE / HILLSDALE AVE W</cross_streets>
-    <dispatch_time>2020-11-12 12:23:23</dispatch_time>
-    <event_num>F20113051</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>BEDFORD RD, TT</prime_street>
+    <cross_streets>PRINCE ARTHUR AVE / TADDLE CREEK PARK TRL</cross_streets>
+    <dispatch_time>2020-11-12 13:05:10</dispatch_time>
+    <event_num>F20113064</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>312</beat>
+    <units_disp> A312, C31, P313, P314, P315</units_disp>
   </event>
   <event>
-    <prime_street>EGLINTON AVE, YK</prime_street>
-    <cross_streets>NORTHCLIFFE BLVD / DUFFERIN N EGLINTON E RAMP</cross_streets>
-    <dispatch_time>2020-11-12 12:30:53</dispatch_time>
-    <event_num>F20113052</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-12 13:05:50</dispatch_time>
+    <event_num>F20113065</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> P342, P343, R341, A341, C34</units_disp>
+    <beat>225</beat>
+    <units_disp> P222</units_disp>
+  </event>
+  <event>
+    <prime_street>WELLINGTON ST, TT</prime_street>
+    <cross_streets>BAY ST / YORK ST</cross_streets>
+    <dispatch_time>2020-11-12 13:10:23</dispatch_time>
+    <event_num>F20113066</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P333, C33, P334, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-12 13:11:11</dispatch_time>
+    <event_num>F20113067</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
