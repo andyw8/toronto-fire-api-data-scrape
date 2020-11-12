@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-12 17:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-12 18:10:02</update_from_db_time>
   <event>
     <prime_street>NORTH WOODROW BLVD, SC</prime_street>
     <cross_streets>MOIRA AVE / DANFORTH RD</cross_streets>
@@ -12,101 +12,11 @@
     <units_disp> R224, R225, A222, C22, P222, P223, LA231, R235, S232, A322, A322, C23, P221, P226, P232, R225, A222, C23, R224, A222, P223, P227</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>LAKE SHORE BLVD W / PARK LAWN RD</cross_streets>
-    <dispatch_time>2020-11-12 17:03:00</dispatch_time>
-    <event_num>F20113137</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> R435, P431</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 17:10:46</dispatch_time>
-    <event_num>F20113142</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DUNDAS ST E / GREENWOOD AVE</cross_streets>
-    <dispatch_time>2020-11-12 17:26:38</dispatch_time>
-    <event_num>F20113145</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> R326</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>JARVIS ST / GEORGE ST</cross_streets>
-    <dispatch_time>2020-11-12 17:27:46</dispatch_time>
-    <event_num>F20113147</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P332, C33, P314, R325, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 17:29:37</dispatch_time>
-    <event_num>F20113149</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
-    <prime_street>M5P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 17:32:48</dispatch_time>
-    <event_num>F20113150</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135</units_disp>
-  </event>
-  <event>
-    <prime_street>PITKIN CRT, NY</prime_street>
-    <cross_streets>CULFORD RD / </cross_streets>
-    <dispatch_time>2020-11-12 17:32:31</dispatch_time>
-    <event_num>F20113151</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, ET</prime_street>
-    <cross_streets>BOTFIELD AVE / JOPLING AVE N</cross_streets>
-    <dispatch_time>2020-11-12 17:32:46</dispatch_time>
-    <event_num>F20113152</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>RICHMOND ST, TT</prime_street>
-    <cross_streets>JARVIS ST RICHMOND ST E RAMP / CENTRAL FIRE STATION LANE</cross_streets>
-    <dispatch_time>2020-11-12 17:34:42</dispatch_time>
-    <event_num>F20113153</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> C33, HR332, P312, P332, P334, T333</units_disp>
-  </event>
-  <event>
     <prime_street>FINCH AVE, SC</prime_street>
     <cross_streets>WARDEN AVE / BRIDLETOWNE CRCL</cross_streets>
     <dispatch_time>2020-11-12 17:35:26</dispatch_time>
     <event_num>F20113154</event_num>
-    <event_type>Check Call</event_type>
+    <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>241</beat>
     <units_disp> R241</units_disp>
@@ -120,5 +30,75 @@
     <alarm_lev>0</alarm_lev>
     <beat>331</beat>
     <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street>RUNNYMEDE RD, TT</prime_street>
+    <cross_streets>WOODSIDE AVE / MAC GREGOR AVE</cross_streets>
+    <dispatch_time>2020-11-12 17:41:09</dispatch_time>
+    <event_num>F20113159</event_num>
+    <event_type>Vehicle Fire</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>EAST LIBERTY ST, TT</prime_street>
+    <cross_streets>LIBERTY VILLAGE PARK TRL / LYNN WILLIAMS ST</cross_streets>
+    <dispatch_time>2020-11-12 17:46:46</dispatch_time>
+    <event_num>F20113160</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> S331, P334, C33, P332, A426, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>WEST LODGE AVE, TT</prime_street>
+    <cross_streets>SEAFORTH AVE / WEST LODGE PARK TRL</cross_streets>
+    <dispatch_time>2020-11-12 17:50:48</dispatch_time>
+    <event_num>F20113161</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P315, P344, A423, R425, C34, R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-12 17:59:51</dispatch_time>
+    <event_num>F20113163</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325, P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-12 18:05:08</dispatch_time>
+    <event_num>F20113164</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>MERCER ST, TT</prime_street>
+    <cross_streets>JOHN ST / LN E JOHN S MERCER</cross_streets>
+    <dispatch_time>2020-11-12 18:06:46</dispatch_time>
+    <event_num>F20113165</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P334, P344, A331, C33, HR332, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>RICHMOND ST, TT</prime_street>
+    <cross_streets>LN E BATHURST N RICHMOND / LN E BATHURST S RICHMOND</cross_streets>
+    <dispatch_time>2020-11-12 18:06:53</dispatch_time>
+    <event_num>F20113166</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P324, P333, C31, HZ332</units_disp>
   </event>
 </tfs_active_incidents>
