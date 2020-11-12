@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-12 16:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-12 16:20:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -32,66 +32,6 @@
     <units_disp> R224, P322, R235, P125</units_disp>
   </event>
   <event>
-    <prime_street>SUMACH ST, TT</prime_street>
-    <cross_streets>OAK ST / GERRARD ST E</cross_streets>
-    <dispatch_time>2020-11-12 15:16:35</dispatch_time>
-    <event_num>F20113107</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P324, R325, C31, HZ332</units_disp>
-  </event>
-  <event>
-    <prime_street>M4A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 15:43:28</dispatch_time>
-    <event_num>F20113115</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
-  </event>
-  <event>
-    <prime_street>PALACE PIER CRT, ET</prime_street>
-    <cross_streets>HUMBER BAY SHORES PARK TRL / WATERFRONT DR</cross_streets>
-    <dispatch_time>2020-11-12 15:45:28</dispatch_time>
-    <event_num>F20113116</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, R435</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 15:51:14</dispatch_time>
-    <event_num>F20113118</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>L4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 15:51:47</dispatch_time>
-    <event_num>F20113119</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 15:52:39</dispatch_time>
-    <event_num>F20113120</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
-  </event>
-  <event>
     <prime_street>M1T</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-12 16:03:37</dispatch_time>
@@ -102,16 +42,6 @@
     <units_disp> A244</units_disp>
   </event>
   <event>
-    <prime_street>M5E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 16:05:25</dispatch_time>
-    <event_num>F20113124</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
     <prime_street>M4C</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-12 16:05:39</dispatch_time>
@@ -120,5 +50,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>224</beat>
     <units_disp> R224</units_disp>
+  </event>
+  <event>
+    <prime_street>M9L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-12 16:11:04</dispatch_time>
+    <event_num>F20113126</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-12 16:16:43</dispatch_time>
+    <event_num>F20113127</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
