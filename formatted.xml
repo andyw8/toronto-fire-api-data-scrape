@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-12 17:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-12 17:20:02</update_from_db_time>
   <event>
     <prime_street>NORTH WOODROW BLVD, SC</prime_street>
     <cross_streets>MOIRA AVE / DANFORTH RD</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> P431, R425, P433, A433</units_disp>
   </event>
   <event>
-    <prime_street>CHARLES ST, TT</prime_street>
-    <cross_streets>BALMUTO ST / LA SCALA LANE</cross_streets>
-    <dispatch_time>2020-11-12 16:52:52</dispatch_time>
-    <event_num>F20113134</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 16:53:52</dispatch_time>
-    <event_num>F20113135</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>LAKE SHORE BLVD W / PARK LAWN RD</cross_streets>
     <dispatch_time>2020-11-12 17:03:00</dispatch_time>
@@ -60,5 +40,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>322</beat>
     <units_disp> A322</units_disp>
+  </event>
+  <event>
+    <prime_street>HOLLYBERRY TRL, NY</prime_street>
+    <cross_streets>SWEETWOOD GT / EBONYWOOD GT</cross_streets>
+    <dispatch_time>2020-11-12 17:08:33</dispatch_time>
+    <event_num>F20113140</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>CARLTON ST, TT</prime_street>
+    <cross_streets>BERKELEY ST / PARLIAMENT ST</cross_streets>
+    <dispatch_time>2020-11-12 17:10:11</dispatch_time>
+    <event_num>F20113141</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-12 17:10:46</dispatch_time>
+    <event_num>F20113142</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
   </event>
 </tfs_active_incidents>
