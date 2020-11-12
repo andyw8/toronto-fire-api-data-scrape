@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-11 22:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-11 23:15:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -22,53 +22,43 @@
     <units_disp> A222, C22, P222, P223, R225, R235</units_disp>
   </event>
   <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-11 22:18:05</dispatch_time>
-    <event_num>F20112903</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>TYNDALL AVE, TT</prime_street>
+    <cross_streets>THORBURN AVE / TEMPLE AVE</cross_streets>
+    <dispatch_time>2020-11-11 23:00:54</dispatch_time>
+    <event_num>F20112909</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
   <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-11 22:27:59</dispatch_time>
-    <event_num>F20112904</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-11 23:08:29</dispatch_time>
+    <event_num>F20112910</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
+    <prime_street>M4W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-11 22:36:20</dispatch_time>
-    <event_num>F20112906</event_num>
+    <dispatch_time>2020-11-11 23:08:57</dispatch_time>
+    <event_num>F20112911</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
+    <prime_street>M4A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-11 22:37:06</dispatch_time>
-    <event_num>F20112907</event_num>
+    <dispatch_time>2020-11-11 23:10:12</dispatch_time>
+    <event_num>F20112912</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R321</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-11 22:38:58</dispatch_time>
-    <event_num>F20112908</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
 </tfs_active_incidents>
