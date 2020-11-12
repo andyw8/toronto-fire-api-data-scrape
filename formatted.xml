@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-12 01:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-12 01:40:02</update_from_db_time>
   <event>
     <prime_street>TREADGOLD CRES, NY</prime_street>
     <cross_streets>BROOKBANKS PARK TRL / BROOKBANKS PARK TRL</cross_streets>
@@ -12,23 +12,13 @@
     <units_disp> P233, P123, R115, A244, C22, P245, LA231, S232, A113, R122, P244, A222, C23, P116, P125, P232, R235, C32, HZ145, P114, P121, REHAB01, T114, C20, CMD10, CMD10C, R241, P211, C22, P123, P245, FI8, P233, P125, R235, P222, P111, P121, P114, C11, P221, R231, A213</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 01:13:10</dispatch_time>
-    <event_num>F20112930</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>TROLLEY CRES, TT</prime_street>
+    <cross_streets>LOWER RIVER ST / LOWER RIVER ST</cross_streets>
+    <dispatch_time>2020-11-12 01:25:47</dispatch_time>
+    <event_num>F20112932</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 01:15:25</dispatch_time>
-    <event_num>F20112931</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R321</units_disp>
+    <beat>333</beat>
+    <units_disp> P333, R325, R326, C33, P324, T333</units_disp>
   </event>
 </tfs_active_incidents>
