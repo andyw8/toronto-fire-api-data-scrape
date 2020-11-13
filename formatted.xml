@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-12 22:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-12 23:10:02</update_from_db_time>
   <event>
     <prime_street>KIPLING AVE, ET</prime_street>
     <cross_streets>HAYHURST RD / DIXON RD</cross_streets>
@@ -22,33 +22,43 @@
     <units_disp> P323, S313, A322, C32, R321, R224</units_disp>
   </event>
   <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 22:23:06</dispatch_time>
-    <event_num>F20113245</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>FORTY SECOND ST, ET</prime_street>
+    <cross_streets>WATERFRONT TRL / HILO RD</cross_streets>
+    <dispatch_time>2020-11-12 22:58:34</dispatch_time>
+    <event_num>F20113252</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>434</beat>
+    <units_disp> R434</units_disp>
   </event>
   <event>
-    <prime_street>GLEN EVEREST RD, SC</prime_street>
-    <cross_streets>ROSETTA MCCLAIN GARDENS TRL / WYNNVIEW CRT</cross_streets>
-    <dispatch_time>2020-11-12 22:23:57</dispatch_time>
-    <event_num>F20113246</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
+    <prime_street>FINCH AVE, SC</prime_street>
+    <cross_streets>MARKHAM RD / TAPSCOTT RD</cross_streets>
+    <dispatch_time>2020-11-12 22:59:25</dispatch_time>
+    <event_num>F20113253</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>211</beat>
+    <units_disp> R214, P211, A213, C24, P212, P242</units_disp>
   </event>
   <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 22:24:07</dispatch_time>
-    <event_num>F20113247</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>MCMAHON DR, NY</prime_street>
+    <cross_streets>WOODSY PARK LANE / ESTHER SHINER BLVD</cross_streets>
+    <dispatch_time>2020-11-12 23:02:17</dispatch_time>
+    <event_num>F20113254</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
+    <beat>116</beat>
+    <units_disp> P116, R115, A113, C11, R122</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, NY</prime_street>
+    <cross_streets>HILLCREST AVE / EMPRESS AVE</cross_streets>
+    <dispatch_time>2020-11-12 23:03:46</dispatch_time>
+    <event_num>F20113255</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, P121, C13, R112, T114</units_disp>
   </event>
 </tfs_active_incidents>
