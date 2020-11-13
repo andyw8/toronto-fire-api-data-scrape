@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-12 23:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-13 00:10:02</update_from_db_time>
   <event>
     <prime_street>KIPLING AVE, ET</prime_street>
     <cross_streets>HAYHURST RD / DIXON RD</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>441</beat>
-    <units_disp> S445, P445, R444, A415, C44, R421, C40, A421, LA421, R412, R413, HZ145, MPV341, R341, P426</units_disp>
+    <units_disp> S445, P445, R444, A415, C44, R421, C40, A421, LA421, R412, R413, HZ145, MPV341, R341, P426, R411</units_disp>
   </event>
   <event>
     <prime_street>FINCH AVE, SC</prime_street>
@@ -22,13 +22,23 @@
     <units_disp> R214, P211, A213, C24, P212, P242</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
+    <prime_street>M9C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-12 23:34:10</dispatch_time>
-    <event_num>F20113258</event_num>
+    <dispatch_time>2020-11-12 23:57:18</dispatch_time>
+    <event_num>F20113259</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
+    <beat>432</beat>
+    <units_disp> P432</units_disp>
+  </event>
+  <event>
+    <prime_street>WILLISON SQ, TT</prime_street>
+    <cross_streets>WILLISON PL / </cross_streets>
+    <dispatch_time>2020-11-12 23:59:21</dispatch_time>
+    <event_num>F20113260</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> A331, C33, P314, P315, P331, P332</units_disp>
   </event>
 </tfs_active_incidents>
