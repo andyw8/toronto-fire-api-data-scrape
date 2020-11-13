@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-13 00:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-13 00:45:02</update_from_db_time>
   <event>
     <prime_street>KIPLING AVE, ET</prime_street>
     <cross_streets>HAYHURST RD / DIXON RD</cross_streets>
@@ -12,43 +12,33 @@
     <units_disp> S445, P445, R444, A415, C44, R421, C40, A421, LA421, R412, R413, HZ145, MPV341, R341, P426, R411</units_disp>
   </event>
   <event>
-    <prime_street>FINCH AVE, SC</prime_street>
-    <cross_streets>MARKHAM RD / TAPSCOTT RD</cross_streets>
-    <dispatch_time>2020-11-12 22:59:25</dispatch_time>
-    <event_num>F20113253</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> R214, P211, A213, C24, P212, P242</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>REES ST / LOWER SPADINA AVE</cross_streets>
-    <dispatch_time>2020-11-13 00:07:49</dispatch_time>
-    <event_num>F20113261</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P331, P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
+    <prime_street>M4W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-13 00:08:04</dispatch_time>
-    <event_num>F20113262</event_num>
+    <dispatch_time>2020-11-13 00:31:15</dispatch_time>
+    <event_num>F20113265</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-13 00:10:38</dispatch_time>
-    <event_num>F20113264</event_num>
+    <dispatch_time>2020-11-13 00:36:11</dispatch_time>
+    <event_num>F20113266</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
+    <cross_streets>R. V. BURGESS PARK TRL / WEST DON RIVER TRL</cross_streets>
+    <dispatch_time>2020-11-13 00:37:32</dispatch_time>
+    <event_num>F20113267</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
   </event>
 </tfs_active_incidents>
