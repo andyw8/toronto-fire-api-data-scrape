@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-13 09:20:02</update_from_db_time>
-  <event>
-    <prime_street>KIPLING AVE, ET</prime_street>
-    <cross_streets>HAYHURST RD / DIXON RD</cross_streets>
-    <dispatch_time>2020-11-12 20:01:49</dispatch_time>
-    <event_num>F20113206</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>441</beat>
-    <units_disp> S445, P445, R444, A415, C44, R421, C40, A421, LA421, R412, R413, HZ145, MPV341, R341, P426, R411, P433, R425, R441, P441CA</units_disp>
-  </event>
+  <update_from_db_time>2020-11-13 09:45:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>BELLAMY RAVINE CREEK / WEST HILL CREEK</cross_streets>
@@ -20,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>223</beat>
     <units_disp> P223, C22, MP212, P212</units_disp>
-  </event>
-  <event>
-    <prime_street>VILLAGE GREEN SQ, SC</prime_street>
-    <cross_streets>401 C W KENNEDY RD N RAMP / </cross_streets>
-    <dispatch_time>2020-11-13 08:33:56</dispatch_time>
-    <event_num>F20113326</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P324, C23, R243, HZ145, R243, C24, A213</units_disp>
   </event>
   <event>
     <prime_street>M1L</prime_street>
@@ -42,26 +22,6 @@
     <units_disp> P222</units_disp>
   </event>
   <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-13 09:02:54</dispatch_time>
-    <event_num>F20113332</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>SIR WILLIAM HEARST AVE, NY</prime_street>
-    <cross_streets>PETHERHILL AVE / MORTON SHULMAN AVE</cross_streets>
-    <dispatch_time>2020-11-13 09:06:33</dispatch_time>
-    <event_num>F20113333</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146, P145, A133, C14, P141, P442</units_disp>
-  </event>
-  <event>
     <prime_street>M2J</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-13 09:09:10</dispatch_time>
@@ -70,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>113</beat>
     <units_disp> A113</units_disp>
-  </event>
-  <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-13 09:11:06</dispatch_time>
-    <event_num>F20113335</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> R326</units_disp>
   </event>
   <event>
     <prime_street>GODSTONE RD, NY</prime_street>
@@ -92,13 +42,23 @@
     <units_disp> P116, P123, R115, P244, C11, A244</units_disp>
   </event>
   <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-13 09:13:09</dispatch_time>
-    <event_num>F20113337</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>THORA AVE, SC</prime_street>
+    <cross_streets> / WAKEHOOD ST</cross_streets>
+    <dispatch_time>2020-11-13 09:21:12</dispatch_time>
+    <event_num>F20113339</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>TITAN RD, ET</prime_street>
+    <cross_streets>ISLINGTON AVE / C P R SPUR</cross_streets>
+    <dispatch_time>2020-11-13 09:37:34</dispatch_time>
+    <event_num>F20113340</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P432, P432</units_disp>
   </event>
 </tfs_active_incidents>
