@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-13 00:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-13 01:15:02</update_from_db_time>
   <event>
     <prime_street>KIPLING AVE, ET</prime_street>
     <cross_streets>HAYHURST RD / DIXON RD</cross_streets>
@@ -12,33 +12,33 @@
     <units_disp> S445, P445, R444, A415, C44, R421, C40, A421, LA421, R412, R413, HZ145, MPV341, R341, P426, R411</units_disp>
   </event>
   <event>
-    <prime_street>M4W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-13 00:31:15</dispatch_time>
-    <event_num>F20113265</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>YORKVILLE AVE, TT</prime_street>
+    <cross_streets>YONGE ST / LN W YONGE S YORKVILLE</cross_streets>
+    <dispatch_time>2020-11-13 00:58:13</dispatch_time>
+    <event_num>F20113269</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>312</beat>
+    <units_disp> S313, P312</units_disp>
   </event>
   <event>
-    <prime_street>M5T</prime_street>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-13 00:36:11</dispatch_time>
-    <event_num>F20113266</event_num>
+    <dispatch_time>2020-11-13 01:03:33</dispatch_time>
+    <event_num>F20113270</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
   <event>
-    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
-    <cross_streets>R. V. BURGESS PARK TRL / WEST DON RIVER TRL</cross_streets>
-    <dispatch_time>2020-11-13 00:37:32</dispatch_time>
-    <event_num>F20113267</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>WAYNE AVE / LILIAN DR</cross_streets>
+    <dispatch_time>2020-11-13 01:05:57</dispatch_time>
+    <event_num>F20113271</event_num>
+    <event_type>Wires Down - Hydro</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
   </event>
 </tfs_active_incidents>
