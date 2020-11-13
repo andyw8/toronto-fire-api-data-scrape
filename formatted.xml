@@ -1,29 +1,9 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-13 14:10:03</update_from_db_time>
+  <update_from_db_time>2020-11-13 14:25:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>LESLIE ST / YORK MILLS RD</cross_streets>
-    <dispatch_time>2020-11-13 13:10:51</dispatch_time>
-    <event_num>F20113410</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122</units_disp>
-  </event>
-  <event>
-    <prime_street>WEST LODGE AVE, TT</prime_street>
-    <cross_streets>LN N QUEEN E LANSDOWNE / </cross_streets>
-    <dispatch_time>2020-11-13 13:46:55</dispatch_time>
-    <event_num>F20113422</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, P331, P344, A426, C34, P315, S331, C34</units_disp>
-  </event>
-  <event>
-    <prime_street>PHARMACY AVE, SC</prime_street>
-    <cross_streets>EDGE PARK AVE / KINGSWELL CRES</cross_streets>
+    <prime_street>COMSTOCK RD, SC</prime_street>
+    <cross_streets>PHARMACY AVE / C N R</cross_streets>
     <dispatch_time>2020-11-13 13:49:26</dispatch_time>
     <event_num>F20113424</event_num>
     <event_type>Alarm Commercial/Industrial</event_type>
@@ -40,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
     <units_disp> A423</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-13 13:55:52</dispatch_time>
-    <event_num>F20113428</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R345</units_disp>
   </event>
   <event>
     <prime_street>M1G</prime_street>
