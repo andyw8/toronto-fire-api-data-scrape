@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-12 22:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-12 22:25:02</update_from_db_time>
   <event>
     <prime_street>KIPLING AVE, ET</prime_street>
     <cross_streets>HAYHURST RD / DIXON RD</cross_streets>
@@ -42,16 +42,6 @@
     <units_disp> A213, A244, C24, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>M5M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-12 22:06:20</dispatch_time>
-    <event_num>F20113241</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
     <prime_street>M2R</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-12 22:07:57</dispatch_time>
@@ -60,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
     <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTMORE DR, ET</prime_street>
-    <cross_streets>COUNTRYMAN CRCL / WOOLENSCOTE PARKETTE TRL</cross_streets>
-    <dispatch_time>2020-11-12 22:10:08</dispatch_time>
-    <event_num>F20113243</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R412, R413, R441, A411, C41</units_disp>
   </event>
   <event>
     <prime_street>GLEN EVEREST RD, SC</prime_street>
