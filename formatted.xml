@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-13 08:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-13 08:25:02</update_from_db_time>
   <event>
     <prime_street>KIPLING AVE, ET</prime_street>
     <cross_streets>HAYHURST RD / DIXON RD</cross_streets>
@@ -32,23 +32,23 @@
     <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-13 08:00:22</dispatch_time>
-    <event_num>F20113319</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244, P244</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
-    <cross_streets>LOWER SIMCOE ST / QUEENS QUAY W</cross_streets>
+    <cross_streets>REES ST / QUEENS QUAY W</cross_streets>
     <dispatch_time>2020-11-13 08:10:09</dispatch_time>
     <event_num>F20113320</event_num>
     <event_type>Vehicle Accident with Fire</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>334</beat>
     <units_disp> P315, P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M4B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-13 08:20:29</dispatch_time>
+    <event_num>F20113322</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
 </tfs_active_incidents>
