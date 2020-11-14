@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-14 17:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-14 17:20:02</update_from_db_time>
   <event>
     <prime_street>PARLIAMENT ST, TT</prime_street>
     <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
@@ -32,36 +32,6 @@
     <units_disp> A213, C23, P234, R214, R231</units_disp>
   </event>
   <event>
-    <prime_street>BELLAMY RD, SC</prime_street>
-    <cross_streets>CEDAR BRAE BLVD / PORCHESTER DR</cross_streets>
-    <dispatch_time>2020-11-14 16:52:29</dispatch_time>
-    <event_num>F20113820</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221, S232</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-14 16:58:50</dispatch_time>
-    <event_num>F20113822</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTGLEN CRES, ET</prime_street>
-    <cross_streets>LN N KEANE E WESTGLEN / LN E WESTGLEN S NORTHGLEN</cross_streets>
-    <dispatch_time>2020-11-14 16:59:19</dispatch_time>
-    <event_num>F20113823</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
     <prime_street>M2R</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-14 17:01:09</dispatch_time>
@@ -82,16 +52,6 @@
     <units_disp> R345</units_disp>
   </event>
   <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-14 17:02:47</dispatch_time>
-    <event_num>F20113826</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
     <prime_street>TOBERMORY DR, NY</prime_street>
     <cross_streets>FINCH AVE W / POTSDAM RD</cross_streets>
     <dispatch_time>2020-11-14 17:03:26</dispatch_time>
@@ -102,23 +62,23 @@
     <units_disp> P141, S143</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
+    <prime_street>M5V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-14 17:03:48</dispatch_time>
-    <event_num>F20113829</event_num>
+    <dispatch_time>2020-11-14 17:16:54</dispatch_time>
+    <event_num>F20113832</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>KENNEDY RD / ST CLAIR AVE E</cross_streets>
-    <dispatch_time>2020-11-14 17:05:35</dispatch_time>
-    <event_num>F20113830</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 17:16:39</dispatch_time>
+    <event_num>F20113833</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
 </tfs_active_incidents>
