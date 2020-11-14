@@ -1,54 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-14 08:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-14 09:15:02</update_from_db_time>
   <event>
-    <prime_street>GREENSBORO DR, ET</prime_street>
-    <cross_streets>KIPLING AVE / </cross_streets>
-    <dispatch_time>2020-11-14 08:00:09</dispatch_time>
-    <event_num>F20113671</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415, P443, A415, C41, P442</units_disp>
-  </event>
-  <event>
-    <prime_street>TEMPERANCE ST, TT</prime_street>
-    <cross_streets>YONGE ST / BAY ST</cross_streets>
-    <dispatch_time>2020-11-14 08:16:37</dispatch_time>
-    <event_num>F20113675</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-14 08:24:27</dispatch_time>
-    <event_num>F20113676</event_num>
+    <dispatch_time>2020-11-14 08:57:36</dispatch_time>
+    <event_num>F20113682</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>413</beat>
+    <units_disp> R413, R412</units_disp>
   </event>
   <event>
-    <prime_street>SUPERIOR AVE, ET</prime_street>
-    <cross_streets>LAKE SHORE BLVD W / LN W LAKE SHORE S SUPERIOR</cross_streets>
-    <dispatch_time>2020-11-14 08:32:53</dispatch_time>
-    <event_num>F20113677</event_num>
+    <prime_street>QUEEN'S PLATE DR, ET</prime_street>
+    <cross_streets>TRIPLE CROWN AVE / REXDALE BLVD</cross_streets>
+    <dispatch_time>2020-11-14 08:57:59</dispatch_time>
+    <event_num>F20113683</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, R435, A433, C43, P431</units_disp>
+    <beat>412</beat>
+    <units_disp> P415, R441, A415, C41, R444</units_disp>
   </event>
   <event>
-    <prime_street>M1C</prime_street>
+    <prime_street>M1V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-14 08:35:13</dispatch_time>
-    <event_num>F20113678</event_num>
+    <dispatch_time>2020-11-14 09:00:11</dispatch_time>
+    <event_num>F20113684</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>NORTHTOWN WAY, NY</prime_street>
+    <cross_streets>YONGE ST / DORIS AVE</cross_streets>
+    <dispatch_time>2020-11-14 09:01:52</dispatch_time>
+    <event_num>F20113685</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, P111, C11, R112, T114, HR114</units_disp>
+  </event>
+  <event>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 09:04:59</dispatch_time>
+    <event_num>F20113687</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 09:09:39</dispatch_time>
+    <event_num>F20113688</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
   </event>
 </tfs_active_incidents>
