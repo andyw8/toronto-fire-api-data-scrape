@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-14 14:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-14 15:10:02</update_from_db_time>
   <event>
     <prime_street>PARLIAMENT ST, TT</prime_street>
     <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
@@ -12,26 +12,6 @@
     <units_disp> P313, R325, A325, C31, P314, S313, A312, LA333, P312, P315, C30, CMD30, CMD30C, C33, HR332, HZ332, P311, P332, P333, FI20</units_disp>
   </event>
   <event>
-    <prime_street>MELROSE ST, ET</prime_street>
-    <cross_streets>LN W ROYAL YORK N HAY / CARNARVON AVE</cross_streets>
-    <dispatch_time>2020-11-14 13:40:13</dispatch_time>
-    <event_num>F20113765</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>433</beat>
-    <units_disp> R434, A433, C43, P431, P432, P433, PL432, R425, LA421, S445, C40, C44, P422, P443, P445, HZ332, CMD30, CMD30C</units_disp>
-  </event>
-  <event>
-    <prime_street>PARK LAWN RD, ET</prime_street>
-    <cross_streets>LAKE SHORE BLVD W / GARDINER E PARK LAWN RD RAMP</cross_streets>
-    <dispatch_time>2020-11-14 14:01:53</dispatch_time>
-    <event_num>F20113769</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> R426, P422, C42, P445, PL432</units_disp>
-  </event>
-  <event>
     <prime_street>BALACLAVA DR, SC</prime_street>
     <cross_streets>FLORA DR / MCGREGOR RD</cross_streets>
     <dispatch_time>2020-11-14 14:22:11</dispatch_time>
@@ -40,5 +20,75 @@
     <alarm_lev>1</alarm_lev>
     <beat>245</beat>
     <units_disp> A222, C23, P232, P233, P245, R235, A244, LA231, R231, S313, C20</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>JANE ST / FINCH AVE W</cross_streets>
+    <dispatch_time>2020-11-14 14:43:43</dispatch_time>
+    <event_num>F20113776</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
+  </event>
+  <event>
+    <prime_street>WELLESLEY ST, TT</prime_street>
+    <cross_streets>ONTARIO ST / ROSE AVE</cross_streets>
+    <dispatch_time>2020-11-14 14:47:21</dispatch_time>
+    <event_num>F20113780</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-14 14:52:52</dispatch_time>
+    <event_num>F20113784</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116, R115, P123, R122</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-14 14:58:36</dispatch_time>
+    <event_num>F20113785</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325</units_disp>
+  </event>
+  <event>
+    <prime_street>M2K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 14:58:39</dispatch_time>
+    <event_num>F20113786</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P111, A113</units_disp>
+  </event>
+  <event>
+    <prime_street>DOLLY VARDEN BLVD, SC</prime_street>
+    <cross_streets>CONFEDERATION PARK TRL / ELLESMERE RD</cross_streets>
+    <dispatch_time>2020-11-14 15:02:20</dispatch_time>
+    <event_num>F20113788</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> R321, R243, A213, C24, P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 15:06:54</dispatch_time>
+    <event_num>F20113789</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
   </event>
 </tfs_active_incidents>
