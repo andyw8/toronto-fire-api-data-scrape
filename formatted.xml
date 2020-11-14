@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-14 14:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-14 14:25:02</update_from_db_time>
   <event>
     <prime_street>PARLIAMENT ST, TT</prime_street>
     <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> C13, P121, P132, P145, T114</units_disp>
   </event>
   <event>
-    <prime_street>LAKE SHORE BLVD, ET</prime_street>
-    <cross_streets>BURLINGTON ST / ALBERT AVE</cross_streets>
-    <dispatch_time>2020-11-14 13:57:56</dispatch_time>
-    <event_num>F20113768</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> R425</units_disp>
-  </event>
-  <event>
     <prime_street>PARK LAWN RD, ET</prime_street>
     <cross_streets>LAKE SHORE BLVD W / GARDINER E PARK LAWN RD RAMP</cross_streets>
     <dispatch_time>2020-11-14 14:01:53</dispatch_time>
@@ -50,5 +40,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>433</beat>
     <units_disp> R426, P422, C42, P445, PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>LESLIE ST, NY</prime_street>
+    <cross_streets>EGLINTON AVE E / SUNNYBROOK PARK TRL</cross_streets>
+    <dispatch_time>2020-11-14 14:11:45</dispatch_time>
+    <event_num>F20113770</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
   </event>
 </tfs_active_incidents>
