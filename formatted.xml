@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-14 13:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-14 14:10:02</update_from_db_time>
   <event>
     <prime_street>PARLIAMENT ST, TT</prime_street>
     <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
@@ -12,24 +12,14 @@
     <units_disp> P313, R325, A325, C31, P314, S313, A312, LA333, P312, P315, C30, CMD30, CMD30C, C33, HR332, HZ332, P311, P332, P333, FI20</units_disp>
   </event>
   <event>
-    <prime_street>M6B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-14 11:31:09</dispatch_time>
-    <event_num>F20113731</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
-  </event>
-  <event>
     <prime_street>MELROSE ST, ET</prime_street>
     <cross_streets>LN W ROYAL YORK N HAY / CARNARVON AVE</cross_streets>
     <dispatch_time>2020-11-14 13:40:13</dispatch_time>
     <event_num>F20113765</event_num>
     <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
+    <alarm_lev>2</alarm_lev>
     <beat>433</beat>
-    <units_disp> R434, A433, C43, P431, P432, P433</units_disp>
+    <units_disp> R434, A433, C43, P431, P432, P433, PL432, R425, LA421, S445, C40, C44, P422, P443, P445, HZ332, CMD30, CMD30C</units_disp>
   </event>
   <event>
     <prime_street>KING HIGH AVE, NY</prime_street>
@@ -42,13 +32,23 @@
     <units_disp> C13, P121, P132, P145, T114</units_disp>
   </event>
   <event>
-    <prime_street>BEDFORD RD, TT</prime_street>
-    <cross_streets>BOSWELL AVE / TRANBY AVE</cross_streets>
-    <dispatch_time>2020-11-14 13:41:04</dispatch_time>
-    <event_num>F20113767</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>LAKE SHORE BLVD, ET</prime_street>
+    <cross_streets>BURLINGTON ST / ALBERT AVE</cross_streets>
+    <dispatch_time>2020-11-14 13:57:56</dispatch_time>
+    <event_num>F20113768</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312, P314, A312, C31, P311</units_disp>
+    <beat>433</beat>
+    <units_disp> R425</units_disp>
+  </event>
+  <event>
+    <prime_street>PARK LAWN RD, ET</prime_street>
+    <cross_streets>LAKE SHORE BLVD W / GARDINER E PARK LAWN RD RAMP</cross_streets>
+    <dispatch_time>2020-11-14 14:01:53</dispatch_time>
+    <event_num>F20113769</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> R426, P422, C42, P445, PL432</units_disp>
   </event>
 </tfs_active_incidents>
