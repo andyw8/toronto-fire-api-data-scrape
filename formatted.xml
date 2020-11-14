@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-14 18:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-14 18:40:02</update_from_db_time>
   <event>
     <prime_street>PARLIAMENT ST, TT</prime_street>
     <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
@@ -19,7 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>245</beat>
-    <units_disp> A222, C23, P232, P233, P245, R235, A244, LA231, R231, S313, C20, R243, FI5</units_disp>
+    <units_disp> A222, C23, P232, P233, P245, R235, A244, LA231, R231, S313, C20, R243, FI5, P221</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -32,23 +32,83 @@
     <units_disp> P145, C13, R122, S143</units_disp>
   </event>
   <event>
-    <prime_street>DUFFERIN ST, YK</prime_street>
-    <cross_streets>RAMSDEN RD / BELGRAVIA AVE</cross_streets>
-    <dispatch_time>2020-11-14 18:14:30</dispatch_time>
-    <event_num>F20113851</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M6C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 18:19:55</dispatch_time>
+    <event_num>F20113853</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>341</beat>
-    <units_disp> A341</units_disp>
+    <units_disp> P343</units_disp>
   </event>
   <event>
-    <prime_street>MC GEE ST, TT</prime_street>
-    <cross_streets>EASTERN AVE / GRAHAM PL</cross_streets>
-    <dispatch_time>2020-11-14 18:16:22</dispatch_time>
-    <event_num>F20113852</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 18:22:42</dispatch_time>
+    <event_num>F20113854</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BAY ST / ADELAIDE ST W</cross_streets>
+    <dispatch_time>2020-11-14 18:31:53</dispatch_time>
+    <event_num>F20113855</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 18:32:35</dispatch_time>
+    <event_num>F20113856</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>326</beat>
+    <units_disp> R326</units_disp>
+  </event>
+  <event>
+    <prime_street>GORDONRIDGE PL, SC</prime_street>
+    <cross_streets>DANFORTH RD / </cross_streets>
+    <dispatch_time>2020-11-14 18:33:30</dispatch_time>
+    <event_num>F20113857</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P223, P232, A222, C22, R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 18:34:04</dispatch_time>
+    <event_num>F20113858</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> S232</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 18:36:27</dispatch_time>
+    <event_num>F20113859</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 18:36:35</dispatch_time>
+    <event_num>F20113860</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P146</units_disp>
   </event>
 </tfs_active_incidents>
