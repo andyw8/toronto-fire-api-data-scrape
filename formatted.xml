@@ -1,44 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-14 03:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-14 04:10:02</update_from_db_time>
   <event>
-    <prime_street>M1T</prime_street>
+    <prime_street>M5P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-14 03:11:17</dispatch_time>
-    <event_num>F20113635</event_num>
+    <dispatch_time>2020-11-14 03:46:20</dispatch_time>
+    <event_num>F20113640</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
   </event>
   <event>
-    <prime_street>NIAGARA ST, TT</prime_street>
-    <cross_streets>VICTORIA MEMORIAL SQUARE PARK TRL / LN E BATHURST S WELLINGTON</cross_streets>
-    <dispatch_time>2020-11-14 03:19:00</dispatch_time>
-    <event_num>F20113636</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <prime_street>FRONT ST, TT</prime_street>
+    <cross_streets>PORTLAND ST / BATHURST ST</cross_streets>
+    <dispatch_time>2020-11-14 04:01:50</dispatch_time>
+    <event_num>F20113641</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>331</beat>
-    <units_disp> P331, P332, A331, C33, HR332, P334</units_disp>
+    <units_disp> P331</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-14 03:35:06</dispatch_time>
-    <event_num>F20113638</event_num>
+    <dispatch_time>2020-11-14 04:04:04</dispatch_time>
+    <event_num>F20113642</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-14 03:39:27</dispatch_time>
-    <event_num>F20113639</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
