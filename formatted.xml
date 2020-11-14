@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-14 15:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-14 16:10:02</update_from_db_time>
   <event>
     <prime_street>PARLIAMENT ST, TT</prime_street>
     <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
@@ -22,63 +22,33 @@
     <units_disp> A222, C23, P232, P233, P245, R235, A244, LA231, R231, S313, C20</units_disp>
   </event>
   <event>
-    <prime_street>WELLESLEY ST, TT</prime_street>
-    <cross_streets>ONTARIO ST / ROSE AVE</cross_streets>
-    <dispatch_time>2020-11-14 14:47:21</dispatch_time>
-    <event_num>F20113780</event_num>
+    <prime_street> </prime_street>
+    <cross_streets>YORK MILLS RD / BAYVIEW AVE</cross_streets>
+    <dispatch_time>2020-11-14 15:55:10</dispatch_time>
+    <event_num>F20113801</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
+  </event>
+  <event>
+    <prime_street>PHARMACY AVE, SC</prime_street>
+    <cross_streets>SHEPPARD AVE E / 2020 PHARMACY AVE</cross_streets>
+    <dispatch_time>2020-11-14 15:56:47</dispatch_time>
+    <event_num>F20113802</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> C24, R241, A113, P121, R115</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-14 14:52:52</dispatch_time>
-    <event_num>F20113784</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <cross_streets>WILSON AVE / YONGE ST</cross_streets>
+    <dispatch_time>2020-11-14 15:58:44</dispatch_time>
+    <event_num>F20113803</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116, R115, P123, R122</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-14 15:23:23</dispatch_time>
-    <event_num>F20113796</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>SHUTER ST, TT</prime_street>
-    <cross_streets>SEATON ST / NIGHTHAWK LANE</cross_streets>
-    <dispatch_time>2020-11-14 15:24:51</dispatch_time>
-    <event_num>F20113797</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P314, P324, P333, R325, A325, C33</units_disp>
-  </event>
-  <event>
-    <prime_street>DUFFERIN ST, NY</prime_street>
-    <cross_streets>JANE OSLER BLVD / YORKDALE RD</cross_streets>
-    <dispatch_time>2020-11-14 15:27:57</dispatch_time>
-    <event_num>F20113798</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145, P131, C13, R112, A341</units_disp>
-  </event>
-  <event>
-    <prime_street>MURRAY ROSS PKWY, NY</prime_street>
-    <cross_streets>LN 1 W SENTINEL S DELABO / DAN IANNUZZI PARK TRL</cross_streets>
-    <dispatch_time>2020-11-14 15:33:22</dispatch_time>
-    <event_num>F20113799</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> S143, R411, A142, C14, P111, R413</units_disp>
+    <beat>121</beat>
+    <units_disp> P131</units_disp>
   </event>
 </tfs_active_incidents>
