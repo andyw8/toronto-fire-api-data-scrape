@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-15 02:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-15 02:45:02</update_from_db_time>
   <event>
     <prime_street>BALACLAVA DR, SC</prime_street>
     <cross_streets>FLORA DR / MCGREGOR RD</cross_streets>
@@ -9,16 +9,26 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>245</beat>
-    <units_disp> A222, C23, P232, P233, P245, R235, A244, LA231, R231, S313, C20, R243, FI5, P221, P212, A213, P223, R231, R241</units_disp>
+    <units_disp> A222, C23, P232, P233, P245, R235, A244, LA231, R231, S313, C20, R243, FI5, P221, P212, A213, P223, R231, R241, R224</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>MOUNT PLEASANT RD / JARVIS ST</cross_streets>
-    <dispatch_time>2020-11-15 02:09:34</dispatch_time>
-    <event_num>F20113988</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>SPADINA AVE, TT</prime_street>
+    <cross_streets>WASHINGTON AVE / BLOOR ST W</cross_streets>
+    <dispatch_time>2020-11-15 02:24:46</dispatch_time>
+    <event_num>F20113990</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>344</beat>
+    <units_disp> P312, A312, C31, P314, P315, P332</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>ALEXANDRA BLVD / GLENCAIRN AVE</cross_streets>
+    <dispatch_time>2020-11-15 02:29:16</dispatch_time>
+    <event_num>F20113991</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
