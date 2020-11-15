@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-15 08:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-15 08:40:02</update_from_db_time>
   <event>
     <prime_street>BALACLAVA DR, SC</prime_street>
     <cross_streets>FLORA DR / MCGREGOR RD</cross_streets>
@@ -12,23 +12,43 @@
     <units_disp> A222, C23, P232, P233, P245, R235, A244, LA231, R231, S313, C20, R243, FI5, P221, P212, A213, P223, R231, R241, R224, P211, R225, P245</units_disp>
   </event>
   <event>
-    <prime_street>TRIPLE CROWN AVE, ET</prime_street>
-    <cross_streets>WEST HUMBER TRL / QUINELLA DR</cross_streets>
-    <dispatch_time>2020-11-15 08:01:09</dispatch_time>
-    <event_num>F20114039</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <prime_street>LAKE SHORE BLVD, ET</prime_street>
+    <cross_streets>MARINE PARADE DR / LAKE SHORE W GARDINER E RAMP</cross_streets>
+    <dispatch_time>2020-11-15 08:21:35</dispatch_time>
+    <event_num>F20114041</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
+    <beat>433</beat>
+    <units_disp> P433, R425, R435, A433, C43</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M5G</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-15 08:12:06</dispatch_time>
-    <event_num>F20114040</event_num>
+    <dispatch_time>2020-11-15 08:25:25</dispatch_time>
+    <event_num>F20114042</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M1G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 08:34:59</dispatch_time>
+    <event_num>F20114043</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> R231</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 08:36:50</dispatch_time>
+    <event_num>F20114044</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P431</units_disp>
   </event>
 </tfs_active_incidents>
