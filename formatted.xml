@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-14 18:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-14 19:40:02</update_from_db_time>
   <event>
     <prime_street>PARLIAMENT ST, TT</prime_street>
     <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
@@ -19,37 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>245</beat>
-    <units_disp> A222, C23, P232, P233, P245, R235, A244, LA231, R231, S313, C20, R243, FI5, P221</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DUFFERIN ST / WILSON AVE</cross_streets>
-    <dispatch_time>2020-11-14 17:33:59</dispatch_time>
-    <event_num>F20113843</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145, C13, R122, S143</units_disp>
-  </event>
-  <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-14 18:19:55</dispatch_time>
-    <event_num>F20113853</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-14 18:22:42</dispatch_time>
-    <event_num>F20113854</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <units_disp> A222, C23, P232, P233, P245, R235, A244, LA231, R231, S313, C20, R243, FI5, P221, P212</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -59,56 +29,76 @@
     <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <units_disp> P332, C33</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
+    <prime_street>M4X</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-14 18:32:35</dispatch_time>
-    <event_num>F20113856</event_num>
+    <dispatch_time>2020-11-14 18:59:55</dispatch_time>
+    <event_num>F20113870</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> R326</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
   <event>
-    <prime_street>GORDONRIDGE PL, SC</prime_street>
-    <cross_streets>DANFORTH RD / </cross_streets>
-    <dispatch_time>2020-11-14 18:33:30</dispatch_time>
-    <event_num>F20113857</event_num>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 19:08:17</dispatch_time>
+    <event_num>F20113873</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>BIRCHMOUNT RD, SC</prime_street>
+    <cross_streets>TIMBERBANK BLVD / FINCH AVE E</cross_streets>
+    <dispatch_time>2020-11-14 19:29:12</dispatch_time>
+    <event_num>F20113879</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
+  </event>
+  <event>
+    <prime_street>M5S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 19:29:15</dispatch_time>
+    <event_num>F20113880</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-14 19:30:18</dispatch_time>
+    <event_num>F20113881</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>SUNNYLEA AVE, ET</prime_street>
+    <cross_streets>HAZELRIDGE DR / RIVERWOOD PKWY</cross_streets>
+    <dispatch_time>2020-11-14 19:35:02</dispatch_time>
+    <event_num>F20113883</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>LAKE SHORE BLVD, ET</prime_street>
+    <cross_streets>WW W FORTIETH S LAKE SHORE / BROW DR</cross_streets>
+    <dispatch_time>2020-11-14 19:36:31</dispatch_time>
+    <event_num>F20113884</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P223, P232, A222, C22, R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-14 18:34:04</dispatch_time>
-    <event_num>F20113858</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> S232</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-14 18:36:27</dispatch_time>
-    <event_num>F20113859</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-14 18:36:35</dispatch_time>
-    <event_num>F20113860</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P146</units_disp>
+    <beat>434</beat>
+    <units_disp> R434, R435, C43, P432, PL432</units_disp>
   </event>
 </tfs_active_incidents>
