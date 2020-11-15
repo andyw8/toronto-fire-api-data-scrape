@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-15 18:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-15 18:20:03</update_from_db_time>
   <event>
     <prime_street>CASTLEBURY CRES, NY</prime_street>
     <cross_streets>LESLIE ST / DEACONWOOD RD</cross_streets>
@@ -132,16 +132,6 @@
     <units_disp> P311, P311</units_disp>
   </event>
   <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-15 17:54:35</dispatch_time>
-    <event_num>F20114266</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> R321</units_disp>
-  </event>
-  <event>
     <prime_street>M9W</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-15 18:02:26</dispatch_time>
@@ -172,13 +162,33 @@
     <units_disp> P325</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-15 18:07:58</dispatch_time>
-    <event_num>F20114270</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>KIPLING AVE / DIXON RD</cross_streets>
+    <dispatch_time>2020-11-15 18:12:11</dispatch_time>
+    <event_num>F20114271</event_num>
+    <event_type>Vehicle Accident with Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>441</beat>
+    <units_disp> P443, R413, S445</units_disp>
+  </event>
+  <event>
+    <prime_street>PRINCESS ANNE CRES, ET</prime_street>
+    <cross_streets>PRINCESS MARGARET BLVD / RAVENSBOURNE CRES</cross_streets>
+    <dispatch_time>2020-11-15 18:12:14</dispatch_time>
+    <event_num>F20114272</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>BELLAMY RD, SC</prime_street>
+    <cross_streets>CEDAR BRAE BLVD / PORCHESTER DR</cross_streets>
+    <dispatch_time>2020-11-15 18:16:04</dispatch_time>
+    <event_num>F20114274</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221, P232</units_disp>
   </event>
 </tfs_active_incidents>
