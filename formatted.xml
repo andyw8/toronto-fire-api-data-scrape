@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-15 14:10:02</update_from_db_time>
-  <event>
-    <prime_street>BALACLAVA DR, SC</prime_street>
-    <cross_streets>FLORA DR / MCGREGOR RD</cross_streets>
-    <dispatch_time>2020-11-14 14:22:11</dispatch_time>
-    <event_num>F20113771</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>245</beat>
-    <units_disp> A222, C23, P232, P233, P245, R235, A244, LA231, R231, S313, C20, R243, FI5, P221, P212, A213, P223, R231, R241, R224, P211, R225, P245, P233, R235, R241, A244</units_disp>
-  </event>
+  <update_from_db_time>2020-11-15 14:20:03</update_from_db_time>
   <event>
     <prime_street>M3C</prime_street>
     <cross_streets/>
@@ -27,19 +17,9 @@
     <dispatch_time>2020-11-15 13:54:14</dispatch_time>
     <event_num>F20114107</event_num>
     <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
+    <alarm_lev>2</alarm_lev>
     <beat>421</beat>
-    <units_disp> P422, R425, P342, R345, A423, C42</units_disp>
-  </event>
-  <event>
-    <prime_street>NISKA RD, NY</prime_street>
-    <cross_streets>TOBERMORY DR / DRIFTWOOD AVE</cross_streets>
-    <dispatch_time>2020-11-15 13:56:02</dispatch_time>
-    <event_num>F20114108</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> S143, P141</units_disp>
+    <units_disp> P422, R425, P342, R345, A423, C42, A421, LA421, R421, S445, P431, P442, P443, C34, HZ145, C40, CMD30, CMD30C</units_disp>
   </event>
   <event>
     <prime_street>M1M</prime_street>
@@ -72,16 +52,6 @@
     <units_disp> P232</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-15 13:58:32</dispatch_time>
-    <event_num>F20114113</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
     <prime_street>OLD SHEPPARD AVE, NY</prime_street>
     <cross_streets>LADNER DR / VICTORIA PARK AVE</cross_streets>
     <dispatch_time>2020-11-15 14:00:55</dispatch_time>
@@ -92,13 +62,53 @@
     <units_disp> R115, P113, P116, A244, P233, C11</units_disp>
   </event>
   <event>
-    <prime_street>M3K</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-15 14:07:41</dispatch_time>
+    <event_num>F20114116</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444, R441</units_disp>
+  </event>
+  <event>
+    <prime_street>M5E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-15 14:01:57</dispatch_time>
-    <event_num>F20114115</event_num>
+    <dispatch_time>2020-11-15 14:10:30</dispatch_time>
+    <event_num>F20114117</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 14:15:14</dispatch_time>
+    <event_num>F20114118</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M2M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 14:16:21</dispatch_time>
+    <event_num>F20114119</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 14:16:25</dispatch_time>
+    <event_num>F20114120</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
 </tfs_active_incidents>
