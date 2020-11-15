@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-15 04:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-15 05:10:03</update_from_db_time>
   <event>
     <prime_street>BALACLAVA DR, SC</prime_street>
     <cross_streets>FLORA DR / MCGREGOR RD</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>245</beat>
     <units_disp> A222, C23, P232, P233, P245, R235, A244, LA231, R231, S313, C20, R243, FI5, P221, P212, A213, P223, R231, R241, R224, P211</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-15 03:58:53</dispatch_time>
-    <event_num>F20114001</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443, C44</units_disp>
   </event>
   <event>
     <prime_street>M3L</prime_street>
@@ -32,16 +22,6 @@
     <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>ROXBOROUGH ST, TT</prime_street>
-    <cross_streets>PAUL HAHN LANE / MOLSON ST</cross_streets>
-    <dispatch_time>2020-11-15 04:05:00</dispatch_time>
-    <event_num>F20114005</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> A312, C34, P311, P312, P314</units_disp>
-  </event>
-  <event>
     <prime_street>CROFT ST, TT</prime_street>
     <cross_streets>COLLEGE ST / VANKOUGHNET ST</cross_streets>
     <dispatch_time>2020-11-15 04:32:40</dispatch_time>
@@ -50,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>315</beat>
     <units_disp> HR332, C33, HZ332, P315</units_disp>
+  </event>
+  <event>
+    <prime_street>WESTON RD, YK</prime_street>
+    <cross_streets>LAWRENCE AVE W / JOHN ST</cross_streets>
+    <dispatch_time>2020-11-15 04:46:44</dispatch_time>
+    <event_num>F20114013</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> S445, A133</units_disp>
+  </event>
+  <event>
+    <prime_street>M8W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 04:53:39</dispatch_time>
+    <event_num>F20114014</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434</units_disp>
   </event>
 </tfs_active_incidents>
