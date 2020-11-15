@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-15 16:10:03</update_from_db_time>
+  <update_from_db_time>2020-11-15 16:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>KING GEORGES RD / WILLINGDON BLVD</cross_streets>
@@ -122,56 +122,6 @@
     <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>SYLVAN AVE, SC</prime_street>
-    <cross_streets>BETHUNE BLVD / ROGATE PL</cross_streets>
-    <dispatch_time>2020-11-15 15:49:32</dispatch_time>
-    <event_num>F20114183</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>OLD COLONY RD, NY</prime_street>
-    <cross_streets>HARRISON RD / </cross_streets>
-    <dispatch_time>2020-11-15 15:53:26</dispatch_time>
-    <event_num>F20114186</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> C11, P116, R115, R122, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>PARKVIEW AVE, NY</prime_street>
-    <cross_streets>LN E YONGE N KINGSDALE / DORIS AVE</cross_streets>
-    <dispatch_time>2020-11-15 15:54:09</dispatch_time>
-    <event_num>F20114188</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> HR114</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DUNDAS ST E / LESLIE ST</cross_streets>
-    <dispatch_time>2020-11-15 15:55:16</dispatch_time>
-    <event_num>F20114189</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> P324</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>WILSON AVE / WILLIAM CARSON CRES</cross_streets>
-    <dispatch_time>2020-11-15 15:58:26</dispatch_time>
-    <event_num>F20114190</event_num>
-    <event_type>Alarm Subway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121, C11, P116, P132, T114, HR332, S313</units_disp>
-  </event>
-  <event>
     <prime_street>WOOLNER AVE, YK</prime_street>
     <cross_streets>ROCKCLIFFE BLVD / JANE ST</cross_streets>
     <dispatch_time>2020-11-15 16:04:52</dispatch_time>
@@ -192,13 +142,33 @@
     <units_disp> A215</units_disp>
   </event>
   <event>
-    <prime_street>GRAYSTONE GDNS, ET</prime_street>
-    <cross_streets>ISLINGTON AVE / WILLROD RD</cross_streets>
-    <dispatch_time>2020-11-15 16:05:22</dispatch_time>
-    <event_num>F20114193</event_num>
+    <prime_street>LOGAN AVE, TT</prime_street>
+    <cross_streets>LN N EASTERN W LOGAN / LOUIS KESTEN LANE</cross_streets>
+    <dispatch_time>2020-11-15 16:10:13</dispatch_time>
+    <event_num>F20114194</event_num>
     <event_type>Wires Down - Hydro</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
+    <beat>324</beat>
+    <units_disp> R326</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>PORT UNION RD / KINGSTON RD</cross_streets>
+    <dispatch_time>2020-11-15 16:11:06</dispatch_time>
+    <event_num>F20114195</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street>M4B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 16:15:49</dispatch_time>
+    <event_num>F20114197</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
 </tfs_active_incidents>
