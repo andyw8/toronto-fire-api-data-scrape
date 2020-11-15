@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-15 17:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-15 17:25:02</update_from_db_time>
   <event>
     <prime_street>CASTLEBURY CRES, NY</prime_street>
     <cross_streets>LESLIE ST / DEACONWOOD RD</cross_streets>
@@ -82,16 +82,6 @@
     <units_disp> P145</units_disp>
   </event>
   <event>
-    <prime_street>OJIBWAY AVE, TT</prime_street>
-    <cross_streets>OMAHA AVE / SENECA AVE</cross_streets>
-    <dispatch_time>2020-11-15 16:31:20</dispatch_time>
-    <event_num>F20114205</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>335</beat>
-    <units_disp> P335, V335</units_disp>
-  </event>
-  <event>
     <prime_street>GARNIER CRT, NY</prime_street>
     <cross_streets>BESTVIEW PARK TRL / </cross_streets>
     <dispatch_time>2020-11-15 16:32:44</dispatch_time>
@@ -100,16 +90,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>111</beat>
     <units_disp> A113, A213, C11, HZ145, R112</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>SUNNYSIDE AVE / GLENDALE AVE</cross_streets>
-    <dispatch_time>2020-11-15 16:48:29</dispatch_time>
-    <event_num>F20114213</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> A426, C42, P426, R425, R426</units_disp>
   </event>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
@@ -122,36 +102,6 @@
     <units_disp> P322</units_disp>
   </event>
   <event>
-    <prime_street>CHALKFARM DR, NY</prime_street>
-    <cross_streets>MARLINGTON CRES / MARLINGTON CRES</cross_streets>
-    <dispatch_time>2020-11-15 16:57:34</dispatch_time>
-    <event_num>F20114219</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> A142, C14, P141, P146, P442</units_disp>
-  </event>
-  <event>
-    <prime_street>HOWARD ST, TT</prime_street>
-    <cross_streets>REDROCKET LANE / GLEN RD</cross_streets>
-    <dispatch_time>2020-11-15 16:58:16</dispatch_time>
-    <event_num>F20114220</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
-  </event>
-  <event>
-    <prime_street>JOHN ST, YK</prime_street>
-    <cross_streets>SOUTH STATION ST / JOHN STREET PEDESTRIAN BRIDGE</cross_streets>
-    <dispatch_time>2020-11-15 16:59:04</dispatch_time>
-    <event_num>F20114221</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> A133</units_disp>
-  </event>
-  <event>
     <prime_street>SHELBORNE AVE, NY</prime_street>
     <cross_streets>GLEN RUSH BLVD / BATHURST ST</cross_streets>
     <dispatch_time>2020-11-15 17:01:52</dispatch_time>
@@ -160,16 +110,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
     <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>NEILSON RD / MILITARY TRL</cross_streets>
-    <dispatch_time>2020-11-15 17:02:16</dispatch_time>
-    <event_num>F20114223</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> P212</units_disp>
   </event>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
@@ -212,16 +152,6 @@
     <units_disp> P143</units_disp>
   </event>
   <event>
-    <prime_street>CARLTON ST, TT</prime_street>
-    <cross_streets>JARVIS ST / ALLAN GARDENS TRL</cross_streets>
-    <dispatch_time>2020-11-15 17:11:21</dispatch_time>
-    <event_num>F20114229</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
     <prime_street>M9R</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-15 17:12:00</dispatch_time>
@@ -229,6 +159,76 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>441</beat>
-    <units_disp> P445</units_disp>
+    <units_disp> P445, P442</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>YONGE ST / DUNDONALD ST</cross_streets>
+    <dispatch_time>2020-11-15 17:13:53</dispatch_time>
+    <event_num>F20114231</event_num>
+    <event_type>Public Hazard</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>EASTBOURNE CRES, ET</prime_street>
+    <cross_streets>LAKE CRES / ROYAL YORK RD</cross_streets>
+    <dispatch_time>2020-11-15 17:14:26</dispatch_time>
+    <event_num>F20114232</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> R435</units_disp>
+  </event>
+  <event>
+    <prime_street>DEWSON ST, TT</prime_street>
+    <cross_streets>DELAWARE AVE / DOVERCOURT RD</cross_streets>
+    <dispatch_time>2020-11-15 17:16:51</dispatch_time>
+    <event_num>F20114233</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>ORCHARD PARK BLVD, TT</prime_street>
+    <cross_streets>PENNY LANE / </cross_streets>
+    <dispatch_time>2020-11-15 17:17:06</dispatch_time>
+    <event_num>F20114234</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 17:17:36</dispatch_time>
+    <event_num>F20114235</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
+  </event>
+  <event>
+    <prime_street>HUBBARD BLVD, TT</prime_street>
+    <cross_streets>SCARBORO BEACH BLVD / GLEN MANOR DR</cross_streets>
+    <dispatch_time>2020-11-15 17:21:15</dispatch_time>
+    <event_num>F20114236</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P226, R224, A324, R326, C32</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BATHURST ST / ST CLAIR AVE W</cross_streets>
+    <dispatch_time>2020-11-15 17:21:43</dispatch_time>
+    <event_num>F20114237</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
   </event>
 </tfs_active_incidents>
