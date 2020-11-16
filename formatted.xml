@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-16 15:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-16 15:20:02</update_from_db_time>
   <event>
     <prime_street>OXFORD ST, TT</prime_street>
     <cross_streets>LN W SPADINA N NASSAU / ELLEN AVE</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>315</beat>
     <units_disp> P315, P332, A331, C33, P331, P334, A325, LA333, R325, S331, C30, T333, CMD30, CMD30C, P325, P333, P344, C34, HZ332, C42, C31, P314, HR332, C10, R345, P342, R325, FI5, P315, FI20, P332, P322, P331</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>GARDENVALE RD / BLOOR ST W</cross_streets>
-    <dispatch_time>2020-11-16 14:29:23</dispatch_time>
-    <event_num>F20114571</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
   </event>
   <event>
     <prime_street>WYANDOT AVE, TT</prime_street>
@@ -42,36 +32,6 @@
     <units_disp> A433</units_disp>
   </event>
   <event>
-    <prime_street>DEAUVILLE LANE, NY</prime_street>
-    <cross_streets>GRENOBLE DR / ST DENNIS DR</cross_streets>
-    <dispatch_time>2020-11-16 14:51:26</dispatch_time>
-    <event_num>F20114579</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> S313, P125</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 14:59:48</dispatch_time>
-    <event_num>F20114584</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 15:03:29</dispatch_time>
-    <event_num>F20114586</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
     <prime_street>M9R</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-16 15:08:31</dispatch_time>
@@ -90,5 +50,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
     <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-16 15:16:00</dispatch_time>
+    <event_num>F20114589</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> A331</units_disp>
   </event>
 </tfs_active_incidents>
