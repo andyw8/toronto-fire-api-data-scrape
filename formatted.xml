@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-16 01:25:02</update_from_db_time>
-  <event>
-    <prime_street>WESTON RD, YK</prime_street>
-    <cross_streets>OAK ST / FAIRGLEN CRES</cross_streets>
-    <dispatch_time>2020-11-16 00:18:48</dispatch_time>
-    <event_num>F20114394</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, A415</units_disp>
-  </event>
+  <update_from_db_time>2020-11-16 01:45:02</update_from_db_time>
   <event>
     <prime_street>BATHURST ST, TT</prime_street>
     <cross_streets>RIDGE HILL DR / SHALLMAR BLVD</cross_streets>
@@ -29,36 +19,26 @@
     <event_type>Public Hazard</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>332</beat>
-    <units_disp> P332, P333, C33</units_disp>
+    <units_disp> P332, C33, P333</units_disp>
   </event>
   <event>
-    <prime_street>M3M</prime_street>
+    <prime_street>MOUNT PLEASANT RD, TT</prime_street>
+    <cross_streets>MANOR RD E / HILLSDALE AVE E</cross_streets>
+    <dispatch_time>2020-11-16 01:22:19</dispatch_time>
+    <event_num>F20114405</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134, P311, R321, C13, A321</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-16 01:18:01</dispatch_time>
-    <event_num>F20114402</event_num>
+    <dispatch_time>2020-11-16 01:33:24</dispatch_time>
+    <event_num>F20114408</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street>ASSINIBOINE RD, NY</prime_street>
-    <cross_streets>SHEFFER TER / TROYER AVE</cross_streets>
-    <dispatch_time>2020-11-16 01:18:12</dispatch_time>
-    <event_num>F20114403</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> C14, P141, P143, S143, A411, R411</units_disp>
-  </event>
-  <event>
-    <prime_street>M4W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 01:19:11</dispatch_time>
-    <event_num>F20114404</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
+    <beat>132</beat>
+    <units_disp> P131, P132</units_disp>
   </event>
 </tfs_active_incidents>
