@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-16 06:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-16 06:20:03</update_from_db_time>
   <event>
     <prime_street>OXFORD ST, TT</prime_street>
     <cross_streets>LN W SPADINA N NASSAU / ELLEN AVE</cross_streets>
@@ -20,5 +20,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
     <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DUFFERIN ST / BRIDGELAND AVE</cross_streets>
+    <dispatch_time>2020-11-16 06:12:29</dispatch_time>
+    <event_num>F20114440</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
   </event>
 </tfs_active_incidents>
