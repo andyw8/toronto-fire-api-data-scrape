@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-15 22:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-15 22:20:02</update_from_db_time>
   <event>
     <prime_street>DURBAN RD, ET</prime_street>
     <cross_streets>GARDENVALE RD / MEADOWVALE DR</cross_streets>
@@ -92,16 +92,6 @@
     <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-15 22:06:31</dispatch_time>
-    <event_num>F20114364</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
     <prime_street>WESTBROOK AVE, EY</prime_street>
     <cross_streets>OAK PARK AVE / WESTLAKE AVE</cross_streets>
     <dispatch_time>2020-11-15 22:09:06</dispatch_time>
@@ -130,5 +120,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>315</beat>
     <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 22:12:58</dispatch_time>
+    <event_num>F20114368</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
   </event>
 </tfs_active_incidents>
