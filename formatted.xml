@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-16 05:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-16 05:45:02</update_from_db_time>
   <event>
     <prime_street>OXFORD ST, TT</prime_street>
     <cross_streets>LN W SPADINA N NASSAU / ELLEN AVE</cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> P315, P332, A331, C33, P331, P334, A325, LA333, R325, S331, C30, T333, CMD30, CMD30C, P325, P333, P344, C34, HZ332, C42, C31, P314, HR332, C10, R345, P342</units_disp>
   </event>
   <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 04:59:14</dispatch_time>
-    <event_num>F20114432</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
     <prime_street>M6N</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-16 05:04:17</dispatch_time>
@@ -30,25 +20,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>422</beat>
     <units_disp> P422</units_disp>
-  </event>
-  <event>
-    <prime_street>M4X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 05:12:35</dispatch_time>
-    <event_num>F20114435</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street>ADELAIDE ST, TT</prime_street>
-    <cross_streets>GRAND OPERA LANE / BAY ST</cross_streets>
-    <dispatch_time>2020-11-16 05:13:58</dispatch_time>
-    <event_num>F20114436</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P426, HR332</units_disp>
   </event>
 </tfs_active_incidents>
