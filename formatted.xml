@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-15 23:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-15 23:45:02</update_from_db_time>
   <event>
     <prime_street>DURBAN RD, ET</prime_street>
     <cross_streets>GARDENVALE RD / MEADOWVALE DR</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>431</beat>
     <units_disp> R435, P433, A433, P431, R426</units_disp>
-  </event>
-  <event>
-    <prime_street>MERVYN AVE, ET</prime_street>
-    <cross_streets>JOPLING AVE N / HEPC</cross_streets>
-    <dispatch_time>2020-11-15 17:23:14</dispatch_time>
-    <event_num>F20114239</event_num>
-    <event_type>Fire - Transformer/Pole</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445, PL432, P445</units_disp>
   </event>
   <event>
     <prime_street>M6E</prime_street>
@@ -42,16 +32,6 @@
     <units_disp> R224</units_disp>
   </event>
   <event>
-    <prime_street>M1H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-15 22:33:07</dispatch_time>
-    <event_num>F20114373</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>EGLINTON AVE W / ROYAL YORK RD</cross_streets>
     <dispatch_time>2020-11-15 22:34:44</dispatch_time>
@@ -62,33 +42,53 @@
     <units_disp> P443</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>EDDYSTONE AVE / JANE ST</cross_streets>
-    <dispatch_time>2020-11-15 23:03:04</dispatch_time>
-    <event_num>F20114378</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
+    <prime_street>HEPBOURNE ST, TT</prime_street>
+    <cross_streets>CONCORD AVE / DELAWARE AVE</cross_streets>
+    <dispatch_time>2020-11-15 23:18:30</dispatch_time>
+    <event_num>F20114381</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R345, P426, A345, C34, P315, P331, P312, S331, A426, LA421</units_disp>
   </event>
   <event>
-    <prime_street>M6S</prime_street>
+    <prime_street>ADELAIDE ST, TT</prime_street>
+    <cross_streets>ONTARIO ST / POMPADOUR LANE</cross_streets>
+    <dispatch_time>2020-11-15 23:27:35</dispatch_time>
+    <event_num>F20114383</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, R325, C33, P325, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, NY</prime_street>
+    <cross_streets>HOLMES AVE / OLIVE AVE</cross_streets>
+    <dispatch_time>2020-11-15 23:32:31</dispatch_time>
+    <event_num>F20114385</event_num>
+    <event_type>Fire Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, R112, C11, HR114, P111, T114, S143</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-15 23:07:58</dispatch_time>
-    <event_num>F20114379</event_num>
+    <dispatch_time>2020-11-15 23:41:03</dispatch_time>
+    <event_num>F20114386</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>425</beat>
     <units_disp> R425</units_disp>
   </event>
   <event>
-    <prime_street>M1X</prime_street>
+    <prime_street>M3C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-15 23:13:33</dispatch_time>
-    <event_num>F20114380</event_num>
+    <dispatch_time>2020-11-15 23:41:48</dispatch_time>
+    <event_num>F20114387</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211</units_disp>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
   </event>
 </tfs_active_incidents>
