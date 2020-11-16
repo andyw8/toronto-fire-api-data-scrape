@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-15 20:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-15 21:15:02</update_from_db_time>
   <event>
     <prime_street>DURBAN RD, ET</prime_street>
     <cross_streets>GARDENVALE RD / MEADOWVALE DR</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>431</beat>
     <units_disp> R435, P433, A433, P431</units_disp>
-  </event>
-  <event>
-    <prime_street>GLENCAIRN AVE, TT</prime_street>
-    <cross_streets>YONGE ST / DUPLEX AVE</cross_streets>
-    <dispatch_time>2020-11-15 15:26:52</dispatch_time>
-    <event_num>F20114159</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> R134, A135</units_disp>
   </event>
   <event>
     <prime_street>SILVERTON AVE, NY</prime_street>
@@ -52,16 +42,6 @@
     <units_disp> P445, PL432</units_disp>
   </event>
   <event>
-    <prime_street>PENWORTH RD, SC</prime_street>
-    <cross_streets>TERRAVIEW PARK TRL / MASSEY CREEK</cross_streets>
-    <dispatch_time>2020-11-15 19:19:11</dispatch_time>
-    <event_num>F20114302</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
-  </event>
-  <event>
     <prime_street>YONGE ST, NY</prime_street>
     <cross_streets>HOLLYWOOD AVE / ELMWOOD AVE</cross_streets>
     <dispatch_time>2020-11-15 19:49:15</dispatch_time>
@@ -70,36 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
     <units_disp> P114, C11, C10, HR114</units_disp>
-  </event>
-  <event>
-    <prime_street>COSBURN AVE, EY</prime_street>
-    <cross_streets>GOWAN AVE / DONLANDS AVE</cross_streets>
-    <dispatch_time>2020-11-15 20:03:44</dispatch_time>
-    <event_num>F20114321</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
-  </event>
-  <event>
-    <prime_street>PRESLEY AVE, SC</prime_street>
-    <cross_streets>VERNADALE CRES / ST CLAIR AVE E</cross_streets>
-    <dispatch_time>2020-11-15 20:13:42</dispatch_time>
-    <event_num>F20114324</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222, P222</units_disp>
-  </event>
-  <event>
-    <prime_street>GLENEAGLE CRES, NY</prime_street>
-    <cross_streets>KINGSLAKE RD / KINGSLAKE RD</cross_streets>
-    <dispatch_time>2020-11-15 20:15:56</dispatch_time>
-    <event_num>F20114325</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, P113, A113, P116, P123, C24</units_disp>
   </event>
   <event>
     <prime_street>PITTSBORO DR, ET</prime_street>
@@ -112,13 +62,73 @@
     <units_disp> A415, C41, R411, R412, R413</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>AVENUE RD / LAWRENCE AVE W</cross_streets>
-    <dispatch_time>2020-11-15 20:21:37</dispatch_time>
-    <event_num>F20114327</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>RODDA BLVD, SC</prime_street>
+    <cross_streets>LAWRENCE AVE E / 10 RODDA BLVD</cross_streets>
+    <dispatch_time>2020-11-15 20:47:48</dispatch_time>
+    <event_num>F20114332</event_num>
+    <event_type>Wires Down - Hydro</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>EDNA AVE / DORVAL RD</cross_streets>
+    <dispatch_time>2020-11-15 20:55:14</dispatch_time>
+    <event_num>F20114334</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> A423</units_disp>
+  </event>
+  <event>
+    <prime_street>LIVINGSTONE AVE, YK</prime_street>
+    <cross_streets>MARLEE AVE / TIMES RD</cross_streets>
+    <dispatch_time>2020-11-15 20:56:43</dispatch_time>
+    <event_num>F20114335</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SUNNYSIDE AVE / GLENDALE AVE</cross_streets>
+    <dispatch_time>2020-11-15 20:59:18</dispatch_time>
+    <event_num>F20114336</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426, R426, A426, C42, R425</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 21:01:40</dispatch_time>
+    <event_num>F20114337</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
+  </event>
+  <event>
+    <prime_street>M6L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 21:03:08</dispatch_time>
+    <event_num>F20114338</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-15 21:09:14</dispatch_time>
+    <event_num>F20114339</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> A415, P443</units_disp>
   </event>
 </tfs_active_incidents>
