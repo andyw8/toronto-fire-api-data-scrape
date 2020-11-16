@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-15 21:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-15 22:15:02</update_from_db_time>
   <event>
     <prime_street>DURBAN RD, ET</prime_street>
     <cross_streets>GARDENVALE RD / MEADOWVALE DR</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Wires Down - Hydro</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>431</beat>
-    <units_disp> R435, P433, A433, P431</units_disp>
+    <units_disp> R435, P433, A433, P431, R426</units_disp>
   </event>
   <event>
     <prime_street>SILVERTON AVE, NY</prime_street>
@@ -29,7 +29,7 @@
     <event_type>Wires Down - Hydro</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>435</beat>
-    <units_disp> R435, A433, R434</units_disp>
+    <units_disp> R435, A433, R434, R435</units_disp>
   </event>
   <event>
     <prime_street>MERVYN AVE, ET</prime_street>
@@ -42,93 +42,93 @@
     <units_disp> P445, PL432, P445</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>HOLLYWOOD AVE / ELMWOOD AVE</cross_streets>
-    <dispatch_time>2020-11-15 19:49:15</dispatch_time>
-    <event_num>F20114315</event_num>
-    <event_type>Public Hazard</event_type>
+    <prime_street>WESTON RD, YK</prime_street>
+    <cross_streets>WRIGHT AVE / BELLEVUE CRES</cross_streets>
+    <dispatch_time>2020-11-15 21:47:44</dispatch_time>
+    <event_num>F20114356</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442, R421, C42, P443, A133, P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-15 21:56:30</dispatch_time>
+    <event_num>F20114358</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
-    <units_disp> P114, C11, C10, HR114</units_disp>
+    <units_disp> P114</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>M4S</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-15 21:01:40</dispatch_time>
-    <event_num>F20114337</event_num>
+    <dispatch_time>2020-11-15 21:58:34</dispatch_time>
+    <event_num>F20114359</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-15 21:09:14</dispatch_time>
-    <event_num>F20114339</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>WARDEN AVE, SC</prime_street>
+    <cross_streets>LUPIN DR / METROPOLITAN RD</cross_streets>
+    <dispatch_time>2020-11-15 22:01:54</dispatch_time>
+    <event_num>F20114361</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A415, P443, R444</units_disp>
+    <beat>245</beat>
+    <units_disp> S232, P245, A244, C24, P232, P233</units_disp>
   </event>
   <event>
-    <prime_street>M4X</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-15 21:20:55</dispatch_time>
-    <event_num>F20114343</event_num>
+    <dispatch_time>2020-11-15 22:03:16</dispatch_time>
+    <event_num>F20114363</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>M5G</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-15 21:22:03</dispatch_time>
-    <event_num>F20114344</event_num>
+    <dispatch_time>2020-11-15 22:06:31</dispatch_time>
+    <event_num>F20114364</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> R325</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>BRIDLETOWNE CRCL, SC</prime_street>
-    <cross_streets>EATON PARK LANE / LORD SYDENHAM CRT</cross_streets>
-    <dispatch_time>2020-11-15 21:23:59</dispatch_time>
-    <event_num>F20114345</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>WESTBROOK AVE, EY</prime_street>
+    <cross_streets>OAK PARK AVE / WESTLAKE AVE</cross_streets>
+    <dispatch_time>2020-11-15 22:09:06</dispatch_time>
+    <event_num>F20114365</event_num>
+    <event_type>Wires Down - Hydro</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
+    <prime_street>M2M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-15 21:31:26</dispatch_time>
-    <event_num>F20114347</event_num>
+    <dispatch_time>2020-11-15 22:09:43</dispatch_time>
+    <event_num>F20114366</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P242</units_disp>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
   </event>
   <event>
-    <prime_street>BAYVIEW AVE, NY</prime_street>
-    <cross_streets>STRATFORD PARK TRL / STRATFORD PARK TRL</cross_streets>
-    <dispatch_time>2020-11-15 21:31:32</dispatch_time>
-    <event_num>F20114348</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131, C13, R122, R134, A321, R321</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-15 21:35:51</dispatch_time>
-    <event_num>F20114349</event_num>
+    <dispatch_time>2020-11-15 22:10:37</dispatch_time>
+    <event_num>F20114367</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P245</units_disp>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
   </event>
 </tfs_active_incidents>
