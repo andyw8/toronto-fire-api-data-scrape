@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-16 20:30:02</update_from_db_time>
+  <update_from_db_time>2020-11-16 20:40:02</update_from_db_time>
   <event>
     <prime_street>OXFORD ST, TT</prime_street>
     <cross_streets>LN W SPADINA N NASSAU / ELLEN AVE</cross_streets>
@@ -13,16 +13,6 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>DENNIS FLYNN PARK TRL / CIVIC CENTRE CRT</cross_streets>
-    <dispatch_time>2020-11-16 19:50:24</dispatch_time>
-    <event_num>F20114663</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P432, P445, R444, S445, C44, PL432</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
     <cross_streets>LAKE SHORE BLVD W / TWENTY SEVENTH ST</cross_streets>
     <dispatch_time>2020-11-16 20:00:00</dispatch_time>
     <event_num>F20114668</event_num>
@@ -30,36 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>435</beat>
     <units_disp> R435</units_disp>
-  </event>
-  <event>
-    <prime_street>CARLUKE CRES, NY</prime_street>
-    <cross_streets>FIFESHIRE RD / FIFESHIRE RD</cross_streets>
-    <dispatch_time>2020-11-16 20:07:39</dispatch_time>
-    <event_num>F20114671</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> C11, HR114, P116, P121, R122, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>SHUTER ST / DUNDAS ST E</cross_streets>
-    <dispatch_time>2020-11-16 20:18:49</dispatch_time>
-    <event_num>F20114672</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, C33, P325, P333, R325</units_disp>
-  </event>
-  <event>
-    <prime_street>ELIZABETH ST, TT</prime_street>
-    <cross_streets>GERRARD ST W / COLLEGE ST</cross_streets>
-    <dispatch_time>2020-11-16 20:19:03</dispatch_time>
-    <event_num>F20114673</event_num>
-    <event_type>Alarms Highrise Institution Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P332, P315, A312, HR332, P312, P313, C31</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -72,16 +32,6 @@
     <units_disp> P334, R326, P344, T333, C32</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>3950 LAWRENCE AVE E / 3967 LAWRENCE AVE E</cross_streets>
-    <dispatch_time>2020-11-16 20:22:22</dispatch_time>
-    <event_num>F20114675</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234, R231, A215, C23, P223</units_disp>
-  </event>
-  <event>
     <prime_street>BAY ST, TT</prime_street>
     <cross_streets>FRONT ST W / WELLINGTON ST W</cross_streets>
     <dispatch_time>2020-11-16 20:22:40</dispatch_time>
@@ -89,7 +39,7 @@
     <event_type>Alarm Highrise - Commercial - Downtown</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>332</beat>
-    <units_disp> P331, P324, A331, C34, P311</units_disp>
+    <units_disp> P331, P324, A331, C34, P311, C33, P333, C33</units_disp>
   </event>
   <event>
     <prime_street>M6B</prime_street>
@@ -100,5 +50,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
     <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-16 20:27:57</dispatch_time>
+    <event_num>F20114678</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-16 20:30:04</dispatch_time>
+    <event_num>F20114679</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>SHUTER ST, TT</prime_street>
+    <cross_streets>SEATON ST / NIGHTHAWK LANE</cross_streets>
+    <dispatch_time>2020-11-16 20:31:02</dispatch_time>
+    <event_num>F20114680</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325, A325</units_disp>
+  </event>
+  <event>
+    <prime_street>O'CONNOR DR, EY</prime_street>
+    <cross_streets>GARDENS CRES / DOHME AVE</cross_streets>
+    <dispatch_time>2020-11-16 20:35:21</dispatch_time>
+    <event_num>F20114681</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> C22, R224, R235, A322, P322</units_disp>
   </event>
 </tfs_active_incidents>
