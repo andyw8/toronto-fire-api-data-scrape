@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-17 18:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-17 18:20:02</update_from_db_time>
   <event>
     <prime_street>NORTON AVE, NY</prime_street>
     <cross_streets>MCKENZIE PARKETTE TRL / KENNETH AVE</cross_streets>
@@ -23,16 +23,6 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-17 17:14:02</dispatch_time>
-    <event_num>F20114937</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116, R122</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
     <cross_streets>KENNEDY RD / LAWRENCE AVE E</cross_streets>
     <dispatch_time>2020-11-17 17:54:31</dispatch_time>
     <event_num>F20114953</event_num>
@@ -42,33 +32,53 @@
     <units_disp> P232</units_disp>
   </event>
   <event>
-    <prime_street>JANE ST, NY</prime_street>
-    <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
-    <dispatch_time>2020-11-17 17:59:52</dispatch_time>
-    <event_num>F20114954</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>GRAND TRUNK CRES, TT</prime_street>
+    <cross_streets>LOWER SIMCOE ST / BREMNER BLVD</cross_streets>
+    <dispatch_time>2020-11-17 18:08:23</dispatch_time>
+    <event_num>F20114957</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> A142, C14, P145, P146, P442</units_disp>
+    <beat>334</beat>
+    <units_disp> P334, P332, HR332, P344, C33, T333</units_disp>
   </event>
   <event>
-    <prime_street>BERNARD AVE, TT</prime_street>
-    <cross_streets>BEDFORD RD / ADMIRAL RD</cross_streets>
-    <dispatch_time>2020-11-17 18:01:45</dispatch_time>
-    <event_num>F20114955</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-17 18:06:38</dispatch_time>
-    <event_num>F20114956</event_num>
+    <dispatch_time>2020-11-17 18:10:48</dispatch_time>
+    <event_num>F20114958</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-17 18:12:26</dispatch_time>
+    <event_num>F20114959</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>PEMBROKE ST, TT</prime_street>
+    <cross_streets>SHUTER ST / DUNDAS ST E</cross_streets>
+    <dispatch_time>2020-11-17 18:12:37</dispatch_time>
+    <event_num>F20114960</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325, C31, P313, P314, P333, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-17 18:14:08</dispatch_time>
+    <event_num>F20114961</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
 </tfs_active_incidents>
