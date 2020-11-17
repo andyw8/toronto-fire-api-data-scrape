@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-17 08:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-17 08:20:02</update_from_db_time>
   <event>
     <prime_street>NORTON AVE, NY</prime_street>
     <cross_streets>MCKENZIE PARKETTE TRL / KENNETH AVE</cross_streets>
@@ -40,15 +40,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>332</beat>
     <units_disp> S331, P332, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>DON MILLS RD, NY</prime_street>
-    <cross_streets>GATEWAY BLVD / HEPC</cross_streets>
-    <dispatch_time>2020-11-17 08:04:32</dispatch_time>
-    <event_num>F20114785</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> S313, P322</units_disp>
   </event>
 </tfs_active_incidents>
