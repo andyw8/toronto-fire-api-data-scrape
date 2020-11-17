@@ -1,54 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-16 23:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-17 00:15:02</update_from_db_time>
   <event>
-    <prime_street>TAPSCOTT RD, SC</prime_street>
-    <cross_streets>MCLEVIN AVE / C P R</cross_streets>
-    <dispatch_time>2020-11-16 23:06:00</dispatch_time>
-    <event_num>F20114706</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
+    <prime_street>M1C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-16 23:09:54</dispatch_time>
-    <event_num>F20114707</event_num>
+    <dispatch_time>2020-11-16 23:58:06</dispatch_time>
+    <event_num>F20114714</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
   </event>
   <event>
-    <prime_street>M6L</prime_street>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-16 23:21:47</dispatch_time>
-    <event_num>F20114708</event_num>
+    <dispatch_time>2020-11-17 00:11:11</dispatch_time>
+    <event_num>F20114716</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 23:24:57</dispatch_time>
-    <event_num>F20114709</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 23:36:27</dispatch_time>
-    <event_num>F20114710</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
 </tfs_active_incidents>
