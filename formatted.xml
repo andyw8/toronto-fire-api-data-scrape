@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-16 23:25:02</update_from_db_time>
-  <event>
-    <prime_street>LINDYLOU RD, NY</prime_street>
-    <cross_streets>JAYZEL DR / LANYARD RD</cross_streets>
-    <dispatch_time>2020-11-16 22:10:07</dispatch_time>
-    <event_num>F20114698</event_num>
-    <event_type>Fire - Outside Storage</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411, R411, R413, C14, P142, P146</units_disp>
-  </event>
+  <update_from_db_time>2020-11-16 23:40:02</update_from_db_time>
   <event>
     <prime_street>TAPSCOTT RD, SC</prime_street>
     <cross_streets>MCLEVIN AVE / C P R</cross_streets>
@@ -40,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>133</beat>
     <units_disp> R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-16 23:24:57</dispatch_time>
+    <event_num>F20114709</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-16 23:36:27</dispatch_time>
+    <event_num>F20114710</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
