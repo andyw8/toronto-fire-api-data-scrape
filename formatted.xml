@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-17 14:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-17 14:20:03</update_from_db_time>
   <event>
     <prime_street>NORTON AVE, NY</prime_street>
     <cross_streets>MCKENZIE PARKETTE TRL / KENNETH AVE</cross_streets>
@@ -19,7 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>341</beat>
-    <units_disp> R341, A341, P342, P343, P135, C34, A315, LA421, R134, S313, C30, R345, P442, P132, HZ332, P312, C13, P145, R133</units_disp>
+    <units_disp> R341, A341, P342, P343, P135, C34, A315, LA421, R134, S313, C30, R345, P442, P132, HZ332, P312, C13, P145, R133, CMD30, CMD30C</units_disp>
   </event>
   <event>
     <prime_street>HIGH PARK AVE, TT</prime_street>
@@ -50,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
     <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-17 13:58:13</dispatch_time>
-    <event_num>F20114874</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
   </event>
   <event>
     <prime_street>M1N</prime_street>
@@ -100,5 +90,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>422</beat>
     <units_disp> A421</units_disp>
+  </event>
+  <event>
+    <prime_street>M9L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-17 14:13:32</dispatch_time>
+    <event_num>F20114879</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-17 14:15:02</dispatch_time>
+    <event_num>F20114880</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
