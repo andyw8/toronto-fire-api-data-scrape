@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-17 06:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-17 06:20:02</update_from_db_time>
   <event>
     <prime_street>NORTON AVE, NY</prime_street>
     <cross_streets>MCKENZIE PARKETTE TRL / KENNETH AVE</cross_streets>
@@ -10,15 +10,5 @@
     <alarm_lev>2</alarm_lev>
     <beat>114</beat>
     <units_disp> P114, R112, C11, P111, P121, T114, A113, LA111, R122, S143, C10, C13, HZ145, P113, P131, P143, CMD10, CMD10C</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-17 06:00:21</dispatch_time>
-    <event_num>F20114760</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
   </event>
 </tfs_active_incidents>
