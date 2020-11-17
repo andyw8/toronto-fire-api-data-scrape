@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-16 20:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-16 21:20:02</update_from_db_time>
   <event>
     <prime_street>OXFORD ST, TT</prime_street>
     <cross_streets>LN W SPADINA N NASSAU / ELLEN AVE</cross_streets>
@@ -12,83 +12,33 @@
     <units_disp> P315, P332, A331, C33, P331, P334, A325, LA333, R325, S331, C30, T333, CMD30, CMD30C, P325, P333, P344, C34, HZ332, C42, C31, P314, HR332, C10, R345, P342, R325, FI5, P315, FI20, P332, P322, P331, P312</units_disp>
   </event>
   <event>
+    <prime_street>M4N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-16 21:08:58</dispatch_time>
+    <event_num>F20114687</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>131</beat>
+    <units_disp> P131</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-16 21:10:08</dispatch_time>
+    <event_num>F20114688</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
     <prime_street> </prime_street>
-    <cross_streets>LAKE SHORE BLVD W / TWENTY SEVENTH ST</cross_streets>
-    <dispatch_time>2020-11-16 20:00:00</dispatch_time>
-    <event_num>F20114668</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <cross_streets>BELLAMY RD N / LAWRENCE AVE E</cross_streets>
+    <dispatch_time>2020-11-16 21:10:57</dispatch_time>
+    <event_num>F20114689</event_num>
+    <event_type>Vehicle Accident with Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>YONGE ST / FREELAND ST</cross_streets>
-    <dispatch_time>2020-11-16 20:21:23</dispatch_time>
-    <event_num>F20114674</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P334, R326, P344, T333, C32</units_disp>
-  </event>
-  <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>FRONT ST W / WELLINGTON ST W</cross_streets>
-    <dispatch_time>2020-11-16 20:22:40</dispatch_time>
-    <event_num>F20114676</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P331, P324, A331, C34, P311, C33, P333, C33</units_disp>
-  </event>
-  <event>
-    <prime_street>M6B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 20:23:11</dispatch_time>
-    <event_num>F20114677</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 20:27:57</dispatch_time>
-    <event_num>F20114678</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M5G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 20:30:04</dispatch_time>
-    <event_num>F20114679</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>SHUTER ST, TT</prime_street>
-    <cross_streets>SEATON ST / NIGHTHAWK LANE</cross_streets>
-    <dispatch_time>2020-11-16 20:31:02</dispatch_time>
-    <event_num>F20114680</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, A325</units_disp>
-  </event>
-  <event>
-    <prime_street>O'CONNOR DR, EY</prime_street>
-    <cross_streets>GARDENS CRES / DOHME AVE</cross_streets>
-    <dispatch_time>2020-11-16 20:35:21</dispatch_time>
-    <event_num>F20114681</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> C22, R224, R235, A322, P322</units_disp>
+    <beat>231</beat>
+    <units_disp> R231, P234</units_disp>
   </event>
 </tfs_active_incidents>
