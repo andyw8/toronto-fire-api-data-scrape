@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-16 20:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-16 20:30:02</update_from_db_time>
   <event>
     <prime_street>OXFORD ST, TT</prime_street>
     <cross_streets>LN W SPADINA N NASSAU / ELLEN AVE</cross_streets>
@@ -12,8 +12,8 @@
     <units_disp> P315, P332, A331, C33, P331, P334, A325, LA333, R325, S331, C30, T333, CMD30, CMD30C, P325, P333, P344, C34, HZ332, C42, C31, P314, HR332, C10, R345, P342, R325, FI5, P315, FI20, P332, P322, P331, P312</units_disp>
   </event>
   <event>
-    <prime_street>EVA RD, ET</prime_street>
-    <cross_streets>427 C S EVA RD RAMP / THE WEST MALL</cross_streets>
+    <prime_street> </prime_street>
+    <cross_streets>DENNIS FLYNN PARK TRL / CIVIC CENTRE CRT</cross_streets>
     <dispatch_time>2020-11-16 19:50:24</dispatch_time>
     <event_num>F20114663</event_num>
     <event_type>Fire -  Highrise Residential</event_type>
@@ -32,16 +32,6 @@
     <units_disp> R435</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 20:05:54</dispatch_time>
-    <event_num>F20114670</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
     <prime_street>CARLUKE CRES, NY</prime_street>
     <cross_streets>FIFESHIRE RD / FIFESHIRE RD</cross_streets>
     <dispatch_time>2020-11-16 20:07:39</dispatch_time>
@@ -50,5 +40,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>122</beat>
     <units_disp> C11, HR114, P116, P121, R122, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>SHERBOURNE ST, TT</prime_street>
+    <cross_streets>SHUTER ST / DUNDAS ST E</cross_streets>
+    <dispatch_time>2020-11-16 20:18:49</dispatch_time>
+    <event_num>F20114672</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325, C33, P325, P333, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>ELIZABETH ST, TT</prime_street>
+    <cross_streets>GERRARD ST W / COLLEGE ST</cross_streets>
+    <dispatch_time>2020-11-16 20:19:03</dispatch_time>
+    <event_num>F20114673</event_num>
+    <event_type>Alarms Highrise Institution Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P332, P315, A312, HR332, P312, P313, C31</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>YONGE ST / FREELAND ST</cross_streets>
+    <dispatch_time>2020-11-16 20:21:23</dispatch_time>
+    <event_num>F20114674</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P334, R326, P344, T333, C32</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>3950 LAWRENCE AVE E / 3967 LAWRENCE AVE E</cross_streets>
+    <dispatch_time>2020-11-16 20:22:22</dispatch_time>
+    <event_num>F20114675</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234, R231, A215, C23, P223</units_disp>
+  </event>
+  <event>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>FRONT ST W / WELLINGTON ST W</cross_streets>
+    <dispatch_time>2020-11-16 20:22:40</dispatch_time>
+    <event_num>F20114676</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P331, P324, A331, C34, P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M6B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-16 20:23:11</dispatch_time>
+    <event_num>F20114677</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
 </tfs_active_incidents>
