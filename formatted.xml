@@ -1,54 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-17 00:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-17 01:20:02</update_from_db_time>
   <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-16 23:58:06</dispatch_time>
-    <event_num>F20114714</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>CREDIT UNION DR, NY</prime_street>
+    <cross_streets>MOBILE DR / EGLINTON AVE E</cross_streets>
+    <dispatch_time>2020-11-17 00:52:31</dispatch_time>
+    <event_num>F20114724</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-17 00:29:04</dispatch_time>
-    <event_num>F20114717</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>RAGLAN AVE, YK</prime_street>
+    <cross_streets>MAPLEWOOD AVE / CLAXTON BLVD</cross_streets>
+    <dispatch_time>2020-11-17 00:59:46</dispatch_time>
+    <event_num>F20114727</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>343</beat>
+    <units_disp> P343, R341, P311, C34, A135</units_disp>
   </event>
   <event>
-    <prime_street>SHENDALE DR, ET</prime_street>
-    <cross_streets>ALBION RD / BEMBERG CRT</cross_streets>
-    <dispatch_time>2020-11-17 00:30:44</dispatch_time>
-    <event_num>F20114718</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>AVENUE RD, TT</prime_street>
+    <cross_streets>OTTER CRES / CARIBOU RD</cross_streets>
+    <dispatch_time>2020-11-17 01:04:16</dispatch_time>
+    <event_num>F20114728</event_num>
+    <event_type>Alarm - Institution - School</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415, P146, A415, C41, R413</units_disp>
+    <beat>131</beat>
+    <units_disp> R134, P131, C13, P121, P132, A321</units_disp>
   </event>
   <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-17 00:31:22</dispatch_time>
-    <event_num>F20114719</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LAKE SHORE BLVD, TT</prime_street>
+    <cross_streets>NET DR / BUDAPEST LANE</cross_streets>
+    <dispatch_time>2020-11-17 01:07:26</dispatch_time>
+    <event_num>F20114729</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
   <event>
-    <prime_street>M3H</prime_street>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-17 00:36:03</dispatch_time>
-    <event_num>F20114720</event_num>
+    <dispatch_time>2020-11-17 01:13:45</dispatch_time>
+    <event_num>F20114730</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
 </tfs_active_incidents>
