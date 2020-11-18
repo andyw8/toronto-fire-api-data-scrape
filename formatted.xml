@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-18 03:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-18 04:10:02</update_from_db_time>
   <event>
     <prime_street>WESTMOUNT AVE, YK</prime_street>
     <cross_streets>GENESSEE AVE / MARTIN ST</cross_streets>
@@ -9,26 +9,16 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>341</beat>
-    <units_disp> R341, A341, P342, P343, P135, C34, A315, LA421, R134, S313, C30, R345, P442, P132, HZ332, P312, C13, P145, R133, CMD30, CMD30C, LA333, C2, FI4, R421, R321, P422, R423</units_disp>
+    <units_disp> R341, A341, P342, P343, P135, C34, A315, LA421, R134, S313, C30, R345, P442, P132, HZ332, P312, C13, P145, R133, CMD30, CMD30C, LA333, C2, FI4, R421, R321, P422, R423, A421</units_disp>
   </event>
   <event>
-    <prime_street>NANTON AVE, TT</prime_street>
-    <cross_streets>DALE AVE / ELM AVE</cross_streets>
-    <dispatch_time>2020-11-18 03:13:17</dispatch_time>
-    <event_num>F20115078</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, A312, C31, P312, P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-18 03:28:52</dispatch_time>
-    <event_num>F20115079</event_num>
+    <dispatch_time>2020-11-18 04:02:53</dispatch_time>
+    <event_num>F20115082</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
 </tfs_active_incidents>
