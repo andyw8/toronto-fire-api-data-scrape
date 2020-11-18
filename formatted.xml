@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-18 14:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-18 15:15:01</update_from_db_time>
   <event>
     <prime_street>WESTMOUNT AVE, YK</prime_street>
     <cross_streets>GENESSEE AVE / MARTIN ST</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>341</beat>
     <units_disp> R341, A341, P342, P343, P135, C34, A315, LA421, R134, S313, C30, R345, P442, P132, HZ332, P312, C13, P145, R133, CMD30, CMD30C, LA333, C2, FI4, R421, R321, P422, R423, A421, P342, P343, C34, FI8, R341, A322, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>LAPPIN AVE, TT</prime_street>
-    <cross_streets>LN W DUFFERIN S LAPPIN / EMERSON AVE</cross_streets>
-    <dispatch_time>2020-11-18 13:45:03</dispatch_time>
-    <event_num>F20115206</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> P433, C34, HZ332, R345</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -32,33 +22,43 @@
     <units_disp> R122, P123, P125, C11, A322, P233</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-18 14:24:06</dispatch_time>
-    <event_num>F20115217</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>LAKE SHORE BLVD W / PARKSIDE DR</cross_streets>
+    <dispatch_time>2020-11-18 14:39:58</dispatch_time>
+    <event_num>F20115221</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-18 14:33:44</dispatch_time>
-    <event_num>F20115218</event_num>
+    <dispatch_time>2020-11-18 14:47:02</dispatch_time>
+    <event_num>F20115224</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>EGLINTON AVE, TT</prime_street>
-    <cross_streets>DUNFIELD AVE / LILLIAN ST</cross_streets>
-    <dispatch_time>2020-11-18 14:36:03</dispatch_time>
-    <event_num>F20115219</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-18 15:10:29</dispatch_time>
+    <event_num>F20115233</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134, P135, A135, C13, P131</units_disp>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KIPLING AVE / REDWATER DR</cross_streets>
+    <dispatch_time>2020-11-18 15:10:44</dispatch_time>
+    <event_num>F20115234</event_num>
+    <event_type>Vehicle - Spill Clean Up</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> A415</units_disp>
   </event>
 </tfs_active_incidents>
