@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-18 16:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-18 16:40:02</update_from_db_time>
   <event>
     <prime_street>WESTMOUNT AVE, YK</prime_street>
     <cross_streets>GENESSEE AVE / MARTIN ST</cross_streets>
@@ -12,23 +12,43 @@
     <units_disp> R341, A341, P342, P343, P135, C34, A315, LA421, R134, S313, C30, R345, P442, P132, HZ332, P312, C13, P145, R133, CMD30, CMD30C, LA333, C2, FI4, R421, R321, P422, R423, A421, P342, P343, C34, FI8, R341, A322, R133</units_disp>
   </event>
   <event>
-    <prime_street>GORDONRIDGE PL, SC</prime_street>
-    <cross_streets>DANFORTH RD / </cross_streets>
-    <dispatch_time>2020-11-18 16:09:52</dispatch_time>
-    <event_num>F20115247</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>ROGERS RD / CALEDONIA RD</cross_streets>
+    <dispatch_time>2020-11-18 16:21:30</dispatch_time>
+    <event_num>F20115250</event_num>
+    <event_type>Public Hazard</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> S232, P221</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>M4Y</prime_street>
+    <prime_street>CONNELL CRT, ET</prime_street>
+    <cross_streets>HORNER AVE / </cross_streets>
+    <dispatch_time>2020-11-18 16:26:59</dispatch_time>
+    <event_num>F20115251</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433, C43, P433, R435, HZ332, C43</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-18 16:11:53</dispatch_time>
-    <event_num>F20115248</event_num>
+    <dispatch_time>2020-11-18 16:27:36</dispatch_time>
+    <event_num>F20115252</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>432</beat>
+    <units_disp> P432</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-18 16:28:47</dispatch_time>
+    <event_num>F20115253</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
