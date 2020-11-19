@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-19 15:10:02</update_from_db_time>
-  <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 14:43:17</dispatch_time>
-    <event_num>F20115544</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 14:50:07</dispatch_time>
-    <event_num>F20115545</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
+  <update_from_db_time>2020-11-19 15:20:02</update_from_db_time>
   <event>
     <prime_street>M9V</prime_street>
     <cross_streets/>
@@ -42,16 +22,6 @@
     <units_disp> P242</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 14:57:25</dispatch_time>
-    <event_num>F20115549</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
     <prime_street>M1L</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-19 14:59:53</dispatch_time>
@@ -62,26 +32,6 @@
     <units_disp> P222</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 15:00:15</dispatch_time>
-    <event_num>F20115551</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>SHEPPARD AVE, NY</prime_street>
-    <cross_streets>CUSACK CRT / GREENBRIAR RD</cross_streets>
-    <dispatch_time>2020-11-19 15:00:37</dispatch_time>
-    <event_num>F20115552</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116, R122, C11, P111, T114</units_disp>
-  </event>
-  <event>
     <prime_street>M6E</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-19 15:05:00</dispatch_time>
@@ -90,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>341</beat>
     <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-19 15:14:18</dispatch_time>
+    <event_num>F20115554</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-19 15:16:35</dispatch_time>
+    <event_num>F20115555</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
   </event>
 </tfs_active_incidents>
