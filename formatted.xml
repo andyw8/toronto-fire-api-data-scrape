@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-19 14:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-19 14:45:02</update_from_db_time>
   <event>
     <prime_street>MARKBROOK LANE, ET</prime_street>
     <cross_streets>KIPLING AVE BICYCLE TRL / STEELES AVE W</cross_streets>
@@ -12,33 +12,53 @@
     <units_disp> R413, R411, A415, R412, C41, R441, A411, LA421, P441CA, P443, R444, S445, C14, HR114, HZ145, P146, C40, CMD10, CMD10C, R133, P432, FI8</units_disp>
   </event>
   <event>
-    <prime_street>NORTON AVE, NY</prime_street>
-    <cross_streets>MCKENZIE PARKETTE TRL / KENNETH AVE</cross_streets>
-    <dispatch_time>2020-11-19 13:11:31</dispatch_time>
-    <event_num>F20115516</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>DANFORTH AVE, TT</prime_street>
-    <cross_streets>LOGAN AVE / FENWICK AVE</cross_streets>
-    <dispatch_time>2020-11-19 13:26:49</dispatch_time>
-    <event_num>F20115520</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> S313, P323, A322, C32, P313, P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-19 13:49:43</dispatch_time>
-    <event_num>F20115529</event_num>
+    <dispatch_time>2020-11-19 14:23:20</dispatch_time>
+    <event_num>F20115537</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-19 14:27:48</dispatch_time>
+    <event_num>F20115540</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> R235, P125</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>FINCH AVE W / PELICAN GT</cross_streets>
+    <dispatch_time>2020-11-19 14:30:31</dispatch_time>
+    <event_num>F20115541</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-19 14:35:49</dispatch_time>
+    <event_num>F20115542</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M3B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-19 14:40:38</dispatch_time>
+    <event_num>F20115543</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
 </tfs_active_incidents>
