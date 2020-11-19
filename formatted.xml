@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-19 13:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-19 13:25:02</update_from_db_time>
   <event>
     <prime_street>MARKBROOK LANE, ET</prime_street>
     <cross_streets>KIPLING AVE BICYCLE TRL / STEELES AVE W</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P222</units_disp>
   </event>
   <event>
-    <prime_street>TRINITY SQ, TT</prime_street>
-    <cross_streets>JAMES ST / </cross_streets>
-    <dispatch_time>2020-11-19 13:04:47</dispatch_time>
-    <event_num>F20115515</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, P325, A325, C33, P332, R325</units_disp>
-  </event>
-  <event>
     <prime_street>NORTON AVE, NY</prime_street>
     <cross_streets>MCKENZIE PARKETTE TRL / KENNETH AVE</cross_streets>
     <dispatch_time>2020-11-19 13:11:31</dispatch_time>
@@ -50,5 +40,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> P312, P313, A312, C31, P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-19 13:21:01</dispatch_time>
+    <event_num>F20115518</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
 </tfs_active_incidents>
