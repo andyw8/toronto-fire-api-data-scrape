@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-19 07:30:03</update_from_db_time>
+  <update_from_db_time>2020-11-19 07:40:02</update_from_db_time>
   <event>
     <prime_street>MARKBROOK LANE, ET</prime_street>
     <cross_streets>KIPLING AVE BICYCLE TRL / STEELES AVE W</cross_streets>
@@ -12,56 +12,6 @@
     <units_disp> R413, R411, A415, R412, C41, R441, A411, LA421, P441CA, P443, R444, S445, C14, HR114, HZ145, P146, C40, CMD10, CMD10C, R133</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 07:01:46</dispatch_time>
-    <event_num>F20115427</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-19 07:08:36</dispatch_time>
-    <event_num>F20115429</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425, P431</units_disp>
-  </event>
-  <event>
-    <prime_street>M5G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 07:07:36</dispatch_time>
-    <event_num>F20115430</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>GERRARD ST, TT</prime_street>
-    <cross_streets>COXWELL AVE / GAINSBOROUGH RD</cross_streets>
-    <dispatch_time>2020-11-19 07:13:47</dispatch_time>
-    <event_num>F20115431</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 07:13:38</dispatch_time>
-    <event_num>F20115432</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2020-11-19 07:20:58</dispatch_time>
@@ -70,5 +20,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>113</beat>
     <units_disp> A113, P113</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-19 07:28:50</dispatch_time>
+    <event_num>F20115434</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street>GEORGE ST, TT</prime_street>
+    <cross_streets>JENOVES PL / TAYLOR'S WHARF LANE</cross_streets>
+    <dispatch_time>2020-11-19 07:29:15</dispatch_time>
+    <event_num>F20115435</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, P332, C33, R325, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-19 07:33:00</dispatch_time>
+    <event_num>F20115436</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
