@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-19 09:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-19 10:20:03</update_from_db_time>
   <event>
     <prime_street>MARKBROOK LANE, ET</prime_street>
     <cross_streets>KIPLING AVE BICYCLE TRL / STEELES AVE W</cross_streets>
@@ -9,76 +9,96 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>413</beat>
-    <units_disp> R413, R411, A415, R412, C41, R441, A411, LA421, P441CA, P443, R444, S445, C14, HR114, HZ145, P146, C40, CMD10, CMD10C, R133, P432</units_disp>
+    <units_disp> R413, R411, A415, R412, C41, R441, A411, LA421, P441CA, P443, R444, S445, C14, HR114, HZ145, P146, C40, CMD10, CMD10C, R133, P432, FI8</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-19 09:04:06</dispatch_time>
-    <event_num>F20115447</event_num>
+    <dispatch_time>2020-11-19 09:45:28</dispatch_time>
+    <event_num>F20115458</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
   </event>
   <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 09:22:33</dispatch_time>
-    <event_num>F20115452</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BRIAR HILL AVE, YK</prime_street>
+    <cross_streets>LOCKSLEY AVE / DUFFERIN ST</cross_streets>
+    <dispatch_time>2020-11-19 09:48:16</dispatch_time>
+    <event_num>F20115461</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <beat>341</beat>
+    <units_disp> A341, C34, P342, R341, P132</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>ISLAND RD / PORT UNION RD</cross_streets>
-    <dispatch_time>2020-11-19 09:26:54</dispatch_time>
-    <event_num>F20115453</event_num>
-    <event_type>Vehicle - Spill Clean Up</event_type>
+    <prime_street>BATHURST ST, TT</prime_street>
+    <cross_streets>HELENA AVE / BATHURST S VAUGHAN N RAMP</cross_streets>
+    <dispatch_time>2020-11-19 09:49:28</dispatch_time>
+    <event_num>F20115463</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
+    <beat>343</beat>
+    <units_disp> HR332, P312, A135, C31, HZ332</units_disp>
   </event>
   <event>
-    <prime_street>M5C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 09:31:28</dispatch_time>
-    <event_num>F20115454</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>ARBORETUM LANE, NY</prime_street>
+    <cross_streets>THE POND RD / </cross_streets>
+    <dispatch_time>2020-11-19 10:00:24</dispatch_time>
+    <event_num>F20115467</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P332</units_disp>
+    <beat>141</beat>
+    <units_disp> A142, P141</units_disp>
   </event>
   <event>
-    <prime_street>MAITLAND ST, TT</prime_street>
-    <cross_streets>WELLSPRING LANE / MUTUAL ST</cross_streets>
-    <dispatch_time>2020-11-19 09:33:38</dispatch_time>
-    <event_num>F20115455</event_num>
-    <event_type>Alarm - Institution - School</event_type>
+    <prime_street>TRINITY SQ, TT</prime_street>
+    <cross_streets>JAMES ST / </cross_streets>
+    <dispatch_time>2020-11-19 10:02:24</dispatch_time>
+    <event_num>F20115468</event_num>
+    <event_type>Alarm Institution</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> R325, A312, P312, P314, P325, C31</units_disp>
+    <units_disp> P332, P331, A331, C32, P334, P344</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-19 09:38:40</dispatch_time>
-    <event_num>F20115456</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>GLEN MANOR DR, TT</prime_street>
+    <cross_streets>HUBBARD BLVD / SELWOOD AVE</cross_streets>
+    <dispatch_time>2020-11-19 10:07:13</dispatch_time>
+    <event_num>F20115469</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P426, PL432</units_disp>
+    <beat>227</beat>
+    <units_disp> P227, P226, A226, C22, R326</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>POWER ST / ADELAIDE ST E</cross_streets>
-    <dispatch_time>2020-11-19 09:39:12</dispatch_time>
-    <event_num>F20115457</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-19 10:07:09</dispatch_time>
+    <event_num>F20115470</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> R326</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-19 10:09:00</dispatch_time>
+    <event_num>F20115471</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-19 10:14:50</dispatch_time>
+    <event_num>F20115472</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> P212</units_disp>
   </event>
 </tfs_active_incidents>
