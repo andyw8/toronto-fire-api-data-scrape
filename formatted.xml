@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-19 12:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-19 13:20:02</update_from_db_time>
   <event>
     <prime_street>MARKBROOK LANE, ET</prime_street>
     <cross_streets>KIPLING AVE BICYCLE TRL / STEELES AVE W</cross_streets>
@@ -12,63 +12,43 @@
     <units_disp> R413, R411, A415, R412, C41, R441, A411, LA421, P441CA, P443, R444, S445, C14, HR114, HZ145, P146, C40, CMD10, CMD10C, R133, P432, FI8</units_disp>
   </event>
   <event>
-    <prime_street>BURLINGTON ST, ET</prime_street>
-    <cross_streets>LAKE SHORE BLVD W / STANLEY AVE</cross_streets>
-    <dispatch_time>2020-11-19 12:09:17</dispatch_time>
-    <event_num>F20115498</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> C43, P445, PL432, R426, R434</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Y</prime_street>
+    <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-19 12:18:19</dispatch_time>
-    <event_num>F20115500</event_num>
+    <dispatch_time>2020-11-19 12:59:06</dispatch_time>
+    <event_num>F20115514</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
+    <beat>225</beat>
+    <units_disp> P222</units_disp>
   </event>
   <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 12:24:22</dispatch_time>
-    <event_num>F20115502</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>TRINITY SQ, TT</prime_street>
+    <cross_streets>JAMES ST / </cross_streets>
+    <dispatch_time>2020-11-19 13:04:47</dispatch_time>
+    <event_num>F20115515</event_num>
+    <event_type>Alarm Institution</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
+    <beat>314</beat>
+    <units_disp> P314, P325, A325, C33, P332, R325</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>EGLINTON AVE W / RENFORTH DR</cross_streets>
-    <dispatch_time>2020-11-19 12:25:08</dispatch_time>
-    <event_num>F20115504</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
-    <prime_street>M4V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 12:27:39</dispatch_time>
-    <event_num>F20115505</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> A135</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 12:35:27</dispatch_time>
-    <event_num>F20115506</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>NORTON AVE, NY</prime_street>
+    <cross_streets>MCKENZIE PARKETTE TRL / KENNETH AVE</cross_streets>
+    <dispatch_time>2020-11-19 13:11:31</dispatch_time>
+    <event_num>F20115516</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
     <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>DAVENPORT RD, TT</prime_street>
+    <cross_streets>AVENUE RD / LN W AVENUE S DAVENPORT</cross_streets>
+    <dispatch_time>2020-11-19 13:12:51</dispatch_time>
+    <event_num>F20115517</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312, P313, A312, C31, P315</units_disp>
   </event>
 </tfs_active_incidents>
