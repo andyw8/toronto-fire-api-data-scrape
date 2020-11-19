@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-18 21:25:02</update_from_db_time>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-18 21:07:28</dispatch_time>
-    <event_num>F20115331</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
+  <update_from_db_time>2020-11-18 21:35:01</update_from_db_time>
   <event>
     <prime_street>WESTON RD, NY</prime_street>
     <cross_streets>MAINSHEP RD / HUMBER RIVER RECREATIONAL TRL</cross_streets>
@@ -29,7 +19,7 @@
     <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P314, A312</units_disp>
+    <units_disp> P314, A312, P314</units_disp>
   </event>
   <event>
     <prime_street>SHERBOURNE ST, TT</prime_street>
@@ -40,5 +30,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>313</beat>
     <units_disp> S313, P313, P312, R325, A325, C31, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-18 21:29:38</dispatch_time>
+    <event_num>F20115337</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
 </tfs_active_incidents>
