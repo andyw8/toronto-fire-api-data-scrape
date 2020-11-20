@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 04:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-20 05:20:03</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>TRILLER AVE / BEATY BOULEVARD PARKETTE TRL</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>426</beat>
-    <units_disp> R426, P426, A426, C42, R425, P331, R423, A331, LA333, S331, P315, C34, HZ332, P334, P342, C40, CMD30, CMD30C, C40, A423, A433, R444, A421, P422</units_disp>
+    <units_disp> R426, P426, A426, C42, R425, P331, R423, A331, LA333, S331, P315, C34, HZ332, P334, P342, C40, CMD30, CMD30C, C40, A423, A433, R444, A421, P422, A426</units_disp>
   </event>
   <event>
     <prime_street>RANSTONE GDNS, SC</prime_street>
@@ -22,23 +22,43 @@
     <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322, P233, P222</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
+    <prime_street>M3L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 03:56:25</dispatch_time>
-    <event_num>F20115753</event_num>
+    <dispatch_time>2020-11-20 05:10:52</dispatch_time>
+    <event_num>F20115758</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>FENMAR DR, NY</prime_street>
+    <cross_streets>GARYRAY DR / STEELES AVE W</cross_streets>
+    <dispatch_time>2020-11-20 05:12:52</dispatch_time>
+    <event_num>F20115759</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> A411, R413, C14, P141, P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 04:34:09</dispatch_time>
-    <event_num>F20115756</event_num>
+    <dispatch_time>2020-11-20 05:13:25</dispatch_time>
+    <event_num>F20115760</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>CAMERON ST / MC DOUGALL LANE</cross_streets>
+    <dispatch_time>2020-11-20 05:13:38</dispatch_time>
+    <event_num>F20115761</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P331, A331, C33, P334</units_disp>
   </event>
 </tfs_active_incidents>
