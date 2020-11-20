@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-19 20:40:03</update_from_db_time>
+  <update_from_db_time>2020-11-19 21:15:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>TRILLER AVE / BEATY BOULEVARD PARKETTE TRL</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>426</beat>
     <units_disp> R426, P426, A426, C42, R425, P331, R423, A331, LA333, S331, P315, C34, HZ332, P334, P342, C40, CMD30, CMD30C, C40, A423</units_disp>
-  </event>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 20:25:00</dispatch_time>
-    <event_num>F20115674</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
   </event>
   <event>
     <prime_street>MILL RD, ET</prime_street>
@@ -32,33 +22,33 @@
     <units_disp> R444, P445, C44, PL432, R434, S445</units_disp>
   </event>
   <event>
-    <prime_street>CHAPMAN RD, ET</prime_street>
-    <cross_streets>CRAIG ALAN CRT / BRENTSIDE CRT</cross_streets>
-    <dispatch_time>2020-11-19 20:28:48</dispatch_time>
-    <event_num>F20115678</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> R441, P443, A421, P422, P442, C41</units_disp>
-  </event>
-  <event>
-    <prime_street>WELLESLEY ST, TT</prime_street>
-    <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
-    <dispatch_time>2020-11-19 20:35:36</dispatch_time>
-    <event_num>F20115679</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>CALEDONIA RD / LOTHERTON PTWY</cross_streets>
+    <prime_street>SHEFFIELD ST, NY</prime_street>
+    <cross_streets>INGRAM DR / DENSLEY AVE</cross_streets>
     <dispatch_time>2020-11-19 20:35:34</dispatch_time>
     <event_num>F20115680</event_num>
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>133</beat>
-    <units_disp> R133</units_disp>
+    <units_disp> R133, P132, P145, A133, C13, R341</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-19 21:07:39</dispatch_time>
+    <event_num>F20115687</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, TT</prime_street>
+    <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
+    <dispatch_time>2020-11-19 21:09:44</dispatch_time>
+    <event_num>F20115688</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> P131, P135, R134, A321, C31, P311</units_disp>
   </event>
 </tfs_active_incidents>
