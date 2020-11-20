@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 01:30:02</update_from_db_time>
+  <update_from_db_time>2020-11-20 01:40:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>TRILLER AVE / BEATY BOULEVARD PARKETTE TRL</cross_streets>
@@ -60,5 +60,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
     <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>BETHUNE BLVD, SC</prime_street>
+    <cross_streets>BETHUNE PARK TRL / MUIR DR</cross_streets>
+    <dispatch_time>2020-11-20 01:32:18</dispatch_time>
+    <event_num>F20115743</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
 </tfs_active_incidents>
