@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 13:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-20 13:20:03</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>TRILLER AVE / BEATY BOULEVARD PARKETTE TRL</cross_streets>
@@ -42,16 +42,6 @@
     <units_disp> C33, HZ332, P324, P332, P315</units_disp>
   </event>
   <event>
-    <prime_street>PELHAM PARK GDNS, TT</prime_street>
-    <cross_streets>OSLER ST / OSLER ST</cross_streets>
-    <dispatch_time>2020-11-20 12:54:55</dispatch_time>
-    <event_num>F20115885</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423, C42, P342, R345, P343, R423, R421</units_disp>
-  </event>
-  <event>
     <prime_street>M1M</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-20 13:01:20</dispatch_time>
@@ -72,13 +62,13 @@
     <units_disp> P211</units_disp>
   </event>
   <event>
-    <prime_street>CASTLETON AVE, YK</prime_street>
-    <cross_streets>LIVERPOOL ST / LN S HENRIETTA E CASTLETON</cross_streets>
-    <dispatch_time>2020-11-20 13:04:04</dispatch_time>
-    <event_num>F20115889</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 13:12:12</dispatch_time>
+    <event_num>F20115890</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <beat>326</beat>
+    <units_disp> R326</units_disp>
   </event>
 </tfs_active_incidents>
