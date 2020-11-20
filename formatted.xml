@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 12:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-20 13:15:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>TRILLER AVE / BEATY BOULEVARD PARKETTE TRL</cross_streets>
@@ -22,66 +22,6 @@
     <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322, P233, P222, A222, P211, P221, P222, A222</units_disp>
   </event>
   <event>
-    <prime_street>M4W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 11:52:47</dispatch_time>
-    <event_num>F20115864</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> A312</units_disp>
-  </event>
-  <event>
-    <prime_street>OSSINGTON AVE, TT</prime_street>
-    <cross_streets>ARGYLE ST / LN N ARGYLE E OSSINGTON</cross_streets>
-    <dispatch_time>2020-11-20 12:20:18</dispatch_time>
-    <event_num>F20115872</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> A331, C33, P331, P426, R426</units_disp>
-  </event>
-  <event>
-    <prime_street>GRACE ST, TT</prime_street>
-    <cross_streets>LN N PLYMOUTH E GRACE / MANSFIELD AVE</cross_streets>
-    <dispatch_time>2020-11-20 12:22:34</dispatch_time>
-    <event_num>F20115873</event_num>
-    <event_type>Rescue - Personal Entrapment</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> S331, C34, P315, P445, C33</units_disp>
-  </event>
-  <event>
-    <prime_street>VENDOME PL, NY</prime_street>
-    <cross_streets>GRENOBLE DR / </cross_streets>
-    <dispatch_time>2020-11-20 12:26:22</dispatch_time>
-    <event_num>F20115875</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125, R235, P123, A322, C32</units_disp>
-  </event>
-  <event>
-    <prime_street>DAVENPORT RD, TT</prime_street>
-    <cross_streets>YONGE ST / MCMURRICH ST</cross_streets>
-    <dispatch_time>2020-11-20 12:27:48</dispatch_time>
-    <event_num>F20115876</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> R134, P311, A345, C31, P312, P314</units_disp>
-  </event>
-  <event>
-    <prime_street>VICTORIA AVE, YK</prime_street>
-    <cross_streets>WESTON RD / </cross_streets>
-    <dispatch_time>2020-11-20 12:29:49</dispatch_time>
-    <event_num>F20115877</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, R133, C42, A133, P146</units_disp>
-  </event>
-  <event>
     <prime_street>KEYWORTH TRL, SC</prime_street>
     <cross_streets>HAYWARD CRES / PITFIELD RD</cross_streets>
     <dispatch_time>2020-11-20 12:30:30</dispatch_time>
@@ -99,6 +39,46 @@
     <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>331</beat>
-    <units_disp> C33, HZ332, P324, P332</units_disp>
+    <units_disp> C33, HZ332, P324, P332, P315</units_disp>
+  </event>
+  <event>
+    <prime_street>PELHAM PARK GDNS, TT</prime_street>
+    <cross_streets>OSLER ST / OSLER ST</cross_streets>
+    <dispatch_time>2020-11-20 12:54:55</dispatch_time>
+    <event_num>F20115885</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> A423, C42, P342, R345, P343, R423, R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 13:01:20</dispatch_time>
+    <event_num>F20115887</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 13:01:40</dispatch_time>
+    <event_num>F20115888</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>211</beat>
+    <units_disp> P211</units_disp>
+  </event>
+  <event>
+    <prime_street>CASTLETON AVE, YK</prime_street>
+    <cross_streets>LIVERPOOL ST / LN S HENRIETTA E CASTLETON</cross_streets>
+    <dispatch_time>2020-11-20 13:04:04</dispatch_time>
+    <event_num>F20115889</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
   </event>
 </tfs_active_incidents>
