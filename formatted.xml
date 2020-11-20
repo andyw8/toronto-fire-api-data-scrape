@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-19 21:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-19 21:20:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>TRILLER AVE / BEATY BOULEVARD PARKETTE TRL</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> R133, P132, P145, A133, C13, R341</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-19 21:07:39</dispatch_time>
-    <event_num>F20115687</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
-  </event>
-  <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
     <dispatch_time>2020-11-19 21:09:44</dispatch_time>
@@ -50,5 +40,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
     <units_disp> P131, P135, R134, A321, C31, P311</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>FINCH AVE W / NORFINCH DR</cross_streets>
+    <dispatch_time>2020-11-19 21:13:15</dispatch_time>
+    <event_num>F20115689</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
 </tfs_active_incidents>
