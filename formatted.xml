@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 08:20:21</update_from_db_time>
+  <update_from_db_time>2020-11-20 08:40:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>TRILLER AVE / BEATY BOULEVARD PARKETTE TRL</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322, P233, P222, A222, P211, P221</units_disp>
   </event>
   <event>
-    <prime_street>DRIFTWOOD AVE, NY</prime_street>
-    <cross_streets>DRIFTWOOD CRT / JANE ST</cross_streets>
-    <dispatch_time>2020-11-20 07:25:34</dispatch_time>
-    <event_num>F20115789</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P324, P142, C14, HZ145, P145</units_disp>
-  </event>
-  <event>
     <prime_street>MARMION AVE, NY</prime_street>
     <cross_streets>FALKIRK ST / BARSE ST</cross_streets>
     <dispatch_time>2020-11-20 07:44:36</dispatch_time>
@@ -42,43 +32,73 @@
     <units_disp> A135, C13, P131, P132, P135, R134, P145</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>VALPARAISO AVE / MCCOWAN RD</cross_streets>
-    <dispatch_time>2020-11-20 08:06:24</dispatch_time>
-    <event_num>F20115797</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232, R231, A222, C23, P223, P245</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>M4J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 08:09:44</dispatch_time>
-    <event_num>F20115798</event_num>
+    <dispatch_time>2020-11-20 08:21:20</dispatch_time>
+    <event_num>F20115801</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
   </event>
   <event>
-    <prime_street>GLENCAIRN AVE, NY</prime_street>
-    <cross_streets>HILLMOUNT AVE / GLEN PARK AVE</cross_streets>
-    <dispatch_time>2020-11-20 08:13:59</dispatch_time>
-    <event_num>F20115799</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>PAGE AVE, NY</prime_street>
+    <cross_streets>KNOLLVIEW CRES / KNOLLVIEW CRES</cross_streets>
+    <dispatch_time>2020-11-20 08:21:46</dispatch_time>
+    <event_num>F20115802</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A135</units_disp>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
   </event>
   <event>
-    <prime_street>AURORA CRT, SC</prime_street>
-    <cross_streets>BRIDLETOWNE CRCL / </cross_streets>
-    <dispatch_time>2020-11-20 08:16:05</dispatch_time>
-    <event_num>F20115800</event_num>
+    <prime_street>M1G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 08:25:27</dispatch_time>
+    <event_num>F20115803</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> R231</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 08:26:09</dispatch_time>
+    <event_num>F20115804</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>243</beat>
+    <units_disp> R243</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>YORK MILLS RD / BAYVIEW AVE</cross_streets>
+    <dispatch_time>2020-11-20 08:29:48</dispatch_time>
+    <event_num>F20115805</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 08:30:09</dispatch_time>
+    <event_num>F20115806</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432</units_disp>
+  </event>
+  <event>
+    <prime_street>PARLIAMENT ST, TT</prime_street>
+    <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
+    <dispatch_time>2020-11-20 08:30:38</dispatch_time>
+    <event_num>F20115807</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244, R241, A244, C24, P113</units_disp>
+    <beat>313</beat>
+    <units_disp> P313, A325, C31, P314, P325</units_disp>
   </event>
 </tfs_active_incidents>
