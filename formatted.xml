@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 12:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-20 12:20:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>TRILLER AVE / BEATY BOULEVARD PARKETTE TRL</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>221</beat>
     <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322, P233, P222, A222, P211, P221, P222, A222</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 11:42:09</dispatch_time>
-    <event_num>F20115862</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211</units_disp>
   </event>
   <event>
     <prime_street>M4W</prime_street>
@@ -52,16 +42,6 @@
     <units_disp> P323</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>CHURCH ST / WELLESLEY ST E</cross_streets>
-    <dispatch_time>2020-11-20 11:54:35</dispatch_time>
-    <event_num>F20115866</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
     <prime_street>M4C</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-20 12:03:48</dispatch_time>
@@ -82,13 +62,13 @@
     <units_disp> HR114</units_disp>
   </event>
   <event>
-    <prime_street>DAWES RD, EY</prime_street>
-    <cross_streets>DENTONIA PARK AVE / ROSEVEAR AVE</cross_streets>
-    <dispatch_time>2020-11-20 12:10:14</dispatch_time>
-    <event_num>F20115870</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 12:13:42</dispatch_time>
+    <event_num>F20115871</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> P226</units_disp>
+    <beat>313</beat>
+    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
