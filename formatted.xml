@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 01:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-20 02:15:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>TRILLER AVE / BEATY BOULEVARD PARKETTE TRL</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>426</beat>
     <units_disp> R426, P426, A426, C42, R425, P331, R423, A331, LA333, S331, P315, C34, HZ332, P334, P342, C40, CMD30, CMD30C, C40, A423, A433, R444</units_disp>
-  </event>
-  <event>
-    <prime_street>EMMOTT AVE, SC</prime_street>
-    <cross_streets>LUCY AVE / DANFORTH AVE</cross_streets>
-    <dispatch_time>2020-11-20 00:42:51</dispatch_time>
-    <event_num>F20115736</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225, P226, A222, C22, P222, R224, P227</units_disp>
   </event>
   <event>
     <prime_street>RANSTONE GDNS, SC</prime_street>
@@ -32,43 +22,13 @@
     <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
+    <prime_street>M1H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 01:20:05</dispatch_time>
-    <event_num>F20115740</event_num>
+    <dispatch_time>2020-11-20 02:05:59</dispatch_time>
+    <event_num>F20115745</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113</units_disp>
-  </event>
-  <event>
-    <prime_street>M9L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 01:23:32</dispatch_time>
-    <event_num>F20115741</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 01:26:41</dispatch_time>
-    <event_num>F20115742</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>BETHUNE BLVD, SC</prime_street>
-    <cross_streets>BETHUNE PARK TRL / MUIR DR</cross_streets>
-    <dispatch_time>2020-11-20 01:32:18</dispatch_time>
-    <event_num>F20115743</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <beat>231</beat>
+    <units_disp> P234</units_disp>
   </event>
 </tfs_active_incidents>
