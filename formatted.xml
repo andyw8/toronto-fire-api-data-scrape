@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 13:20:03</update_from_db_time>
+  <update_from_db_time>2020-11-20 13:45:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>TRILLER AVE / BEATY BOULEVARD PARKETTE TRL</cross_streets>
@@ -19,17 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>221</beat>
-    <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322, P233, P222, A222, P211, P221, P222, A222</units_disp>
-  </event>
-  <event>
-    <prime_street>KEYWORTH TRL, SC</prime_street>
-    <cross_streets>HAYWARD CRES / PITFIELD RD</cross_streets>
-    <dispatch_time>2020-11-20 12:30:30</dispatch_time>
-    <event_num>F20115878</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> A213, R243, C24, HZ145</units_disp>
+    <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322, P233, P222, A222, P211, P221, P222, A222, P245</units_disp>
   </event>
   <event>
     <prime_street>MANNING AVE, TT</prime_street>
@@ -42,33 +32,63 @@
     <units_disp> C33, HZ332, P324, P332, P315</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 13:01:20</dispatch_time>
-    <event_num>F20115887</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>MIDWEST RD, SC</prime_street>
+    <cross_streets>MIDLAND AVE / GREAT WEST DR</cross_streets>
+    <dispatch_time>2020-11-20 13:27:28</dispatch_time>
+    <event_num>F20115895</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 13:01:40</dispatch_time>
-    <event_num>F20115888</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>ROSEWELL AVE, TT</prime_street>
+    <cross_streets>CHERITAN AVE / LAWRENCE AVE W</cross_streets>
+    <dispatch_time>2020-11-20 13:28:25</dispatch_time>
+    <event_num>F20115896</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211</units_disp>
+    <beat>131</beat>
+    <units_disp> P132, A135, C13, P121, R134</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 13:12:12</dispatch_time>
-    <event_num>F20115890</event_num>
+    <dispatch_time>2020-11-20 13:36:50</dispatch_time>
+    <event_num>F20115897</event_num>
     <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P222, P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 13:40:07</dispatch_time>
+    <event_num>F20115898</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 13:41:15</dispatch_time>
+    <event_num>F20115899</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> HR332</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>QUEEN ST E / BERKSHIRE AVE</cross_streets>
+    <dispatch_time>2020-11-20 13:41:33</dispatch_time>
+    <event_num>F20115900</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>326</beat>
-    <units_disp> R326</units_disp>
+    <units_disp> P323, P324, R326, A324, C32, P227, P325</units_disp>
   </event>
 </tfs_active_incidents>
