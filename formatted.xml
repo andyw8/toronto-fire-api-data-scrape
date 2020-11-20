@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 09:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-20 10:20:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>TRILLER AVE / BEATY BOULEVARD PARKETTE TRL</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322, P233, P222, A222, P211, P221, P222</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>YORK MILLS RD / BAYVIEW AVE</cross_streets>
-    <dispatch_time>2020-11-20 08:29:48</dispatch_time>
-    <event_num>F20115805</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122</units_disp>
-  </event>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 09:20:51</dispatch_time>
-    <event_num>F20115818</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
-  </event>
-  <event>
     <prime_street>BLOOR ST, TT</prime_street>
     <cross_streets>ST PAUL'S SQ / TED ROGERS WAY</cross_streets>
     <dispatch_time>2020-11-20 09:38:08</dispatch_time>
@@ -52,13 +32,63 @@
     <units_disp> P312, P315, A312, C31, P311, P314</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>DEFOREST RD, TT</prime_street>
+    <cross_streets>DURIE ST / LAVINIA AVE</cross_streets>
+    <dispatch_time>2020-11-20 09:54:39</dispatch_time>
+    <event_num>F20115825</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
+  </event>
+  <event>
+    <prime_street>M5E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 09:40:33</dispatch_time>
-    <event_num>F20115822</event_num>
+    <dispatch_time>2020-11-20 09:55:32</dispatch_time>
+    <event_num>F20115826</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 10:05:51</dispatch_time>
+    <event_num>F20115827</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>VICKERS RD, ET</prime_street>
+    <cross_streets> / THE EAST MALL</cross_streets>
+    <dispatch_time>2020-11-20 10:06:34</dispatch_time>
+    <event_num>F20115828</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432</units_disp>
+  </event>
+  <event>
+    <prime_street>CASSANDRA BLVD, NY</prime_street>
+    <cross_streets>WHITEFRIARS DR / WHITEFRIARS DR</cross_streets>
+    <dispatch_time>2020-11-20 10:06:28</dispatch_time>
+    <event_num>F20115829</event_num>
+    <event_type>Vehicle Fire</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 10:12:00</dispatch_time>
+    <event_num>F20115830</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
 </tfs_active_incidents>
