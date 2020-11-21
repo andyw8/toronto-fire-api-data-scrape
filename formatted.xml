@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 21:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-20 21:40:02</update_from_db_time>
   <event>
     <prime_street>RANSTONE GDNS, SC</prime_street>
     <cross_streets>CHOPIN AVE / ROSEMOUNT DR</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>221</beat>
     <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322, P233, P222, A222, P211, P221, P222, A222, P245, R243, P227, P244</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>JUDSON ST / ROYAL YORK RD</cross_streets>
-    <dispatch_time>2020-11-20 20:40:26</dispatch_time>
-    <event_num>F20116059</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
   </event>
   <event>
     <prime_street>M2N</prime_street>
@@ -42,26 +32,6 @@
     <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>JAMESTOWN CRES, ET</prime_street>
-    <cross_streets>WW N JAMESTOWN W JOHN GARLAND / JOHN GARLAND BLVD</cross_streets>
-    <dispatch_time>2020-11-20 20:52:42</dispatch_time>
-    <event_num>F20116063</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413, P415, A415, C41, R412, R441</units_disp>
-  </event>
-  <event>
-    <prime_street>WHITEHALL RD, TT</prime_street>
-    <cross_streets>GREGORY AVE / MACLENNAN AVE</cross_streets>
-    <dispatch_time>2020-11-20 21:10:57</dispatch_time>
-    <event_num>F20116067</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>DON MILLS RD / OVERLEA BLVD</cross_streets>
     <dispatch_time>2020-11-20 21:12:10</dispatch_time>
@@ -72,23 +42,53 @@
     <units_disp> P125</units_disp>
   </event>
   <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>401 C W KENNEDY RD S RAMP / VILLAGE GREEN SQ</cross_streets>
-    <dispatch_time>2020-11-20 21:12:16</dispatch_time>
-    <event_num>F20116069</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>BROADVIEW AVE, TT</prime_street>
+    <cross_streets>KINTYRE AVE / DUNDAS ST E</cross_streets>
+    <dispatch_time>2020-11-20 21:21:27</dispatch_time>
+    <event_num>F20116071</event_num>
+    <event_type>Alarm - Institution - School</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> R243, P242, P245, A244, C24</units_disp>
+    <beat>324</beat>
+    <units_disp> R326, P324, A324, C32, P325, P333</units_disp>
   </event>
   <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 21:13:02</dispatch_time>
-    <event_num>F20116070</event_num>
+    <dispatch_time>2020-11-20 21:27:23</dispatch_time>
+    <event_num>F20116073</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M3M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 21:30:59</dispatch_time>
+    <event_num>F20116075</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 21:34:52</dispatch_time>
+    <event_num>F20116076</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>BALMORAL AVE, TT</prime_street>
+    <cross_streets>LN W YONGE N FARNHAM / AVENUE RD</cross_streets>
+    <dispatch_time>2020-11-20 21:37:01</dispatch_time>
+    <event_num>F20116077</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
 </tfs_active_incidents>
