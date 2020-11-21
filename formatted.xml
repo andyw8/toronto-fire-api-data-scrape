@@ -1,4 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-21 08:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-21 08:45:02</update_from_db_time>
+  <event>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-21 08:28:12</dispatch_time>
+    <event_num>F20116183</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
+  </event>
+  <event>
+    <prime_street>EMMETT AVE, YK</prime_street>
+    <cross_streets>VERONA AVE / HUMBER RIVER RECREATIONAL TRL</cross_streets>
+    <dispatch_time>2020-11-21 08:30:05</dispatch_time>
+    <event_num>F20116184</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> S445, A421</units_disp>
+  </event>
 </tfs_active_incidents>
