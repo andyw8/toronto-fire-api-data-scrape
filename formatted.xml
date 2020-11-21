@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 20:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-20 21:20:02</update_from_db_time>
   <event>
     <prime_street>RANSTONE GDNS, SC</prime_street>
     <cross_streets>CHOPIN AVE / ROSEMOUNT DR</cross_streets>
@@ -12,73 +12,83 @@
     <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322, P233, P222, A222, P211, P221, P222, A222, P245, R243, P227, P244</units_disp>
   </event>
   <event>
-    <prime_street>M8W</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets>JUDSON ST / ROYAL YORK RD</cross_streets>
+    <dispatch_time>2020-11-20 20:40:26</dispatch_time>
+    <event_num>F20116059</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 19:24:20</dispatch_time>
-    <event_num>F20116029</event_num>
+    <dispatch_time>2020-11-20 20:43:33</dispatch_time>
+    <event_num>F20116061</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 19:37:16</dispatch_time>
-    <event_num>F20116035</event_num>
+    <dispatch_time>2020-11-20 20:52:42</dispatch_time>
+    <event_num>F20116062</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222, P324</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>FOURTH ST, ET</prime_street>
-    <cross_streets>MORRISON ST / LN S LAKE SHORE E FIFTH</cross_streets>
-    <dispatch_time>2020-11-20 19:54:13</dispatch_time>
-    <event_num>F20116045</event_num>
-    <event_type>Fire - Institution</event_type>
+    <prime_street>JAMESTOWN CRES, ET</prime_street>
+    <cross_streets>WW N JAMESTOWN W JOHN GARLAND / JOHN GARLAND BLVD</cross_streets>
+    <dispatch_time>2020-11-20 20:52:42</dispatch_time>
+    <event_num>F20116063</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> P431, R425, A433, C44, P422, P443</units_disp>
+    <beat>413</beat>
+    <units_disp> R413, P415, A415, C41, R412, R441</units_disp>
   </event>
   <event>
-    <prime_street>GLENHOLME AVE, YK</prime_street>
-    <cross_streets>GENESSEE AVE / JESMOND AVE</cross_streets>
-    <dispatch_time>2020-11-20 19:58:24</dispatch_time>
-    <event_num>F20116047</event_num>
+    <prime_street>WHITEHALL RD, TT</prime_street>
+    <cross_streets>GREGORY AVE / MACLENNAN AVE</cross_streets>
+    <dispatch_time>2020-11-20 21:10:57</dispatch_time>
+    <event_num>F20116067</event_num>
     <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DON MILLS RD / OVERLEA BLVD</cross_streets>
+    <dispatch_time>2020-11-20 21:12:10</dispatch_time>
+    <event_num>F20116068</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>KENNEDY RD, SC</prime_street>
+    <cross_streets>401 C W KENNEDY RD S RAMP / VILLAGE GREEN SQ</cross_streets>
+    <dispatch_time>2020-11-20 21:12:16</dispatch_time>
+    <event_num>F20116069</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> R243, P242, P245, A244, C24</units_disp>
   </event>
   <event>
     <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 20:21:37</dispatch_time>
-    <event_num>F20116054</event_num>
+    <dispatch_time>2020-11-20 21:13:02</dispatch_time>
+    <event_num>F20116070</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTON RD, TT</prime_street>
-    <cross_streets>MCCORMACK ST / NORTHLAND AVE</cross_streets>
-    <dispatch_time>2020-11-20 20:33:51</dispatch_time>
-    <event_num>F20116057</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421, R423, A421, C42, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 20:35:37</dispatch_time>
-    <event_num>F20116058</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
