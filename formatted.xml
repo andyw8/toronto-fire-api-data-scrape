@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 20:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-20 20:40:02</update_from_db_time>
   <event>
     <prime_street>RANSTONE GDNS, SC</prime_street>
     <cross_streets>CHOPIN AVE / ROSEMOUNT DR</cross_streets>
@@ -42,16 +42,6 @@
     <units_disp> P431, R425, A433, C44, P422, P443</units_disp>
   </event>
   <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 19:57:25</dispatch_time>
-    <event_num>F20116046</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142</units_disp>
-  </event>
-  <event>
     <prime_street>GLENHOLME AVE, YK</prime_street>
     <cross_streets>GENESSEE AVE / JESMOND AVE</cross_streets>
     <dispatch_time>2020-11-20 19:58:24</dispatch_time>
@@ -62,63 +52,33 @@
     <units_disp> R341</units_disp>
   </event>
   <event>
-    <prime_street>BELLAMY RD, SC</prime_street>
-    <cross_streets>CEDAR BRAE BLVD / PORCHESTER DR</cross_streets>
-    <dispatch_time>2020-11-20 20:05:18</dispatch_time>
-    <event_num>F20116048</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> S232, P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 20:06:48</dispatch_time>
-    <event_num>F20116049</event_num>
+    <dispatch_time>2020-11-20 20:21:37</dispatch_time>
+    <event_num>F20116054</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
   </event>
   <event>
-    <prime_street>GLENDONWYNNE RD, TT</prime_street>
-    <cross_streets>GLENLAKE AVE / EVELYN AVE</cross_streets>
-    <dispatch_time>2020-11-20 20:06:29</dispatch_time>
-    <event_num>F20116050</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>WESTON RD, TT</prime_street>
+    <cross_streets>MCCORMACK ST / NORTHLAND AVE</cross_streets>
+    <dispatch_time>2020-11-20 20:33:51</dispatch_time>
+    <event_num>F20116057</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
+    <beat>421</beat>
+    <units_disp> R421, R423, A421, C42, R133</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 20:08:09</dispatch_time>
-    <event_num>F20116051</event_num>
+    <dispatch_time>2020-11-20 20:35:37</dispatch_time>
+    <event_num>F20116058</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>WAYNE AVE / WARDEN AVE</cross_streets>
-    <dispatch_time>2020-11-20 20:14:53</dispatch_time>
-    <event_num>F20116052</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 20:15:49</dispatch_time>
-    <event_num>F20116053</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
 </tfs_active_incidents>
