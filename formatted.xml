@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-21 09:20:02</update_from_db_time>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-21 08:58:50</dispatch_time>
-    <event_num>F20116189</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
+  <update_from_db_time>2020-11-21 09:25:02</update_from_db_time>
   <event>
     <prime_street>LESMILL RD, NY</prime_street>
     <cross_streets>DUNCAN MILL RD / LESLIE ST</cross_streets>
@@ -49,6 +39,26 @@
     <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>235</beat>
-    <units_disp> S232, P125</units_disp>
+    <units_disp> S232, P125, R235</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-21 09:19:14</dispatch_time>
+    <event_num>F20116194</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>CIVIC RD, SC</prime_street>
+    <cross_streets>MANVILLE RD / SINNOTT RD</cross_streets>
+    <dispatch_time>2020-11-21 09:20:44</dispatch_time>
+    <event_num>F20116195</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P222, S313</units_disp>
   </event>
 </tfs_active_incidents>
