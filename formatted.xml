@@ -1,34 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-21 08:10:02</update_from_db_time>
-  <event>
-    <prime_street>MARINE PARADE DR, ET</prime_street>
-    <cross_streets>JEAN AUGUSTINE PARK TRL / THE MARGINAL BLVD</cross_streets>
-    <dispatch_time>2020-11-21 07:26:05</dispatch_time>
-    <event_num>F20116178</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, R435, A433, C43, R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-21 08:02:57</dispatch_time>
-    <event_num>F20116180</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>SHUTER ST / DUNDAS ST E</cross_streets>
-    <dispatch_time>2020-11-21 08:04:00</dispatch_time>
-    <event_num>F20116181</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, C33, P325, P333, R325</units_disp>
-  </event>
+  <update_from_db_time>2020-11-21 08:20:02</update_from_db_time>
 </tfs_active_incidents>
