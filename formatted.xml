@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-21 18:15:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ST CLAIR AVE E / PHARMACY AVE</cross_streets>
-    <dispatch_time>2020-11-21 17:30:52</dispatch_time>
-    <event_num>F20116359</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
-  </event>
+  <update_from_db_time>2020-11-21 18:25:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>HILLINGDON AVE / HANSON ST</cross_streets>
@@ -30,15 +20,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>214</beat>
     <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-21 18:06:46</dispatch_time>
-    <event_num>F20116371</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
   </event>
 </tfs_active_incidents>
