@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-21 16:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-21 16:45:02</update_from_db_time>
   <event>
     <prime_street>CASTLE KNOCK RD, TT</prime_street>
     <cross_streets>BURNABY BLVD / WILLOWBANK BLVD</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Vehicle Fire</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>135</beat>
-    <units_disp> A135</units_disp>
+    <units_disp> A135, R134</units_disp>
   </event>
   <event>
     <prime_street>YONGE ST, TT</prime_street>
@@ -22,33 +22,73 @@
     <units_disp> P324, P314, C31, HZ332</units_disp>
   </event>
   <event>
-    <prime_street>JANET BLVD, SC</prime_street>
-    <cross_streets>HOWARTH AVE / PHARMACY AVE</cross_streets>
-    <dispatch_time>2020-11-21 16:00:13</dispatch_time>
-    <event_num>F20116316</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <prime_street>BLUFFERS PARK RD, SC</prime_street>
+    <cross_streets> / BLUFFER'S PARK TRL</cross_streets>
+    <dispatch_time>2020-11-21 16:20:11</dispatch_time>
+    <event_num>F20116322</event_num>
+    <event_type>Rescue - Bluffs</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <beat>223</beat>
+    <units_disp> P223, R225, S232, C22, P232, S313</units_disp>
   </event>
   <event>
-    <prime_street>CHARLES ST, TT</prime_street>
-    <cross_streets>GEORGE HISLOP PARK TRL / MACY DUBOIS LANE</cross_streets>
-    <dispatch_time>2020-11-21 16:05:29</dispatch_time>
-    <event_num>F20116318</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312, A312, C31, P311, P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M5H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-21 16:11:44</dispatch_time>
-    <event_num>F20116319</event_num>
+    <dispatch_time>2020-11-21 16:25:04</dispatch_time>
+    <event_num>F20116327</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
+    <beat>332</beat>
+    <units_disp> HZ332</units_disp>
+  </event>
+  <event>
+    <prime_street>MARKBROOK LANE, ET</prime_street>
+    <cross_streets>KIPLING AVE BICYCLE TRL / STEELES AVE W</cross_streets>
+    <dispatch_time>2020-11-21 16:25:17</dispatch_time>
+    <event_num>F20116328</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413, P415, A415, C41, R412</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-21 16:32:06</dispatch_time>
+    <event_num>F20116329</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> R122, P121</units_disp>
+  </event>
+  <event>
+    <prime_street>LOWER SIMCOE ST, TT</prime_street>
+    <cross_streets>OLYMPIC PARK TRL / C N R</cross_streets>
+    <dispatch_time>2020-11-21 16:35:08</dispatch_time>
+    <event_num>F20116330</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P333, P315, C31, HR332, P325, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>DOCKSIDE DR, TT</prime_street>
+    <cross_streets>MARTIN GOODMAN TRL / KNAPP LANE</cross_streets>
+    <dispatch_time>2020-11-21 16:36:44</dispatch_time>
+    <event_num>F20116332</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P332, A325, P331, R325, R326, FB334B, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>JAMES ST / BAY ST</cross_streets>
+    <dispatch_time>2020-11-21 16:40:15</dispatch_time>
+    <event_num>F20116333</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
