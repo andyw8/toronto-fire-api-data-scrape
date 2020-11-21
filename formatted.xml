@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-20 19:50:02</update_from_db_time>
+  <update_from_db_time>2020-11-20 20:20:02</update_from_db_time>
   <event>
     <prime_street>RANSTONE GDNS, SC</prime_street>
     <cross_streets>CHOPIN AVE / ROSEMOUNT DR</cross_streets>
@@ -9,17 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>221</beat>
-    <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322, P233, P222, A222, P211, P221, P222, A222, P245, R243, P227</units_disp>
-  </event>
-  <event>
-    <prime_street>WILLIAM DUNCAN RD, NY</prime_street>
-    <cross_streets>THOMAS MULHOLLAND DR / LOCUST LODGE GDNS</cross_streets>
-    <dispatch_time>2020-11-20 19:22:15</dispatch_time>
-    <event_num>F20116028</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P142</units_disp>
+    <units_disp> A244, C23, P221, P232, P245, S232, LA231, R231, R235, A322, P233, P222, A222, P211, P221, P222, A222, P245, R243, P227, P244</units_disp>
   </event>
   <event>
     <prime_street>M8W</prime_street>
@@ -32,36 +22,6 @@
     <units_disp> R434</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>WILSON HEIGHTS BLVD / FAITH AVE</cross_streets>
-    <dispatch_time>2020-11-20 19:29:27</dispatch_time>
-    <event_num>F20116032</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 19:33:21</dispatch_time>
-    <event_num>F20116033</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M4A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-20 19:36:05</dispatch_time>
-    <event_num>F20116034</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
-  <event>
     <prime_street>M1L</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-20 19:37:16</dispatch_time>
@@ -69,66 +29,96 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>222</beat>
-    <units_disp> P222</units_disp>
+    <units_disp> P222, P324</units_disp>
   </event>
   <event>
-    <prime_street>M9A</prime_street>
+    <prime_street>FOURTH ST, ET</prime_street>
+    <cross_streets>MORRISON ST / LN S LAKE SHORE E FIFTH</cross_streets>
+    <dispatch_time>2020-11-20 19:54:13</dispatch_time>
+    <event_num>F20116045</event_num>
+    <event_type>Fire - Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> P431, R425, A433, C44, P422, P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 19:39:49</dispatch_time>
-    <event_num>F20116037</event_num>
+    <dispatch_time>2020-11-20 19:57:25</dispatch_time>
+    <event_num>F20116046</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>MORNINGSIDE AVE / COLLINSGROVE RD</cross_streets>
-    <dispatch_time>2020-11-20 19:40:05</dispatch_time>
-    <event_num>F20116038</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>GLENHOLME AVE, YK</prime_street>
+    <cross_streets>GENESSEE AVE / JESMOND AVE</cross_streets>
+    <dispatch_time>2020-11-20 19:58:24</dispatch_time>
+    <event_num>F20116047</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> A215, C23, P234, R214, R231</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street>BELLAMY RD, SC</prime_street>
+    <cross_streets>CEDAR BRAE BLVD / PORCHESTER DR</cross_streets>
+    <dispatch_time>2020-11-20 20:05:18</dispatch_time>
+    <event_num>F20116048</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> S232, P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 20:06:48</dispatch_time>
+    <event_num>F20116049</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street>GLENDONWYNNE RD, TT</prime_street>
+    <cross_streets>GLENLAKE AVE / EVELYN AVE</cross_streets>
+    <dispatch_time>2020-11-20 20:06:29</dispatch_time>
+    <event_num>F20116050</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-20 20:08:09</dispatch_time>
+    <event_num>F20116051</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>ALBION RD / FINCH AVE W</cross_streets>
-    <dispatch_time>2020-11-20 19:40:31</dispatch_time>
-    <event_num>F20116039</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <cross_streets>WAYNE AVE / WARDEN AVE</cross_streets>
+    <dispatch_time>2020-11-20 20:14:53</dispatch_time>
+    <event_num>F20116052</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
   <event>
-    <prime_street>M4J</prime_street>
+    <prime_street>M1S</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-20 19:41:46</dispatch_time>
-    <event_num>F20116040</event_num>
+    <dispatch_time>2020-11-20 20:15:49</dispatch_time>
+    <event_num>F20116053</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322, P323</units_disp>
-  </event>
-  <event>
-    <prime_street>PARK BLVD, ET</prime_street>
-    <cross_streets>THIRTY FIRST ST / THIRTY THIRD ST</cross_streets>
-    <dispatch_time>2020-11-20 19:46:05</dispatch_time>
-    <event_num>F20116041</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R435, P432, C43, P433, PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>NASSAU ST, TT</prime_street>
-    <cross_streets>BELLEVUE AVE / LEONARD AVE</cross_streets>
-    <dispatch_time>2020-11-20 19:46:19</dispatch_time>
-    <event_num>F20116042</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315, P331, A331, C33, P314, P332</units_disp>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
 </tfs_active_incidents>
