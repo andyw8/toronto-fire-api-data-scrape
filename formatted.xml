@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-22 04:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-22 05:15:02</update_from_db_time>
   <event>
     <prime_street>PARK LAWN RD, ET</prime_street>
     <cross_streets>LAKE SHORE BLVD W / GARDINER E PARK LAWN RD RAMP</cross_streets>
@@ -12,13 +12,13 @@
     <units_disp> A433, P431, P433, R425, R435, C43</units_disp>
   </event>
   <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>KENMARK BLVD / C N R</cross_streets>
-    <dispatch_time>2020-11-22 04:40:06</dispatch_time>
-    <event_num>F20116512</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-22 05:09:53</dispatch_time>
+    <event_num>F20116514</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
   </event>
 </tfs_active_incidents>
