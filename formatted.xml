@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-22 10:40:02</update_from_db_time>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-22 10:13:02</dispatch_time>
-    <event_num>F20116569</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
+  <update_from_db_time>2020-11-22 11:20:02</update_from_db_time>
   <event>
     <prime_street>M1C</prime_street>
     <cross_streets/>
@@ -22,43 +12,33 @@
     <units_disp> R214</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-22 10:21:44</dispatch_time>
-    <event_num>F20116573</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213, P212</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-22 10:22:41</dispatch_time>
-    <event_num>F20116574</event_num>
+    <dispatch_time>2020-11-22 10:51:20</dispatch_time>
+    <event_num>F20116582</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
   <event>
-    <prime_street>M3M</prime_street>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-22 10:26:00</dispatch_time>
-    <event_num>F20116575</event_num>
+    <dispatch_time>2020-11-22 11:00:37</dispatch_time>
+    <event_num>F20116584</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-22 10:36:04</dispatch_time>
-    <event_num>F20116576</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>HUMBER BLVD, YK</prime_street>
+    <cross_streets>AVON AVE / ALLIANCE AVE</cross_streets>
+    <dispatch_time>2020-11-22 11:05:53</dispatch_time>
+    <event_num>F20116588</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P234</units_disp>
+    <beat>421</beat>
+    <units_disp> A421, C42, P422, R421, R423</units_disp>
   </event>
 </tfs_active_incidents>
