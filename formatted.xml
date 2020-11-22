@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-22 03:20:02</update_from_db_time>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-22 02:46:22</dispatch_time>
-    <event_num>F20116500</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M3A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-22 02:50:14</dispatch_time>
-    <event_num>F20116502</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BLOOR ST E / SHERBOURNE ST</cross_streets>
-    <dispatch_time>2020-11-22 03:01:14</dispatch_time>
-    <event_num>F20116504</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-22 03:09:58</dispatch_time>
-    <event_num>F20116505</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
-  </event>
+  <update_from_db_time>2020-11-22 03:45:02</update_from_db_time>
   <event>
     <prime_street>DUNFIELD AVE, TT</prime_street>
     <cross_streets>SOUDAN AVE / LN S EGLINTON E HOLLY</cross_streets>
@@ -56,8 +16,19 @@
     <cross_streets>LN W WESTON S NORTHLAND / MAYBANK AVE</cross_streets>
     <dispatch_time>2020-11-22 03:17:02</dispatch_time>
     <event_num>F20116507</event_num>
-    <event_type>Alarm Residential</event_type>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
+    <units_disp> R423, P422, A423, C42, R345, LA421</units_disp>
+  </event>
+  <event>
+    <prime_street>MEADOWVALE DR, ET</prime_street>
+    <cross_streets>EAGLE RD / LOTHIAN AVE</cross_streets>
+    <dispatch_time>2020-11-22 03:41:57</dispatch_time>
+    <event_num>F20116509</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P433, P431, C44</units_disp>
   </event>
 </tfs_active_incidents>
