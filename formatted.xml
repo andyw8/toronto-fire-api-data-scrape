@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-22 00:10:02</update_from_db_time>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-21 23:56:31</dispatch_time>
-    <event_num>F20116467</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-21 23:56:39</dispatch_time>
-    <event_num>F20116468</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
-  </event>
+  <update_from_db_time>2020-11-22 00:20:02</update_from_db_time>
   <event>
     <prime_street>M1P</prime_street>
     <cross_streets/>
@@ -40,15 +20,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>KENMARK BLVD, SC</prime_street>
-    <cross_streets>KENNEDY RD / CHEVRON CRES</cross_streets>
-    <dispatch_time>2020-11-22 00:01:57</dispatch_time>
-    <event_num>F20116471</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> R225, P221, A222, C22, P222, P223</units_disp>
   </event>
 </tfs_active_incidents>
