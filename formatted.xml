@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-21 22:10:02</update_from_db_time>
-  <event>
-    <prime_street>LAUREL AVE, SC</prime_street>
-    <cross_streets>HARMONY AVE / DANFORTH RD</cross_streets>
-    <dispatch_time>2020-11-21 21:11:09</dispatch_time>
-    <event_num>F20116426</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221, P222, P223, R225, A222, C22, P223</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-21 21:50:42</dispatch_time>
-    <event_num>F20116433</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, C11, P116</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>CONDOR AVE / SHUDELL AVE</cross_streets>
-    <dispatch_time>2020-11-21 22:05:57</dispatch_time>
-    <event_num>F20116436</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
+  <update_from_db_time>2020-11-21 22:20:02</update_from_db_time>
   <event>
     <prime_street>M3H</prime_street>
     <cross_streets/>
@@ -40,5 +10,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>143</beat>
     <units_disp> P143</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>STOFFEL DR / KELFIELD ST</cross_streets>
+    <dispatch_time>2020-11-21 22:09:16</dispatch_time>
+    <event_num>F20116438</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> P441CA</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-21 22:10:03</dispatch_time>
+    <event_num>F20116439</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324, A324</units_disp>
+  </event>
+  <event>
+    <prime_street>BURKE ST, NY</prime_street>
+    <cross_streets>NEWTONBROOK BLVD / DREWRY AVE</cross_streets>
+    <dispatch_time>2020-11-21 22:13:55</dispatch_time>
+    <event_num>F20116441</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>BROADWAY AVE, EY</prime_street>
+    <cross_streets>BEAUFIELD AVE / SUTHERLAND DR</cross_streets>
+    <dispatch_time>2020-11-21 22:15:17</dispatch_time>
+    <event_num>F20116442</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>321</beat>
+    <units_disp> A321, C13, P125, P131, R134</units_disp>
+  </event>
+  <event>
+    <prime_street>LAKE SHORE BLVD, TT</prime_street>
+    <cross_streets>NET DR / BUDAPEST LANE</cross_streets>
+    <dispatch_time>2020-11-21 22:15:36</dispatch_time>
+    <event_num>F20116443</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
