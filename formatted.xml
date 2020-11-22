@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-22 10:15:02</update_from_db_time>
-  <event>
-    <prime_street>ROYAL YORK RD, ET</prime_street>
-    <cross_streets>LN N BLOOR E ROYAL YORK / BIRCHVIEW BLVD</cross_streets>
-    <dispatch_time>2020-11-22 09:20:13</dispatch_time>
-    <event_num>F20116554</event_num>
-    <event_type>Rescue - Subway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431, A433, P445, R425, S445, HR332, C44</units_disp>
-  </event>
-  <event>
-    <prime_street>LAKE SHORE BLVD, ET</prime_street>
-    <cross_streets>LOUISA ST / ALEXANDER ST</cross_streets>
-    <dispatch_time>2020-11-22 09:54:25</dispatch_time>
-    <event_num>F20116562</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> C43, P433, PL432, R434, R435</units_disp>
-  </event>
+  <update_from_db_time>2020-11-22 10:20:02</update_from_db_time>
   <event>
     <prime_street>M5C</prime_street>
     <cross_streets/>
@@ -49,7 +29,7 @@
     <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
-    <units_disp> P141, A142, C14, P142, P143</units_disp>
+    <units_disp> A142, C14, P141, P142, P143</units_disp>
   </event>
   <event>
     <prime_street>M3J</prime_street>
@@ -59,6 +39,26 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
-    <units_disp> S143</units_disp>
+    <units_disp> S143, P143</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-22 10:12:33</dispatch_time>
+    <event_num>F20116568</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> PL432, R435</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-22 10:13:02</dispatch_time>
+    <event_num>F20116569</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
