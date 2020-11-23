@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-23 01:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-23 02:15:02</update_from_db_time>
   <event>
     <prime_street>CATARAQUI CRES, SC</prime_street>
     <cross_streets>WARDEN AVE / FIRVALLEY CRT</cross_streets>
@@ -12,33 +12,33 @@
     <units_disp> R224, A222, C22, P222, P226, R225, LA231, R235, S232, A322, C20, P223, P233, P232, P221</units_disp>
   </event>
   <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>MUIRKIRK RD / BATHURST ST</cross_streets>
-    <dispatch_time>2020-11-23 01:15:39</dispatch_time>
-    <event_num>F20116797</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112, P114, C11, HR114, P143, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M3M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-23 01:22:00</dispatch_time>
-    <event_num>F20116800</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
     <prime_street>MARKHAM RD, SC</prime_street>
     <cross_streets>FINCH AVE E / NASHDENE RD</cross_streets>
     <dispatch_time>2020-11-23 01:33:18</dispatch_time>
     <event_num>F20116802</event_num>
     <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>1</alarm_lev>
+    <alarm_lev>2</alarm_lev>
     <beat>211</beat>
-    <units_disp> A213, C24, P211, P242, R241, R243, A244, LA231, R214, S232</units_disp>
+    <units_disp> A213, C24, P211, P242, R241, R243, A244, LA231, R214, S232, CMD10, CMD10C, C20, P212, R231, HZ145, P113, C21, R115, P245, R235, P145, HS145</units_disp>
+  </event>
+  <event>
+    <prime_street>M4G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-23 01:47:00</dispatch_time>
+    <event_num>F20116804</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>321</beat>
+    <units_disp> R321</units_disp>
+  </event>
+  <event>
+    <prime_street>HEYDON PARK RD, TT</prime_street>
+    <cross_streets>LN N ST ANNES W HEYDON PARK / RUSHOLME RD</cross_streets>
+    <dispatch_time>2020-11-23 01:50:58</dispatch_time>
+    <event_num>F20116806</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
