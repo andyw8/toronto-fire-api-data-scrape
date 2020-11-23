@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-23 01:30:02</update_from_db_time>
+  <update_from_db_time>2020-11-23 01:45:02</update_from_db_time>
   <event>
     <prime_street>CATARAQUI CRES, SC</prime_street>
     <cross_streets>WARDEN AVE / FIRVALLEY CRT</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> R112, P114, C11, HR114, P143, T114</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-23 01:18:09</dispatch_time>
-    <event_num>F20116798</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-23 01:18:46</dispatch_time>
-    <event_num>F20116799</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
     <prime_street>M3M</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-23 01:22:00</dispatch_time>
@@ -50,5 +30,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>146</beat>
     <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>MARKHAM RD, SC</prime_street>
+    <cross_streets>FINCH AVE E / NASHDENE RD</cross_streets>
+    <dispatch_time>2020-11-23 01:33:18</dispatch_time>
+    <event_num>F20116802</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>211</beat>
+    <units_disp> A213, C24, P211, P242, R241, R243, A244, LA231, R214, S232</units_disp>
   </event>
 </tfs_active_incidents>
