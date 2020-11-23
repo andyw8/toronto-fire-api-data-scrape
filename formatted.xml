@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-23 14:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-23 15:10:02</update_from_db_time>
   <event>
     <prime_street>MARKHAM RD, SC</prime_street>
     <cross_streets>FINCH AVE E / NASHDENE RD</cross_streets>
@@ -9,76 +9,76 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>211</beat>
-    <units_disp> A213, C24, P211, P242, R241, R243, A244, LA231, R214, S232, CMD10, CMD10C, C20, C21, P212, R231, HZ145, P113, R115, P245, R235, P145, HS145, C23, P222, P125, REHAB01, DE234, P234, T114, P232, P233, R231, P211, C21, C7, FI16, HZ145, R214, P221, C23, C20, REHAB01, R241, P244, P233</units_disp>
+    <units_disp> A213, C24, P211, P242, R241, R243, A244, LA231, R214, S232, CMD10, CMD10C, C20, C21, P212, R231, HZ145, P113, R115, P245, R235, P145, HS145, C23, P222, P125, REHAB01, DE234, P234, T114, P232, P233, R231, P211, C21, C7, FI16, HZ145, R214, P221, C23, C20, REHAB01, R241, P244, P233, P232</units_disp>
   </event>
   <event>
-    <prime_street>M3M</prime_street>
+    <prime_street>BONIS AVE, SC</prime_street>
+    <cross_streets>RON WATSON PARK TRL / KENNEDY RD</cross_streets>
+    <dispatch_time>2020-11-23 14:39:51</dispatch_time>
+    <event_num>F20116954</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> R243, P242, C24, P116, R115, A113</units_disp>
+  </event>
+  <event>
+    <prime_street>LOWER JARVIS ST, TT</prime_street>
+    <cross_streets>QUEENS QUAY E / LAKE SHORE BLVD E</cross_streets>
+    <dispatch_time>2020-11-23 14:52:47</dispatch_time>
+    <event_num>F20116956</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, P334, C33, P314, T333</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-23 14:56:13</dispatch_time>
+    <event_num>F20116958</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> S232, R231, R241, R214, P212, C21</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-23 13:48:46</dispatch_time>
-    <event_num>F20116937</event_num>
+    <dispatch_time>2020-11-23 14:55:40</dispatch_time>
+    <event_num>F20116959</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>ELLESMERE RD, SC</prime_street>
-    <cross_streets>DUNDALK DR / KENNEDY RD</cross_streets>
-    <dispatch_time>2020-11-23 14:00:58</dispatch_time>
-    <event_num>F20116942</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>BROADWAY AVE, TT</prime_street>
+    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
+    <dispatch_time>2020-11-23 14:55:44</dispatch_time>
+    <event_num>F20116960</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P232, P245, A222, C24, R243</units_disp>
+    <beat>134</beat>
+    <units_disp> R134, P131, A135, C13, R321</units_disp>
   </event>
   <event>
-    <prime_street>REXDALE BLVD, ET</prime_street>
-    <cross_streets>BERGAMOT AVE / HEPC</cross_streets>
-    <dispatch_time>2020-11-23 14:07:33</dispatch_time>
-    <event_num>F20116944</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>ADMIRAL RD, TT</prime_street>
+    <cross_streets>LOWTHER AVE / BERNARD AVE</cross_streets>
+    <dispatch_time>2020-11-23 15:00:51</dispatch_time>
+    <event_num>F20116962</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> R441, R413, A415, C41, P443</units_disp>
+    <beat>312</beat>
+    <units_disp> P311, P312, S313, A312, C31, P313</units_disp>
   </event>
   <event>
-    <prime_street>DELORAINE AVE, TT</prime_street>
-    <cross_streets>LN W YONGE N MELROSE / RIDLEY BLVD</cross_streets>
-    <dispatch_time>2020-11-23 14:11:48</dispatch_time>
-    <event_num>F20116945</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>VICTORIA PARK AVE, SC</prime_street>
+    <cross_streets>ARNCLIFFE CRES / DRAYCOTT DR</cross_streets>
+    <dispatch_time>2020-11-23 15:06:49</dispatch_time>
+    <event_num>F20116963</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131, P121, A135, C13, R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M4X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-23 14:14:14</dispatch_time>
-    <event_num>F20116946</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-23 14:14:44</dispatch_time>
-    <event_num>F20116947</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>FAIRVIEW MALL DR, NY</prime_street>
-    <cross_streets>GODSTONE RD / 404 S FAIRVIEW MALL RAMP</cross_streets>
-    <dispatch_time>2020-11-23 14:16:23</dispatch_time>
-    <event_num>F20116948</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, A113, P116, P123, C24</units_disp>
+    <beat>235</beat>
+    <units_disp> R235, P222, A222, C22, P221, P125</units_disp>
   </event>
 </tfs_active_incidents>
