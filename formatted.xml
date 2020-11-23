@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-23 00:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-23 01:10:16</update_from_db_time>
   <event>
     <prime_street>CATARAQUI CRES, SC</prime_street>
     <cross_streets>WARDEN AVE / FIRVALLEY CRT</cross_streets>
@@ -12,13 +12,13 @@
     <units_disp> R224, A222, C22, P222, P226, R225, LA231, R235, S232, A322, C20, P223, P233, P232</units_disp>
   </event>
   <event>
-    <prime_street>M3L</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-22 22:51:03</dispatch_time>
-    <event_num>F20116775</event_num>
+    <dispatch_time>2020-11-23 00:43:03</dispatch_time>
+    <event_num>F20116794</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146, HZ145, HR114</units_disp>
+    <beat>232</beat>
+    <units_disp> S232</units_disp>
   </event>
 </tfs_active_incidents>
