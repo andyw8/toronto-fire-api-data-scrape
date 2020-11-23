@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-23 14:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-23 14:20:02</update_from_db_time>
   <event>
     <prime_street>MARKHAM RD, SC</prime_street>
     <cross_streets>FINCH AVE E / NASHDENE RD</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> P232, P245, A222, C24, R243</units_disp>
   </event>
   <event>
-    <prime_street>ELLIOTT AVE, ET</prime_street>
-    <cross_streets>GOVERNMENT RD / BANNON AVE</cross_streets>
-    <dispatch_time>2020-11-23 14:03:09</dispatch_time>
-    <event_num>F20116943</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431, P422, A433, C44, P433</units_disp>
-  </event>
-  <event>
     <prime_street>REXDALE BLVD, ET</prime_street>
     <cross_streets>BERGAMOT AVE / HEPC</cross_streets>
     <dispatch_time>2020-11-23 14:07:33</dispatch_time>
@@ -60,5 +50,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>131</beat>
     <units_disp> P131, P121, A135, C13, R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-23 14:14:14</dispatch_time>
+    <event_num>F20116946</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-23 14:14:44</dispatch_time>
+    <event_num>F20116947</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>FAIRVIEW MALL DR, NY</prime_street>
+    <cross_streets>GODSTONE RD / 404 S FAIRVIEW MALL RAMP</cross_streets>
+    <dispatch_time>2020-11-23 14:16:23</dispatch_time>
+    <event_num>F20116948</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115, A113, P116, P123, C24</units_disp>
   </event>
 </tfs_active_incidents>
