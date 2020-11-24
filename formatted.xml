@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-24 09:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-24 10:20:02</update_from_db_time>
   <event>
     <prime_street>MARKHAM RD, SC</prime_street>
     <cross_streets>FINCH AVE E / NASHDENE RD</cross_streets>
@@ -19,46 +19,96 @@
     <event_type>Rescue - Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
-    <units_disp> C13, R134, A321, P313, R321, S313, S143, P143, C10, S313, P313, R321, C8, C10, C7, C9, S313, P313, C13, P132, P131, P125, A135, C13, P313, S313, P135, C10</units_disp>
+    <units_disp> C13, R134, A321, P313, R321, S313, S143, P143, C10, S313, P313, R321, C8, C10, C7, C9, S313, P313, C13, P132, P131, P125, A135, C13, P313, S313, P135, C10, P135</units_disp>
   </event>
   <event>
     <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-24 09:26:06</dispatch_time>
-    <event_num>F20117181</event_num>
+    <dispatch_time>2020-11-24 09:53:12</dispatch_time>
+    <event_num>F20117191</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P343</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
   <event>
-    <prime_street>M6B</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets>SILVERSTONE DR / MARTIN GROVE RD</cross_streets>
+    <dispatch_time>2020-11-24 09:55:14</dispatch_time>
+    <event_num>F20117192</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M9P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-24 09:26:41</dispatch_time>
-    <event_num>F20117182</event_num>
+    <dispatch_time>2020-11-24 09:54:55</dispatch_time>
+    <event_num>F20117193</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P132</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>SUNRISE AVE, NY</prime_street>
+    <cross_streets>VICTORIA PARK AVE / O'CONNOR DR</cross_streets>
+    <dispatch_time>2020-11-24 09:57:16</dispatch_time>
+    <event_num>F20117196</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> P222, P221, A222, C32, P125, C22</units_disp>
   </event>
   <event>
     <prime_street>M3H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-24 09:29:12</dispatch_time>
-    <event_num>F20117184</event_num>
+    <dispatch_time>2020-11-24 10:00:44</dispatch_time>
+    <event_num>F20117197</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>143</beat>
     <units_disp> P143</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>SHUTER ST / O'KEEFE LANE</cross_streets>
-    <dispatch_time>2020-11-24 09:35:31</dispatch_time>
-    <event_num>F20117187</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-24 10:06:25</dispatch_time>
+    <event_num>F20117199</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-24 10:07:39</dispatch_time>
+    <event_num>F20117200</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-24 10:08:40</dispatch_time>
+    <event_num>F20117201</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P312, P332</units_disp>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>CLAIREVILLE DR, ET</prime_street>
+    <cross_streets>HUMBERLINE DR / C N R</cross_streets>
+    <dispatch_time>2020-11-24 10:14:05</dispatch_time>
+    <event_num>F20117202</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> A415, C41, P415, R412, R441, R444</units_disp>
   </event>
 </tfs_active_incidents>
