@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-23 22:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-23 22:20:02</update_from_db_time>
   <event>
     <prime_street>MARKHAM RD, SC</prime_street>
     <cross_streets>FINCH AVE E / NASHDENE RD</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>211</beat>
-    <units_disp> A213, C24, P211, P242, R241, R243, A244, LA231, R214, S232, CMD10, CMD10C, C20, C21, P212, R231, HZ145, P113, R115, P245, R235, P145, HS145, C23, P222, P125, REHAB01, DE234, P234, T114, P232, P233, R231, P211, C21, C7, FI16, HZ145, R214, P221, C23, C20, REHAB01, R241, P244, P233, P232, A213, R235, P234, P242, A113, R225, R115</units_disp>
+    <units_disp> A213, C24, P211, P242, R241, R243, A244, LA231, R214, S232, CMD10, CMD10C, C20, C21, P212, R231, HZ145, P113, R115, P245, R235, P145, HS145, C23, P222, P125, REHAB01, DE234, P234, T114, P232, P233, R231, P211, C21, C7, FI16, HZ145, R214, P221, C23, C20, REHAB01, R241, P244, P233, P232, A213, R235, P234, P242, A113, R225, R115, P212</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -22,34 +22,14 @@
     <units_disp> C13, R134, A321, P313, R321, S313, S143, P143, C10, S313, P313, R321, C8, C10, C7, C9</units_disp>
   </event>
   <event>
-    <prime_street>ST PATRICK ST, TT</prime_street>
-    <cross_streets>DUNDAS ST W / ELM ST</cross_streets>
-    <dispatch_time>2020-11-23 21:09:48</dispatch_time>
-    <event_num>F20117064</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
     <prime_street>DUNDAS ST, TT</prime_street>
     <cross_streets>VICTORIA STREET LANE / BOND ST</cross_streets>
     <dispatch_time>2020-11-23 21:39:28</dispatch_time>
     <event_num>F20117071</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
     <units_disp> P314, P333, C33, P313, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-23 21:40:06</dispatch_time>
-    <event_num>F20117072</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -69,7 +49,7 @@
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>214</beat>
-    <units_disp> A213, C21, P212, R214, R231</units_disp>
+    <units_disp> A213, P212, R214, R231, C21</units_disp>
   </event>
   <event>
     <prime_street>M1T</prime_street>
@@ -80,5 +60,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> A244</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-23 22:13:54</dispatch_time>
+    <event_num>F20117079</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> A222</units_disp>
+  </event>
+  <event>
+    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
+    <cross_streets>R. V. BURGESS PARK TRL / OVERLEA BLVD</cross_streets>
+    <dispatch_time>2020-11-23 22:15:26</dispatch_time>
+    <event_num>F20117080</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322, P125, A321, C32, R224</units_disp>
   </event>
 </tfs_active_incidents>
