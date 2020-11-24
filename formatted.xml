@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-23 18:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-23 19:50:03</update_from_db_time>
   <event>
     <prime_street>MARKHAM RD, SC</prime_street>
     <cross_streets>FINCH AVE E / NASHDENE RD</cross_streets>
@@ -19,46 +19,86 @@
     <event_type>Rescue - Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
-    <units_disp> C13, R134, A321, P313, R321, S313, S143, P143, C10</units_disp>
+    <units_disp> C13, R134, A321, P313, R321, S313, S143, P143, C10, S313, P313, R321</units_disp>
+  </event>
+  <event>
+    <prime_street>EDENGARTH CRT, NY</prime_street>
+    <cross_streets>FLEMINGTON RD / </cross_streets>
+    <dispatch_time>2020-11-23 19:05:36</dispatch_time>
+    <event_num>F20117026</event_num>
+    <event_type>Water Problem</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132, A133</units_disp>
+  </event>
+  <event>
+    <prime_street>ROCKCASTLE DR, ET</prime_street>
+    <cross_streets>WINCOTT DR / PETTIT DR</cross_streets>
+    <dispatch_time>2020-11-23 19:17:10</dispatch_time>
+    <event_num>F20117028</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> A415, C44, P442, P443, P445, R441</units_disp>
+  </event>
+  <event>
+    <prime_street>YORK DOWNS DR, NY</prime_street>
+    <cross_streets>BATHURST ST / YEOMANS RD</cross_streets>
+    <dispatch_time>2020-11-23 19:23:01</dispatch_time>
+    <event_num>F20117030</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P114, P143, P145, T114, C34, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>M3L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-23 19:29:11</dispatch_time>
+    <event_num>F20117031</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>PAXMAN RD / WEST MALL CRES</cross_streets>
-    <dispatch_time>2020-11-23 18:04:44</dispatch_time>
-    <event_num>F20117008</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
+    <cross_streets>MARIS SHEPWAY / MARIS SHEPWAY</cross_streets>
+    <dispatch_time>2020-11-23 19:33:09</dispatch_time>
+    <event_num>F20117032</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> C44, P432, P445, PL432, R434</units_disp>
+    <beat>116</beat>
+    <units_disp> R115, P116, P123, R122, T114, C11</units_disp>
   </event>
   <event>
-    <prime_street>JANE ST, NY</prime_street>
-    <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
-    <dispatch_time>2020-11-23 18:07:36</dispatch_time>
-    <event_num>F20117010</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>146</beat>
-    <units_disp> R421, P146, A142, C14, P145, P442, HR114, HZ145, P132, P143, R441, S143, A421, C41, LA421, P443, CMD10, CMD10C, R421</units_disp>
-  </event>
-  <event>
-    <prime_street>PLAINS RD, EY</prime_street>
-    <cross_streets>REDNOR RD / WOODBINE AVE</cross_streets>
-    <dispatch_time>2020-11-23 18:26:51</dispatch_time>
-    <event_num>F20117016</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
+    <prime_street>GLAMORGAN AVE, SC</prime_street>
+    <cross_streets>KENNEDY RD / DUNDALK DR</cross_streets>
+    <dispatch_time>2020-11-23 19:43:38</dispatch_time>
+    <event_num>F20117033</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
+    <beat>245</beat>
+    <units_disp> P245, P232, A244, C24, R243</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
+    <prime_street>SHUTER ST, TT</prime_street>
+    <cross_streets>SEATON ST / NIGHTHAWK LANE</cross_streets>
+    <dispatch_time>2020-11-23 19:44:00</dispatch_time>
+    <event_num>F20117034</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> T333, P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-23 18:28:04</dispatch_time>
-    <event_num>F20117017</event_num>
+    <dispatch_time>2020-11-23 19:46:50</dispatch_time>
+    <event_num>F20117035</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
+    <beat>142</beat>
+    <units_disp> P141</units_disp>
   </event>
 </tfs_active_incidents>
