@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-23 19:50:03</update_from_db_time>
+  <update_from_db_time>2020-11-23 20:20:02</update_from_db_time>
   <event>
     <prime_street>MARKHAM RD, SC</prime_street>
     <cross_streets>FINCH AVE E / NASHDENE RD</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>211</beat>
-    <units_disp> A213, C24, P211, P242, R241, R243, A244, LA231, R214, S232, CMD10, CMD10C, C20, C21, P212, R231, HZ145, P113, R115, P245, R235, P145, HS145, C23, P222, P125, REHAB01, DE234, P234, T114, P232, P233, R231, P211, C21, C7, FI16, HZ145, R214, P221, C23, C20, REHAB01, R241, P244, P233, P232, A213, R235, P234, P242, A113</units_disp>
+    <units_disp> A213, C24, P211, P242, R241, R243, A244, LA231, R214, S232, CMD10, CMD10C, C20, C21, P212, R231, HZ145, P113, R115, P245, R235, P145, HS145, C23, P222, P125, REHAB01, DE234, P234, T114, P232, P233, R231, P211, C21, C7, FI16, HZ145, R214, P221, C23, C20, REHAB01, R241, P244, P233, P232, A213, R235, P234, P242, A113, R225, R115</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -19,37 +19,7 @@
     <event_type>Rescue - Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
-    <units_disp> C13, R134, A321, P313, R321, S313, S143, P143, C10, S313, P313, R321</units_disp>
-  </event>
-  <event>
-    <prime_street>EDENGARTH CRT, NY</prime_street>
-    <cross_streets>FLEMINGTON RD / </cross_streets>
-    <dispatch_time>2020-11-23 19:05:36</dispatch_time>
-    <event_num>F20117026</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132, A133</units_disp>
-  </event>
-  <event>
-    <prime_street>ROCKCASTLE DR, ET</prime_street>
-    <cross_streets>WINCOTT DR / PETTIT DR</cross_streets>
-    <dispatch_time>2020-11-23 19:17:10</dispatch_time>
-    <event_num>F20117028</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> A415, C44, P442, P443, P445, R441</units_disp>
-  </event>
-  <event>
-    <prime_street>YORK DOWNS DR, NY</prime_street>
-    <cross_streets>BATHURST ST / YEOMANS RD</cross_streets>
-    <dispatch_time>2020-11-23 19:23:01</dispatch_time>
-    <event_num>F20117030</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P114, P143, P145, T114, C34, C11</units_disp>
+    <units_disp> C13, R134, A321, P313, R321, S313, S143, P143, C10, S313, P313, R321, C8, C10, C7</units_disp>
   </event>
   <event>
     <prime_street>M3L</prime_street>
@@ -82,23 +52,83 @@
     <units_disp> P245, P232, A244, C24, R243</units_disp>
   </event>
   <event>
-    <prime_street>SHUTER ST, TT</prime_street>
-    <cross_streets>SEATON ST / NIGHTHAWK LANE</cross_streets>
-    <dispatch_time>2020-11-23 19:44:00</dispatch_time>
-    <event_num>F20117034</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> T333, P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
+    <prime_street>M6H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-23 19:46:50</dispatch_time>
-    <event_num>F20117035</event_num>
+    <dispatch_time>2020-11-23 19:58:22</dispatch_time>
+    <event_num>F20117039</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P141</units_disp>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>BLEECKER ST, TT</prime_street>
+    <cross_streets>ST JAMES AVE / ST. JAMES TOWN WEST PARK TRL</cross_streets>
+    <dispatch_time>2020-11-23 19:58:54</dispatch_time>
+    <event_num>F20117040</event_num>
+    <event_type>Water Problem</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> A312, P312</units_disp>
+  </event>
+  <event>
+    <prime_street>AKRON RD, ET</prime_street>
+    <cross_streets>CARSON ST / </cross_streets>
+    <dispatch_time>2020-11-23 20:06:13</dispatch_time>
+    <event_num>F20117042</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434, R435, C43, P432, PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>M9P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-23 20:07:44</dispatch_time>
+    <event_num>F20117043</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> R441</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR AVE, TT</prime_street>
+    <cross_streets>ALBERTA AVE / ROBINA AVE</cross_streets>
+    <dispatch_time>2020-11-23 20:08:42</dispatch_time>
+    <event_num>F20117044</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> R423, P343, A315, C34, P311, P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-23 20:11:20</dispatch_time>
+    <event_num>F20117045</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-23 20:11:43</dispatch_time>
+    <event_num>F20117046</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-23 20:13:41</dispatch_time>
+    <event_num>F20117047</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> A415</units_disp>
   </event>
 </tfs_active_incidents>
