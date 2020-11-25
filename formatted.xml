@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-25 17:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-25 18:10:02</update_from_db_time>
   <event>
     <prime_street>BROCKLEY DR, SC</prime_street>
     <cross_streets>LAWRENCE AVE E / ARCHIBALD MEWS</cross_streets>
@@ -12,33 +12,73 @@
     <units_disp> R231, P231CA, A244, P233, R243, C23, A213, R225, C24, LA231, P244, P245, HR114, HZ145, R115, S313, C20, CMD10, CMD10C, S143, S313</units_disp>
   </event>
   <event>
-    <prime_street>M3M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-25 17:34:23</dispatch_time>
-    <event_num>F20117677</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BALLIOL ST, TT</prime_street>
+    <cross_streets>PAILTON CRES / MOUNT PLEASANT RD</cross_streets>
+    <dispatch_time>2020-11-25 17:51:11</dispatch_time>
+    <event_num>F20117686</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
+    <prime_street>M5V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-25 17:39:18</dispatch_time>
-    <event_num>F20117678</event_num>
+    <dispatch_time>2020-11-25 17:54:00</dispatch_time>
+    <event_num>F20117688</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 17:54:59</dispatch_time>
+    <event_num>F20117689</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 17:58:52</dispatch_time>
+    <event_num>F20117690</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>KENNEDY RD / PROGRESS AVE</cross_streets>
-    <dispatch_time>2020-11-25 17:39:41</dispatch_time>
-    <event_num>F20117679</event_num>
+    <cross_streets>VAN HORNE AVE / VICTORIA PARK AVE</cross_streets>
+    <dispatch_time>2020-11-25 18:00:33</dispatch_time>
+    <event_num>F20117691</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P232</units_disp>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 18:05:30</dispatch_time>
+    <event_num>F20117692</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>SCARBOROUGH RD / MUNRO PARK AVE</cross_streets>
+    <dispatch_time>2020-11-25 18:05:57</dispatch_time>
+    <event_num>F20117693</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
   </event>
 </tfs_active_incidents>
