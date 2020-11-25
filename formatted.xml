@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-25 10:30:02</update_from_db_time>
-  <event>
-    <prime_street>YORK MILLS RD, NY</prime_street>
-    <cross_streets>MOSSGROVE PARK TRL / LESLIE ST</cross_streets>
-    <dispatch_time>2020-11-25 08:13:51</dispatch_time>
-    <event_num>F20117503</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R115, P116, C11, P121, P123, T114, R134, C13, HZ145, LA111, P125, P131, S143, A321, HR332, P233, C10</units_disp>
-  </event>
+  <update_from_db_time>2020-11-25 10:40:02</update_from_db_time>
   <event>
     <prime_street>BILLY BISHOP WAY, NY</prime_street>
     <cross_streets>WILSON AVE / DUFFERIN ST</cross_streets>
@@ -20,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>145</beat>
     <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-25 10:05:10</dispatch_time>
-    <event_num>F20117533</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
   </event>
   <event>
     <prime_street>FLINT RD, NY</prime_street>
@@ -70,5 +50,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>235</beat>
     <units_disp> R235, P125, C22, P233, A321</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 10:27:39</dispatch_time>
+    <event_num>F20117542</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street>O'CONNOR DR, NY</prime_street>
+    <cross_streets>SUNRISE AVE / LEAFY WOODWAY</cross_streets>
+    <dispatch_time>2020-11-25 10:27:51</dispatch_time>
+    <event_num>F20117543</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> P222</units_disp>
+  </event>
+  <event>
+    <prime_street>REXDALE BLVD, ET</prime_street>
+    <cross_streets>BRYDON DR / MARTIN GROVE RD</cross_streets>
+    <dispatch_time>2020-11-25 10:28:57</dispatch_time>
+    <event_num>F20117544</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415, R441, A415, R413, C13</units_disp>
+  </event>
+  <event>
+    <prime_street>M4W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 10:29:26</dispatch_time>
+    <event_num>F20117545</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 10:35:36</dispatch_time>
+    <event_num>F20117546</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
   </event>
 </tfs_active_incidents>
