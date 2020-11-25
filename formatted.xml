@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-25 00:20:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>WESTON RD / FINCH AVE W</cross_streets>
-    <dispatch_time>2020-11-24 23:02:15</dispatch_time>
-    <event_num>F20117418</event_num>
-    <event_type>Vehicle Accident with Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411, A411, P146</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>GIVINS ST / OSSINGTON AVE</cross_streets>
-    <dispatch_time>2020-11-25 00:02:16</dispatch_time>
-    <event_num>F20117426</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> S331, P331</units_disp>
-  </event>
-  <event>
-    <prime_street>ADELAIDE ST, TT</prime_street>
-    <cross_streets>PRINCESS ST / ONTARIO ST</cross_streets>
-    <dispatch_time>2020-11-25 00:05:55</dispatch_time>
-    <event_num>F20117427</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P325, C33, P332, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-25 00:08:43</dispatch_time>
-    <event_num>F20117428</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
-  </event>
+  <update_from_db_time>2020-11-25 00:40:02</update_from_db_time>
   <event>
     <prime_street>M3N</prime_street>
     <cross_streets/>
@@ -62,13 +22,33 @@
     <units_disp> P315</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-25 00:16:45</dispatch_time>
-    <event_num>F20117431</event_num>
+    <dispatch_time>2020-11-25 00:22:24</dispatch_time>
+    <event_num>F20117432</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 00:31:59</dispatch_time>
+    <event_num>F20117433</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M4E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 00:31:58</dispatch_time>
+    <event_num>F20117434</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
   </event>
 </tfs_active_incidents>
