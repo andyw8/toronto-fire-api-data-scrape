@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-25 18:20:03</update_from_db_time>
+  <update_from_db_time>2020-11-25 18:40:02</update_from_db_time>
   <event>
     <prime_street>BROCKLEY DR, SC</prime_street>
     <cross_streets>LAWRENCE AVE E / ARCHIBALD MEWS</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>232</beat>
     <units_disp> R231, P231CA, A244, P233, R243, C23, A213, R225, C24, LA231, P244, P245, HR114, HZ145, R115, S313, C20, CMD10, CMD10C, S143, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-25 17:54:00</dispatch_time>
-    <event_num>F20117688</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-25 17:58:52</dispatch_time>
-    <event_num>F20117690</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-25 18:05:30</dispatch_time>
-    <event_num>F20117692</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
   </event>
   <event>
     <prime_street>M1J</prime_street>
@@ -62,16 +32,6 @@
     <units_disp> P242</units_disp>
   </event>
   <event>
-    <prime_street>SHUTER ST, TT</prime_street>
-    <cross_streets>LN W JARVIS N SHUTER / JARVIS ST</cross_streets>
-    <dispatch_time>2020-11-25 18:14:41</dispatch_time>
-    <event_num>F20117697</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325, R325, A325, C33, P333</units_disp>
-  </event>
-  <event>
     <prime_street>VAUGHAN RD, YK</prime_street>
     <cross_streets>LOUISE AVE / MAPLEWOOD AVE</cross_streets>
     <dispatch_time>2020-11-25 18:15:29</dispatch_time>
@@ -82,13 +42,53 @@
     <units_disp> P145, C34, HZ332, P343</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-25 18:16:15</dispatch_time>
-    <event_num>F20117699</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LEGION RD, ET</prime_street>
+    <cross_streets>MANITOBA ST / MIMICO CREEK TRL</cross_streets>
+    <dispatch_time>2020-11-25 18:17:49</dispatch_time>
+    <event_num>F20117701</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>433</beat>
+    <units_disp> R435, P431, A433, C43, R434</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MOCCASIN TRAIL PARK TRL / GREENLAND RD</cross_streets>
+    <dispatch_time>2020-11-25 18:19:00</dispatch_time>
+    <event_num>F20117702</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>YONGE ST / HENDON AVE</cross_streets>
+    <dispatch_time>2020-11-25 18:20:05</dispatch_time>
+    <event_num>F20117703</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-25 18:26:12</dispatch_time>
+    <event_num>F20117706</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> A213, P212</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DANFORTH AVE / WOODBINE AVE</cross_streets>
+    <dispatch_time>2020-11-25 18:31:39</dispatch_time>
+    <event_num>F20117707</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
 </tfs_active_incidents>
