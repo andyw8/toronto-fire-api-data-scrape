@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-25 17:20:03</update_from_db_time>
+  <update_from_db_time>2020-11-25 17:45:02</update_from_db_time>
   <event>
     <prime_street>BROCKLEY DR, SC</prime_street>
     <cross_streets>LAWRENCE AVE E / ARCHIBALD MEWS</cross_streets>
@@ -12,13 +12,33 @@
     <units_disp> R231, P231CA, A244, P233, R243, C23, A213, R225, C24, LA231, P244, P245, HR114, HZ145, R115, S313, C20, CMD10, CMD10C, S143, S313</units_disp>
   </event>
   <event>
-    <prime_street>M5T</prime_street>
+    <prime_street>M3M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-25 17:11:10</dispatch_time>
-    <event_num>F20117674</event_num>
+    <dispatch_time>2020-11-25 17:34:23</dispatch_time>
+    <event_num>F20117677</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 17:39:18</dispatch_time>
+    <event_num>F20117678</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KENNEDY RD / PROGRESS AVE</cross_streets>
+    <dispatch_time>2020-11-25 17:39:41</dispatch_time>
+    <event_num>F20117679</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P232</units_disp>
   </event>
 </tfs_active_incidents>
