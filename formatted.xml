@@ -1,44 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-26 13:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-26 13:30:02</update_from_db_time>
   <event>
-    <prime_street>BATHURST ST, NY</prime_street>
-    <cross_streets>OLD ORCHARD GRV / BAYCREST AVE</cross_streets>
-    <dispatch_time>2020-11-26 11:29:15</dispatch_time>
-    <event_num>F20117908</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>MELFORD DR, SC</prime_street>
+    <cross_streets>TAPSCOTT RD / MELHAM CRT</cross_streets>
+    <dispatch_time>2020-11-26 13:13:28</dispatch_time>
+    <event_num>F20117946</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P131, P145, R112, S313, A135, C13, P132, HZ145</units_disp>
+    <beat>211</beat>
+    <units_disp> P211, P212, A213, C21, P242</units_disp>
   </event>
   <event>
-    <prime_street>ROYAL YORK RD, ET</prime_street>
-    <cross_streets>EGLINTON AVE W / LA ROSE AVE</cross_streets>
-    <dispatch_time>2020-11-26 12:42:34</dispatch_time>
-    <event_num>F20117940</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>ARROW RD / RIVALDA RD</cross_streets>
+    <dispatch_time>2020-11-26 13:21:44</dispatch_time>
+    <event_num>F20117947</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> R421, P443, A421, C44, P422, R441</units_disp>
+    <beat>142</beat>
+    <units_disp> A142, P141, C41, P442, R411</units_disp>
   </event>
   <event>
-    <prime_street>M6R</prime_street>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-26 12:53:31</dispatch_time>
-    <event_num>F20117942</event_num>
+    <dispatch_time>2020-11-26 13:25:30</dispatch_time>
+    <event_num>F20117948</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
   <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M4J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-26 12:59:44</dispatch_time>
-    <event_num>F20117944</event_num>
+    <dispatch_time>2020-11-26 13:26:46</dispatch_time>
+    <event_num>F20117949</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> R441</units_disp>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
