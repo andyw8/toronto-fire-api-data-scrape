@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-26 07:40:02</update_from_db_time>
-  <event>
-    <prime_street>DAVENPORT RD, TT</prime_street>
-    <cross_streets>AVENUE RD / LN W AVENUE S DAVENPORT</cross_streets>
-    <dispatch_time>2020-11-26 07:24:05</dispatch_time>
-    <event_num>F20117856</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> A312, C31, P311, P312, P313</units_disp>
-  </event>
-  <event>
-    <prime_street>HOLMESDALE CRES, YK</prime_street>
-    <cross_streets>PRESTON RD / ENNERDALE RD</cross_streets>
-    <dispatch_time>2020-11-26 07:27:03</dispatch_time>
-    <event_num>F20117857</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341, C34, HZ145, P145</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 07:31:36</dispatch_time>
-    <event_num>F20117858</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
+  <update_from_db_time>2020-11-26 08:15:02</update_from_db_time>
   <event>
     <prime_street>MORNINGSIDE AVE, SC</prime_street>
     <cross_streets>ELLESMERE RD / MILITARY TRL</cross_streets>
@@ -39,6 +9,46 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>212</beat>
-    <units_disp> P212, P234, R214, A213, C21, P231CA</units_disp>
+    <units_disp> P212, P234, R214, P231CA, A213, C21</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-26 07:42:59</dispatch_time>
+    <event_num>F20117860</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415, P443, P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 08:08:48</dispatch_time>
+    <event_num>F20117861</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 08:09:34</dispatch_time>
+    <event_num>F20117862</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 08:11:04</dispatch_time>
+    <event_num>F20117863</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
   </event>
 </tfs_active_incidents>
