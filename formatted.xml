@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-26 10:30:02</update_from_db_time>
-  <event>
-    <prime_street>CRAVEN RD, TT</prime_street>
-    <cross_streets>QUEEN ST E / DUNDAS ST E</cross_streets>
-    <dispatch_time>2020-11-26 10:07:12</dispatch_time>
-    <event_num>F20117885</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> R326, P227, A324, P323, P324, C32, A341</units_disp>
-  </event>
+  <update_from_db_time>2020-11-26 10:40:03</update_from_db_time>
   <event>
     <prime_street>FRITH RD, NY</prime_street>
     <cross_streets>ROSEGLEN CRES / LAMBRINOS LANE</cross_streets>
@@ -20,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
     <units_disp> P145, P141, C11, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 10:17:57</dispatch_time>
-    <event_num>F20117887</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> S313, P121</units_disp>
   </event>
   <event>
     <prime_street>M1K</prime_street>
@@ -42,26 +22,6 @@
     <units_disp> A222</units_disp>
   </event>
   <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>VIRGILWOOD DR / GOLDFINCH CRT</cross_streets>
-    <dispatch_time>2020-11-26 10:22:38</dispatch_time>
-    <event_num>F20117889</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> P111, R112, R122, HR114, C13, P131, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 10:22:49</dispatch_time>
-    <event_num>F20117890</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>JANE ST / STANLEY RD</cross_streets>
     <dispatch_time>2020-11-26 10:23:07</dispatch_time>
@@ -70,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
     <units_disp> P142</units_disp>
+  </event>
+  <event>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>VIRGILWOOD DR / GOLDFINCH CRT</cross_streets>
+    <dispatch_time>2020-11-26 10:35:02</dispatch_time>
+    <event_num>F20117892</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>CHILTERN HILL RD, YK</prime_street>
+    <cross_streets>LN S EGLINTON W PEVERIL / EGLINTON AVE W</cross_streets>
+    <dispatch_time>2020-11-26 10:36:07</dispatch_time>
+    <event_num>F20117893</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> R134, P343, A135, C34, P311</units_disp>
   </event>
 </tfs_active_incidents>
