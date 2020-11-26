@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-26 16:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-26 16:40:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -12,13 +12,33 @@
     <units_disp> T333</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 16:19:57</dispatch_time>
-    <event_num>F20117996</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>ST JOSEPH ST, TT</prime_street>
+    <cross_streets>ST NICHOLAS ST / BAY ST</cross_streets>
+    <dispatch_time>2020-11-26 16:25:14</dispatch_time>
+    <event_num>F20117997</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>DANFORTH AVE, TT</prime_street>
+    <cross_streets>LADYSMITH AVE / LN W LAMB S DANFORTH</cross_streets>
+    <dispatch_time>2020-11-26 16:34:02</dispatch_time>
+    <event_num>F20117998</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323, P322, A322, C32, R224, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>VICTORIA PARK AVE, NY</prime_street>
+    <cross_streets>SOUTHMEAD RD / O'CONNOR DR</cross_streets>
+    <dispatch_time>2020-11-26 16:36:53</dispatch_time>
+    <event_num>F20117999</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235, P221, A222, C22, P125</units_disp>
   </event>
 </tfs_active_incidents>
