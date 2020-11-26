@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-26 08:15:02</update_from_db_time>
-  <event>
-    <prime_street>MORNINGSIDE AVE, SC</prime_street>
-    <cross_streets>ELLESMERE RD / MILITARY TRL</cross_streets>
-    <dispatch_time>2020-11-26 07:34:53</dispatch_time>
-    <event_num>F20117859</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212, P234, R214, P231CA, A213, C21</units_disp>
-  </event>
+  <update_from_db_time>2020-11-26 08:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
