@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-26 14:10:10</update_from_db_time>
-  <event>
-    <prime_street>BELSIZE DR, TT</prime_street>
-    <cross_streets>YONGE ST / TULLIS DR</cross_streets>
-    <dispatch_time>2020-11-26 13:46:13</dispatch_time>
-    <event_num>F20117952</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> A135</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 13:55:02</dispatch_time>
-    <event_num>F20117955</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTON RD, YK</prime_street>
-    <cross_streets>OAK ST / FAIRGLEN CRES</cross_streets>
-    <dispatch_time>2020-11-26 13:56:13</dispatch_time>
-    <event_num>F20117956</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P146, R441, A415, C41, P415</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 13:57:31</dispatch_time>
-    <event_num>F20117957</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
-  </event>
+  <update_from_db_time>2020-11-26 14:20:05</update_from_db_time>
   <event>
     <prime_street>SPADINA AVE, TT</prime_street>
     <cross_streets>DUNDAS ST W / GLEN BAILLIE PL</cross_streets>
@@ -52,13 +12,33 @@
     <units_disp> P332, P314, A312, C33, P312, A331, P315</units_disp>
   </event>
   <event>
-    <prime_street>PARK LANE CRCL, NY</prime_street>
-    <cross_streets>POST RD / LAWRENCE AVE E</cross_streets>
-    <dispatch_time>2020-11-26 14:03:52</dispatch_time>
-    <event_num>F20117959</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>JANE ST, NY</prime_street>
+    <cross_streets>QUEEN'S DR / KING ST</cross_streets>
+    <dispatch_time>2020-11-26 14:08:22</dispatch_time>
+    <event_num>F20117960</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122, P125, P121, P131, A321, C13</units_disp>
+    <beat>442</beat>
+    <units_disp> R421, P422, A133, C14, P145, C41</units_disp>
+  </event>
+  <event>
+    <prime_street>VICKSON CRT, ET</prime_street>
+    <cross_streets>THE EAST MALL / TREMONT RD</cross_streets>
+    <dispatch_time>2020-11-26 14:13:11</dispatch_time>
+    <event_num>F20117961</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P445, R444, C44, P431, PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 14:15:18</dispatch_time>
+    <event_num>F20117962</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
