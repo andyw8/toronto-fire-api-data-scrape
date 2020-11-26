@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-26 18:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-26 18:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>JANE ST / STANLEY RD</cross_streets>
@@ -13,26 +13,6 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>LAWRENCE AVE E / ORTON PARK RD</cross_streets>
-    <dispatch_time>2020-11-26 17:35:05</dispatch_time>
-    <event_num>F20118017</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Z</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 17:40:22</dispatch_time>
-    <event_num>F20118023</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> PL432</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
     <cross_streets>HUMBERLINE DR / ALBION RD</cross_streets>
     <dispatch_time>2020-11-26 17:48:55</dispatch_time>
     <event_num>F20118028</event_num>
@@ -40,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>412</beat>
     <units_disp> R412</units_disp>
-  </event>
-  <event>
-    <prime_street>BAYVIEW AVE, EY</prime_street>
-    <cross_streets>BELSIZE DR / MANOR RD E</cross_streets>
-    <dispatch_time>2020-11-26 17:52:18</dispatch_time>
-    <event_num>F20118030</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R134, P125, A321, C13, P131</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -72,13 +42,73 @@
     <units_disp> P227</units_disp>
   </event>
   <event>
-    <prime_street>M1G</prime_street>
+    <prime_street>M1S</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-26 18:04:31</dispatch_time>
-    <event_num>F20118033</event_num>
+    <dispatch_time>2020-11-26 18:07:03</dispatch_time>
+    <event_num>F20118034</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231</units_disp>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 18:07:24</dispatch_time>
+    <event_num>F20118035</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 18:08:04</dispatch_time>
+    <event_num>F20118036</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 18:12:29</dispatch_time>
+    <event_num>F20118037</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 18:13:45</dispatch_time>
+    <event_num>F20118038</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 18:13:38</dispatch_time>
+    <event_num>F20118039</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MARTIN GROVE RD / EGLINTON AVE W</cross_streets>
+    <dispatch_time>2020-11-26 18:15:16</dispatch_time>
+    <event_num>F20118040</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
