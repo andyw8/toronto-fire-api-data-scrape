@@ -1,114 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-26 18:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-26 18:40:03</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>JANE ST / STANLEY RD</cross_streets>
-    <dispatch_time>2020-11-26 17:25:57</dispatch_time>
-    <event_num>F20118014</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>HUMBERLINE DR / ALBION RD</cross_streets>
-    <dispatch_time>2020-11-26 17:48:55</dispatch_time>
-    <event_num>F20118028</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>HIGHWAY 400 N / FINCH AVE W</cross_streets>
-    <dispatch_time>2020-11-26 17:58:17</dispatch_time>
-    <event_num>F20118031</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
+    <prime_street>M2P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-26 18:01:51</dispatch_time>
-    <event_num>F20118032</event_num>
+    <dispatch_time>2020-11-26 18:25:19</dispatch_time>
+    <event_num>F20118042</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
   </event>
   <event>
-    <prime_street>M1S</prime_street>
+    <prime_street>REXDALE BLVD, ET</prime_street>
+    <cross_streets>BRYDON DR / MARTIN GROVE RD</cross_streets>
+    <dispatch_time>2020-11-26 18:27:22</dispatch_time>
+    <event_num>F20118044</event_num>
+    <event_type>Fire - Other</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415, R441, A415, C41, P443, R412, R413</units_disp>
+  </event>
+  <event>
+    <prime_street>DOWLING AVE, TT</prime_street>
+    <cross_streets>LAXTON AVE / LN S QUEEN E BEATY</cross_streets>
+    <dispatch_time>2020-11-26 18:27:52</dispatch_time>
+    <event_num>F20118045</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426, P331, A426, C42, R425</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-26 18:07:03</dispatch_time>
-    <event_num>F20118034</event_num>
+    <dispatch_time>2020-11-26 18:36:00</dispatch_time>
+    <event_num>F20118046</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 18:07:24</dispatch_time>
-    <event_num>F20118035</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 18:08:04</dispatch_time>
-    <event_num>F20118036</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 18:12:29</dispatch_time>
-    <event_num>F20118037</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 18:13:45</dispatch_time>
-    <event_num>F20118038</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-26 18:13:38</dispatch_time>
-    <event_num>F20118039</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MARTIN GROVE RD / EGLINTON AVE W</cross_streets>
-    <dispatch_time>2020-11-26 18:15:16</dispatch_time>
-    <event_num>F20118040</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
   </event>
 </tfs_active_incidents>
