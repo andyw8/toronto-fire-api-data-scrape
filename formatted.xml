@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-25 19:50:02</update_from_db_time>
+  <update_from_db_time>2020-11-25 20:25:02</update_from_db_time>
   <event>
     <prime_street>MAJOR ST, TT</prime_street>
     <cross_streets>BARBARA GODARD LANE / SUSSEX AVE</cross_streets>
@@ -10,86 +10,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>315</beat>
     <units_disp> P315, P312, A312, C31, P314, P331, A331, LA333, R325, S331, C30</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>YONGE BLVD / MCNAIRN AVE</cross_streets>
-    <dispatch_time>2020-11-25 19:05:47</dispatch_time>
-    <event_num>F20117722</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131</units_disp>
-  </event>
-  <event>
-    <prime_street>REXDALE BLVD, ET</prime_street>
-    <cross_streets>HUMBERWOOD BLVD / REXDALE W 427 N RAMP</cross_streets>
-    <dispatch_time>2020-11-25 19:24:54</dispatch_time>
-    <event_num>F20117730</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412, P415, A415, C44, R441, C41</units_disp>
-  </event>
-  <event>
-    <prime_street>M6B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-25 19:25:12</dispatch_time>
-    <event_num>F20117731</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-25 19:27:24</dispatch_time>
-    <event_num>F20117733</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTON RD, NY</prime_street>
-    <cross_streets>DEE AVE / 401 C E WESTON RD RAMP</cross_streets>
-    <dispatch_time>2020-11-25 19:29:01</dispatch_time>
-    <event_num>F20117734</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-25 19:37:10</dispatch_time>
-    <event_num>F20117735</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>BERTAL RD, YK</prime_street>
-    <cross_streets>INDUSTRY ST / </cross_streets>
-    <dispatch_time>2020-11-25 19:41:54</dispatch_time>
-    <event_num>F20117736</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421, C42, P422, R421, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-25 19:42:44</dispatch_time>
-    <event_num>F20117737</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -103,7 +23,7 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>KEELE ST / DOWNSVIEW PARK BLVD</cross_streets>
+    <cross_streets>KEELE ST / WHITBURN CRES</cross_streets>
     <dispatch_time>2020-11-25 19:46:39</dispatch_time>
     <event_num>F20117739</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
@@ -112,13 +32,33 @@
     <units_disp> P141</units_disp>
   </event>
   <event>
-    <prime_street>WELLINGTON ST, TT</prime_street>
-    <cross_streets>SIMCOE ST / JOHN ST</cross_streets>
-    <dispatch_time>2020-11-25 19:46:59</dispatch_time>
-    <event_num>F20117740</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <prime_street>M1N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 20:10:24</dispatch_time>
+    <event_num>F20117745</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P334, C33, HR332, P333, T333</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 20:12:14</dispatch_time>
+    <event_num>F20117746</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-25 20:21:51</dispatch_time>
+    <event_num>F20117748</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
   </event>
 </tfs_active_incidents>
