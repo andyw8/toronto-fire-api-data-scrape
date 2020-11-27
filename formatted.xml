@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-27 14:40:02</update_from_db_time>
-  <event>
-    <prime_street>M2K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-27 14:06:57</dispatch_time>
-    <event_num>F20118297</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
-  </event>
-  <event>
-    <prime_street>MCCOWAN RD, SC</prime_street>
-    <cross_streets>SANDHURST CRCL / FINCH AVE E</cross_streets>
-    <dispatch_time>2020-11-27 14:24:44</dispatch_time>
-    <event_num>F20118298</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242, R243, A213, C24, P211</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-27 14:29:11</dispatch_time>
-    <event_num>F20118299</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> R434, P432</units_disp>
-  </event>
-  <event>
-    <prime_street>MORNELLE CRT, SC</prime_street>
-    <cross_streets>ELLESMERE RD / </cross_streets>
-    <dispatch_time>2020-11-27 14:29:03</dispatch_time>
-    <event_num>F20118300</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212, R214, A215, C21, P234</units_disp>
-  </event>
+  <update_from_db_time>2020-11-27 15:10:02</update_from_db_time>
   <event>
     <prime_street>M3A</prime_street>
     <cross_streets/>
@@ -50,5 +10,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>123</beat>
     <units_disp> R133</units_disp>
+  </event>
+  <event>
+    <prime_street>SPADINA AVE, TT</prime_street>
+    <cross_streets>DUNDAS ST W / GLEN BAILLIE PL</cross_streets>
+    <dispatch_time>2020-11-27 14:37:45</dispatch_time>
+    <event_num>F20118303</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315, P332, A331, C33, P331</units_disp>
+  </event>
+  <event>
+    <prime_street>M4G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-27 14:52:05</dispatch_time>
+    <event_num>F20118306</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>321</beat>
+    <units_disp> A321</units_disp>
+  </event>
+  <event>
+    <prime_street>ISLINGTON AVE, ET</prime_street>
+    <cross_streets>BEAUMONDE HEIGHTS DR / HUMBER RIVER RECREATIONAL TRL</cross_streets>
+    <dispatch_time>2020-11-27 15:05:48</dispatch_time>
+    <event_num>F20118307</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413, R411, A415, C41, P415</units_disp>
   </event>
 </tfs_active_incidents>
