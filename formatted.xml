@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-27 05:30:02</update_from_db_time>
-  <event>
-    <prime_street>TOWN CENTRE CRT, SC</prime_street>
-    <cross_streets>BOROUGH DR / BOROUGH DR</cross_streets>
-    <dispatch_time>2020-11-27 04:23:18</dispatch_time>
-    <event_num>F20118184</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243, P232, A244, C23, P245, S232</units_disp>
-  </event>
+  <update_from_db_time>2020-11-27 05:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>427 C N 27 N RAMP / HIGHWAY 401 X E</cross_streets>
@@ -27,8 +17,18 @@
     <dispatch_time>2020-11-27 05:24:13</dispatch_time>
     <event_num>F20118189</event_num>
     <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
+    <alarm_lev>2</alarm_lev>
     <beat>221</beat>
-    <units_disp> P221, P245, R235, A222, C22, S232</units_disp>
+    <units_disp> P221, P245, R235, A222, C22, S232, C20, A244, C23, LA231, P223, P232, P233, R224, R231, HZ145, CMD10C, CMD10</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KIPLING AVE / JOHN GARLAND BLVD</cross_streets>
+    <dispatch_time>2020-11-27 05:35:47</dispatch_time>
+    <event_num>F20118190</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
