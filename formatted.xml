@@ -1,24 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-27 11:30:02</update_from_db_time>
+  <update_from_db_time>2020-11-27 11:50:02</update_from_db_time>
   <event>
-    <prime_street>BOND ST, TT</prime_street>
-    <cross_streets>QUEEN ST E / SHUTER ST</cross_streets>
-    <dispatch_time>2020-11-27 11:09:50</dispatch_time>
-    <event_num>F20118251</event_num>
-    <event_type>Alarm Institution</event_type>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>EMPIRE AVE / BOOTH AVE</cross_streets>
+    <dispatch_time>2020-11-27 11:38:57</dispatch_time>
+    <event_num>F20118254</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, R325, C33, P312, P313, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M4A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-27 11:21:23</dispatch_time>
-    <event_num>F20118252</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>324</beat>
+    <units_disp> P324, R326, A324, C32, R325</units_disp>
   </event>
 </tfs_active_incidents>
