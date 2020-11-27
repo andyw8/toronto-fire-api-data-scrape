@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-26 20:50:02</update_from_db_time>
+  <update_from_db_time>2020-11-26 21:20:03</update_from_db_time>
   <event>
     <prime_street>REXDALE BLVD, ET</prime_street>
     <cross_streets>BRYDON DR / MARTIN GROVE RD</cross_streets>
@@ -9,26 +9,46 @@
     <event_type>Fire - Other</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>415</beat>
-    <units_disp> P415, R441, A415, C41, P443, R412, R413, LA421</units_disp>
+    <units_disp> P415, R441, A415, C41, P443, R412, R413, LA421, R444</units_disp>
   </event>
   <event>
-    <prime_street>HUMBERLINE DR, ET</prime_street>
-    <cross_streets>HUMBER COLLEGE BLVD / HOLYOAKE CRES</cross_streets>
-    <dispatch_time>2020-11-26 20:15:31</dispatch_time>
-    <event_num>F20118074</event_num>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>SHERBOURNE ST / PRINCESS ST</cross_streets>
+    <dispatch_time>2020-11-26 21:02:16</dispatch_time>
+    <event_num>F20118088</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> P445, R444, A142, C14, P146</units_disp>
+    <beat>333</beat>
+    <units_disp> C31, P313, P314, P333, T333, C33</units_disp>
   </event>
   <event>
-    <prime_street>HANNA RD, EY</prime_street>
-    <cross_streets>ANNESLEY AVE / GLENVALE BLVD</cross_streets>
-    <dispatch_time>2020-11-26 20:41:45</dispatch_time>
-    <event_num>F20118081</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 21:09:03</dispatch_time>
+    <event_num>F20118090</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> A321, P322, C13, P125, P131, R134</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-26 21:08:27</dispatch_time>
+    <event_num>F20118091</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> P442, P443</units_disp>
+  </event>
+  <event>
+    <prime_street>LOMBARD ST, TT</prime_street>
+    <cross_streets>CHURCH ST / CENTRAL FIRE STATION LANE</cross_streets>
+    <dispatch_time>2020-11-26 21:10:44</dispatch_time>
+    <event_num>F20118092</event_num>
+    <event_type>Fire - Highrise Residential - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> HR332, P314, S313, P312, P334, A312, C33, P313</units_disp>
   </event>
 </tfs_active_incidents>
