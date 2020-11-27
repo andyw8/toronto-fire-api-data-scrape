@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-26 22:30:02</update_from_db_time>
+  <update_from_db_time>2020-11-26 22:35:02</update_from_db_time>
   <event>
     <prime_street>REXDALE BLVD, ET</prime_street>
     <cross_streets>BRYDON DR / MARTIN GROVE RD</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>441</beat>
     <units_disp> P443, P442</units_disp>
-  </event>
-  <event>
-    <prime_street>CLINTON ST, TT</prime_street>
-    <cross_streets>COLLEGE ST / HUGGINS FAMILY LANE</cross_streets>
-    <dispatch_time>2020-11-26 22:09:20</dispatch_time>
-    <event_num>F20118104</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> A331, C33, P315, P331, P344, R426</units_disp>
   </event>
   <event>
     <prime_street>M4Y</prime_street>
@@ -70,5 +60,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
     <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>SHERBOURNE ST, TT</prime_street>
+    <cross_streets>DUNDAS ST E / LN N DUNDAS W SHERBOURNE</cross_streets>
+    <dispatch_time>2020-11-26 22:27:15</dispatch_time>
+    <event_num>F20118110</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325, P333, C33, P314, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M9B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 22:27:44</dispatch_time>
+    <event_num>F20118111</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-26 22:30:24</dispatch_time>
+    <event_num>F20118112</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
