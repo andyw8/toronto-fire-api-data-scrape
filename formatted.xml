@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-27 00:45:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-26 23:48:10</dispatch_time>
-    <event_num>F20118129</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> P116, R115</units_disp>
-  </event>
+  <update_from_db_time>2020-11-27 01:20:02</update_from_db_time>
   <event>
     <prime_street>M1W</prime_street>
     <cross_streets/>
@@ -22,63 +12,23 @@
     <units_disp> A244</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>SAN VAROWAY / SAN ROCCOWAY</cross_streets>
-    <dispatch_time>2020-11-27 00:17:55</dispatch_time>
-    <event_num>F20118140</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> S143, R411</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
+    <prime_street>M1S</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-27 00:23:29</dispatch_time>
-    <event_num>F20118141</event_num>
+    <dispatch_time>2020-11-27 00:42:48</dispatch_time>
+    <event_num>F20118148</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>243</beat>
+    <units_disp> R243</units_disp>
   </event>
   <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-27 00:31:57</dispatch_time>
-    <event_num>F20118144</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>DAVENPORT RD, TT</prime_street>
+    <cross_streets>AVENUE RD / LN W AVENUE S DAVENPORT</cross_streets>
+    <dispatch_time>2020-11-27 00:56:14</dispatch_time>
+    <event_num>F20118151</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-27 00:38:49</dispatch_time>
-    <event_num>F20118145</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-27 00:38:52</dispatch_time>
-    <event_num>F20118146</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>M5H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-27 00:38:58</dispatch_time>
-    <event_num>F20118147</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>312</beat>
+    <units_disp> A312, C31, P311, P312, P313, S313</units_disp>
   </event>
 </tfs_active_incidents>
