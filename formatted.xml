@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-27 18:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-27 18:40:03</update_from_db_time>
   <event>
     <prime_street>JARVIS ST, TT</prime_street>
     <cross_streets>DUNDAS ST E / GERRARD ST E</cross_streets>
@@ -23,16 +23,6 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>ST CLAIR AVE W / GREENLAW AVE</cross_streets>
-    <dispatch_time>2020-11-27 17:38:24</dispatch_time>
-    <event_num>F20118367</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> A315, A345, P343, S331, C42, R423</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2020-11-27 17:40:12</dispatch_time>
     <event_num>F20118369</event_num>
@@ -40,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> P245, R241</units_disp>
-  </event>
-  <event>
-    <prime_street>DUFFERIN ST, NY</prime_street>
-    <cross_streets>JANE OSLER BLVD / YORKDALE RD</cross_streets>
-    <dispatch_time>2020-11-27 18:03:35</dispatch_time>
-    <event_num>F20118379</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145, P132, A133, C13, P142</units_disp>
   </event>
   <event>
     <prime_street>M6J</prime_street>
@@ -62,13 +42,53 @@
     <units_disp> P331</units_disp>
   </event>
   <event>
-    <prime_street>JOHN ST, TT</prime_street>
-    <cross_streets>QUEEN ST W / RENFREW PL</cross_streets>
-    <dispatch_time>2020-11-27 18:15:14</dispatch_time>
-    <event_num>F20118382</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <prime_street>M4B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-27 18:19:39</dispatch_time>
+    <event_num>F20118384</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P315, A331, C33, HR332, P314</units_disp>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MARKHAM RD / MCNICOLL AVE</cross_streets>
+    <dispatch_time>2020-11-27 18:23:40</dispatch_time>
+    <event_num>F20118385</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>211</beat>
+    <units_disp> P211</units_disp>
+  </event>
+  <event>
+    <prime_street>M4W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-27 18:27:09</dispatch_time>
+    <event_num>F20118386</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>SACKVILLE ST, TT</prime_street>
+    <cross_streets>ST BARTHOLOMEW ST / DUNDAS ST E</cross_streets>
+    <dispatch_time>2020-11-27 18:35:33</dispatch_time>
+    <event_num>F20118387</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325, C33, P314, P324, R326</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-27 18:36:24</dispatch_time>
+    <event_num>F20118388</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
   </event>
 </tfs_active_incidents>
