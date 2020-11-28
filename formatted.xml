@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-28 13:30:02</update_from_db_time>
+  <update_from_db_time>2020-11-28 13:40:02</update_from_db_time>
   <event>
     <prime_street>CHAPLIN CRES, TT</prime_street>
     <cross_streets>COLIN AVE / LASCELLES BLVD</cross_streets>
@@ -20,36 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>224</beat>
     <units_disp> HZ145, FI8, P145, HS145, CMD10, CMD10C, C22, C20, HZ332, HS332</units_disp>
-  </event>
-  <event>
-    <prime_street>RICHMOND ST, TT</prime_street>
-    <cross_streets>CHURCH ST / JARVIS ST RICHMOND ST E RAMP</cross_streets>
-    <dispatch_time>2020-11-28 12:04:23</dispatch_time>
-    <event_num>F20118582</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P332, R325, A325, C33, P314, HR332, S331</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-28 13:10:41</dispatch_time>
-    <event_num>F20118600</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-28 13:21:03</dispatch_time>
-    <event_num>F20118602</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
