@@ -1,24 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-28 06:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-28 07:20:02</update_from_db_time>
   <event>
-    <prime_street>WOODBINE AVE, EY</prime_street>
-    <cross_streets>QUEENSDALE AVE / SAMMON AVE</cross_streets>
-    <dispatch_time>2020-11-27 17:12:00</dispatch_time>
-    <event_num>F20118353</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R235, P226, A322, C32, P322, P323, P226, R225, A324, LA333, S313, A324, C20, HZ332, FI17, HZ332, A322, P324, P227, R326, R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
+    <prime_street>M3N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-28 06:27:14</dispatch_time>
-    <event_num>F20118512</event_num>
+    <dispatch_time>2020-11-28 07:06:07</dispatch_time>
+    <event_num>F20118515</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 07:12:08</dispatch_time>
+    <event_num>F20118516</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
     <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>PELHAM PARK GDNS, TT</prime_street>
+    <cross_streets>OSLER ST / OSLER ST</cross_streets>
+    <dispatch_time>2020-11-28 07:14:02</dispatch_time>
+    <event_num>F20118517</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423, R345, A423, C42, P342</units_disp>
   </event>
 </tfs_active_incidents>
