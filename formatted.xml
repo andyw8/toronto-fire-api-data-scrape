@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-28 15:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-28 15:40:02</update_from_db_time>
   <event>
     <prime_street>WOODBINE AVE, EY</prime_street>
     <cross_streets>QUEENSDALE AVE / SAMMON AVE</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>224</beat>
     <units_disp> HZ145, FI8, P145, HS145, CMD10, CMD10C, C22, C20, HZ332, HS332</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>OLD BURNHAMTHORPE RD / STONEHAM RD</cross_streets>
-    <dispatch_time>2020-11-28 14:35:43</dispatch_time>
-    <event_num>F20118623</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> P445</units_disp>
   </event>
   <event>
     <prime_street>BEATY AVE, TT</prime_street>
@@ -52,16 +42,6 @@
     <units_disp> P146, P143, A133, C14, P141</units_disp>
   </event>
   <event>
-    <prime_street>M9L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-28 15:15:29</dispatch_time>
-    <event_num>F20118639</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411</units_disp>
-  </event>
-  <event>
     <prime_street>M3H</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-28 15:17:57</dispatch_time>
@@ -70,5 +50,44 @@
     <alarm_lev>0</alarm_lev>
     <beat>143</beat>
     <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M4W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 15:25:49</dispatch_time>
+    <event_num>F20118641</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> A312</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 15:26:42</dispatch_time>
+    <event_num>F20118642</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 15:35:44</dispatch_time>
+    <event_num>F20118643</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 15:37:01</dispatch_time>
+    <event_num>F20118644</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
   </event>
 </tfs_active_incidents>
