@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-28 17:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-28 17:40:02</update_from_db_time>
   <event>
     <prime_street>WOODBINE AVE, EY</prime_street>
     <cross_streets>QUEENSDALE AVE / SAMMON AVE</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> R426, R425, A426, C42, R423, R345, A433, LA333, R341, S331, C40, P344, A423</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>ELLESMERE RD / NEILSON RD</cross_streets>
-    <dispatch_time>2020-11-28 16:38:36</dispatch_time>
-    <event_num>F20118669</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213, C23, R231, S232</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-28 16:47:01</dispatch_time>
-    <event_num>F20118672</event_num>
-    <event_type>Vehicle Accident - Trapped - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> C44, P445, R441, R444, S445</units_disp>
-  </event>
-  <event>
     <prime_street>MABELLE AVE, ET</prime_street>
     <cross_streets>CORDOVA AVE / DUNDAS ST W</cross_streets>
     <dispatch_time>2020-11-28 16:52:23</dispatch_time>
@@ -52,36 +32,6 @@
     <units_disp> P431, P422, C43, PL432, R425</units_disp>
   </event>
   <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-28 17:07:29</dispatch_time>
-    <event_num>F20118678</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-28 17:12:46</dispatch_time>
-    <event_num>F20118679</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> A426</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>ABBOTT AVE / JEROME ST</cross_streets>
-    <dispatch_time>2020-11-28 17:14:53</dispatch_time>
-    <event_num>F20118680</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>GAIR DR / EVANS AVE</cross_streets>
     <dispatch_time>2020-11-28 17:20:31</dispatch_time>
@@ -90,5 +40,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>432</beat>
     <units_disp> PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>MORNINGSIDE AVE, TT</prime_street>
+    <cross_streets>SOUTH KINGSWAY / </cross_streets>
+    <dispatch_time>2020-11-28 17:25:15</dispatch_time>
+    <event_num>F20118683</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
+  </event>
+  <event>
+    <prime_street>M1X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 17:27:56</dispatch_time>
+    <event_num>F20118684</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>211</beat>
+    <units_disp> P211</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 17:29:22</dispatch_time>
+    <event_num>F20118685</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
+  </event>
+  <event>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 17:33:16</dispatch_time>
+    <event_num>F20118686</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>326</beat>
+    <units_disp> R326</units_disp>
   </event>
 </tfs_active_incidents>
