@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-28 06:10:02</update_from_db_time>
+  <update_from_db_time>2020-11-28 06:20:02</update_from_db_time>
   <event>
     <prime_street>WOODBINE AVE, EY</prime_street>
     <cross_streets>QUEENSDALE AVE / SAMMON AVE</cross_streets>
@@ -12,13 +12,13 @@
     <units_disp> R235, P226, A322, C32, P322, P323, P226, R225, A324, LA333, S313, A324, C20, HZ332, FI17, HZ332, A322, P324, P227, R326, R224</units_disp>
   </event>
   <event>
-    <prime_street>EARL ST, TT</prime_street>
-    <cross_streets>LN W SHERBOURNE N EARL / SHERBOURNE ST</cross_streets>
-    <dispatch_time>2020-11-28 04:19:23</dispatch_time>
-    <event_num>F20118505</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 06:12:31</dispatch_time>
+    <event_num>F20118511</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, P312, A312, C31, P314</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
