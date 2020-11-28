@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-27 20:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-27 21:10:02</update_from_db_time>
   <event>
     <prime_street>WOODBINE AVE, EY</prime_street>
     <cross_streets>QUEENSDALE AVE / SAMMON AVE</cross_streets>
@@ -9,16 +9,66 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>224</beat>
-    <units_disp> R235, P226, A322, C32, P322, P323, P226, R225, A324, LA333, S313, A324, C20, HZ332, FI17, HZ332</units_disp>
+    <units_disp> R235, P226, A322, C32, P322, P323, P226, R225, A324, LA333, S313, A324, C20, HZ332, FI17, HZ332, A322</units_disp>
   </event>
   <event>
-    <prime_street>M4T</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets>DUFFERIN PARK AVE / DUFFERIN ST</cross_streets>
+    <dispatch_time>2020-11-27 20:39:12</dispatch_time>
+    <event_num>F20118422</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-27 20:35:24</dispatch_time>
-    <event_num>F20118421</event_num>
+    <dispatch_time>2020-11-27 20:53:33</dispatch_time>
+    <event_num>F20118424</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
+    <beat>244</beat>
+    <units_disp> A244, A322</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-27 20:56:32</dispatch_time>
+    <event_num>F20118425</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-27 20:58:57</dispatch_time>
+    <event_num>F20118426</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
+  </event>
+  <event>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-27 21:03:28</dispatch_time>
+    <event_num>F20118428</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
+  </event>
+  <event>
+    <prime_street>THIRD ST, ET</prime_street>
+    <cross_streets> / PRINCE OF WALES PARK TRL</cross_streets>
+    <dispatch_time>2020-11-27 21:06:41</dispatch_time>
+    <event_num>F20118429</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> R435</units_disp>
   </event>
 </tfs_active_incidents>
