@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-28 08:25:02</update_from_db_time>
-  <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-28 07:31:26</dispatch_time>
-    <event_num>F20118519</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>CAMERON ST, TT</prime_street>
-    <cross_streets>PAUL LANE GDNS / NAPANEE CRT</cross_streets>
-    <dispatch_time>2020-11-28 07:52:20</dispatch_time>
-    <event_num>F20118521</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, T333</units_disp>
-  </event>
+  <update_from_db_time>2020-11-28 08:45:02</update_from_db_time>
   <event>
     <prime_street>PELHAM PARK GDNS, TT</prime_street>
     <cross_streets>OSLER ST / OSLER ST</cross_streets>
@@ -30,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
     <units_disp> A423, C42, R423, P342, R345</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-28 08:13:15</dispatch_time>
-    <event_num>F20118523</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -60,5 +30,75 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> P312, P314, A312, C31, P315</units_disp>
+  </event>
+  <event>
+    <prime_street>GLEN CEDAR RD, YK</prime_street>
+    <cross_streets>WARWICK AVE / AVENAL DR</cross_streets>
+    <dispatch_time>2020-11-28 08:29:11</dispatch_time>
+    <event_num>F20118526</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> R341, P132, A135, C13, R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 08:30:08</dispatch_time>
+    <event_num>F20118527</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>LAKE SHORE BLVD, ET</prime_street>
+    <cross_streets>HUMBER BAY PARK EAST TRL / HUMBER BAY PARK RD W</cross_streets>
+    <dispatch_time>2020-11-28 08:31:04</dispatch_time>
+    <event_num>F20118528</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433, S445</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 08:34:13</dispatch_time>
+    <event_num>F20118529</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 08:38:48</dispatch_time>
+    <event_num>F20118530</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 08:41:25</dispatch_time>
+    <event_num>F20118531</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 08:41:59</dispatch_time>
+    <event_num>F20118532</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
