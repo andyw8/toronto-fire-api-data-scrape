@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-28 20:30:02</update_from_db_time>
+  <update_from_db_time>2020-11-28 20:45:02</update_from_db_time>
   <event>
     <prime_street>BEATY AVE, TT</prime_street>
     <cross_streets>KING ST W / LN S QUEEN E BEATY</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>231</beat>
     <units_disp> R231, P234, A215, C23, R214, R243, P223, A213, LA231, P221, P232, R225, S232, C24, HZ145, C20, CMD30, CMD30C</units_disp>
-  </event>
-  <event>
-    <prime_street>JARVIS ST, TT</prime_street>
-    <cross_streets>DUNDAS ST E / GERRARD ST E</cross_streets>
-    <dispatch_time>2020-11-28 19:45:26</dispatch_time>
-    <event_num>F20118726</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
   </event>
   <event>
     <prime_street>NORTH EDGELY AVE, SC</prime_street>
@@ -62,16 +52,6 @@
     <units_disp> P212, P125, A322, C32, P324, R321, R326, A322</units_disp>
   </event>
   <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-28 20:14:12</dispatch_time>
-    <event_num>F20118738</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
-  </event>
-  <event>
     <prime_street>FINCH AVE, NY</prime_street>
     <cross_streets>GRACEDALE BLVD / ARDWICK BLVD</cross_streets>
     <dispatch_time>2020-11-28 20:16:59</dispatch_time>
@@ -92,16 +72,6 @@
     <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-28 20:22:12</dispatch_time>
-    <event_num>F20118743</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>JANE ST / ALLIANCE AVE</cross_streets>
     <dispatch_time>2020-11-28 20:24:27</dispatch_time>
@@ -109,16 +79,36 @@
     <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>421</beat>
-    <units_disp> R423, A421, C42, P422, S445</units_disp>
+    <units_disp> A421, C42, P422, R423, S445</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>JANE ST / HIGHWAY 400 S</cross_streets>
-    <dispatch_time>2020-11-28 20:26:25</dispatch_time>
-    <event_num>F20118747</event_num>
-    <event_type>Public Hazard</event_type>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 20:32:38</dispatch_time>
+    <event_num>F20118748</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
+    <beat>233</beat>
+    <units_disp> P116</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 20:38:56</dispatch_time>
+    <event_num>F20118749</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-28 20:41:22</dispatch_time>
+    <event_num>F20118750</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> P415</units_disp>
   </event>
 </tfs_active_incidents>
