@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-29 07:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-29 07:50:02</update_from_db_time>
   <event>
     <prime_street>BEATY AVE, TT</prime_street>
     <cross_streets>KING ST W / LN S QUEEN E BEATY</cross_streets>
@@ -42,33 +42,13 @@
     <units_disp> A215, P234</units_disp>
   </event>
   <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-29 07:08:11</dispatch_time>
-    <event_num>F20118875</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-29 07:19:50</dispatch_time>
-    <event_num>F20118877</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
-    <cross_streets>MOORE AVE / BAYVIEW AVE</cross_streets>
-    <dispatch_time>2020-11-29 07:21:17</dispatch_time>
-    <event_num>F20118878</event_num>
-    <event_type>Water Problem</event_type>
+    <cross_streets>DAVISVILLE AVE / YONGE ST</cross_streets>
+    <dispatch_time>2020-11-29 07:43:35</dispatch_time>
+    <event_num>F20118881</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R321, A321</units_disp>
+    <beat>134</beat>
+    <units_disp> R134, P311, A135, C13, P131, R321</units_disp>
   </event>
 </tfs_active_incidents>
