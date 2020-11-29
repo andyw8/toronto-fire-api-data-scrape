@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-29 00:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-29 00:25:02</update_from_db_time>
   <event>
     <prime_street>BEATY AVE, TT</prime_street>
     <cross_streets>KING ST W / LN S QUEEN E BEATY</cross_streets>
@@ -62,16 +62,6 @@
     <units_disp> C34, P314, P333, A426, R426, R325</units_disp>
   </event>
   <event>
-    <prime_street>HAILEYBURY DR, SC</prime_street>
-    <cross_streets>CANZONE DR / ARNPRIOR RD</cross_streets>
-    <dispatch_time>2020-11-28 23:57:57</dispatch_time>
-    <event_num>F20118808</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> S232, P232, A222, C23, P221, R231</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>WELLESWORTH DR / </cross_streets>
     <dispatch_time>2020-11-29 00:07:30</dispatch_time>
@@ -99,6 +89,26 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
-    <units_disp> P431, S445, R434, A433, C43, P443</units_disp>
+    <units_disp> P431, S445, A433, C43, P443, R434</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, SC</prime_street>
+    <cross_streets>MASSIE ST / 5021 SHEPPARD AVE E</cross_streets>
+    <dispatch_time>2020-11-29 00:16:28</dispatch_time>
+    <event_num>F20118813</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>243</beat>
+    <units_disp> A213, C23, P212, P242, P244, R214, R243</units_disp>
+  </event>
+  <event>
+    <prime_street>PELHAM PARK GDNS, TT</prime_street>
+    <cross_streets>OSLER ST / OSLER ST</cross_streets>
+    <dispatch_time>2020-11-29 00:17:07</dispatch_time>
+    <event_num>F20118814</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423, A423, C42, P342, P343</units_disp>
   </event>
 </tfs_active_incidents>
