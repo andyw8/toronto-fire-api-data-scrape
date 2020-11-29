@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-29 06:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-29 06:20:02</update_from_db_time>
   <event>
     <prime_street>BEATY AVE, TT</prime_street>
     <cross_streets>KING ST W / LN S QUEEN E BEATY</cross_streets>
@@ -50,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
     <units_disp> R112, P114, C11, P111, P143, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-29 05:41:25</dispatch_time>
-    <event_num>F20118869</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
   </event>
   <event>
     <prime_street>M5V</prime_street>
