@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-29 07:50:02</update_from_db_time>
+  <update_from_db_time>2020-11-29 08:15:02</update_from_db_time>
   <event>
     <prime_street>BEATY AVE, TT</prime_street>
     <cross_streets>KING ST W / LN S QUEEN E BEATY</cross_streets>
@@ -42,13 +42,33 @@
     <units_disp> A215, P234</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>DAVISVILLE AVE / YONGE ST</cross_streets>
-    <dispatch_time>2020-11-29 07:43:35</dispatch_time>
-    <event_num>F20118881</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-29 07:52:33</dispatch_time>
+    <event_num>F20118882</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134, P311, A135, C13, P131, R321</units_disp>
+    <beat>227</beat>
+    <units_disp> A321</units_disp>
+  </event>
+  <event>
+    <prime_street>M4H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-29 07:55:10</dispatch_time>
+    <event_num>F20118883</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> R321</units_disp>
+  </event>
+  <event>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>MATTY ECKLER PLAYGROUND TRL / MATTY ECKLER PLAYGROUND TRL</cross_streets>
+    <dispatch_time>2020-11-29 07:57:41</dispatch_time>
+    <event_num>F20118884</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P323, P325, A325, C32, R325</units_disp>
   </event>
 </tfs_active_incidents>
