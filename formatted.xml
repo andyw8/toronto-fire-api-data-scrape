@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-28 20:45:02</update_from_db_time>
+  <update_from_db_time>2020-11-28 21:30:02</update_from_db_time>
   <event>
     <prime_street>BEATY AVE, TT</prime_street>
     <cross_streets>KING ST W / LN S QUEEN E BEATY</cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> R224, P233, A222, C22, P245, R235, P227, A321, LA333, R326, S331, C30</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-28 20:07:57</dispatch_time>
-    <event_num>F20118734</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>MIDLAND AVE, SC</prime_street>
-    <cross_streets> / LEISURE LANE</cross_streets>
-    <dispatch_time>2020-11-28 20:09:32</dispatch_time>
-    <event_num>F20118736</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> P212, P125, A322, C32, P324, R321, R326, A322</units_disp>
-  </event>
-  <event>
     <prime_street>FINCH AVE, NY</prime_street>
     <cross_streets>GRACEDALE BLVD / ARDWICK BLVD</cross_streets>
     <dispatch_time>2020-11-28 20:16:59</dispatch_time>
@@ -62,53 +42,63 @@
     <units_disp> A411, C41, R412, R413, P141</units_disp>
   </event>
   <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-28 20:21:38</dispatch_time>
-    <event_num>F20118742</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-28 20:54:30</dispatch_time>
+    <event_num>F20118752</event_num>
+    <event_type>Vehicle - Spill Clean Up - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> A142</units_disp>
+    <beat>445</beat>
+    <units_disp> P445, R444</units_disp>
+  </event>
+  <event>
+    <prime_street>VENDOME PL, NY</prime_street>
+    <cross_streets>GRENOBLE DR / </cross_streets>
+    <dispatch_time>2020-11-28 21:00:12</dispatch_time>
+    <event_num>F20118754</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125, R235, A322, C32, R321</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>JANE ST / ALLIANCE AVE</cross_streets>
-    <dispatch_time>2020-11-28 20:24:27</dispatch_time>
-    <event_num>F20118744</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
+    <cross_streets>STILECROFT DR / SENTINEL RD</cross_streets>
+    <dispatch_time>2020-11-28 21:13:17</dispatch_time>
+    <event_num>F20118757</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421, C42, P422, R423, S445</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>M3A</prime_street>
+    <prime_street>M5R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-28 20:32:38</dispatch_time>
-    <event_num>F20118748</event_num>
+    <dispatch_time>2020-11-28 21:18:28</dispatch_time>
+    <event_num>F20118758</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P116</units_disp>
+    <beat>344</beat>
+    <units_disp> A312</units_disp>
   </event>
   <event>
-    <prime_street>M1R</prime_street>
+    <prime_street>M4H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-28 20:38:56</dispatch_time>
-    <event_num>F20118749</event_num>
+    <dispatch_time>2020-11-28 21:24:18</dispatch_time>
+    <event_num>F20118759</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>M9C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-28 20:41:22</dispatch_time>
-    <event_num>F20118750</event_num>
+    <dispatch_time>2020-11-28 21:25:33</dispatch_time>
+    <event_num>F20118760</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> P415</units_disp>
+    <beat>444</beat>
+    <units_disp> S445</units_disp>
   </event>
 </tfs_active_incidents>
