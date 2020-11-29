@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-29 04:25:02</update_from_db_time>
+  <update_from_db_time>2020-11-29 04:40:02</update_from_db_time>
   <event>
     <prime_street>BEATY AVE, TT</prime_street>
     <cross_streets>KING ST W / LN S QUEEN E BEATY</cross_streets>
@@ -42,46 +42,6 @@
     <units_disp> P445, P431, C44, P443, PL432, P443</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-29 03:51:18</dispatch_time>
-    <event_num>F20118849</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>REXDALE BLVD / ISLINGTON AVE</cross_streets>
-    <dispatch_time>2020-11-29 04:07:31</dispatch_time>
-    <event_num>F20118852</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-29 04:08:51</dispatch_time>
-    <event_num>F20118853</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-29 04:18:00</dispatch_time>
-    <event_num>F20118854</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
-  </event>
-  <event>
     <prime_street>PRINCES BLVD, TT</prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2020-11-29 04:21:39</dispatch_time>
@@ -89,6 +49,26 @@
     <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>346</beat>
-    <units_disp> R426, S331, P344, C33</units_disp>
+    <units_disp> R426, P344, S331, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR AVE, TT</prime_street>
+    <cross_streets>BATHURST ST / RAGLAN AVE</cross_streets>
+    <dispatch_time>2020-11-29 04:25:13</dispatch_time>
+    <event_num>F20118856</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343, R341, A341, C34, P311</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>COLVILLE RD / SHEFFIELD ST</cross_streets>
+    <dispatch_time>2020-11-29 04:25:41</dispatch_time>
+    <event_num>F20118857</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> A133, C13, P132, P145, P442, R421</units_disp>
   </event>
 </tfs_active_incidents>
