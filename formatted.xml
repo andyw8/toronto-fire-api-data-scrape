@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-29 01:35:02</update_from_db_time>
+  <update_from_db_time>2020-11-29 01:50:02</update_from_db_time>
   <event>
     <prime_street>BEATY AVE, TT</prime_street>
     <cross_streets>KING ST W / LN S QUEEN E BEATY</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>426</beat>
-    <units_disp> R426, R425, A426, C42, R423, R345, A433, LA333, R341, S331, C40, P344, A423, R421, P415</units_disp>
+    <units_disp> R426, R425, A426, C42, R423, R345, A433, LA333, R341, S331, C40, P344, A423, R421, P415, R434</units_disp>
   </event>
   <event>
     <prime_street>NORTHFIELD RD, SC</prime_street>
@@ -32,33 +32,33 @@
     <units_disp> R224, P233, A222, C22, P245, R235, P227, A321, LA333, R326, S331, C30, R225, P223</units_disp>
   </event>
   <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>TEMPERANCE ST / RICHMOND ST W</cross_streets>
-    <dispatch_time>2020-11-29 01:04:30</dispatch_time>
-    <event_num>F20118823</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P333, P314, C31, P334, T333, HR332</units_disp>
-  </event>
-  <event>
-    <prime_street>M3M</prime_street>
+    <prime_street>M3L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-29 01:21:21</dispatch_time>
-    <event_num>F20118826</event_num>
+    <dispatch_time>2020-11-29 01:35:37</dispatch_time>
+    <event_num>F20118828</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
-    <units_disp> A142</units_disp>
+    <units_disp> P146</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>WELLESLEY ST, TT</prime_street>
+    <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
+    <dispatch_time>2020-11-29 01:40:31</dispatch_time>
+    <event_num>F20118829</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-29 01:30:41</dispatch_time>
-    <event_num>F20118827</event_num>
+    <dispatch_time>2020-11-29 01:40:36</dispatch_time>
+    <event_num>F20118830</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>223</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
