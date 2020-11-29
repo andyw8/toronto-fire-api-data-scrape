@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-29 03:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-29 04:10:02</update_from_db_time>
   <event>
     <prime_street>BEATY AVE, TT</prime_street>
     <cross_streets>KING ST W / LN S QUEEN E BEATY</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>426</beat>
-    <units_disp> R426, R425, A426, C42, R423, R345, A433, LA333, R341, S331, C40, P344, A423, R421, P415, R434</units_disp>
+    <units_disp> R426, R425, A426, C42, R423, R345, A433, LA333, R341, S331, C40, P344, A423, R421, P415, R434, P431</units_disp>
   </event>
   <event>
     <prime_street>NORTHFIELD RD, SC</prime_street>
@@ -39,36 +39,46 @@
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
-    <units_disp> P445, P431, C44, P443, PL432</units_disp>
+    <units_disp> P445, P431, C44, P443, PL432, P443</units_disp>
   </event>
   <event>
-    <prime_street>BERGAMOT AVE, ET</prime_street>
-    <cross_streets>REXDALE BLVD / ISLINGTON AVE</cross_streets>
-    <dispatch_time>2020-11-29 02:20:14</dispatch_time>
-    <event_num>F20118841</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415, R441, A415, C41, R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
+    <prime_street>M9M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-29 03:22:07</dispatch_time>
-    <event_num>F20118845</event_num>
+    <dispatch_time>2020-11-29 03:48:45</dispatch_time>
+    <event_num>F20118848</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <beat>411</beat>
+    <units_disp> A411</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M9C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-29 03:27:18</dispatch_time>
-    <event_num>F20118846</event_num>
+    <dispatch_time>2020-11-29 03:51:18</dispatch_time>
+    <event_num>F20118849</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-29 03:57:14</dispatch_time>
+    <event_num>F20118850</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-29 03:57:39</dispatch_time>
+    <event_num>F20118851</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
   </event>
 </tfs_active_incidents>
