@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-29 17:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-29 17:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>RENFORTH DR / CONVAIR DR</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>444</beat>
     <units_disp> R444</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>WILLOW AVE / SILVER BIRCH AVE</cross_streets>
-    <dispatch_time>2020-11-29 17:00:16</dispatch_time>
-    <event_num>F20118992</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
   </event>
   <event>
     <prime_street>JANE ST, NY</prime_street>
@@ -39,6 +29,46 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <units_disp> R243, R243</units_disp>
+  </event>
+  <event>
+    <prime_street>M1X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-29 17:19:00</dispatch_time>
+    <event_num>F20118998</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>211</beat>
+    <units_disp> P211</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-29 17:20:47</dispatch_time>
+    <event_num>F20118999</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
+  </event>
+  <event>
+    <prime_street>ADANAC DR, SC</prime_street>
+    <cross_streets>BELLAMY RD S / MASON RD</cross_streets>
+    <dispatch_time>2020-11-29 17:21:08</dispatch_time>
+    <event_num>F20119000</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223, P234, C23, HZ332</units_disp>
+  </event>
+  <event>
+    <prime_street>FREY CRES, SC</prime_street>
+    <cross_streets>HIGHWOOD AVE / TRELEVAN PL</cross_streets>
+    <dispatch_time>2020-11-29 17:26:08</dispatch_time>
+    <event_num>F20119001</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
 </tfs_active_incidents>
