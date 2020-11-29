@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-29 01:20:02</update_from_db_time>
+  <update_from_db_time>2020-11-29 01:35:02</update_from_db_time>
   <event>
     <prime_street>BEATY AVE, TT</prime_street>
     <cross_streets>KING ST W / LN S QUEEN E BEATY</cross_streets>
@@ -32,36 +32,6 @@
     <units_disp> R224, P233, A222, C22, P245, R235, P227, A321, LA333, R326, S331, C30, R225, P223</units_disp>
   </event>
   <event>
-    <prime_street>SHEPPARD AVE, SC</prime_street>
-    <cross_streets>MASSIE ST / 5021 SHEPPARD AVE E</cross_streets>
-    <dispatch_time>2020-11-29 00:16:28</dispatch_time>
-    <event_num>F20118813</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> A213, C23, P212, P242, P244, R214, R243</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-29 00:45:51</dispatch_time>
-    <event_num>F20118819</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R214, P242</units_disp>
-  </event>
-  <event>
-    <prime_street>M9M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-29 00:59:06</dispatch_time>
-    <event_num>F20118822</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411</units_disp>
-  </event>
-  <event>
     <prime_street>BAY ST, TT</prime_street>
     <cross_streets>TEMPERANCE ST / RICHMOND ST W</cross_streets>
     <dispatch_time>2020-11-29 01:04:30</dispatch_time>
@@ -72,23 +42,23 @@
     <units_disp> P333, P314, C31, P334, T333, HR332</units_disp>
   </event>
   <event>
-    <prime_street>M2M</prime_street>
+    <prime_street>M3M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-29 01:06:13</dispatch_time>
-    <event_num>F20118824</event_num>
+    <dispatch_time>2020-11-29 01:21:21</dispatch_time>
+    <event_num>F20118826</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-29 01:09:50</dispatch_time>
-    <event_num>F20118825</event_num>
+    <dispatch_time>2020-11-29 01:30:41</dispatch_time>
+    <event_num>F20118827</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
