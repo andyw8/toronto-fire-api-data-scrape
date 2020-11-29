@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-29 14:15:02</update_from_db_time>
+  <update_from_db_time>2020-11-29 14:20:02</update_from_db_time>
   <event>
     <prime_street>M5T</prime_street>
     <cross_streets/>
@@ -22,16 +22,6 @@
     <units_disp> P221</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>MORTIMER AVE / GLEBEMOUNT AVE</cross_streets>
-    <dispatch_time>2020-11-29 14:09:33</dispatch_time>
-    <event_num>F20118948</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
     <prime_street>M9N</prime_street>
     <cross_streets/>
     <dispatch_time>2020-11-29 14:11:05</dispatch_time>
@@ -49,6 +39,6 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>213</beat>
-    <units_disp> R231, A213, C21, P212, P234, R243, A215</units_disp>
+    <units_disp> A213, C21, P212, P234, R231, R243, A215, R214</units_disp>
   </event>
 </tfs_active_incidents>
