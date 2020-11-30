@@ -1,44 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-30 05:45:02</update_from_db_time>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 05:12:15</dispatch_time>
-    <event_num>F20119132</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 05:30:47</dispatch_time>
-    <event_num>F20119133</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M2H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 05:36:41</dispatch_time>
-    <event_num>F20119134</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 05:39:13</dispatch_time>
-    <event_num>F20119135</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
+  <update_from_db_time>2020-11-30 06:15:02</update_from_db_time>
 </tfs_active_incidents>
