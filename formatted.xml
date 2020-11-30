@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-30 16:20:03</update_from_db_time>
+  <update_from_db_time>2020-11-30 16:40:03</update_from_db_time>
   <event>
     <prime_street>CAVELL AVE, ET</prime_street>
     <cross_streets>BLUE GOOSE ST / LN E ROYAL YORK N STANLEY</cross_streets>
@@ -9,56 +9,46 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>433</beat>
-    <units_disp> R425, R435, C44, P445, PL432, R426, A426, R421, S445, LA333, C40, P443, C34, CMD30, HR332, P342, P344, C30, A433, CMD30C, FI8, FI19</units_disp>
+    <units_disp> R425, R435, C44, P445, PL432, R426, A426, R421, S445, LA333, C40, P443, C34, CMD30, HR332, P342, P344, C30, A433, CMD30C, FI8, FI19, A433, C43</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-11-30 15:03:43</dispatch_time>
-    <event_num>F20119280</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P415, P442</units_disp>
-  </event>
-  <event>
-    <prime_street>BATHURST ST, NY</prime_street>
-    <cross_streets>GREENWIN VILLAGE RD / STEELES AVE W</cross_streets>
-    <dispatch_time>2020-11-30 15:26:09</dispatch_time>
-    <event_num>F20119295</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 16:07:01</dispatch_time>
-    <event_num>F20119301</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M9P</prime_street>
-    <cross_streets/>
+    <cross_streets>LAWRENCE AVE W / RIVERLEA RD</cross_streets>
     <dispatch_time>2020-11-30 16:12:21</dispatch_time>
     <event_num>F20119303</event_num>
-    <event_type>MEDICAL</event_type>
+    <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
-    <units_disp> P443</units_disp>
+    <units_disp> P443, C41, R421, S445</units_disp>
   </event>
   <event>
-    <prime_street>BRAHMS AVE, NY</prime_street>
-    <cross_streets>FINCH AVE E / RAMEAU DR</cross_streets>
-    <dispatch_time>2020-11-30 16:15:37</dispatch_time>
-    <event_num>F20119304</event_num>
+    <prime_street>ELLESMERE RD, SC</prime_street>
+    <cross_streets>NEILSON RD / MORNELLE CRT</cross_streets>
+    <dispatch_time>2020-11-30 16:17:52</dispatch_time>
+    <event_num>F20119305</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> P212, R231, R243, A213, C21</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 16:20:03</dispatch_time>
+    <event_num>F20119306</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
     <beat>113</beat>
-    <units_disp> P111, R115, A113, C11, P116</units_disp>
+    <units_disp> R241, R115</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>SOUDAN AVE / EGLINTON AVE W</cross_streets>
+    <dispatch_time>2020-11-30 16:30:14</dispatch_time>
+    <event_num>F20119308</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134, S313</units_disp>
   </event>
 </tfs_active_incidents>
