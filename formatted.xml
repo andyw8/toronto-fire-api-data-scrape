@@ -1,24 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-30 10:50:03</update_from_db_time>
+  <update_from_db_time>2020-11-30 11:40:02</update_from_db_time>
   <event>
-    <prime_street>MARLEE AVE, NY</prime_street>
-    <cross_streets>FAIRHOLME AVE / LAWRENCE AVE W</cross_streets>
-    <dispatch_time>2020-11-30 09:47:35</dispatch_time>
-    <event_num>F20119179</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> C13, HZ145, P145, A341</units_disp>
-  </event>
-  <event>
-    <prime_street>M4H</prime_street>
+    <prime_street>M8Y</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-30 10:37:29</dispatch_time>
-    <event_num>F20119194</event_num>
+    <dispatch_time>2020-11-30 11:12:47</dispatch_time>
+    <event_num>F20119205</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
+  </event>
+  <event>
+    <prime_street>BEECROFT RD, NY</prime_street>
+    <cross_streets>FINCH AVE W / LORRAINE DR</cross_streets>
+    <dispatch_time>2020-11-30 11:13:08</dispatch_time>
+    <event_num>F20119206</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 11:23:13</dispatch_time>
+    <event_num>F20119209</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>CAVELL AVE, ET</prime_street>
+    <cross_streets>BLUE GOOSE ST / LN E ROYAL YORK N STANLEY</cross_streets>
+    <dispatch_time>2020-11-30 11:26:21</dispatch_time>
+    <event_num>F20119210</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>2</alarm_lev>
+    <beat>433</beat>
+    <units_disp> R425, R435, C44, P445, PL432, R426, A426, R421, S445, LA333, C40, P443, C34, CMD30, HR332, P342, P344</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / MAROON MILLWAY</cross_streets>
+    <dispatch_time>2020-11-30 11:30:21</dispatch_time>
+    <event_num>F20119212</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> R122, P121, C11, R133, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>MAIN ST, TT</prime_street>
+    <cross_streets>GERRARD ST E / STEPHENSON AVE</cross_streets>
+    <dispatch_time>2020-11-30 11:33:08</dispatch_time>
+    <event_num>F20119213</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> R224, R225, C22, P227, A321, R225</units_disp>
+  </event>
+  <event>
+    <prime_street>CHARTWAY BLVD, SC</prime_street>
+    <cross_streets>BRIDLEHOLME CRES / BRIDLEHOLME CRES</cross_streets>
+    <dispatch_time>2020-11-30 11:34:02</dispatch_time>
+    <event_num>F20119214</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> A213, P212, C21, HZ145</units_disp>
   </event>
 </tfs_active_incidents>
