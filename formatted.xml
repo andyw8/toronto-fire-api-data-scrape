@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-30 00:40:03</update_from_db_time>
+  <update_from_db_time>2020-11-30 01:20:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>MILLIKEN BLVD / MCNICOLL AVE</cross_streets>
-    <dispatch_time>2020-11-30 00:23:09</dispatch_time>
-    <event_num>F20119105</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M4N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 01:15:14</dispatch_time>
+    <event_num>F20119107</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>131</beat>
+    <units_disp> P131</units_disp>
   </event>
 </tfs_active_incidents>
