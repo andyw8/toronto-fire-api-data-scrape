@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-30 14:40:19</update_from_db_time>
+  <update_from_db_time>2020-11-30 15:20:02</update_from_db_time>
   <event>
     <prime_street>CAVELL AVE, ET</prime_street>
     <cross_streets>BLUE GOOSE ST / LN E ROYAL YORK N STANLEY</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>433</beat>
     <units_disp> R425, R435, C44, P445, PL432, R426, A426, R421, S445, LA333, C40, P443, C34, CMD30, HR332, P342, P344, C30, A433, CMD30C, FI8, FI19</units_disp>
-  </event>
-  <event>
-    <prime_street>ST CLAIR AVE, TT</prime_street>
-    <cross_streets>ALVIN AVE / FERNDALE AVE</cross_streets>
-    <dispatch_time>2020-11-30 14:13:45</dispatch_time>
-    <event_num>F20119259</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> HZ332, P311</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 14:18:49</dispatch_time>
-    <event_num>F20119261</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 14:29:56</dispatch_time>
-    <event_num>F20119262</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
   </event>
   <event>
     <prime_street>FOREST MANOR RD, NY</prime_street>
@@ -52,26 +22,6 @@
     <units_disp> R115, P116, A113, C11, R133, R122</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 14:33:45</dispatch_time>
-    <event_num>F20119264</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 14:33:55</dispatch_time>
-    <event_num>F20119265</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A345</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2020-11-30 14:36:17</dispatch_time>
@@ -79,16 +29,126 @@
     <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
-    <units_disp> S445, R444</units_disp>
+    <units_disp> R444, S445</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>ALGIE AVE / ATOMIC AVE</cross_streets>
-    <dispatch_time>2020-11-30 14:35:50</dispatch_time>
-    <event_num>F20119267</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-30 14:56:09</dispatch_time>
+    <event_num>F20119272</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> R434, P432, C43, P431, P443, PL432</units_disp>
+    <beat>214</beat>
+    <units_disp> P212, A213</units_disp>
+  </event>
+  <event>
+    <prime_street>CALEDONIA RD, TT</prime_street>
+    <cross_streets>LN N NORMAN W CALEDONIA / LN S INNES E CALEDONIA</cross_streets>
+    <dispatch_time>2020-11-30 14:56:18</dispatch_time>
+    <event_num>F20119273</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342, P422, R421, R423, A341, C34</units_disp>
+  </event>
+  <event>
+    <prime_street>DANFORTH AVE, SC</prime_street>
+    <cross_streets>BIRCHMOUNT RD / KINGSTON RD</cross_streets>
+    <dispatch_time>2020-11-30 14:57:12</dispatch_time>
+    <event_num>F20119275</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225, P223, A222, C22, P227</units_disp>
+  </event>
+  <event>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 14:59:55</dispatch_time>
+    <event_num>F20119279</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-30 15:03:43</dispatch_time>
+    <event_num>F20119280</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P415, P442</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-30 15:05:04</dispatch_time>
+    <event_num>F20119281</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P132, P145</units_disp>
+  </event>
+  <event>
+    <prime_street>LINDERWOOD DR, SC</prime_street>
+    <cross_streets>KARINA RD / YULEWOOD GT</cross_streets>
+    <dispatch_time>2020-11-30 15:07:01</dispatch_time>
+    <event_num>F20119282</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> A215, C21, P221, P234, R231</units_disp>
+  </event>
+  <event>
+    <prime_street>M8W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 15:08:41</dispatch_time>
+    <event_num>F20119283</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNDAS ST, TT</prime_street>
+    <cross_streets>VICTORIA STREET LANE / BOND ST</cross_streets>
+    <dispatch_time>2020-11-30 15:14:29</dispatch_time>
+    <event_num>F20119284</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> A325, C33, P314, P333, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 15:14:31</dispatch_time>
+    <event_num>F20119285</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>COLDWATER RD, NY</prime_street>
+    <cross_streets>LESLIE ST / </cross_streets>
+    <dispatch_time>2020-11-30 15:15:29</dispatch_time>
+    <event_num>F20119286</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> R133, P125, A113, C11, P111, P121</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 15:16:13</dispatch_time>
+    <event_num>F20119287</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> T333</units_disp>
   </event>
 </tfs_active_incidents>
