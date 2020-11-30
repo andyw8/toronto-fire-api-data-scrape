@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-30 12:00:02</update_from_db_time>
+  <update_from_db_time>2020-11-30 12:35:02</update_from_db_time>
   <event>
     <prime_street>CAVELL AVE, ET</prime_street>
     <cross_streets>BLUE GOOSE ST / LN E ROYAL YORK N STANLEY</cross_streets>
@@ -9,76 +9,56 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>433</beat>
-    <units_disp> R425, R435, C44, P445, PL432, R426, A426, R421, S445, LA333, C40, P443, C34, CMD30, HR332, P342, P344, C30, A433</units_disp>
+    <units_disp> R425, R435, C44, P445, PL432, R426, A426, R421, S445, LA333, C40, P443, C34, CMD30, HR332, P342, P344, C30, A433, CMD30C, FI8, FI19</units_disp>
   </event>
   <event>
-    <prime_street>CHARTWAY BLVD, SC</prime_street>
-    <cross_streets>BRIDLEHOLME CRES / BRIDLEHOLME CRES</cross_streets>
-    <dispatch_time>2020-11-30 11:34:02</dispatch_time>
-    <event_num>F20119214</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> A213, P212, C21, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
+    <prime_street>M8V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-30 11:42:23</dispatch_time>
-    <event_num>F20119216</event_num>
+    <dispatch_time>2020-11-30 12:08:57</dispatch_time>
+    <event_num>F20119225</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <beat>435</beat>
+    <units_disp> P343</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-30 11:47:03</dispatch_time>
-    <event_num>F20119218</event_num>
+    <dispatch_time>2020-11-30 12:11:18</dispatch_time>
+    <event_num>F20119227</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R441</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
   <event>
-    <prime_street>M9M</prime_street>
+    <prime_street>MICHAEL POWER PL, ET</prime_street>
+    <cross_streets> / RESURRECTION RD</cross_streets>
+    <dispatch_time>2020-11-30 12:21:04</dispatch_time>
+    <event_num>F20119229</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M2M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-30 11:48:25</dispatch_time>
-    <event_num>F20119219</event_num>
+    <dispatch_time>2020-11-30 12:21:59</dispatch_time>
+    <event_num>F20119230</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> A142</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>M5C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 11:51:25</dispatch_time>
-    <event_num>F20119220</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-11-30 12:29:13</dispatch_time>
+    <event_num>F20119231</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>MARTHA EATON WAY, NY</prime_street>
-    <cross_streets>TRETHEWEY DR / </cross_streets>
-    <dispatch_time>2020-11-30 11:51:59</dispatch_time>
-    <event_num>F20119221</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> P442, R423, C42, A133, P135</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 11:54:18</dispatch_time>
-    <event_num>F20119222</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>432</beat>
+    <units_disp> R441, A345</units_disp>
   </event>
 </tfs_active_incidents>
