@@ -1,54 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-01 15:55:02</update_from_db_time>
+  <update_from_db_time>2020-12-01 16:20:02</update_from_db_time>
   <event>
-    <prime_street>M6B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-01 15:35:07</dispatch_time>
-    <event_num>F20119663</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LAKE SHORE BLVD, TT</prime_street>
+    <cross_streets>CARLAW AVE / LAKE SHORE BLVD EAST TRL</cross_streets>
+    <dispatch_time>2020-12-01 15:59:57</dispatch_time>
+    <event_num>F20119672</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
+    <beat>326</beat>
+    <units_disp> R326, P324, A324, C32, P333</units_disp>
   </event>
   <event>
-    <prime_street>M5G</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-01 15:46:33</dispatch_time>
-    <event_num>F20119665</event_num>
+    <dispatch_time>2020-12-01 16:08:36</dispatch_time>
+    <event_num>F20119673</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
   <event>
-    <prime_street>TANNERY RD, TT</prime_street>
-    <cross_streets>FRONT ST E / PALACE ST</cross_streets>
-    <dispatch_time>2020-12-01 15:46:51</dispatch_time>
-    <event_num>F20119666</event_num>
+    <prime_street>ALEXANDER ST, TT</prime_street>
+    <cross_streets>ALEXANDER STREET PARKETTE TRL / DONNA SHAW LANE</cross_streets>
+    <dispatch_time>2020-12-01 16:11:34</dispatch_time>
+    <event_num>F20119674</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P331, R325, C33, P324, T333</units_disp>
+    <beat>314</beat>
+    <units_disp> A312, C31, P312, P313, R325, P314</units_disp>
   </event>
   <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-01 15:48:38</dispatch_time>
-    <event_num>F20119667</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>PRIMULA CRES, NY</prime_street>
+    <cross_streets>SOMBRERO CRT / HUSBAND DR</cross_streets>
+    <dispatch_time>2020-12-01 16:14:57</dispatch_time>
+    <event_num>F20119675</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
   </event>
   <event>
-    <prime_street>M4N</prime_street>
+    <prime_street>M5H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-01 15:51:24</dispatch_time>
-    <event_num>F20119668</event_num>
+    <dispatch_time>2020-12-01 16:16:56</dispatch_time>
+    <event_num>F20119676</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>332</beat>
+    <units_disp> HR332</units_disp>
   </event>
 </tfs_active_incidents>
