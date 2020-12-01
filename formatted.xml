@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-01 04:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-01 05:20:02</update_from_db_time>
   <event>
-    <prime_street>M1T</prime_street>
+    <prime_street>M6G</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-01 04:15:08</dispatch_time>
-    <event_num>F20119497</event_num>
+    <dispatch_time>2020-12-01 05:08:27</dispatch_time>
+    <event_num>F20119501</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
   </event>
   <event>
-    <prime_street>DIXON RD, ET</prime_street>
-    <cross_streets>KELFIELD ST / DIXON W 27 N RAMP</cross_streets>
-    <dispatch_time>2020-12-01 04:21:23</dispatch_time>
-    <event_num>F20119499</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-01 05:13:32</dispatch_time>
+    <event_num>F20119502</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> P415, PL432, R441, R444, C41</units_disp>
+    <beat>411</beat>
+    <units_disp> A411</units_disp>
   </event>
 </tfs_active_incidents>
