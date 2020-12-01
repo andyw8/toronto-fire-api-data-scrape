@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-30 18:40:03</update_from_db_time>
+  <update_from_db_time>2020-11-30 19:50:02</update_from_db_time>
   <event>
     <prime_street>CAVELL AVE, ET</prime_street>
     <cross_streets>BLUE GOOSE ST / LN E ROYAL YORK N STANLEY</cross_streets>
@@ -12,176 +12,6 @@
     <units_disp> R425, R435, C44, P445, PL432, R426, A426, R421, S445, LA333, C40, P443, C34, CMD30, HR332, P342, P344, C30, A433, CMD30C, FI8, FI19, A433, C43</units_disp>
   </event>
   <event>
-    <prime_street>SUMMERFIELD CRES, ET</prime_street>
-    <cross_streets>ODESSA AVE / ODESSA AVE</cross_streets>
-    <dispatch_time>2020-11-30 17:24:29</dispatch_time>
-    <event_num>F20119326</event_num>
-    <event_type>Fire - Transformer/Pole</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
-    <prime_street>RICHMOND ST, TT</prime_street>
-    <cross_streets>LN E BATHURST N RICHMOND / LN E BATHURST S RICHMOND</cross_streets>
-    <dispatch_time>2020-11-30 17:25:38</dispatch_time>
-    <event_num>F20119328</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P332, P334, C31, P314, A426, S331</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN'S PLATE DR, ET</prime_street>
-    <cross_streets>TRIPLE CROWN AVE / REXDALE BLVD</cross_streets>
-    <dispatch_time>2020-11-30 17:47:03</dispatch_time>
-    <event_num>F20119338</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> C41, P415, PL432, R412, R441</units_disp>
-  </event>
-  <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 17:58:05</dispatch_time>
-    <event_num>F20119343</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 18:03:27</dispatch_time>
-    <event_num>F20119347</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 18:05:40</dispatch_time>
-    <event_num>F20119350</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
-  </event>
-  <event>
-    <prime_street>ARLETA AVE, NY</prime_street>
-    <cross_streets>SHEPPARD AVE W / ANCHOR DR</cross_streets>
-    <dispatch_time>2020-11-30 18:12:56</dispatch_time>
-    <event_num>F20119353</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P146, P141, A142, C14, P143, A133</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 18:24:04</dispatch_time>
-    <event_num>F20119359</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244, A244</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 18:24:47</dispatch_time>
-    <event_num>F20119360</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 18:26:21</dispatch_time>
-    <event_num>F20119361</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 18:28:30</dispatch_time>
-    <event_num>F20119362</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>JANE ST, NY</prime_street>
-    <cross_streets>CANE GRASSWAY / YEWTREE BLVD</cross_streets>
-    <dispatch_time>2020-11-30 18:29:01</dispatch_time>
-    <event_num>F20119363</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> C14, HZ145, P146, A213</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 18:30:14</dispatch_time>
-    <event_num>F20119364</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M5C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 18:30:37</dispatch_time>
-    <event_num>F20119365</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>GLEN EVEREST RD, SC</prime_street>
-    <cross_streets>ROSETTA MCCLAIN GARDENS TRL / WYNNVIEW CRT</cross_streets>
-    <dispatch_time>2020-11-30 18:32:36</dispatch_time>
-    <event_num>F20119366</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 18:33:15</dispatch_time>
-    <event_num>F20119368</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>EASTERN AVE / LESLIE ST</cross_streets>
-    <dispatch_time>2020-11-30 18:33:31</dispatch_time>
-    <event_num>F20119369</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> R326</units_disp>
-  </event>
-  <event>
     <prime_street>OTTAWA RD, NY</prime_street>
     <cross_streets> / OBSERVATORY RD</cross_streets>
     <dispatch_time>2020-11-30 18:34:46</dispatch_time>
@@ -189,36 +19,96 @@
     <event_type>Hazmat Level 2</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
-    <units_disp> P234, C11, P141, HZ332</units_disp>
-  </event>
-  <event>
-    <prime_street>PARLIAMENT ST, TT</prime_street>
-    <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
-    <dispatch_time>2020-11-30 18:35:05</dispatch_time>
-    <event_num>F20119372</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, P314, A325, C31, P312</units_disp>
+    <units_disp> C11, P141, HZ332, P234, HZ145, A213, HZ145, C14, P143, C10, P145, C44, P114, R112, S143, C11, P111, A142</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>BRIMLEY RD / DANFORTH RD</cross_streets>
-    <dispatch_time>2020-11-30 18:35:40</dispatch_time>
-    <event_num>F20119373</event_num>
+    <cross_streets>MARTIN GROVE RD / FINCH AVE W</cross_streets>
+    <dispatch_time>2020-11-30 18:59:41</dispatch_time>
+    <event_num>F20119385</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>413</beat>
+    <units_disp> A411</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>KIPLING AVE / FINCH AVE W</cross_streets>
-    <dispatch_time>2020-11-30 18:35:57</dispatch_time>
-    <event_num>F20119374</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
+    <cross_streets>VAN HORNE AVE / VICTORIA PARK AVE</cross_streets>
+    <dispatch_time>2020-11-30 19:02:45</dispatch_time>
+    <event_num>F20119386</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R441, C41, R413, S445</units_disp>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>M3B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 19:12:19</dispatch_time>
+    <event_num>F20119389</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street>M9B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 19:25:03</dispatch_time>
+    <event_num>F20119394</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>SIDNEY BELSEY CRES, YK</prime_street>
+    <cross_streets>PORTAGE GARDENS PARK TRL / WESTPOINT LANE</cross_streets>
+    <dispatch_time>2020-11-30 19:27:54</dispatch_time>
+    <event_num>F20119396</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P422, P443, R423, A421, C42</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ST MATTHEWS RD / GERRARD ST E</cross_streets>
+    <dispatch_time>2020-11-30 19:28:04</dispatch_time>
+    <event_num>F20119397</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 19:28:37</dispatch_time>
+    <event_num>F20119398</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 19:35:32</dispatch_time>
+    <event_num>F20119401</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 19:45:30</dispatch_time>
+    <event_num>F20119403</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
