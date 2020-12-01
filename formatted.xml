@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-30 20:50:02</update_from_db_time>
-  <event>
-    <prime_street>CAVELL AVE, ET</prime_street>
-    <cross_streets>BLUE GOOSE ST / LN E ROYAL YORK N STANLEY</cross_streets>
-    <dispatch_time>2020-11-30 11:26:21</dispatch_time>
-    <event_num>F20119210</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>433</beat>
-    <units_disp> R425, R435, C44, P445, PL432, R426, A426, R421, S445, LA333, C40, P443, C34, CMD30, HR332, P342, P344, C30, A433, CMD30C, FI8, FI19, A433, C43</units_disp>
-  </event>
-  <event>
-    <prime_street>OTTAWA RD, NY</prime_street>
-    <cross_streets> / OBSERVATORY RD</cross_streets>
-    <dispatch_time>2020-11-30 18:34:46</dispatch_time>
-    <event_num>F20119371</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> C11, P141, HZ332, P234, HZ145, A213, HZ145, C14, P143, C10, P145, C44, P114, R112, S143, C11, P111, A142, LA111</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>VAN HORNE AVE / VICTORIA PARK AVE</cross_streets>
-    <dispatch_time>2020-11-30 19:02:45</dispatch_time>
-    <event_num>F20119386</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113</units_disp>
-  </event>
-  <event>
-    <prime_street>DENLOW BLVD, NY</prime_street>
-    <cross_streets>SONATA CRES / PENWOOD CRES</cross_streets>
-    <dispatch_time>2020-11-30 20:07:09</dispatch_time>
-    <event_num>F20119411</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122, R133, P116, P125, A322, C31, C13</units_disp>
-  </event>
+  <update_from_db_time>2020-11-30 21:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>ISLINGTON AVE / HIGHWAY 401 C E</cross_streets>
@@ -62,13 +22,43 @@
     <units_disp> R214</units_disp>
   </event>
   <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>M6C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-30 20:45:33</dispatch_time>
-    <event_num>F20119420</event_num>
+    <dispatch_time>2020-11-30 21:00:23</dispatch_time>
+    <event_num>F20119425</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421</units_disp>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 21:12:00</dispatch_time>
+    <event_num>F20119427</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M6G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-11-30 21:12:16</dispatch_time>
+    <event_num>F20119428</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street>ST LUCIE DR, NY</prime_street>
+    <cross_streets>AZALEA CRT / FRANSON CRES</cross_streets>
+    <dispatch_time>2020-11-30 21:15:45</dispatch_time>
+    <event_num>F20119429</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> P146</units_disp>
   </event>
 </tfs_active_incidents>
