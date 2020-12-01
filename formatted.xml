@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-01 08:20:02</update_from_db_time>
-  <event>
-    <prime_street>EMMETT AVE, YK</prime_street>
-    <cross_streets>VERONA AVE / HUMBER RIVER RECREATIONAL TRL</cross_streets>
-    <dispatch_time>2020-12-01 07:11:10</dispatch_time>
-    <event_num>F20119520</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R341, C42, P442, S445</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-01 07:30:45</dispatch_time>
-    <event_num>F20119531</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> R411</units_disp>
-  </event>
+  <update_from_db_time>2020-12-01 08:40:02</update_from_db_time>
   <event>
     <prime_street>LESLIE ST, NY</prime_street>
     <cross_streets>WILKET CREEK TRL / WILKET CREEK TRL</cross_streets>
@@ -50,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>412</beat>
     <units_disp> R412, R413</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-01 08:25:14</dispatch_time>
+    <event_num>F20119543</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P143, P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M6B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-01 08:31:51</dispatch_time>
+    <event_num>F20119544</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
 </tfs_active_incidents>
