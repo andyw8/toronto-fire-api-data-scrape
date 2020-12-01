@@ -1,84 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-11-30 21:40:02</update_from_db_time>
+  <update_from_db_time>2020-11-30 22:20:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>ISLINGTON AVE / HIGHWAY 401 C E</cross_streets>
-    <dispatch_time>2020-11-30 20:12:38</dispatch_time>
-    <event_num>F20119415</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>CAVELL AVE, ET</prime_street>
+    <cross_streets>BLUE GOOSE ST / LN E ROYAL YORK N STANLEY</cross_streets>
+    <dispatch_time>2020-11-30 21:55:51</dispatch_time>
+    <event_num>F20119439</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>433</beat>
+    <units_disp> A433, C43, P431, R425, R435</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>KINGSTON RD / SHEPPARD AVE E</cross_streets>
-    <dispatch_time>2020-11-30 20:29:35</dispatch_time>
-    <event_num>F20119418</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>ST LUCIE DR, NY</prime_street>
-    <cross_streets>AZALEA CRT / FRANSON CRES</cross_streets>
-    <dispatch_time>2020-11-30 21:15:45</dispatch_time>
-    <event_num>F20119429</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> P146, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M6C</prime_street>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-11-30 21:22:40</dispatch_time>
-    <event_num>F20119431</event_num>
+    <dispatch_time>2020-11-30 22:03:34</dispatch_time>
+    <event_num>F20119440</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 21:23:30</dispatch_time>
-    <event_num>F20119432</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 21:28:03</dispatch_time>
-    <event_num>F20119433</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> R441</units_disp>
-  </event>
-  <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 21:30:25</dispatch_time>
-    <event_num>F20119434</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-11-30 21:35:23</dispatch_time>
-    <event_num>F20119435</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
 </tfs_active_incidents>
