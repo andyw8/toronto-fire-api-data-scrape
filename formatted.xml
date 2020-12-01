@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-01 16:40:03</update_from_db_time>
+  <update_from_db_time>2020-12-01 17:20:02</update_from_db_time>
   <event>
     <prime_street>PRIMULA CRES, NY</prime_street>
     <cross_streets>SOMBRERO CRT / HUSBAND DR</cross_streets>
@@ -9,36 +9,56 @@
     <event_type>Hazmat Level 2</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>411</beat>
-    <units_disp> R411, HZ145, HZ332, C41, P145</units_disp>
+    <units_disp> R411, HZ145, HZ332, C41, P145, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>M5G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-01 16:30:05</dispatch_time>
-    <event_num>F20119678</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>GLENFOREST RD / FAIRLAWN AVE</cross_streets>
+    <dispatch_time>2020-12-01 16:55:34</dispatch_time>
+    <event_num>F20119681</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>131</beat>
+    <units_disp> P121, P131, P132, R134, A135, C13</units_disp>
   </event>
   <event>
-    <prime_street>M4W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-01 16:34:26</dispatch_time>
-    <event_num>F20119679</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>ALBION RD / FINCH AVE W</cross_streets>
+    <dispatch_time>2020-12-01 17:07:48</dispatch_time>
+    <event_num>F20119684</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> A312</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
+    <prime_street>LILLIAN ST, TT</prime_street>
+    <cross_streets>SOUDAN AVE / EGLINTON AVE E</cross_streets>
+    <dispatch_time>2020-12-01 17:09:44</dispatch_time>
+    <event_num>F20119685</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134, A135, C13, P135, R321</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-01 16:34:48</dispatch_time>
-    <event_num>F20119680</event_num>
+    <dispatch_time>2020-12-01 17:12:45</dispatch_time>
+    <event_num>F20119686</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>PRINCES BLVD, TT</prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-01 17:14:07</dispatch_time>
+    <event_num>F20119687</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P315, P331, P334, C33, R426, A426</units_disp>
   </event>
 </tfs_active_incidents>
