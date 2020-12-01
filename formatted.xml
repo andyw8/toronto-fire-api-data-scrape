@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-01 05:20:02</update_from_db_time>
-  <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-01 05:08:27</dispatch_time>
-    <event_num>F20119501</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
+  <update_from_db_time>2020-12-01 05:30:02</update_from_db_time>
   <event>
     <prime_street>M9M</prime_street>
     <cross_streets/>
@@ -20,5 +10,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>411</beat>
     <units_disp> A411</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-01 05:21:41</dispatch_time>
+    <event_num>F20119503</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> A142, P141</units_disp>
   </event>
 </tfs_active_incidents>
