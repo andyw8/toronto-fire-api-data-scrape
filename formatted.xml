@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-01 21:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-01 21:25:02</update_from_db_time>
   <event>
     <prime_street>PEMBROKE ST, TT</prime_street>
     <cross_streets>DUNDAS ST E / LN N DUNDAS W PEMBROKE</cross_streets>
@@ -20,36 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
     <units_disp> P142</units_disp>
-  </event>
-  <event>
-    <prime_street>M9L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-01 20:57:29</dispatch_time>
-    <event_num>F20119760</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> P145, R411, C41, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-01 21:07:27</dispatch_time>
-    <event_num>F20119761</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>SHUTER ST, TT</prime_street>
-    <cross_streets>POULETT ST / PARLIAMENT ST</cross_streets>
-    <dispatch_time>2020-12-01 21:10:45</dispatch_time>
-    <event_num>F20119762</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
   </event>
   <event>
     <prime_street>M4C</prime_street>
@@ -90,5 +60,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
     <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>NIAGARA ST, TT</prime_street>
+    <cross_streets>LN E BATHURST S WELLINGTON / BATHURST ST</cross_streets>
+    <dispatch_time>2020-12-01 21:19:34</dispatch_time>
+    <event_num>F20119767</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> S331, A331</units_disp>
   </event>
 </tfs_active_incidents>
