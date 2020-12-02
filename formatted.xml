@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-01 21:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-01 22:20:02</update_from_db_time>
   <event>
     <prime_street>PEMBROKE ST, TT</prime_street>
     <cross_streets>DUNDAS ST E / LN N DUNDAS W PEMBROKE</cross_streets>
@@ -12,23 +12,63 @@
     <units_disp> R325, P314, A325, C33, P332, P333, P312, LA333, S313, T333, HR332, P331</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-01 21:25:28</dispatch_time>
-    <event_num>F20119770</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>RATHBURN RD / THE WEST MALL</cross_streets>
+    <dispatch_time>2020-12-01 21:45:04</dispatch_time>
+    <event_num>F20119773</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>RICHMOND ST E / SHERBOURNE ST</cross_streets>
-    <dispatch_time>2020-12-01 21:31:42</dispatch_time>
-    <event_num>F20119771</event_num>
+    <cross_streets>FORT YORK BLVD / QUEENS WHARF RD</cross_streets>
+    <dispatch_time>2020-12-01 21:56:51</dispatch_time>
+    <event_num>F20119778</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-01 21:59:19</dispatch_time>
+    <event_num>F20119779</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>FARQUHARS LANE / MARKET ST</cross_streets>
+    <dispatch_time>2020-12-01 22:00:02</dispatch_time>
+    <event_num>F20119780</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
     <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <units_disp> P333, R325, C33, HR332, P314, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-01 22:01:53</dispatch_time>
+    <event_num>F20119781</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-01 22:03:19</dispatch_time>
+    <event_num>F20119782</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325</units_disp>
   </event>
 </tfs_active_incidents>
