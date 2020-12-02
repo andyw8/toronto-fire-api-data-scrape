@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-01 22:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-01 22:40:03</update_from_db_time>
   <event>
     <prime_street>PEMBROKE ST, TT</prime_street>
     <cross_streets>DUNDAS ST E / LN N DUNDAS W PEMBROKE</cross_streets>
@@ -23,52 +23,92 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>FORT YORK BLVD / QUEENS WHARF RD</cross_streets>
-    <dispatch_time>2020-12-01 21:56:51</dispatch_time>
-    <event_num>F20119778</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-01 22:18:42</dispatch_time>
+    <event_num>F20119783</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-01 21:59:19</dispatch_time>
-    <event_num>F20119779</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>433</beat>
+    <units_disp> A433, P433</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>FARQUHARS LANE / MARKET ST</cross_streets>
-    <dispatch_time>2020-12-01 22:00:02</dispatch_time>
-    <event_num>F20119780</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-01 22:22:50</dispatch_time>
+    <event_num>F20119784</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, R325, C33, HR332, P314, T333</units_disp>
+    <beat>214</beat>
+    <units_disp> P212, R214</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-01 22:23:02</dispatch_time>
+    <event_num>F20119785</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
   <event>
     <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-01 22:01:53</dispatch_time>
-    <event_num>F20119781</event_num>
+    <dispatch_time>2020-12-01 22:27:29</dispatch_time>
+    <event_num>F20119787</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M4T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-01 22:32:12</dispatch_time>
+    <event_num>F20119788</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-01 22:03:19</dispatch_time>
-    <event_num>F20119782</event_num>
+    <dispatch_time>2020-12-01 22:34:04</dispatch_time>
+    <event_num>F20119789</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, TT</prime_street>
+    <cross_streets>OLD FOREST HILL RD / BATHURST ST</cross_streets>
+    <dispatch_time>2020-12-01 22:35:56</dispatch_time>
+    <event_num>F20119791</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-01 22:36:03</dispatch_time>
+    <event_num>F20119792</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>VANAULEY ST, TT</prime_street>
+    <cross_streets>LN N QUEEN E AUGUSTA / VANAULEY WALK</cross_streets>
+    <dispatch_time>2020-12-01 22:36:01</dispatch_time>
+    <event_num>F20119793</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> S331, A331</units_disp>
   </event>
 </tfs_active_incidents>
