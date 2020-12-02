@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-02 03:40:03</update_from_db_time>
+  <update_from_db_time>2020-12-02 04:20:02</update_from_db_time>
   <event>
     <prime_street>PEMBROKE ST, TT</prime_street>
     <cross_streets>DUNDAS ST E / LN N DUNDAS W PEMBROKE</cross_streets>
@@ -30,5 +30,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
     <units_disp> P445, P443, A441, C44, P431</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-02 04:16:48</dispatch_time>
+    <event_num>F20119848</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
