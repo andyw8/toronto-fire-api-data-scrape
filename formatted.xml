@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-02 15:40:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MOUNT PLEASANT RD / BELSIZE DR</cross_streets>
-    <dispatch_time>2020-12-02 15:08:15</dispatch_time>
-    <event_num>F20119994</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>EGLINTON AVE, SC</prime_street>
-    <cross_streets>BIMBROK RD / BRIMLEY RD</cross_streets>
-    <dispatch_time>2020-12-02 15:19:35</dispatch_time>
-    <event_num>F20119998</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M4X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-02 15:20:37</dispatch_time>
-    <event_num>F20119999</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
-  </event>
+  <update_from_db_time>2020-12-02 16:10:03</update_from_db_time>
   <event>
     <prime_street>M2L</prime_street>
     <cross_streets/>
@@ -42,13 +12,123 @@
     <units_disp> P132, R122</units_disp>
   </event>
   <event>
-    <prime_street>KIPLING AVE, ET</prime_street>
-    <cross_streets>BEACONHILL RD / KIDRON VALLEY DR</cross_streets>
-    <dispatch_time>2020-12-02 15:35:50</dispatch_time>
-    <event_num>F20120002</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-02 15:37:49</dispatch_time>
+    <event_num>F20120003</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>PROGRESS AVE / COSENTINO DR</cross_streets>
+    <dispatch_time>2020-12-02 15:39:22</dispatch_time>
+    <event_num>F20120004</event_num>
+    <event_type>Vehicle - Spill Clean Up</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-02 15:39:48</dispatch_time>
+    <event_num>F20120005</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> A312</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-02 15:40:55</dispatch_time>
+    <event_num>F20120006</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442, P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M3B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-02 15:45:45</dispatch_time>
+    <event_num>F20120008</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> R133</units_disp>
+  </event>
+  <event>
+    <prime_street>VULCAN ST, ET</prime_street>
+    <cross_streets>IRON ST / HEPC</cross_streets>
+    <dispatch_time>2020-12-02 15:49:29</dispatch_time>
+    <event_num>F20120011</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> A441, R441</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ATTWELL DR / DIXON RD</cross_streets>
+    <dispatch_time>2020-12-02 15:52:49</dispatch_time>
+    <event_num>F20120012</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> C41, R412, R444, S445</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>WESTON RD / FINCH AVE W</cross_streets>
+    <dispatch_time>2020-12-02 15:56:48</dispatch_time>
+    <event_num>F20120014</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> A411</units_disp>
+  </event>
+  <event>
+    <prime_street>M6G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-02 16:00:58</dispatch_time>
+    <event_num>F20120015</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-02 16:01:28</dispatch_time>
+    <event_num>F20120016</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P222</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-02 16:03:27</dispatch_time>
+    <event_num>F20120017</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-02 16:03:42</dispatch_time>
+    <event_num>F20120018</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
-    <units_disp> A411, C41, P415, R412, R413, R441</units_disp>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
