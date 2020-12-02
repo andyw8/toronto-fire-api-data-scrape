@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-02 07:50:03</update_from_db_time>
+  <update_from_db_time>2020-12-02 08:20:03</update_from_db_time>
   <event>
     <prime_street>PEMBROKE ST, TT</prime_street>
     <cross_streets>DUNDAS ST E / LN N DUNDAS W PEMBROKE</cross_streets>
@@ -20,15 +20,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>113</beat>
     <units_disp> A113</units_disp>
-  </event>
-  <event>
-    <prime_street>CHARLES ST, TT</prime_street>
-    <cross_streets>GEORGE HISLOP PARK TRL / MACY DUBOIS LANE</cross_streets>
-    <dispatch_time>2020-12-02 07:41:55</dispatch_time>
-    <event_num>F20119867</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
