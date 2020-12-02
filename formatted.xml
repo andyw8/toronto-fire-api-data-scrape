@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-02 12:00:03</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>PHARMACY AVE / ELLESMERE RD</cross_streets>
-    <dispatch_time>2020-12-02 11:31:31</dispatch_time>
-    <event_num>F20119920</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P233</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-02 11:48:01</dispatch_time>
-    <event_num>F20119925</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-02 11:49:10</dispatch_time>
-    <event_num>F20119926</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
+  <update_from_db_time>2020-12-02 12:20:02</update_from_db_time>
   <event>
     <prime_street>M4X</prime_street>
     <cross_streets/>
@@ -50,5 +20,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> P227, R225, R326, A222, C22</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>COSBURN AVE / GREENWOOD AVE</cross_streets>
+    <dispatch_time>2020-12-02 12:05:44</dispatch_time>
+    <event_num>F20119930</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
   </event>
 </tfs_active_incidents>
