@@ -1,44 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-02 09:40:03</update_from_db_time>
+  <update_from_db_time>2020-12-02 10:20:03</update_from_db_time>
   <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M3H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-02 09:19:35</dispatch_time>
-    <event_num>F20119885</event_num>
+    <dispatch_time>2020-12-02 10:08:05</dispatch_time>
+    <event_num>F20119900</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> A215</units_disp>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
   </event>
   <event>
-    <prime_street>EDWARD HORTON CRES, ET</prime_street>
-    <cross_streets>AUGUSTUS TER / THOMAS FISHER DR</cross_streets>
-    <dispatch_time>2020-12-02 09:22:17</dispatch_time>
-    <event_num>F20119886</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, P432, A433, C44, P445</units_disp>
-  </event>
-  <event>
-    <prime_street>HILLHURST BLVD, TT</prime_street>
-    <cross_streets>AVENUE RD / MONA DR</cross_streets>
-    <dispatch_time>2020-12-02 09:27:35</dispatch_time>
-    <event_num>F20119888</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P135, R134, A135, C13, P132</units_disp>
-  </event>
-  <event>
-    <prime_street>VICTORIA PARK AVE, SC</prime_street>
-    <cross_streets>PACHINO BLVD / WW W VICTORIA PARK S YORK MILL</cross_streets>
-    <dispatch_time>2020-12-02 09:34:49</dispatch_time>
-    <event_num>F20119889</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-02 10:09:25</dispatch_time>
+    <event_num>F20119901</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>233</beat>
-    <units_disp> R115, P233, A244, C24, P245, R133</units_disp>
+    <units_disp> R235</units_disp>
   </event>
 </tfs_active_incidents>
