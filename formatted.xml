@@ -1,66 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-02 23:40:03</update_from_db_time>
-  <event>
-    <prime_street>GERRARD ST, TT</prime_street>
-    <cross_streets>HOWLAND RD / LOGAN AVE</cross_streets>
-    <dispatch_time>2020-12-02 22:47:21</dispatch_time>
-    <event_num>F20120156</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> A324, C32, P324, P325, R326</units_disp>
-  </event>
-  <event>
-    <prime_street>M3M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-02 23:25:54</dispatch_time>
-    <event_num>F20120163</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street>GARYRAY DR, NY</prime_street>
-    <cross_streets>NORELCO DR / ROSSDEAN DR</cross_streets>
-    <dispatch_time>2020-12-02 23:26:39</dispatch_time>
-    <event_num>F20120164</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411, P141, A411, R413, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-02 23:28:29</dispatch_time>
-    <event_num>F20120165</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
-  </event>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-02 23:30:09</dispatch_time>
-    <event_num>F20120166</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-02 23:31:09</dispatch_time>
-    <event_num>F20120167</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
+  <update_from_db_time>2020-12-03 00:15:02</update_from_db_time>
   <event>
     <prime_street>KINGSTON RD, SC</prime_street>
     <cross_streets>MIDLAND AVE / CHINE DR</cross_streets>
@@ -70,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>223</beat>
     <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-02 23:52:07</dispatch_time>
+    <event_num>F20120171</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNDAS ST, ET</prime_street>
+    <cross_streets>MABELLE AVE / AVONHURST RD</cross_streets>
+    <dispatch_time>2020-12-03 00:07:44</dispatch_time>
+    <event_num>F20120172</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> C44, P431, P443, P445, PL432</units_disp>
   </event>
 </tfs_active_incidents>
