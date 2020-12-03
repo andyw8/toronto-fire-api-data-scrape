@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-03 12:40:03</update_from_db_time>
+  <update_from_db_time>2020-12-03 12:50:03</update_from_db_time>
   <event>
     <prime_street>M1H</prime_street>
     <cross_streets/>
@@ -50,5 +50,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>443</beat>
     <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-03 12:37:18</dispatch_time>
+    <event_num>F20120327</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> S143</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-03 12:40:34</dispatch_time>
+    <event_num>F20120328</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>CLAIREVILLE DR, ET</prime_street>
+    <cross_streets>HUDDERSFIELD RD / HUMBERLINE DR</cross_streets>
+    <dispatch_time>2020-12-03 12:45:16</dispatch_time>
+    <event_num>F20120329</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412, R413, A441, C41, P415</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-03 12:46:03</dispatch_time>
+    <event_num>F20120330</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
   </event>
 </tfs_active_incidents>
