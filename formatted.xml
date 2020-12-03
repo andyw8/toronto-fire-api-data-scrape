@@ -1,84 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-03 11:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-03 12:20:02</update_from_db_time>
   <event>
-    <prime_street>HORNER AVE, ET</prime_street>
-    <cross_streets>GOLDTHORNE AVE / CONNELL CRT</cross_streets>
-    <dispatch_time>2020-12-03 11:28:17</dispatch_time>
-    <event_num>F20120301</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, R435, C43, PL432, R434</units_disp>
-  </event>
-  <event>
-    <prime_street>GOWAN AVE, EY</prime_street>
-    <cross_streets>CARLAW AVE / LN W PAPE S COSBURN</cross_streets>
-    <dispatch_time>2020-12-03 11:32:58</dispatch_time>
-    <event_num>F20120303</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322, P323, A321, C32, R224, P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
+    <prime_street>M9M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-03 11:36:26</dispatch_time>
-    <event_num>F20120304</event_num>
+    <dispatch_time>2020-12-03 11:54:50</dispatch_time>
+    <event_num>F20120311</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> S313, A324</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ROSEDALE VALLEY RD / PARK RD</cross_streets>
-    <dispatch_time>2020-12-03 11:38:27</dispatch_time>
-    <event_num>F20120305</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>SOUDAN AVE, TT</prime_street>
-    <cross_streets>YONGE ST / COWBELL LANE</cross_streets>
-    <dispatch_time>2020-12-03 11:38:49</dispatch_time>
-    <event_num>F20120306</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> C13, P131, R134, A312, P311, P135</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-03 11:43:03</dispatch_time>
-    <event_num>F20120307</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-03 11:43:50</dispatch_time>
-    <event_num>F20120308</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
+    <beat>411</beat>
+    <units_disp> A411, R411</units_disp>
   </event>
   <event>
     <prime_street>M1G</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-03 11:46:58</dispatch_time>
-    <event_num>F20120309</event_num>
+    <dispatch_time>2020-12-03 12:01:18</dispatch_time>
+    <event_num>F20120314</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>LONGBOURNE DR, ET</prime_street>
+    <cross_streets>WESTWYND CRT / WESTGROVE PARK TRL</cross_streets>
+    <dispatch_time>2020-12-03 12:00:35</dispatch_time>
+    <event_num>F20120315</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> P443, R444, A441, C41, P415</units_disp>
+  </event>
+  <event>
+    <prime_street>M1H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-03 12:03:35</dispatch_time>
+    <event_num>F20120316</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>231</beat>
-    <units_disp> R231</units_disp>
+    <units_disp> S232, R231</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-03 12:04:53</dispatch_time>
+    <event_num>F20120317</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>WESTMORELAND AVE / RUSHOLME RD</cross_streets>
+    <dispatch_time>2020-12-03 12:05:31</dispatch_time>
+    <event_num>F20120318</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> P433, A345, HZ332, C42, C32, C34</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-03 12:11:03</dispatch_time>
+    <event_num>F20120319</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
   </event>
 </tfs_active_incidents>
