@@ -1,4 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-03 05:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-03 05:45:02</update_from_db_time>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-03 05:34:13</dispatch_time>
+    <event_num>F20120218</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M4V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-03 05:34:09</dispatch_time>
+    <event_num>F20120219</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-03 05:35:21</dispatch_time>
+    <event_num>F20120220</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>326</beat>
+    <units_disp> R326</units_disp>
+  </event>
+  <event>
+    <prime_street>ISAAC DEVINS BLVD, NY</prime_street>
+    <cross_streets>MCCARTNEY ST / ABRAHAM WELSH RD</cross_streets>
+    <dispatch_time>2020-12-03 05:38:27</dispatch_time>
+    <event_num>F20120221</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411, P146, A411, P442, C14</units_disp>
+  </event>
 </tfs_active_incidents>
