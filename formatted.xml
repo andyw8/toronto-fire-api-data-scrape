@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-03 10:20:03</update_from_db_time>
+  <update_from_db_time>2020-12-03 10:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> P415, P442</units_disp>
   </event>
   <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-03 10:02:09</dispatch_time>
-    <event_num>F20120272</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
     <prime_street>M5R</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-03 10:03:06</dispatch_time>
@@ -30,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>344</beat>
     <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-03 10:05:17</dispatch_time>
-    <event_num>F20120276</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
   </event>
   <event>
     <prime_street>M1G</prime_street>
@@ -60,5 +40,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>313</beat>
     <units_disp> S313</units_disp>
+  </event>
+  <event>
+    <prime_street>CHARLOTTE ST, TT</prime_street>
+    <cross_streets>KING ST W / LN N KING E CHARLOTTE</cross_streets>
+    <dispatch_time>2020-12-03 10:17:47</dispatch_time>
+    <event_num>F20120279</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P331, A331, C33, HR332, P333</units_disp>
+  </event>
+  <event>
+    <prime_street>WATERLOO AVE, NY</prime_street>
+    <cross_streets>HOVE ST / BRYANT ST</cross_streets>
+    <dispatch_time>2020-12-03 10:18:36</dispatch_time>
+    <event_num>F20120280</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P113, P143, C11, HZ145, C14</units_disp>
+  </event>
+  <event>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-03 10:20:43</dispatch_time>
+    <event_num>F20120281</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>MELITA CRES, TT</prime_street>
+    <cross_streets>FRANKEL - LAMBERT PARK TRL / WYCHCREST AVE</cross_streets>
+    <dispatch_time>2020-12-03 10:21:09</dispatch_time>
+    <event_num>F20120282</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> P343, P342, A345, C31, P312, P344</units_disp>
+  </event>
+  <event>
+    <prime_street>RIPPLETON RD, NY</prime_street>
+    <cross_streets>BETHESDA CRT / GRANGEMILL CRES</cross_streets>
+    <dispatch_time>2020-12-03 10:21:39</dispatch_time>
+    <event_num>F20120283</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> R122, P125, R133, A321, C32, P233</units_disp>
   </event>
 </tfs_active_incidents>
