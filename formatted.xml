@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-04 14:10:02</update_from_db_time>
+  <update_from_db_time>2020-12-04 14:20:02</update_from_db_time>
   <event>
     <prime_street>SPADINA AVE, TT</prime_street>
     <cross_streets>LN N COLLEGE E SPADINA / SPADINA CRES</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> P324, C13, HZ145, P125</units_disp>
   </event>
   <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-04 13:40:27</dispatch_time>
-    <event_num>F20120691</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
     <prime_street>M6G</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-04 13:56:20</dispatch_time>
@@ -52,16 +42,6 @@
     <units_disp> R345</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-04 13:58:04</dispatch_time>
-    <event_num>F20120698</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
     <prime_street>M5B</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-04 14:02:21</dispatch_time>
@@ -70,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
     <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>STANLEY RD, NY</prime_street>
-    <cross_streets>RICKLAN DR / MAYBERRY RD</cross_streets>
-    <dispatch_time>2020-12-04 14:04:07</dispatch_time>
-    <event_num>F20120700</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> R411, P146, C14, P141, P143, A411</units_disp>
   </event>
   <event>
     <prime_street>M8V</prime_street>
@@ -100,5 +70,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>233</beat>
     <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street>M5R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-04 14:08:20</dispatch_time>
+    <event_num>F20120703</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-04 14:09:30</dispatch_time>
+    <event_num>F20120704</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
 </tfs_active_incidents>
