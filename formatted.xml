@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-04 13:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-04 13:30:02</update_from_db_time>
   <event>
     <prime_street>SPADINA AVE, TT</prime_street>
     <cross_streets>LN N COLLEGE E SPADINA / SPADINA CRES</cross_streets>
@@ -42,16 +42,6 @@
     <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-04 12:56:08</dispatch_time>
-    <event_num>F20120671</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
     <prime_street>M3C</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-04 12:59:46</dispatch_time>
@@ -60,56 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>235</beat>
     <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>CLINTON ST, TT</prime_street>
-    <cross_streets>COLLEGE ST / HUGGINS FAMILY LANE</cross_streets>
-    <dispatch_time>2020-12-04 13:00:39</dispatch_time>
-    <event_num>F20120673</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> A315, C33, P315, P331, P332, P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-04 13:03:28</dispatch_time>
-    <event_num>F20120676</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-04 13:04:55</dispatch_time>
-    <event_num>F20120678</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>LANDSEER RD / BERTRAND AVE</cross_streets>
-    <dispatch_time>2020-12-04 13:09:28</dispatch_time>
-    <event_num>F20120679</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> S232, P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Z</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-04 13:10:28</dispatch_time>
-    <event_num>F20120680</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
   </event>
   <event>
     <prime_street>M1T</prime_street>
@@ -129,6 +69,36 @@
     <event_type>Alarm Highrise Commercial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
-    <units_disp> P314, P311, A312, C31, P325</units_disp>
+    <units_disp> P314, P311, A312, C31, P325, P313</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BLACK CREEK DR / LAWRENCE AVE W</cross_streets>
+    <dispatch_time>2020-12-04 13:18:41</dispatch_time>
+    <event_num>F20120683</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> A133</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-04 13:19:41</dispatch_time>
+    <event_num>F20120684</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>ROSELAWN AVE, YK</prime_street>
+    <cross_streets>MARLEE AVE / HEPC</cross_streets>
+    <dispatch_time>2020-12-04 13:21:32</dispatch_time>
+    <event_num>F20120685</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> P132, P342, A341, P343, C13</units_disp>
   </event>
 </tfs_active_incidents>
