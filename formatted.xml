@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-04 08:45:02</update_from_db_time>
-  <event>
-    <prime_street>PENN DR, NY</prime_street>
-    <cross_streets>MILVAN DR / MILLPORT DR</cross_streets>
-    <dispatch_time>2020-12-04 06:12:39</dispatch_time>
-    <event_num>F20120567</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411, R413, R412, A411, C41, A411</units_disp>
-  </event>
+  <update_from_db_time>2020-12-04 09:20:02</update_from_db_time>
   <event>
     <prime_street>SPADINA AVE, TT</prime_street>
     <cross_streets>LN N COLLEGE E SPADINA / SPADINA CRES</cross_streets>
@@ -19,46 +9,46 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>3</alarm_lev>
     <beat>315</beat>
-    <units_disp> P315, P332, A315, C33, P314, P331, C30, CMD30, CMD30C, A331, C31, HZ332, LA333, P312, P313, P334, P344, S331, HR114, HR332, A312, P333, P343, R345, T333, C34, R426, REHAB01, C7, C2, C2</units_disp>
+    <units_disp> P315, P332, A315, C33, P314, P331, C30, CMD30, CMD30C, A331, C31, HZ332, LA333, P312, P313, P334, P344, S331, HR114, HR332, A312, P333, P343, R345, T333, C34, R426, REHAB01, C7, C2, C2, P311</units_disp>
   </event>
   <event>
-    <prime_street>BIRCHMOUNT RD, SC</prime_street>
-    <cross_streets>BONNIEWOOD RD / EGLINTON AVE E</cross_streets>
-    <dispatch_time>2020-12-04 08:31:46</dispatch_time>
-    <event_num>F20120587</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>JANE ST / SHOREHAM DR</cross_streets>
+    <dispatch_time>2020-12-04 09:02:46</dispatch_time>
+    <event_num>F20120595</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P221, R235, A222, C22, P232</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-04 08:31:46</dispatch_time>
-    <event_num>F20120588</event_num>
+    <dispatch_time>2020-12-04 09:06:51</dispatch_time>
+    <event_num>F20120596</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
+    <beat>421</beat>
+    <units_disp> A421</units_disp>
   </event>
   <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>KENMARK BLVD / C N R</cross_streets>
-    <dispatch_time>2020-12-04 08:33:10</dispatch_time>
-    <event_num>F20120589</event_num>
-    <event_type>Rescue - Other</event_type>
+    <prime_street>OAK ST, TT</prime_street>
+    <cross_streets>RIVER ST / </cross_streets>
+    <dispatch_time>2020-12-04 09:13:30</dispatch_time>
+    <event_num>F20120597</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> R224, C23, S232</units_disp>
+    <beat>325</beat>
+    <units_disp> A325</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>FINCH AVE W / BISHOP AVE</cross_streets>
-    <dispatch_time>2020-12-04 08:36:33</dispatch_time>
-    <event_num>F20120590</event_num>
-    <event_type>Alarm Highrise Commercial North</event_type>
+    <prime_street>M1N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-04 09:15:26</dispatch_time>
+    <event_num>F20120598</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, P111, C11, HR114, P143, T114</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
 </tfs_active_incidents>
