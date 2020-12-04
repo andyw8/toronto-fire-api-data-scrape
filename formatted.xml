@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-04 05:25:03</update_from_db_time>
+  <update_from_db_time>2020-12-04 06:15:03</update_from_db_time>
   <event>
     <prime_street>M9N</prime_street>
     <cross_streets/>
@@ -12,33 +12,23 @@
     <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-04 05:00:51</dispatch_time>
-    <event_num>F20120555</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>LAWRENCE AVE W / KEELE ST</cross_streets>
+    <dispatch_time>2020-12-04 05:46:12</dispatch_time>
+    <event_num>F20120561</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>133</beat>
+    <units_disp> A133, P132</units_disp>
   </event>
   <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>KENMARK BLVD / C N R</cross_streets>
-    <dispatch_time>2020-12-04 05:03:31</dispatch_time>
-    <event_num>F20120556</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>DVP N DON MILLS RD N RAMP, EY</prime_street>
+    <cross_streets>DON VALLEY PKWY N / DON VALLEY PKWY N</cross_streets>
+    <dispatch_time>2020-12-04 06:09:34</dispatch_time>
+    <event_num>F20120566</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M6R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-04 05:14:54</dispatch_time>
-    <event_num>F20120557</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426</units_disp>
+    <beat>313</beat>
+    <units_disp> P313, P322</units_disp>
   </event>
 </tfs_active_incidents>
