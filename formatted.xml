@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-04 16:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-04 17:20:02</update_from_db_time>
   <event>
     <prime_street>SPADINA AVE, TT</prime_street>
     <cross_streets>LN N COLLEGE E SPADINA / SPADINA CRES</cross_streets>
@@ -42,36 +42,6 @@
     <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>SAN VAROWAY / SAN ROCCOWAY</cross_streets>
-    <dispatch_time>2020-12-04 16:02:56</dispatch_time>
-    <event_num>F20120723</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> S143, P141</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DON MILLS RD / STEELES AVE E</cross_streets>
-    <dispatch_time>2020-12-04 16:12:56</dispatch_time>
-    <event_num>F20120725</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113, A113</units_disp>
-  </event>
-  <event>
-    <prime_street>SANTAMONICA BLVD, SC</prime_street>
-    <cross_streets>HUDDLESTON CRT / NEWLANDS AVE</cross_streets>
-    <dispatch_time>2020-12-04 16:13:35</dispatch_time>
-    <event_num>F20120728</event_num>
-    <event_type>Fire - Other</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225, R321, A222, C22, P223, P226</units_disp>
-  </event>
-  <event>
     <prime_street>PAPE AVE, TT</prime_street>
     <cross_streets>LIPTON AVE / GERTRUDE PL</cross_streets>
     <dispatch_time>2020-12-04 16:16:28</dispatch_time>
@@ -92,73 +62,83 @@
     <units_disp> P314</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
+    <prime_street>M3H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-04 16:26:21</dispatch_time>
-    <event_num>F20120732</event_num>
+    <dispatch_time>2020-12-04 16:46:01</dispatch_time>
+    <event_num>F20120739</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> R411, P141</units_disp>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
   </event>
   <event>
-    <prime_street>SAMOR RD, NY</prime_street>
-    <cross_streets>DUFFERIN ST / DUFFLAW RD</cross_streets>
-    <dispatch_time>2020-12-04 16:27:22</dispatch_time>
-    <event_num>F20120733</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M3K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-04 16:58:41</dispatch_time>
+    <event_num>F20120741</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>145</beat>
-    <units_disp> A133, C13, P131, P132, P145</units_disp>
+    <units_disp> P145</units_disp>
   </event>
   <event>
-    <prime_street>M4X</prime_street>
+    <prime_street>M1N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-04 16:28:45</dispatch_time>
-    <event_num>F20120734</event_num>
+    <dispatch_time>2020-12-04 17:00:06</dispatch_time>
+    <event_num>F20120742</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P312</units_disp>
+    <beat>225</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>M4X</prime_street>
+    <prime_street>M6B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-04 16:30:08</dispatch_time>
-    <event_num>F20120735</event_num>
+    <dispatch_time>2020-12-04 17:03:56</dispatch_time>
+    <event_num>F20120743</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> A133</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MORNINGSIDE AVE / ELLESMERE RD</cross_streets>
+    <dispatch_time>2020-12-04 17:06:22</dispatch_time>
+    <event_num>F20120744</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-04 17:10:18</dispatch_time>
+    <event_num>F20120745</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-04 17:13:47</dispatch_time>
+    <event_num>F20120746</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
-    <units_disp> P333</units_disp>
+    <units_disp> R325</units_disp>
   </event>
   <event>
-    <prime_street>HUMBER BLVD, YK</prime_street>
-    <cross_streets>AVON AVE / ALLIANCE AVE</cross_streets>
-    <dispatch_time>2020-12-04 16:33:09</dispatch_time>
-    <event_num>F20120736</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> P433, A421, R421, C42, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>M6C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-04 16:35:30</dispatch_time>
-    <event_num>F20120737</event_num>
+    <dispatch_time>2020-12-04 17:16:01</dispatch_time>
+    <event_num>F20120747</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-04 16:36:41</dispatch_time>
-    <event_num>F20120738</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P324</units_disp>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
   </event>
 </tfs_active_incidents>
