@@ -1,64 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-03 22:25:02</update_from_db_time>
+  <update_from_db_time>2020-12-03 22:40:02</update_from_db_time>
   <event>
-    <prime_street>GRANTBROOK ST, NY</prime_street>
-    <cross_streets>CALDERON CRES / BLAKE AVE</cross_streets>
-    <dispatch_time>2020-12-03 20:58:49</dispatch_time>
-    <event_num>F20120471</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112, HR114</units_disp>
-  </event>
-  <event>
-    <prime_street>GARRISON RD, TT</prime_street>
-    <cross_streets>GARRISON COMMON TRL / </cross_streets>
-    <dispatch_time>2020-12-03 22:00:54</dispatch_time>
-    <event_num>F20120487</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
-    <prime_street>M5J</prime_street>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-03 22:11:42</dispatch_time>
-    <event_num>F20120488</event_num>
+    <dispatch_time>2020-12-03 22:32:11</dispatch_time>
+    <event_num>F20120492</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
-    <cross_streets>R. V. BURGESS PARK TRL / OVERLEA BLVD</cross_streets>
-    <dispatch_time>2020-12-03 22:12:31</dispatch_time>
-    <event_num>F20120489</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>YORK ST / UNIVERSITY AVE</cross_streets>
-    <dispatch_time>2020-12-03 22:17:03</dispatch_time>
-    <event_num>F20120490</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> C33, P314, P332, P333, T333, A331</units_disp>
-  </event>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-03 22:20:36</dispatch_time>
-    <event_num>F20120491</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
 </tfs_active_incidents>
