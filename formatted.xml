@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-04 09:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-04 09:45:02</update_from_db_time>
   <event>
     <prime_street>SPADINA AVE, TT</prime_street>
     <cross_streets>LN N COLLEGE E SPADINA / SPADINA CRES</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>3</alarm_lev>
     <beat>315</beat>
-    <units_disp> P315, P332, A315, C33, P314, P331, C30, CMD30, CMD30C, A331, C31, HZ332, LA333, P312, P313, P334, P344, S331, HR114, HR332, A312, P333, P343, R345, T333, C34, R426, REHAB01, C7, C2, C2, P311</units_disp>
+    <units_disp> P315, P332, A315, C33, P314, P331, C30, CMD30, CMD30C, A331, C31, HZ332, LA333, P312, P313, P334, P344, S331, HR114, HR332, A312, P333, P343, R345, T333, C34, R426, REHAB01, C7, C2, C2, P311, FI16, FI5</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -22,13 +22,23 @@
     <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>OAK ST, TT</prime_street>
-    <cross_streets>RIVER ST / </cross_streets>
-    <dispatch_time>2020-12-04 09:13:30</dispatch_time>
-    <event_num>F20120597</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
+    <prime_street>GORMLEY AVE, TT</prime_street>
+    <cross_streets>LAWTON BLVD / LASCELLES BLVD</cross_streets>
+    <dispatch_time>2020-12-04 09:30:22</dispatch_time>
+    <event_num>F20120599</event_num>
+    <event_type>Wires Down - Hydro</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
+    <beat>311</beat>
+    <units_disp> A135</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-04 09:36:26</dispatch_time>
+    <event_num>F20120600</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
 </tfs_active_incidents>
