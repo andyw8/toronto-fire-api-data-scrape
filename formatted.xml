@@ -1,54 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-03 19:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-03 20:40:02</update_from_db_time>
   <event>
-    <prime_street>SILVERSTONE DR, ET</prime_street>
-    <cross_streets>MANFRED AVE / BUCKSBURN RD</cross_streets>
-    <dispatch_time>2020-12-03 15:19:12</dispatch_time>
-    <event_num>F20120377</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R412, HZ145, P113, C41, R411, C41</units_disp>
-  </event>
-  <event>
-    <prime_street>PARLIAMENT ST, TT</prime_street>
-    <cross_streets>FRONT ST E / DERBY ST</cross_streets>
-    <dispatch_time>2020-12-03 19:26:17</dispatch_time>
-    <event_num>F20120453</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, C33, P325, P332, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-03 19:37:41</dispatch_time>
-    <event_num>F20120455</event_num>
+    <dispatch_time>2020-12-03 20:19:14</dispatch_time>
+    <event_num>F20120465</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
+    <prime_street>M3L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-03 19:41:01</dispatch_time>
-    <event_num>F20120456</event_num>
+    <dispatch_time>2020-12-03 20:24:25</dispatch_time>
+    <event_num>F20120466</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423</units_disp>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-03 19:46:55</dispatch_time>
-    <event_num>F20120457</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>ADELAIDE ST, TT</prime_street>
+    <cross_streets>LN W JOHN S ADELAIDE / WIDMER ST</cross_streets>
+    <dispatch_time>2020-12-03 20:33:01</dispatch_time>
+    <event_num>F20120467</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
