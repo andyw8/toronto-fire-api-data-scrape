@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-04 22:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-04 22:45:02</update_from_db_time>
   <event>
     <prime_street>BAYVIEW AVE, NY</prime_street>
     <cross_streets>HOLLYWOOD AVE / ELMWOOD AVE</cross_streets>
@@ -12,53 +12,33 @@
     <units_disp> R122, P111, P114, P116, T114, C11, C11</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-04 22:02:45</dispatch_time>
-    <event_num>F20120828</event_num>
+    <dispatch_time>2020-12-04 22:34:17</dispatch_time>
+    <event_num>F20120837</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>243</beat>
+    <units_disp> R243</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>YORK ST / UNIVERSITY AVE</cross_streets>
-    <dispatch_time>2020-12-04 22:17:29</dispatch_time>
-    <event_num>F20120832</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P333, C33, P334, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>SHUTER ST / DUNDAS ST E</cross_streets>
-    <dispatch_time>2020-12-04 22:19:15</dispatch_time>
-    <event_num>F20120833</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325, R325, A325, C31, P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-04 22:20:31</dispatch_time>
-    <event_num>F20120834</event_num>
+    <dispatch_time>2020-12-04 22:40:17</dispatch_time>
+    <event_num>F20120838</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-04 22:24:51</dispatch_time>
-    <event_num>F20120835</event_num>
+    <dispatch_time>2020-12-04 22:41:54</dispatch_time>
+    <event_num>F20120839</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
   </event>
 </tfs_active_incidents>
