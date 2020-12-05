@@ -1,4 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-05 03:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-05 04:20:02</update_from_db_time>
+  <event>
+    <prime_street>EATON PARK LANE, SC</prime_street>
+    <cross_streets>BRIDLETOWNE CRCL / BRIDLETOWNE CRCL</cross_streets>
+    <dispatch_time>2020-12-05 03:55:38</dispatch_time>
+    <event_num>F20120904</event_num>
+    <event_type>Vehicle Fire - Underground</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> C23, P245, R243, S232, A113, HR114, P116, R115, C24, P242, P244, R241, A244, A244, MPV341, A341, R243</units_disp>
+  </event>
 </tfs_active_incidents>
