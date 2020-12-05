@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-05 18:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-05 18:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>FREDERICK TISDALE DR / DOWNSVIEW PARK BLVD</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>5</alarm_lev>
     <beat>141</beat>
     <units_disp> S143, P141, A142, C14, P143, P145, A133, C11, HZ145, LA111, P114, P146, R134, P442, R413, C10, CMD10, CMD10C, C13, C11, P116, P131, P132, REHAB01, T114, A411, P415, C41, C40, P111, P121, A421, P245, R235, HR114, P343, C7, C1, FI15, FI5, C6, R243, R425, P111, A411, P233, A341, R122</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DUFFERIN ST / HIGHWAY 401 X E</cross_streets>
-    <dispatch_time>2020-12-05 17:33:38</dispatch_time>
-    <event_num>F20121097</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
   </event>
   <event>
     <prime_street>GABIAN WAY, YK</prime_street>
@@ -80,5 +70,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>213</beat>
     <units_disp> A213</units_disp>
+  </event>
+  <event>
+    <prime_street>SHERBOURNE ST, TT</prime_street>
+    <cross_streets>LN N QUEEN E SHERBOURNE / SHUTER ST</cross_streets>
+    <dispatch_time>2020-12-05 18:28:04</dispatch_time>
+    <event_num>F20121118</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M4N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-05 18:33:18</dispatch_time>
+    <event_num>F20121119</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>131</beat>
+    <units_disp> P131</units_disp>
   </event>
 </tfs_active_incidents>
