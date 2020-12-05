@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-05 00:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-05 00:40:02</update_from_db_time>
   <event>
-    <prime_street>ROEHAMPTON AVE, TT</prime_street>
-    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
+    <prime_street>M4P</prime_street>
+    <cross_streets/>
     <dispatch_time>2020-12-05 00:15:59</dispatch_time>
     <event_num>F20120857</event_num>
-    <event_type>Check Call</event_type>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
     <units_disp> R134</units_disp>
