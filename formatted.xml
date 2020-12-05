@@ -1,44 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-04 22:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-04 23:20:02</update_from_db_time>
   <event>
-    <prime_street>BAYVIEW AVE, NY</prime_street>
-    <cross_streets>HOLLYWOOD AVE / ELMWOOD AVE</cross_streets>
-    <dispatch_time>2020-12-04 21:05:00</dispatch_time>
-    <event_num>F20120806</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> R122, P111, P114, P116, T114, C11, C11</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-04 22:34:17</dispatch_time>
-    <event_num>F20120837</event_num>
+    <dispatch_time>2020-12-04 22:54:55</dispatch_time>
+    <event_num>F20120842</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>M1T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-04 22:40:17</dispatch_time>
-    <event_num>F20120838</event_num>
+    <dispatch_time>2020-12-04 23:12:08</dispatch_time>
+    <event_num>F20120846</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-04 22:41:54</dispatch_time>
-    <event_num>F20120839</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
   </event>
 </tfs_active_incidents>
