@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-05 02:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-05 02:45:02</update_from_db_time>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>WRIGHT AVE / BELLEVUE CRES</cross_streets>
@@ -12,26 +12,6 @@
     <units_disp> P442, P146, A421, C42, R421</units_disp>
   </event>
   <event>
-    <prime_street>HARNWORTH DR, NY</prime_street>
-    <cross_streets>SHADBERRY DR / MEMORY GARDENS LANE</cross_streets>
-    <dispatch_time>2020-12-05 01:55:52</dispatch_time>
-    <event_num>F20120879</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113, C11, HZ145, R115, P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-05 02:00:11</dispatch_time>
-    <event_num>F20120881</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
     <prime_street>M4C</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-05 02:25:59</dispatch_time>
@@ -40,5 +20,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>224</beat>
     <units_disp> R224</units_disp>
+  </event>
+  <event>
+    <prime_street>BENSTROW AVE, ET</prime_street>
+    <cross_streets>HONBURY RD / TAYSHAM CRES</cross_streets>
+    <dispatch_time>2020-12-05 02:38:45</dispatch_time>
+    <event_num>F20120888</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-05 02:37:33</dispatch_time>
+    <event_num>F20120889</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> R321, A322, C32, P125, S313</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-05 02:39:50</dispatch_time>
+    <event_num>F20120891</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
 </tfs_active_incidents>
