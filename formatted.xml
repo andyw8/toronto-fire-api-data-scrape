@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-05 01:25:02</update_from_db_time>
+  <update_from_db_time>2020-12-05 01:30:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>GIVINS ST / OSSINGTON AVE</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
     <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-05 00:55:28</dispatch_time>
-    <event_num>F20120865</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
   </event>
   <event>
     <prime_street>EARL ST, TT</prime_street>
