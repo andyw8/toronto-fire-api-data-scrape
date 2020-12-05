@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-05 02:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-05 02:30:02</update_from_db_time>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>WRIGHT AVE / BELLEVUE CRES</cross_streets>
@@ -32,33 +32,13 @@
     <units_disp> A215</units_disp>
   </event>
   <event>
-    <prime_street>M5T</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-05 02:05:27</dispatch_time>
-    <event_num>F20120883</event_num>
+    <dispatch_time>2020-12-05 02:25:59</dispatch_time>
+    <event_num>F20120886</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-05 02:07:24</dispatch_time>
-    <event_num>F20120884</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-05 02:14:44</dispatch_time>
-    <event_num>F20120885</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
 </tfs_active_incidents>
