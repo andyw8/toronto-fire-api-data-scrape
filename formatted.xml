@@ -1,14 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-04 23:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-05 00:20:02</update_from_db_time>
   <event>
-    <prime_street>ORFUS RD, NY</prime_street>
-    <cross_streets>DUFFERIN ST / PAUL DAVID ST</cross_streets>
-    <dispatch_time>2020-12-04 23:28:20</dispatch_time>
-    <event_num>F20120848</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-04 23:51:51</dispatch_time>
+    <event_num>F20120853</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145, P132, A133, C13, P131</units_disp>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-05 00:06:40</dispatch_time>
+    <event_num>F20120856</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>ROEHAMPTON AVE, TT</prime_street>
+    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
+    <dispatch_time>2020-12-05 00:15:59</dispatch_time>
+    <event_num>F20120857</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
