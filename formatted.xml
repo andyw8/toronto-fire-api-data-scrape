@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-05 10:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-05 10:30:02</update_from_db_time>
   <event>
     <prime_street>IRON ST, ET</prime_street>
     <cross_streets>BELFIELD RD / </cross_streets>
@@ -19,7 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>3</alarm_lev>
     <beat>141</beat>
-    <units_disp> S143, P141, A142, C14, P143, P145, A133, C11, HZ145, LA111, P114, P146, R134, P442, R413, C10, CMD10, CMD10C, C13, C11, P116, P131, P132, REHAB01, T114, A411, P415</units_disp>
+    <units_disp> S143, P141, A142, C14, P143, P145, A133, C11, HZ145, LA111, P114, P146, R134, P442, R413, C10, CMD10, CMD10C, C13, C11, P116, P131, P132, REHAB01, T114, A411, P415, C41, C40, P111, P121, A421</units_disp>
   </event>
   <event>
     <prime_street>M6S</prime_street>
@@ -32,16 +32,6 @@
     <units_disp> R425</units_disp>
   </event>
   <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-05 10:04:31</dispatch_time>
-    <event_num>F20120970</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> A135</units_disp>
-  </event>
-  <event>
     <prime_street>MASSEY SQ, EY</prime_street>
     <cross_streets>CRESCENT TOWN RD / CRESCENT TOWN RD</cross_streets>
     <dispatch_time>2020-12-05 10:07:24</dispatch_time>
@@ -50,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> P226, R224, A222, P227, C32</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-05 10:20:23</dispatch_time>
+    <event_num>F20120973</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> A135</units_disp>
+  </event>
+  <event>
+    <prime_street>M4E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-05 10:22:56</dispatch_time>
+    <event_num>F20120974</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P227</units_disp>
   </event>
 </tfs_active_incidents>
