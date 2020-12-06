@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-06 12:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-06 13:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>FREDERICK TISDALE DR / DOWNSVIEW PARK BLVD</cross_streets>
@@ -12,33 +12,83 @@
     <units_disp> S143, P141, A142, C14, P143, P145, A133, C11, HZ145, LA111, P114, P146, R134, P442, R413, C10, CMD10, CMD10C, C13, C11, P116, P131, P132, REHAB01, T114, A411, P415, C41, C40, P111, P121, A421, P245, R235, HR114, P343, C7, C1, FI15, FI5, C6, R243, R425, P111, A411, P233, A341, R122, P125, A113, A441, P312, A135, R112, P145, HZ145, A411, P145, A142, P146</units_disp>
   </event>
   <event>
-    <prime_street>HANNA AVE, TT</prime_street>
-    <cross_streets>LIBERTY ST / SNOOKER ST</cross_streets>
-    <dispatch_time>2020-12-06 11:52:08</dispatch_time>
-    <event_num>F20121326</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>ARDWICK BLVD, NY</prime_street>
+    <cross_streets>FINCH AVE W / SONGWOOD DR</cross_streets>
+    <dispatch_time>2020-12-06 12:47:19</dispatch_time>
+    <event_num>F20121333</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344, P331, A331, C33, R426</units_disp>
+    <beat>411</beat>
+    <units_disp> P433, R411, C14, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-06 12:25:25</dispatch_time>
-    <event_num>F20121328</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BAMBURGH CRCL, SC</prime_street>
+    <cross_streets>SHARROWBAY CRT / HUNTSMILL BLVD</cross_streets>
+    <dispatch_time>2020-12-06 12:53:48</dispatch_time>
+    <event_num>F20121334</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211</units_disp>
+    <beat>241</beat>
+    <units_disp> R241, R115, C24, P242, A113</units_disp>
   </event>
   <event>
-    <prime_street>M4M</prime_street>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-06 12:26:32</dispatch_time>
-    <event_num>F20121329</event_num>
+    <dispatch_time>2020-12-06 12:59:19</dispatch_time>
+    <event_num>F20121336</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-06 13:02:40</dispatch_time>
+    <event_num>F20121337</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>STRACHAN AVE / MASSEY ST</cross_streets>
+    <dispatch_time>2020-12-06 13:06:10</dispatch_time>
+    <event_num>F20121338</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> FI16, FI5</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-06 13:13:26</dispatch_time>
+    <event_num>F20121339</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
+  </event>
+  <event>
+    <prime_street>VICTORIA ST, TT</prime_street>
+    <cross_streets>SHUTER ST / DUNDAS SQ</cross_streets>
+    <dispatch_time>2020-12-06 13:13:24</dispatch_time>
+    <event_num>F20121340</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> S313, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-06 13:15:46</dispatch_time>
+    <event_num>F20121341</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
   </event>
 </tfs_active_incidents>
