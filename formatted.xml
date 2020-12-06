@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-06 06:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-06 06:45:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>FREDERICK TISDALE DR / DOWNSVIEW PARK BLVD</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P333, T333</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-06 06:18:53</dispatch_time>
-    <event_num>F20121267</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
     <prime_street>PARLIAMENT ST, TT</prime_street>
     <cross_streets>VERNER LANE / GERRARD ST E</cross_streets>
     <dispatch_time>2020-12-06 06:20:02</dispatch_time>
@@ -40,5 +30,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
     <units_disp> R325, P313, A325, C33, P314</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>PLYWOOD PL / WICKMAN RD</cross_streets>
+    <dispatch_time>2020-12-06 06:40:01</dispatch_time>
+    <event_num>F20121269</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> R434, P445, C44, PL432, R435</units_disp>
   </event>
 </tfs_active_incidents>
