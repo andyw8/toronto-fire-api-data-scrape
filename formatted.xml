@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-06 06:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-06 06:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>FREDERICK TISDALE DR / DOWNSVIEW PARK BLVD</cross_streets>
@@ -12,36 +12,6 @@
     <units_disp> S143, P141, A142, C14, P143, P145, A133, C11, HZ145, LA111, P114, P146, R134, P442, R413, C10, CMD10, CMD10C, C13, C11, P116, P131, P132, REHAB01, T114, A411, P415, C41, C40, P111, P121, A421, P245, R235, HR114, P343, C7, C1, FI15, FI5, C6, R243, R425, P111, A411, P233, A341, R122, P125, A113, A441, P312, A135, R112, P145</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-06 06:01:01</dispatch_time>
-    <event_num>F20121263</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-06 06:05:03</dispatch_time>
-    <event_num>F20121264</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M6B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-06 06:06:40</dispatch_time>
-    <event_num>F20121265</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> HZ145</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2020-12-06 06:08:31</dispatch_time>
@@ -50,5 +20,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
     <units_disp> P333, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-06 06:18:53</dispatch_time>
+    <event_num>F20121267</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>PARLIAMENT ST, TT</prime_street>
+    <cross_streets>VERNER LANE / GERRARD ST E</cross_streets>
+    <dispatch_time>2020-12-06 06:20:02</dispatch_time>
+    <event_num>F20121268</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325, P313, A325, C33, P314</units_disp>
   </event>
 </tfs_active_incidents>
