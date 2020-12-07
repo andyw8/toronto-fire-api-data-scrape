@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-07 13:20:03</update_from_db_time>
+  <update_from_db_time>2020-12-07 13:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -42,26 +42,6 @@
     <units_disp> P142</units_disp>
   </event>
   <event>
-    <prime_street>MC ALPINE ST, TT</prime_street>
-    <cross_streets>MCMURRICH ST / LN E DAVENPORT N MC ALPINE</cross_streets>
-    <dispatch_time>2020-12-07 13:02:02</dispatch_time>
-    <event_num>F20121653</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> A315, C33, P311, P332, P333, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>MOUNT OLIVE DR, ET</prime_street>
-    <cross_streets>KIPLING AVE / SILVERSTONE DR</cross_streets>
-    <dispatch_time>2020-12-07 13:07:22</dispatch_time>
-    <event_num>F20121656</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413, P415, A411, C41, R412, C44</units_disp>
-  </event>
-  <event>
     <prime_street>M1L</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-07 13:11:42</dispatch_time>
@@ -70,5 +50,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
     <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-07 13:18:24</dispatch_time>
+    <event_num>F20121658</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322, A322</units_disp>
+  </event>
+  <event>
+    <prime_street>WINNETT AVE, YK</prime_street>
+    <cross_streets>LN N HURSTING W ARLINGTON / EARLSDALE AVE</cross_streets>
+    <dispatch_time>2020-12-07 13:19:23</dispatch_time>
+    <event_num>F20121659</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> P145, R341, C34</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 13:20:00</dispatch_time>
+    <event_num>F20121660</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> A426</units_disp>
   </event>
 </tfs_active_incidents>
