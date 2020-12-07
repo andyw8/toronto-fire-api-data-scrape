@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-07 15:20:02</update_from_db_time>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-07 14:45:19</dispatch_time>
-    <event_num>F20121689</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
+  <update_from_db_time>2020-12-07 15:30:03</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, SC</prime_street>
     <cross_streets>BEACHELL ST / CENTRE ST</cross_streets>
@@ -20,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>223</beat>
     <units_disp> S232, A231, C23, P221, P223, P232</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Z</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-07 15:06:08</dispatch_time>
-    <event_num>F20121694</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P432, P432</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-07 15:09:14</dispatch_time>
-    <event_num>F20121695</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P312</units_disp>
   </event>
   <event>
     <prime_street>ST CLAIR AVE, SC</prime_street>
@@ -70,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
     <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>EUCLID AVE, TT</prime_street>
+    <cross_streets>ALLAN REYNOLDS LANE / VIA DEI GIARDINI LANE</cross_streets>
+    <dispatch_time>2020-12-07 15:19:18</dispatch_time>
+    <event_num>F20121699</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 15:22:42</dispatch_time>
+    <event_num>F20121700</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P432</units_disp>
   </event>
 </tfs_active_incidents>
