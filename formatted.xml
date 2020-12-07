@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-07 13:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-07 13:50:03</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> A312, HZ332, P312, P315, R345, C31, S331</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-07 12:48:52</dispatch_time>
-    <event_num>F20121649</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-07 13:11:42</dispatch_time>
-    <event_num>F20121657</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2020-12-07 13:18:24</dispatch_time>
@@ -72,13 +52,73 @@
     <units_disp> P145, R341, C34</units_disp>
   </event>
   <event>
-    <prime_street>M6R</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-07 13:32:29</dispatch_time>
+    <event_num>F20121661</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> A441, P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-07 13:20:00</dispatch_time>
-    <event_num>F20121660</event_num>
+    <dispatch_time>2020-12-07 13:34:47</dispatch_time>
+    <event_num>F20121663</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> A426</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>GIVINS ST / OSSINGTON AVE</cross_streets>
+    <dispatch_time>2020-12-07 13:40:43</dispatch_time>
+    <event_num>F20121665</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> A331, P315, P332, P334, R345, C34, P331</units_disp>
+  </event>
+  <event>
+    <prime_street>M3J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 13:41:01</dispatch_time>
+    <event_num>F20121667</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P142</units_disp>
+  </event>
+  <event>
+    <prime_street>SHERBOURNE ST, TT</prime_street>
+    <cross_streets>SHUTER ST / DUNDAS ST E</cross_streets>
+    <dispatch_time>2020-12-07 13:43:23</dispatch_time>
+    <event_num>F20121668</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
+  </event>
+  <event>
+    <prime_street>ARLETA AVE, NY</prime_street>
+    <cross_streets>SHEPPARD AVE W / ANCHOR DR</cross_streets>
+    <dispatch_time>2020-12-07 13:43:42</dispatch_time>
+    <event_num>F20121669</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142, C14, P143, P145, P146</units_disp>
+  </event>
+  <event>
+    <prime_street>BUCKINGHAM AVE, TT</prime_street>
+    <cross_streets>DINNICK CRES / WANLESS CRES</cross_streets>
+    <dispatch_time>2020-12-07 13:45:05</dispatch_time>
+    <event_num>F20121670</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>131</beat>
+    <units_disp> C13, HZ145, P131, P324, C11</units_disp>
   </event>
 </tfs_active_incidents>
