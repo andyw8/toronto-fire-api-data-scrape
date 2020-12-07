@@ -1,84 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-07 14:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-07 15:20:02</update_from_db_time>
   <event>
-    <prime_street>BYRON AVE, TT</prime_street>
-    <cross_streets>CHATHAM AVE / DANFORTH AVE</cross_streets>
-    <dispatch_time>2020-12-07 14:04:50</dispatch_time>
-    <event_num>F20121677</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-07 14:12:03</dispatch_time>
-    <event_num>F20121678</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411, A411</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
+    <prime_street>M9B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-07 14:13:20</dispatch_time>
-    <event_num>F20121679</event_num>
+    <dispatch_time>2020-12-07 14:45:19</dispatch_time>
+    <event_num>F20121689</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, SC</prime_street>
+    <cross_streets>BEACHELL ST / CENTRE ST</cross_streets>
+    <dispatch_time>2020-12-07 14:54:50</dispatch_time>
+    <event_num>F20121693</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> S232, A231, C23, P221, P223, P232</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Z</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 15:06:08</dispatch_time>
+    <event_num>F20121694</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>433</beat>
-    <units_disp> R435</units_disp>
+    <units_disp> P432, P432</units_disp>
   </event>
   <event>
-    <prime_street>SHEPPARD AVE, NY</prime_street>
-    <cross_streets>WILLOWDALE AVE / LN E WILLOWDALE S SHEPPARD</cross_streets>
-    <dispatch_time>2020-12-07 14:19:37</dispatch_time>
-    <event_num>F20121681</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> C11, P114, P121, R122, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTERN BATTERY RD, TT</prime_street>
-    <cross_streets>PIRANDELLO ST / LYNN WILLIAMS ST</cross_streets>
-    <dispatch_time>2020-12-07 14:25:49</dispatch_time>
-    <event_num>F20121682</event_num>
-    <event_type>Rescue - Personal Entrapment</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344, P315, S331, C33, P331</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M5R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-07 14:31:38</dispatch_time>
-    <event_num>F20121683</event_num>
+    <dispatch_time>2020-12-07 15:09:14</dispatch_time>
+    <event_num>F20121695</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
+    <beat>344</beat>
+    <units_disp> P312</units_disp>
   </event>
   <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>DUNDAS ST E / LN N DUNDAS W SHERBOURNE</cross_streets>
-    <dispatch_time>2020-12-07 14:34:53</dispatch_time>
-    <event_num>F20121684</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>ST CLAIR AVE, SC</prime_street>
+    <cross_streets>BIRCHMOUNT RD / NORTH WOODROW BLVD</cross_streets>
+    <dispatch_time>2020-12-07 15:14:31</dispatch_time>
+    <event_num>F20121696</event_num>
+    <event_type>Fire - Other</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325, P313, P333, A325, C31</units_disp>
+    <beat>222</beat>
+    <units_disp> R235, R225, A222, C22, P226, P245</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M3L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-07 14:36:42</dispatch_time>
-    <event_num>F20121685</event_num>
+    <dispatch_time>2020-12-07 15:15:16</dispatch_time>
+    <event_num>F20121697</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 15:16:01</dispatch_time>
+    <event_num>F20121698</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
