@@ -1,14 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-07 04:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-07 05:20:02</update_from_db_time>
   <event>
-    <prime_street>HAZELWOOD AVE, TT</prime_street>
-    <cross_streets>LN E PAPE N HAZELWOOD / LN W JONES S HAZELWOOD</cross_streets>
-    <dispatch_time>2020-12-07 04:34:37</dispatch_time>
-    <event_num>F20121532</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M4H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 04:47:13</dispatch_time>
+    <event_num>F20121533</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, P324, A324, C32, P313</units_disp>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
+  </event>
+  <event>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 05:07:38</dispatch_time>
+    <event_num>F20121535</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> A441</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>REES ST / LOWER SPADINA AVE</cross_streets>
+    <dispatch_time>2020-12-07 05:08:39</dispatch_time>
+    <event_num>F20121536</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334, P332, A331, C33, HR332, P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Z</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 05:15:27</dispatch_time>
+    <event_num>F20121537</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
   </event>
 </tfs_active_incidents>
