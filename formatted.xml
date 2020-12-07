@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-07 12:00:02</update_from_db_time>
+  <update_from_db_time>2020-12-07 12:20:02</update_from_db_time>
   <event>
     <prime_street>TORBARRIE RD, NY</prime_street>
     <cross_streets>KIRBY RD / JOSEPH GRIFFITH LANE</cross_streets>
@@ -22,23 +22,33 @@
     <units_disp> P325</units_disp>
   </event>
   <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-07 11:51:52</dispatch_time>
-    <event_num>F20121630</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
+    <cross_streets>WEST DON RIVER TRL / R. V. BURGESS PARK TRL</cross_streets>
+    <dispatch_time>2020-12-07 11:59:01</dispatch_time>
+    <event_num>F20121633</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
+    <beat>322</beat>
+    <units_disp> A322, C32, P322, R321, P125</units_disp>
   </event>
   <event>
-    <prime_street>WELLESLEY ST, TT</prime_street>
-    <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
-    <dispatch_time>2020-12-07 11:51:58</dispatch_time>
-    <event_num>F20121631</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 12:11:16</dispatch_time>
+    <event_num>F20121636</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P314, P312, A325, C31, P333, S331</units_disp>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 12:16:51</dispatch_time>
+    <event_num>F20121637</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> P422</units_disp>
   </event>
 </tfs_active_incidents>
