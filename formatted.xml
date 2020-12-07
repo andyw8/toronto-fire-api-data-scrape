@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-07 14:30:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-07 13:32:29</dispatch_time>
-    <event_num>F20121661</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A441, P443</units_disp>
-  </event>
-  <event>
-    <prime_street>BUCKINGHAM AVE, TT</prime_street>
-    <cross_streets>DINNICK CRES / WANLESS CRES</cross_streets>
-    <dispatch_time>2020-12-07 13:45:05</dispatch_time>
-    <event_num>F20121670</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> C13, HZ145, P131, P324, C11</units_disp>
-  </event>
+  <update_from_db_time>2020-12-07 14:40:02</update_from_db_time>
   <event>
     <prime_street>BYRON AVE, TT</prime_street>
     <cross_streets>CHATHAM AVE / DANFORTH AVE</cross_streets>
@@ -52,16 +32,6 @@
     <units_disp> R435</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-07 14:17:58</dispatch_time>
-    <event_num>F20121680</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> T333</units_disp>
-  </event>
-  <event>
     <prime_street>SHEPPARD AVE, NY</prime_street>
     <cross_streets>WILLOWDALE AVE / LN E WILLOWDALE S SHEPPARD</cross_streets>
     <dispatch_time>2020-12-07 14:19:37</dispatch_time>
@@ -76,9 +46,39 @@
     <cross_streets>PIRANDELLO ST / LYNN WILLIAMS ST</cross_streets>
     <dispatch_time>2020-12-07 14:25:49</dispatch_time>
     <event_num>F20121682</event_num>
-    <event_type>Check Call</event_type>
+    <event_type>Rescue - Personal Entrapment</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <units_disp> P344, P315, S331, C33, P331</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 14:31:38</dispatch_time>
+    <event_num>F20121683</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
+  </event>
+  <event>
+    <prime_street>SHERBOURNE ST, TT</prime_street>
+    <cross_streets>DUNDAS ST E / LN N DUNDAS W SHERBOURNE</cross_streets>
+    <dispatch_time>2020-12-07 14:34:53</dispatch_time>
+    <event_num>F20121684</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325, P313, P333, A325, C31</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 14:36:42</dispatch_time>
+    <event_num>F20121685</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
 </tfs_active_incidents>
