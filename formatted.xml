@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-06 23:25:02</update_from_db_time>
+  <update_from_db_time>2020-12-06 23:40:02</update_from_db_time>
   <event>
     <prime_street>BOND ST, TT</prime_street>
     <cross_streets>QUEEN ST E / SHUTER ST</cross_streets>
@@ -12,33 +12,23 @@
     <units_disp> P333, P313, S313, C33</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-06 23:04:48</dispatch_time>
-    <event_num>F20121483</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>MARGUERETTA ST / MARGUERETTA ST</cross_streets>
+    <dispatch_time>2020-12-06 23:25:58</dispatch_time>
+    <event_num>F20121486</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421</units_disp>
+    <beat>426</beat>
+    <units_disp> R426, R423, A426, C34, P331</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-06 23:09:07</dispatch_time>
-    <event_num>F20121484</event_num>
+    <dispatch_time>2020-12-06 23:30:52</dispatch_time>
+    <event_num>F20121487</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-06 23:11:57</dispatch_time>
-    <event_num>F20121485</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
