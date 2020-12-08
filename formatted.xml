@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-08 10:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-08 10:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>432</beat>
     <units_disp> C44, P432, P445, A433, S445, R435, C43, P431, P443, R444, LA333, LA421, C40, P433, S445</units_disp>
-  </event>
-  <event>
-    <prime_street>LAKE SHORE BLVD, ET</prime_street>
-    <cross_streets>BURLINGTON ST / ALBERT AVE</cross_streets>
-    <dispatch_time>2020-12-08 09:49:34</dispatch_time>
-    <event_num>F20121967</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DUNDAS ST W / MONTROSE AVE</cross_streets>
-    <dispatch_time>2020-12-08 10:06:12</dispatch_time>
-    <event_num>F20121968</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331, P315</units_disp>
-  </event>
-  <event>
-    <prime_street>OLD ORCHARD GRV, TT</prime_street>
-    <cross_streets>GREER RD / ELM RD</cross_streets>
-    <dispatch_time>2020-12-08 10:07:25</dispatch_time>
-    <event_num>F20121970</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131, P121, S313, A135, C13, P132, R421</units_disp>
   </event>
   <event>
     <prime_street>COUGAR CRT, SC</prime_street>
@@ -79,6 +49,16 @@
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>421</beat>
-    <units_disp> R421, P422, A421, C42, R423</units_disp>
+    <units_disp> R421, P422, A421, C42, R423, A345</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 10:21:46</dispatch_time>
+    <event_num>F20121975</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> P342</units_disp>
   </event>
 </tfs_active_incidents>
