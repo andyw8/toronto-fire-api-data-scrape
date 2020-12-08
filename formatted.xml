@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-08 14:10:03</update_from_db_time>
+  <update_from_db_time>2020-12-08 14:20:02</update_from_db_time>
   <event>
     <prime_street>UNION ST, TT</prime_street>
     <cross_streets>HEPC / TURNBERRY AVE</cross_streets>
@@ -42,26 +42,6 @@
     <units_disp> C31, P311, P313, S313</units_disp>
   </event>
   <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>ELLESMERE RD / GLAMORGAN AVE</cross_streets>
-    <dispatch_time>2020-12-08 13:53:01</dispatch_time>
-    <event_num>F20122047</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-08 13:56:41</dispatch_time>
-    <event_num>F20122048</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> R235</units_disp>
-  </event>
-  <event>
     <prime_street>M5T</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-08 13:58:05</dispatch_time>
@@ -80,5 +60,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>232</beat>
     <units_disp> S232</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 14:09:40</dispatch_time>
+    <event_num>F20122051</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
+  </event>
+  <event>
+    <prime_street>JOHN GARLAND BLVD, ET</prime_street>
+    <cross_streets>JAMESTOWN CRES / MARTIN GROVE RD</cross_streets>
+    <dispatch_time>2020-12-08 14:12:32</dispatch_time>
+    <event_num>F20122052</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>JANE ST / SHOREHAM DR</cross_streets>
+    <dispatch_time>2020-12-08 14:12:51</dispatch_time>
+    <event_num>F20122053</event_num>
+    <event_type>Vehicle - Spill Clean Up</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SHEPPARD AVE W / ARROW RD</cross_streets>
+    <dispatch_time>2020-12-08 14:15:01</dispatch_time>
+    <event_num>F20122054</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> R112, C14, P146, S143</units_disp>
   </event>
 </tfs_active_incidents>
