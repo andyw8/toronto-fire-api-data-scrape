@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-08 14:40:03</update_from_db_time>
+  <update_from_db_time>2020-12-08 15:20:02</update_from_db_time>
   <event>
     <prime_street>UNION ST, TT</prime_street>
     <cross_streets>HEPC / TURNBERRY AVE</cross_streets>
@@ -12,103 +12,63 @@
     <units_disp> R423, P342, A423, C42, P422, R421, C40, FI19</units_disp>
   </event>
   <event>
-    <prime_street>LINDEN AVE, SC</prime_street>
-    <cross_streets>LAUREL AVE / HARMONY AVE</cross_streets>
-    <dispatch_time>2020-12-08 13:03:08</dispatch_time>
-    <event_num>F20122033</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P232, A222, C22, P233, R224, R225, P221</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>JANE ST / SHOREHAM DR</cross_streets>
-    <dispatch_time>2020-12-08 14:12:51</dispatch_time>
-    <event_num>F20122053</event_num>
-    <event_type>Vehicle - Spill Clean Up</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>SHEPPARD AVE W / ARROW RD</cross_streets>
-    <dispatch_time>2020-12-08 14:15:01</dispatch_time>
-    <event_num>F20122054</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> R112, C14, P146, S143</units_disp>
-  </event>
-  <event>
-    <prime_street>M6R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-08 14:22:46</dispatch_time>
-    <event_num>F20122057</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-08 14:25:12</dispatch_time>
-    <event_num>F20122058</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P121, P132, P131</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-08 14:29:34</dispatch_time>
-    <event_num>F20122060</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> A426</units_disp>
-  </event>
-  <event>
-    <prime_street>M4H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-08 14:29:43</dispatch_time>
-    <event_num>F20122061</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>FURNIVAL RD, EY</prime_street>
-    <cross_streets>GLENBURN AVE / VICTORIA PARK AVE</cross_streets>
-    <dispatch_time>2020-12-08 14:32:41</dispatch_time>
-    <event_num>F20122062</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> A222, P226, R224, R225, R235, C22</units_disp>
-  </event>
-  <event>
-    <prime_street>FALAISE RD, SC</prime_street>
-    <cross_streets>KINGSTON RD / RODDA BLVD</cross_streets>
-    <dispatch_time>2020-12-08 14:33:43</dispatch_time>
-    <event_num>F20122063</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>DEARHAM WOOD, SC</prime_street>
+    <cross_streets>SCHUBERT DR / POPLAR RD</cross_streets>
+    <dispatch_time>2020-12-08 14:58:24</dispatch_time>
+    <event_num>F20122068</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>234</beat>
-    <units_disp> P234, R231, A231, C23, P223</units_disp>
+    <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>M9A</prime_street>
+    <prime_street>EGLINTON AVE, TT</prime_street>
+    <cross_streets>CHAPLIN CRES / BELTLINE TRL</cross_streets>
+    <dispatch_time>2020-12-08 15:00:36</dispatch_time>
+    <event_num>F20122071</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> A135, C13, P131, R134, P343</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DIXON RD / MARTIN GROVE RD</cross_streets>
+    <dispatch_time>2020-12-08 15:09:15</dispatch_time>
+    <event_num>F20122073</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-08 14:36:47</dispatch_time>
-    <event_num>F20122064</event_num>
+    <dispatch_time>2020-12-08 15:10:04</dispatch_time>
+    <event_num>F20122074</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>GLEN RUSH BLVD / BATHURST ST</cross_streets>
+    <dispatch_time>2020-12-08 15:12:16</dispatch_time>
+    <event_num>F20122075</event_num>
+    <event_type>Public Hazard</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P131</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>LAWRENCE AVE E / CARNFORTH RD</cross_streets>
+    <dispatch_time>2020-12-08 15:15:38</dispatch_time>
+    <event_num>F20122076</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
   </event>
 </tfs_active_incidents>
