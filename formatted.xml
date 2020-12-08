@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-07 22:20:02</update_from_db_time>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-07 21:50:19</dispatch_time>
-    <event_num>F20121821</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
-  </event>
-  <event>
-    <prime_street>HOUNSLOW AVE, NY</prime_street>
-    <cross_streets>ELGIN RD / WYNN RD</cross_streets>
-    <dispatch_time>2020-12-07 21:52:30</dispatch_time>
-    <event_num>F20121822</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P145, P114, C11, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-07 22:05:19</dispatch_time>
-    <event_num>F20121826</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-07 22:07:24</dispatch_time>
-    <event_num>F20121827</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
-  </event>
+  <update_from_db_time>2020-12-07 22:30:02</update_from_db_time>
   <event>
     <prime_street>EDGECROFT RD, ET</prime_street>
     <cross_streets>CHARTWELL RD / ISLINGTON AVE</cross_streets>
@@ -52,13 +12,43 @@
     <units_disp> P433</units_disp>
   </event>
   <event>
-    <prime_street>M4J</prime_street>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>BATHURST ST / TECUMSETH ST</cross_streets>
+    <dispatch_time>2020-12-07 22:17:16</dispatch_time>
+    <event_num>F20121830</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331, S331</units_disp>
+  </event>
+  <event>
+    <prime_street>M6G</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-07 22:15:07</dispatch_time>
-    <event_num>F20121829</event_num>
+    <dispatch_time>2020-12-07 22:17:09</dispatch_time>
+    <event_num>F20121831</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 22:20:35</dispatch_time>
+    <event_num>F20121832</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-07 22:24:21</dispatch_time>
+    <event_num>F20121833</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
 </tfs_active_incidents>
