@@ -1,24 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-08 00:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-08 01:20:02</update_from_db_time>
   <event>
-    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
-    <cross_streets>R. V. BURGESS PARK TRL / WEST DON RIVER TRL</cross_streets>
-    <dispatch_time>2020-12-07 23:14:03</dispatch_time>
-    <event_num>F20121846</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 00:42:41</dispatch_time>
+    <event_num>F20121865</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>CHARLES ST, TT</prime_street>
-    <cross_streets>GEORGE HISLOP PARK TRL / MACY DUBOIS LANE</cross_streets>
-    <dispatch_time>2020-12-08 00:40:51</dispatch_time>
-    <event_num>F20121864</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>KEELE ST / PIMLICO RD</cross_streets>
+    <dispatch_time>2020-12-08 01:01:42</dispatch_time>
+    <event_num>F20121870</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
+    <beat>133</beat>
+    <units_disp> S143, A133</units_disp>
+  </event>
+  <event>
+    <prime_street>M6B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 01:09:18</dispatch_time>
+    <event_num>F20121871</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 01:11:39</dispatch_time>
+    <event_num>F20121872</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 01:14:33</dispatch_time>
+    <event_num>F20121873</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
