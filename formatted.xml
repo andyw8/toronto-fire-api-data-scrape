@@ -1,44 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-08 06:40:04</update_from_db_time>
+  <update_from_db_time>2020-12-08 07:30:02</update_from_db_time>
   <event>
-    <prime_street>AVENUE RD, TT</prime_street>
-    <cross_streets>GLENGROVE AVE W / GLENVIEW AVE</cross_streets>
-    <dispatch_time>2020-12-08 06:04:45</dispatch_time>
-    <event_num>F20121904</event_num>
+    <prime_street> </prime_street>
+    <cross_streets>DUFFERIN ST / QUEEN ST W</cross_streets>
+    <dispatch_time>2020-12-08 06:53:46</dispatch_time>
+    <event_num>F20121914</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
   </event>
   <event>
-    <prime_street>M4G</prime_street>
+    <prime_street>M3C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-08 06:21:50</dispatch_time>
-    <event_num>F20121908</event_num>
+    <dispatch_time>2020-12-08 07:05:29</dispatch_time>
+    <event_num>F20121918</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R321</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
   <event>
-    <prime_street>M3H</prime_street>
+    <prime_street>M3N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-08 06:23:34</dispatch_time>
-    <event_num>F20121909</event_num>
+    <dispatch_time>2020-12-08 07:16:14</dispatch_time>
+    <event_num>F20121919</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> HZ145</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-08 06:24:54</dispatch_time>
-    <event_num>F20121910</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-08 07:19:16</dispatch_time>
+    <event_num>F20121922</event_num>
+    <event_type>Vehicle Fire - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
+    <beat>432</beat>
+    <units_disp> C44, P432, P445, A433, S445</units_disp>
   </event>
 </tfs_active_incidents>
