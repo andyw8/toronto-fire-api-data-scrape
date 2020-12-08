@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-08 08:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-08 09:20:03</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -12,33 +12,103 @@
     <units_disp> C44, P432, P445, A433, S445, R435, C43, P431, P443, R444, LA333, LA421, C40, P433</units_disp>
   </event>
   <event>
-    <prime_street>REXDALE BLVD, ET</prime_street>
-    <cross_streets>HUMBERWOOD BLVD / REXDALE W 427 N RAMP</cross_streets>
-    <dispatch_time>2020-12-08 08:31:18</dispatch_time>
-    <event_num>F20121940</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>PLYMBRIDGE CRES, NY</prime_street>
+    <cross_streets> / PLYMBRIDGE RD</cross_streets>
+    <dispatch_time>2020-12-08 08:42:15</dispatch_time>
+    <event_num>F20121943</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412, R441, A441, R413, C14</units_disp>
+    <beat>121</beat>
+    <units_disp> P145, P121, C11, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-08 08:33:05</dispatch_time>
-    <event_num>F20121941</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>MAGELLAN DR / JANE ST</cross_streets>
+    <dispatch_time>2020-12-08 09:07:30</dispatch_time>
+    <event_num>F20121948</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>142</beat>
+    <units_disp> A142, C14, P141, P143, P146</units_disp>
   </event>
   <event>
-    <prime_street>M8W</prime_street>
+    <prime_street>BALLACAINE DR, ET</prime_street>
+    <cross_streets>BERNICE AVE / EDWALTER AVE</cross_streets>
+    <dispatch_time>2020-12-08 09:08:14</dispatch_time>
+    <event_num>F20121949</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P422, P431, R423, R425, A426, C34</units_disp>
+  </event>
+  <event>
+    <prime_street>EDGEWOOD AVE, TT</prime_street>
+    <cross_streets>FITZGERALD MEWS / KELLNER CRT</cross_streets>
+    <dispatch_time>2020-12-08 09:08:07</dispatch_time>
+    <event_num>F20121950</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227, R326, A325, C32, P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-08 08:40:14</dispatch_time>
-    <event_num>F20121942</event_num>
+    <dispatch_time>2020-12-08 09:08:48</dispatch_time>
+    <event_num>F20121951</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
+    <beat>426</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street>VENDOME PL, NY</prime_street>
+    <cross_streets>GRENOBLE DR / </cross_streets>
+    <dispatch_time>2020-12-08 09:10:10</dispatch_time>
+    <event_num>F20121952</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 09:14:17</dispatch_time>
+    <event_num>F20121953</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 09:15:50</dispatch_time>
+    <event_num>F20121954</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>CHISWELL CRES, NY</prime_street>
+    <cross_streets>LEADENHALL RD / LEADENHALL RD</cross_streets>
+    <dispatch_time>2020-12-08 09:16:10</dispatch_time>
+    <event_num>F20121955</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P114, R122, C11, R112, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 09:16:04</dispatch_time>
+    <event_num>F20121956</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> A426</units_disp>
   </event>
 </tfs_active_incidents>
