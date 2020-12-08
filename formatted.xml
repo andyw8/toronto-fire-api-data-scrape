@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-08 10:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-08 10:50:03</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -12,53 +12,53 @@
     <units_disp> C44, P432, P445, A433, S445, R435, C43, P431, P443, R444, LA333, LA421, C40, P433, S445</units_disp>
   </event>
   <event>
-    <prime_street>COUGAR CRT, SC</prime_street>
-    <cross_streets>MARKHAM RD / </cross_streets>
-    <dispatch_time>2020-12-08 10:12:12</dispatch_time>
-    <event_num>F20121971</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>ST EDMUND'S DR / CHERITAN AVE</cross_streets>
+    <dispatch_time>2020-12-08 10:33:41</dispatch_time>
+    <event_num>F20121978</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231, P223, A215, C22, P221</units_disp>
+    <beat>131</beat>
+    <units_disp> P132</units_disp>
   </event>
   <event>
-    <prime_street>KING ST, TT</prime_street>
-    <cross_streets>BAY ST / YORK ST</cross_streets>
-    <dispatch_time>2020-12-08 10:12:54</dispatch_time>
-    <event_num>F20121972</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> A331, C33, HR332, P314, P325, P332, C32</units_disp>
-  </event>
-  <event>
-    <prime_street>WILLOWDALE AVE, NY</prime_street>
-    <cross_streets>CHURCH AVE / BYNG AVE</cross_streets>
-    <dispatch_time>2020-12-08 10:13:45</dispatch_time>
-    <event_num>F20121973</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P111, P143, C11, P141, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>HUMBER BLVD, YK</prime_street>
-    <cross_streets>ALLIANCE AVE / HILLDALE RD</cross_streets>
-    <dispatch_time>2020-12-08 10:16:11</dispatch_time>
-    <event_num>F20121974</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421, P422, A421, C42, R423, A345</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
+    <prime_street>M8V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-08 10:21:46</dispatch_time>
-    <event_num>F20121975</event_num>
+    <dispatch_time>2020-12-08 10:40:26</dispatch_time>
+    <event_num>F20121980</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SUNNYSIDE AVE / GLENDALE AVE</cross_streets>
+    <dispatch_time>2020-12-08 10:43:31</dispatch_time>
+    <event_num>F20121981</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> A426, C42, R423, R425, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 10:46:19</dispatch_time>
+    <event_num>F20121982</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
     <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M2M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 10:46:26</dispatch_time>
+    <event_num>F20121983</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
   </event>
 </tfs_active_incidents>
