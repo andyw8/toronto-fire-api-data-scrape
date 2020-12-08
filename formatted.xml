@@ -1,64 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-08 10:50:03</update_from_db_time>
+  <update_from_db_time>2020-12-08 11:30:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-08 07:19:16</dispatch_time>
-    <event_num>F20121922</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
+    <prime_street>LOGAN AVE, TT</prime_street>
+    <cross_streets>LN W LOGAN N WITHROW / BAIN AVE</cross_streets>
+    <dispatch_time>2020-12-08 11:08:30</dispatch_time>
+    <event_num>F20121996</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> C44, P432, P445, A433, S445, R435, C43, P431, P443, R444, LA333, LA421, C40, P433, S445</units_disp>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>ST EDMUND'S DR / CHERITAN AVE</cross_streets>
-    <dispatch_time>2020-12-08 10:33:41</dispatch_time>
-    <event_num>F20121978</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
+    <prime_street>UNION ST, TT</prime_street>
+    <cross_streets>HEPC / TURNBERRY AVE</cross_streets>
+    <dispatch_time>2020-12-08 11:14:16</dispatch_time>
+    <event_num>F20121998</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-08 10:40:26</dispatch_time>
-    <event_num>F20121980</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
+    <beat>423</beat>
+    <units_disp> R423, P342, A423, C42, P422, R421</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>SUNNYSIDE AVE / GLENDALE AVE</cross_streets>
-    <dispatch_time>2020-12-08 10:43:31</dispatch_time>
-    <event_num>F20121981</event_num>
-    <event_type>Alarm Institution</event_type>
+    <cross_streets>SHEPPARD AVE E / PROVOST DR</cross_streets>
+    <dispatch_time>2020-12-08 11:14:34</dispatch_time>
+    <event_num>F20121999</event_num>
+    <event_type>Vehicle - Spill Clean Up</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> A426, C42, R423, R425, R426</units_disp>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-08 10:46:19</dispatch_time>
-    <event_num>F20121982</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>OLD WESTON RD / ST CLAIR AVE W</cross_streets>
+    <dispatch_time>2020-12-08 11:22:03</dispatch_time>
+    <event_num>F20122002</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-08 10:46:26</dispatch_time>
-    <event_num>F20121983</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
+    <beat>423</beat>
+    <units_disp> A345</units_disp>
   </event>
 </tfs_active_incidents>
