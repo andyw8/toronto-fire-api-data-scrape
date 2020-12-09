@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-09 06:30:02</update_from_db_time>
-  <event>
-    <prime_street>KINGSTON RD, TT</prime_street>
-    <cross_streets>GLEN STEWART CRES / LN W MAIN N KINGSTON</cross_streets>
-    <dispatch_time>2020-12-09 05:49:08</dispatch_time>
-    <event_num>F20122262</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
+  <update_from_db_time>2020-12-09 06:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -22,33 +12,23 @@
     <units_disp> P131, P132, A133, A135</units_disp>
   </event>
   <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>RUNNYMEDE RD / BERESFORD AVE</cross_streets>
-    <dispatch_time>2020-12-09 06:14:29</dispatch_time>
-    <event_num>F20122268</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>SUNNYSIDE AVE / GLENDALE AVE</cross_streets>
+    <dispatch_time>2020-12-09 06:33:10</dispatch_time>
+    <event_num>F20122271</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425, R423, A423, C42, P422</units_disp>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>WILSON AVE / AVENUE RD</cross_streets>
-    <dispatch_time>2020-12-09 06:16:54</dispatch_time>
-    <event_num>F20122269</event_num>
+    <cross_streets>FINCH AVE W / SENLAC RD</cross_streets>
+    <dispatch_time>2020-12-09 06:33:24</dispatch_time>
+    <event_num>F20122272</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-09 06:22:02</dispatch_time>
-    <event_num>F20122270</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
