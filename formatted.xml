@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-08 23:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-09 00:15:02</update_from_db_time>
   <event>
     <prime_street>ROCKWELL AVE, TT</prime_street>
     <cross_streets>BLACKTHORN AVE / SILVERTHORN AVE</cross_streets>
@@ -10,25 +10,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>342</beat>
     <units_disp> P342, R421, R423, P343, A423, C42, LA421</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-08 23:24:00</dispatch_time>
-    <event_num>F20122205</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
-  </event>
-  <event>
-    <prime_street>DOUGLAS DR, TT</prime_street>
-    <cross_streets>CHORLEY PARK TRL / GLEN RD</cross_streets>
-    <dispatch_time>2020-12-08 23:46:10</dispatch_time>
-    <event_num>F20122209</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, P311, A312, C31, P312</units_disp>
   </event>
 </tfs_active_incidents>
