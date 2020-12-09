@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-08 22:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-08 22:50:02</update_from_db_time>
   <event>
     <prime_street>DELORAINE AVE, NY</prime_street>
     <cross_streets>ELM RD / AVENUE RD</cross_streets>
@@ -10,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
     <units_disp> P145, P132, C13, HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>KEELE ST / PIMLICO RD</cross_streets>
+    <dispatch_time>2020-12-08 22:35:00</dispatch_time>
+    <event_num>F20122198</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> P426, P442, A133, P146, C13, R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-08 22:42:00</dispatch_time>
+    <event_num>F20122199</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
 </tfs_active_incidents>
