@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-08 18:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-08 20:00:02</update_from_db_time>
   <event>
     <prime_street>FRASER AVE, TT</prime_street>
     <cross_streets>LIBERTY ST / KING ST W</cross_streets>
@@ -12,83 +12,63 @@
     <units_disp> P315, P331, P344, R426, C34, A426, C30, FI8</units_disp>
   </event>
   <event>
-    <prime_street>PROSPECT ST, TT</prime_street>
-    <cross_streets>DARLING LANE / PARLIAMENT ST</cross_streets>
-    <dispatch_time>2020-12-08 18:22:06</dispatch_time>
-    <event_num>F20122121</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>CRAWFORD ST, TT</prime_street>
+    <cross_streets>ADELAIDE ST W / LN N ADELAIDE E SHAW</cross_streets>
+    <dispatch_time>2020-12-08 19:38:23</dispatch_time>
+    <event_num>F20122151</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, P314, A325, C31, P312, P333, S313</units_disp>
+    <beat>331</beat>
+    <units_disp> P331, HZ145, P433, C33, HZ332</units_disp>
   </event>
   <event>
-    <prime_street>ADVANCE RD, ET</prime_street>
-    <cross_streets>C P R SPUR / LN W ISLINGTON S ADVANCE</cross_streets>
-    <dispatch_time>2020-12-08 18:28:50</dispatch_time>
-    <event_num>F20122123</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, P445, A433, C44, P431, R435</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M4Y</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-08 18:32:00</dispatch_time>
-    <event_num>F20122124</event_num>
+    <dispatch_time>2020-12-08 19:43:36</dispatch_time>
+    <event_num>F20122153</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
   <event>
-    <prime_street>M4J</prime_street>
+    <prime_street>M1H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-08 18:32:24</dispatch_time>
-    <event_num>F20122125</event_num>
+    <dispatch_time>2020-12-08 19:45:52</dispatch_time>
+    <event_num>F20122154</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
+    <beat>231</beat>
+    <units_disp> R231</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-08 18:34:39</dispatch_time>
-    <event_num>F20122126</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>DOVERCOURT RD, TT</prime_street>
+    <cross_streets>SHANNON ST / LN S COLLEGE W DOVERCOURT</cross_streets>
+    <dispatch_time>2020-12-08 19:48:06</dispatch_time>
+    <event_num>F20122155</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
+    <beat>426</beat>
+    <units_disp> R426, P344, A426, C34, P315</units_disp>
   </event>
   <event>
-    <prime_street>ISLINGTON AVE, ET</prime_street>
-    <cross_streets>ST ANDREWS BLVD / FAIRHAVEN PARK TRL</cross_streets>
-    <dispatch_time>2020-12-08 18:40:45</dispatch_time>
-    <event_num>F20122127</event_num>
+    <prime_street>SHUTER ST, TT</prime_street>
+    <cross_streets>ONTARIO ST / MILAN ST</cross_streets>
+    <dispatch_time>2020-12-08 19:49:47</dispatch_time>
+    <event_num>F20122156</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> R441, P415CA, A441, C41, P442</units_disp>
+    <beat>325</beat>
+    <units_disp> P325, P333, A325, C33, P313</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>PASSMORE AVE / MIDDLEFIELD RD</cross_streets>
-    <dispatch_time>2020-12-08 18:43:11</dispatch_time>
-    <event_num>F20122128</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M6A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-08 18:44:54</dispatch_time>
-    <event_num>F20122129</event_num>
+    <dispatch_time>2020-12-08 19:51:17</dispatch_time>
+    <event_num>F20122157</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
 </tfs_active_incidents>
