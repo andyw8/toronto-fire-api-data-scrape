@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-09 12:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-09 12:40:02</update_from_db_time>
   <event>
     <prime_street>WILGAR RD, ET</prime_street>
     <cross_streets>ROYAL YORK RD / BRENTWOOD RD N</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>344</beat>
     <units_disp> P315, HR332</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-09 12:16:54</dispatch_time>
-    <event_num>F20122356</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A411, P442</units_disp>
   </event>
   <event>
     <prime_street>M4C</prime_street>
@@ -59,6 +49,16 @@
     <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
-    <units_disp> R325, P325, A325, C31, P313</units_disp>
+    <units_disp> R325, P325, A325, C31, P313, C31</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-09 12:31:12</dispatch_time>
+    <event_num>F20122360</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
   </event>
 </tfs_active_incidents>
