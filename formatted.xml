@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-09 08:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-09 08:30:03</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>ALBION RD / HUMBERLINE DR</cross_streets>
@@ -12,23 +12,33 @@
     <units_disp> R412</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>EGLINTON AVE W / MATHESON BLVD</cross_streets>
-    <dispatch_time>2020-12-09 07:54:32</dispatch_time>
-    <event_num>F20122285</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
-    <prime_street>M2H</prime_street>
+    <prime_street>M1J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-09 07:58:56</dispatch_time>
-    <event_num>F20122287</event_num>
+    <dispatch_time>2020-12-09 08:23:13</dispatch_time>
+    <event_num>F20122288</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113</units_disp>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>OLD MILL RD / BLOOR ST W</cross_streets>
+    <dispatch_time>2020-12-09 08:23:58</dispatch_time>
+    <event_num>F20122289</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-09 08:26:47</dispatch_time>
+    <event_num>F20122292</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
   </event>
 </tfs_active_incidents>
