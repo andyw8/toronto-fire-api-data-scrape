@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-09 07:25:02</update_from_db_time>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-09 07:14:30</dispatch_time>
-    <event_num>F20122278</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
-  </event>
+  <update_from_db_time>2020-12-09 07:50:02</update_from_db_time>
   <event>
     <prime_street>LAWRENCE AVE, NY</prime_street>
     <cross_streets>LAWRENCE W DVP N RAMP / UNDERHILL DR</cross_streets>
@@ -30,5 +20,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>432</beat>
     <units_disp> PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>MIDLAND AVE, SC</prime_street>
+    <cross_streets>PROGRESS AVE / EMBLEM CRT</cross_streets>
+    <dispatch_time>2020-12-09 07:26:37</dispatch_time>
+    <event_num>F20122281</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P245, P242, A244, C24, R231</units_disp>
+  </event>
+  <event>
+    <prime_street>GLADSTONE AVE, TT</prime_street>
+    <cross_streets>WATERLOO AVE / CROSS ST</cross_streets>
+    <dispatch_time>2020-12-09 07:31:54</dispatch_time>
+    <event_num>F20122282</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426, P426, A426, C34, P331, P344, P315</units_disp>
   </event>
 </tfs_active_incidents>
