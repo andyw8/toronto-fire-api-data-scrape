@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-09 14:30:02</update_from_db_time>
-  <event>
-    <prime_street>FOREST GROVE DR, NY</prime_street>
-    <cross_streets>COURTWOOD PL / </cross_streets>
-    <dispatch_time>2020-12-09 13:39:51</dispatch_time>
-    <event_num>F20122377</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> A113, HZ145, P145, C13, C11</units_disp>
-  </event>
+  <update_from_db_time>2020-12-09 14:45:02</update_from_db_time>
   <event>
     <prime_street>M3J</prime_street>
     <cross_streets/>
@@ -20,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
     <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-09 14:09:30</dispatch_time>
-    <event_num>F20122389</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>CLARENCE SQUARE PARK TRL, TT</prime_street>
-    <cross_streets>CLARENCE SQ / CLARENCE SQ</cross_streets>
-    <dispatch_time>2020-12-09 14:10:58</dispatch_time>
-    <event_num>F20122390</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, C33</units_disp>
   </event>
   <event>
     <prime_street>M2R</prime_street>
@@ -52,16 +22,6 @@
     <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-09 14:19:23</dispatch_time>
-    <event_num>F20122394</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>JANE ST / SHEPPARD AVE W</cross_streets>
     <dispatch_time>2020-12-09 14:25:28</dispatch_time>
@@ -69,16 +29,76 @@
     <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
-    <units_disp> R413, C14, P146, S143</units_disp>
+    <units_disp> C14, P146, S143, R413</units_disp>
   </event>
   <event>
-    <prime_street>M3H</prime_street>
+    <prime_street>M4T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-09 14:25:55</dispatch_time>
-    <event_num>F20122396</event_num>
+    <dispatch_time>2020-12-09 14:29:17</dispatch_time>
+    <event_num>F20122398</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-09 14:29:28</dispatch_time>
+    <event_num>F20122399</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-09 14:31:43</dispatch_time>
+    <event_num>F20122400</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
+  </event>
+  <event>
+    <prime_street>MAYWOOD PK, SC</prime_street>
+    <cross_streets>FOXRIDGE DR / MARTORINO DR</cross_streets>
+    <dispatch_time>2020-12-09 14:35:59</dispatch_time>
+    <event_num>F20122401</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> A222, C22, P221, P222, P223</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SHEPPARD AVE E / LESLIE ST</cross_streets>
+    <dispatch_time>2020-12-09 14:39:07</dispatch_time>
+    <event_num>F20122402</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> C11, P116, R115, S232</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KINGSTON RD / GALLOWAY RD</cross_streets>
+    <dispatch_time>2020-12-09 14:40:50</dispatch_time>
+    <event_num>F20122403</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-09 14:41:39</dispatch_time>
+    <event_num>F20122404</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
   </event>
 </tfs_active_incidents>
