@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-10 04:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-10 04:35:02</update_from_db_time>
   <event>
     <prime_street>AMIENS RD, SC</prime_street>
     <cross_streets>TEFFT RD / BEATH ST</cross_streets>
@@ -12,33 +12,23 @@
     <units_disp> P234, R214, P212, A215, C23, P223, A213, LA231, R231, S232, C20, P223, P221, R243, P211, P232, P245, P242</units_disp>
   </event>
   <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M2H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-10 04:08:29</dispatch_time>
-    <event_num>F20122571</event_num>
+    <dispatch_time>2020-12-10 04:23:31</dispatch_time>
+    <event_num>F20122575</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A441</units_disp>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>EDWARD ST / GOULD ST</cross_streets>
-    <dispatch_time>2020-12-10 04:10:45</dispatch_time>
-    <event_num>F20122573</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M4M</prime_street>
+    <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-10 04:14:32</dispatch_time>
-    <event_num>F20122574</event_num>
+    <dispatch_time>2020-12-10 04:24:26</dispatch_time>
+    <event_num>F20122576</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> R326</units_disp>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
   </event>
 </tfs_active_incidents>
