@@ -1,64 +1,84 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-10 11:35:02</update_from_db_time>
+  <update_from_db_time>2020-12-10 12:05:02</update_from_db_time>
   <event>
-    <prime_street>KINGSTON RD, SC</prime_street>
-    <cross_streets>GALLOWAY RD / 4315 KINGSTON RD</cross_streets>
-    <dispatch_time>2020-12-10 11:19:56</dispatch_time>
-    <event_num>F20122665</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> S232, R231, A231</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
+    <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-10 11:20:09</dispatch_time>
-    <event_num>F20122666</event_num>
+    <dispatch_time>2020-12-10 11:37:06</dispatch_time>
+    <event_num>F20122672</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
   <event>
-    <prime_street>M4X</prime_street>
+    <prime_street>M2J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-10 11:21:32</dispatch_time>
-    <event_num>F20122668</event_num>
+    <dispatch_time>2020-12-10 11:41:18</dispatch_time>
+    <event_num>F20122673</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
   </event>
   <event>
-    <prime_street>M8X</prime_street>
+    <prime_street>M4S</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-10 11:25:54</dispatch_time>
-    <event_num>F20122669</event_num>
+    <dispatch_time>2020-12-10 11:55:55</dispatch_time>
+    <event_num>F20122675</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> A433</units_disp>
+    <beat>321</beat>
+    <units_disp> A321</units_disp>
   </event>
   <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-10 11:27:30</dispatch_time>
-    <event_num>F20122670</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>WILSON AVE, NY</prime_street>
+    <cross_streets>JETHRO RD / CLAYSON RD</cross_streets>
+    <dispatch_time>2020-12-10 11:55:59</dispatch_time>
+    <event_num>F20122676</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
+    <beat>146</beat>
+    <units_disp> P146, P142, C14, A411, P442</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>MORNINGSIDE AVE / KINGSTON RD</cross_streets>
-    <dispatch_time>2020-12-10 11:30:14</dispatch_time>
-    <event_num>F20122671</event_num>
-    <event_type>Wires Down - Hydro</event_type>
+    <cross_streets>NORTH QUEEN ST / HEPC</cross_streets>
+    <dispatch_time>2020-12-10 11:57:29</dispatch_time>
+    <event_num>F20122677</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> A215</units_disp>
+    <beat>432</beat>
+    <units_disp> P432, R434, C44, P426, PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-10 11:59:10</dispatch_time>
+    <event_num>F20122678</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-10 12:01:12</dispatch_time>
+    <event_num>F20122679</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> S331</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-10 12:01:44</dispatch_time>
+    <event_num>F20122680</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
   </event>
 </tfs_active_incidents>
