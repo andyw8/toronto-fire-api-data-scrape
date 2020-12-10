@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-10 02:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-10 02:40:03</update_from_db_time>
   <event>
     <prime_street>AMIENS RD, SC</prime_street>
     <cross_streets>TEFFT RD / BEATH ST</cross_streets>
@@ -50,5 +50,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> A244</units_disp>
+  </event>
+  <event>
+    <prime_street>ONTARIO ST, TT</prime_street>
+    <cross_streets>GENDRON LANE / RICHMOND ST E</cross_streets>
+    <dispatch_time>2020-12-10 02:28:57</dispatch_time>
+    <event_num>F20122559</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-10 02:30:26</dispatch_time>
+    <event_num>F20122560</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P233</units_disp>
   </event>
 </tfs_active_incidents>
