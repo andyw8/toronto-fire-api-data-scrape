@@ -1,74 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-10 14:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-10 15:20:02</update_from_db_time>
   <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>DUNDAS ST, TT</prime_street>
+    <cross_streets>MAVETY ST / MEDLAND ST</cross_streets>
+    <dispatch_time>2020-12-10 14:55:44</dispatch_time>
+    <event_num>F20122746</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> A423</units_disp>
+  </event>
+  <event>
+    <prime_street>WELLESLEY ST, TT</prime_street>
+    <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
+    <dispatch_time>2020-12-10 14:59:19</dispatch_time>
+    <event_num>F20122747</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> A325, P312, P313, P333, S313, C31</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>JANE ST / EDDYSTONE AVE</cross_streets>
+    <dispatch_time>2020-12-10 15:01:50</dispatch_time>
+    <event_num>F20122748</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> C14, P146, S331, R411</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>EVANS AVE / HORNER AVE</cross_streets>
+    <dispatch_time>2020-12-10 15:07:06</dispatch_time>
+    <event_num>F20122750</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-10 14:07:39</dispatch_time>
-    <event_num>F20122727</event_num>
+    <dispatch_time>2020-12-10 15:12:25</dispatch_time>
+    <event_num>F20122752</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
   </event>
   <event>
-    <prime_street>TOBERMORY DR, NY</prime_street>
-    <cross_streets>FINCH AVE W / POTSDAM RD</cross_streets>
-    <dispatch_time>2020-12-10 14:27:04</dispatch_time>
-    <event_num>F20122735</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141, A411</units_disp>
-  </event>
-  <event>
-    <prime_street>MOATFIELD DR, NY</prime_street>
-    <cross_streets>VALLEYBROOK DR / DON MILLS RD</cross_streets>
-    <dispatch_time>2020-12-10 14:32:32</dispatch_time>
-    <event_num>F20122737</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M4G</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-10 14:33:36</dispatch_time>
-    <event_num>F20122738</event_num>
+    <dispatch_time>2020-12-10 15:12:22</dispatch_time>
+    <event_num>F20122753</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>321</beat>
+    <units_disp> A321</units_disp>
   </event>
   <event>
-    <prime_street>FEAGAN DR, SC</prime_street>
-    <cross_streets>BATHGATE DR / BATHGATE DR</cross_streets>
-    <dispatch_time>2020-12-10 14:34:02</dispatch_time>
-    <event_num>F20122739</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> R214, P212, A215, C21, P223</units_disp>
-  </event>
-  <event>
-    <prime_street>SEAFORTH AVE, TT</prime_street>
-    <cross_streets>WEST LODGE AVE / LANSDOWNE AVE</cross_streets>
-    <dispatch_time>2020-12-10 14:37:44</dispatch_time>
-    <event_num>F20122740</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, P426, A426, C34, P331, P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M9A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-10 14:41:17</dispatch_time>
-    <event_num>F20122741</event_num>
+    <dispatch_time>2020-12-10 15:16:32</dispatch_time>
+    <event_num>F20122754</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
   </event>
 </tfs_active_incidents>
