@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-10 16:30:01</update_from_db_time>
+  <update_from_db_time>2020-12-10 16:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> P116</units_disp>
   </event>
   <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-10 16:08:43</dispatch_time>
-    <event_num>F20122779</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
     <prime_street>M9B</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-10 16:09:20</dispatch_time>
@@ -50,16 +40,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
     <units_disp> S445</units_disp>
-  </event>
-  <event>
-    <prime_street>M3M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-10 16:18:45</dispatch_time>
-    <event_num>F20122782</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
   </event>
   <event>
     <prime_street>M4P</prime_street>
@@ -72,26 +52,6 @@
     <units_disp> R134</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, NY</prime_street>
-    <cross_streets>KEELE ST / PIMLICO RD</cross_streets>
-    <dispatch_time>2020-12-10 16:20:29</dispatch_time>
-    <event_num>F20122784</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> S143, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-10 16:21:57</dispatch_time>
-    <event_num>F20122785</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
     <prime_street>M3H</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-10 16:22:39</dispatch_time>
@@ -102,13 +62,23 @@
     <units_disp> P132</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-10 16:24:18</dispatch_time>
-    <event_num>F20122787</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BRANT ST, TT</prime_street>
+    <cross_streets>CAMDEN ST / RICHMOND ST W</cross_streets>
+    <dispatch_time>2020-12-10 16:27:18</dispatch_time>
+    <event_num>F20122788</event_num>
+    <event_type>Hazmat Level 2</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <beat>332</beat>
+    <units_disp> P324, P332, C33, HZ332</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, TT</prime_street>
+    <cross_streets>JEDBURGH RD / GREER RD</cross_streets>
+    <dispatch_time>2020-12-10 16:34:08</dispatch_time>
+    <event_num>F20122789</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>131</beat>
+    <units_disp> A135</units_disp>
   </event>
 </tfs_active_incidents>
