@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-10 08:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-10 08:45:02</update_from_db_time>
   <event>
     <prime_street>BELLWOODS AVE, TT</prime_street>
     <cross_streets>BELLWOODS PL / DUNDAS ST W</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P422</units_disp>
   </event>
   <event>
-    <prime_street>KILBARRY RD, TT</prime_street>
-    <cross_streets>AVENUE RD / FOREST HILL RD</cross_streets>
-    <dispatch_time>2020-12-10 08:12:53</dispatch_time>
-    <event_num>F20122608</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P311</units_disp>
-  </event>
-  <event>
     <prime_street>M3J</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-10 08:16:01</dispatch_time>
@@ -42,13 +32,13 @@
     <units_disp> P141</units_disp>
   </event>
   <event>
-    <prime_street>HALDON AVE, EY</prime_street>
-    <cross_streets>STAN WADLOW PARK TRL / HEPC</cross_streets>
-    <dispatch_time>2020-12-10 08:20:41</dispatch_time>
-    <event_num>F20122610</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>ISLINGTON AVE, ET</prime_street>
+    <cross_streets>ST GEORGES BLVD / LEMSFORD RD</cross_streets>
+    <dispatch_time>2020-12-10 08:28:07</dispatch_time>
+    <event_num>F20122611</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224, P322, P226, A322, C32</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
