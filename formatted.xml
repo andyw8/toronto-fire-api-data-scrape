@@ -1,64 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-10 13:55:02</update_from_db_time>
+  <update_from_db_time>2020-12-10 14:20:02</update_from_db_time>
   <event>
-    <prime_street>YORKLAND BLVD, NY</prime_street>
-    <cross_streets>YORKLAND RD / SMOOTH ROSE CRT</cross_streets>
-    <dispatch_time>2020-12-10 13:18:47</dispatch_time>
-    <event_num>F20122708</event_num>
-    <event_type>Alarm Institution</event_type>
+    <prime_street>CLYDESDALE DR, NY</prime_street>
+    <cross_streets>KATHROSE DR / VICTORIA PARK AVE</cross_streets>
+    <dispatch_time>2020-12-10 13:57:53</dispatch_time>
+    <event_num>F20122721</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>115</beat>
-    <units_disp> P116, P233, P123, A244, C24, P245</units_disp>
+    <units_disp> R115, A244</units_disp>
   </event>
   <event>
-    <prime_street>M5E</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-10 13:20:30</dispatch_time>
-    <event_num>F20122710</event_num>
+    <dispatch_time>2020-12-10 14:07:39</dispatch_time>
+    <event_num>F20122727</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> HZ332</units_disp>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
   </event>
   <event>
-    <prime_street>RIVERVIEW DR, NY</prime_street>
-    <cross_streets>SNOWDON AVE / </cross_streets>
-    <dispatch_time>2020-12-10 13:42:52</dispatch_time>
-    <event_num>F20122716</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P145, P131, C13, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-10 13:43:25</dispatch_time>
-    <event_num>F20122717</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-10 13:45:00</dispatch_time>
-    <event_num>F20122718</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>SUSSEX MEWS / ROBERT ST</cross_streets>
-    <dispatch_time>2020-12-10 13:51:11</dispatch_time>
-    <event_num>F20122719</event_num>
+    <prime_street>OAKLAND AVE, NY</prime_street>
+    <cross_streets>WILSON AVE / MARMORA ST</cross_streets>
+    <dispatch_time>2020-12-10 14:10:31</dispatch_time>
+    <event_num>F20122729</event_num>
     <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P315, P314, A315, C31, R345</units_disp>
+    <beat>146</beat>
+    <units_disp> P146, P142, C14, P442, A411</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-10 14:11:39</dispatch_time>
+    <event_num>F20122730</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A341, A341, R341</units_disp>
   </event>
 </tfs_active_incidents>
