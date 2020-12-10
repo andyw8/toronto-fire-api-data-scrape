@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-10 14:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-10 14:45:02</update_from_db_time>
   <event>
     <prime_street>M9V</prime_street>
     <cross_streets/>
@@ -12,53 +12,63 @@
     <units_disp> R412</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-10 14:11:39</dispatch_time>
-    <event_num>F20122730</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>TOBERMORY DR, NY</prime_street>
+    <cross_streets>FINCH AVE W / POTSDAM RD</cross_streets>
+    <dispatch_time>2020-12-10 14:27:04</dispatch_time>
+    <event_num>F20122735</event_num>
+    <event_type>Water Problem</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341, A341, R341</units_disp>
+    <beat>141</beat>
+    <units_disp> P141, A411</units_disp>
   </event>
   <event>
-    <prime_street>ISLINGTON AVE, ET</prime_street>
-    <cross_streets>BERGAMOT AVE / LEDUC DR</cross_streets>
-    <dispatch_time>2020-12-10 14:18:51</dispatch_time>
-    <event_num>F20122731</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>MOATFIELD DR, NY</prime_street>
+    <cross_streets>VALLEYBROOK DR / DON MILLS RD</cross_streets>
+    <dispatch_time>2020-12-10 14:32:32</dispatch_time>
+    <event_num>F20122737</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> R441, R413, A415, C41, P443</units_disp>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-10 14:22:13</dispatch_time>
-    <event_num>F20122732</event_num>
+    <dispatch_time>2020-12-10 14:33:36</dispatch_time>
+    <event_num>F20122738</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>M1H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-10 14:23:03</dispatch_time>
-    <event_num>F20122733</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>FEAGAN DR, SC</prime_street>
+    <cross_streets>BATHGATE DR / BATHGATE DR</cross_streets>
+    <dispatch_time>2020-12-10 14:34:02</dispatch_time>
+    <event_num>F20122739</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <beat>215</beat>
+    <units_disp> R214, P212, A215, C21, P223</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>SEAFORTH AVE, TT</prime_street>
+    <cross_streets>WEST LODGE AVE / LANSDOWNE AVE</cross_streets>
+    <dispatch_time>2020-12-10 14:37:44</dispatch_time>
+    <event_num>F20122740</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426, P426, A426, C34, P331, P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-10 14:26:05</dispatch_time>
-    <event_num>F20122734</event_num>
+    <dispatch_time>2020-12-10 14:41:17</dispatch_time>
+    <event_num>F20122741</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> A325</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
