@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-11 02:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-11 03:30:02</update_from_db_time>
   <event>
     <prime_street>BATHURST ST, NY</prime_street>
     <cross_streets>GREENWIN VILLAGE RD / STEELES AVE W</cross_streets>
@@ -19,16 +19,16 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>132</beat>
-    <units_disp> P131, P132, R134, A341, R341, C13, P132, R133, A321, LA421, S313, C34, C30, C31, P311, P343, P442, CMD30, CMD30C, A135, A321</units_disp>
+    <units_disp> P131, P132, R134, A341, R341, C13, P132, R133, A321, LA421, S313, C34, C30, C31, P311, P343, P442, CMD30, CMD30C, A135, A321, P442</units_disp>
   </event>
   <event>
-    <prime_street>ST CLAIR AVE, SC</prime_street>
-    <cross_streets>LINDEN AVE / MIDLAND AVE</cross_streets>
-    <dispatch_time>2020-12-11 02:36:23</dispatch_time>
-    <event_num>F20122954</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-11 03:11:24</dispatch_time>
+    <event_num>F20122957</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223, P221, A222, C22, R225</units_disp>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
 </tfs_active_incidents>
