@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-11 12:35:02</update_from_db_time>
+  <update_from_db_time>2020-12-11 12:40:02</update_from_db_time>
   <event>
     <prime_street>BATHURST ST, NY</prime_street>
     <cross_streets>GREENWIN VILLAGE RD / STEELES AVE W</cross_streets>
@@ -42,23 +42,13 @@
     <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>QUEENS QUAY E / HARBOUR ST</cross_streets>
-    <dispatch_time>2020-12-11 12:18:23</dispatch_time>
-    <event_num>F20123054</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-11 12:33:55</dispatch_time>
+    <event_num>F20123056</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334, P333, C33, P332, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>JARVIS ST / GEORGE ST</cross_streets>
-    <dispatch_time>2020-12-11 12:27:31</dispatch_time>
-    <event_num>F20123055</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, A325, C33, P314, P332</units_disp>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
