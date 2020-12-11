@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-11 00:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-11 01:25:02</update_from_db_time>
   <event>
     <prime_street>BATHURST ST, NY</prime_street>
     <cross_streets>GREENWIN VILLAGE RD / STEELES AVE W</cross_streets>
@@ -49,56 +49,16 @@
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>115</beat>
-    <units_disp> R115, A113, C24, P232, P322, A113, A244, R243</units_disp>
+    <units_disp> R115, A113, C24, P232, P322, A113, A244, R243, P233, P245, A213, A222</units_disp>
   </event>
   <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>BLOOR ST W / EDNA AVE</cross_streets>
-    <dispatch_time>2020-12-11 00:09:47</dispatch_time>
-    <event_num>F20122933</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423, R426, A423, R425, C34, R345</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-11 00:12:07</dispatch_time>
-    <event_num>F20122934</event_num>
-    <event_type>Vehicle Fire - Highway Elevated</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> R326, P333, C33, P334, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>REXDALE BLVD, ET</prime_street>
-    <cross_streets>ISLINGTON AVE / BERGAMOT AVE</cross_streets>
-    <dispatch_time>2020-12-11 00:29:15</dispatch_time>
-    <event_num>F20122938</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> R412, P443, A441, C41, P442, P445, C44, A415, R441</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
+    <prime_street>M9L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-11 00:33:41</dispatch_time>
-    <event_num>F20122939</event_num>
+    <dispatch_time>2020-12-11 01:17:50</dispatch_time>
+    <event_num>F20122947</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-11 00:42:00</dispatch_time>
-    <event_num>F20122940</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> HZ145</units_disp>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
   </event>
 </tfs_active_incidents>
