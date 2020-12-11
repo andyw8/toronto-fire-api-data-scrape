@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-11 09:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-11 09:40:02</update_from_db_time>
   <event>
     <prime_street>BATHURST ST, NY</prime_street>
     <cross_streets>GREENWIN VILLAGE RD / STEELES AVE W</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>5</alarm_lev>
     <beat>112</beat>
-    <units_disp> C11, HR114, P114, P141, R112, T114, A113, S143, R411, C14, LA111, P111, P121, P145, R122, HZ332, C10, CMD10C, CMD10, C7, C41, P116, P146, REHAB01, R241, A411, C42, P342, P143, LA231, A142, P123, P125, C32, R421, C2, FI19, S143, LA421, R341, R421, R122, P114, P111</units_disp>
+    <units_disp> C11, HR114, P114, P141, R112, T114, A113, S143, R411, C14, LA111, P111, P121, P145, R122, HZ332, C10, CMD10C, CMD10, C7, C41, P116, P146, REHAB01, R241, A411, C42, P342, P143, LA231, A142, P123, P125, C32, R421, C2, FI19, S143, LA421, R341, R421, R122, P114, P111, C10, FI5</units_disp>
   </event>
   <event>
     <prime_street>GLENGROVE AVE, NY</prime_street>
@@ -32,16 +32,6 @@
     <units_disp> P242</units_disp>
   </event>
   <event>
-    <prime_street>M2K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-11 08:51:54</dispatch_time>
-    <event_num>F20122991</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
     <prime_street>M4K</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-11 08:54:29</dispatch_time>
@@ -62,43 +52,53 @@
     <units_disp> P121, P132</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-11 09:03:58</dispatch_time>
-    <event_num>F20122994</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
+    <prime_street>LYNVALLEY CRES, SC</prime_street>
+    <cross_streets>TRESTLESIDE GRV / PRINCEWAY DR</cross_streets>
+    <dispatch_time>2020-12-11 09:28:31</dispatch_time>
+    <event_num>F20123000</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>233</beat>
+    <units_disp> A222, C22, P233, P245, R235, P123, LA231, A321, R115, S313</units_disp>
   </event>
   <event>
-    <prime_street>M4C</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-11 09:05:24</dispatch_time>
-    <event_num>F20122995</event_num>
+    <dispatch_time>2020-12-11 09:29:30</dispatch_time>
+    <event_num>F20123001</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> R224</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>LN W THE DONWAY N LAWRENCE / THE DONWAY W</cross_streets>
+    <dispatch_time>2020-12-11 09:30:04</dispatch_time>
+    <event_num>F20123002</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P113, R122, C11, HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-11 09:06:49</dispatch_time>
-    <event_num>F20122996</event_num>
+    <dispatch_time>2020-12-11 09:31:01</dispatch_time>
+    <event_num>F20123003</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
   <event>
-    <prime_street>EDGEHILL RD, ET</prime_street>
-    <cross_streets>COLWOOD RD / WESTRIDGE RD</cross_streets>
-    <dispatch_time>2020-12-11 09:06:59</dispatch_time>
-    <event_num>F20122997</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>LARCH ST, TT</prime_street>
+    <cross_streets>LN N GRANGE E LARCH / LN S DUNDAS W LARCH</cross_streets>
+    <dispatch_time>2020-12-11 09:32:09</dispatch_time>
+    <event_num>F20123004</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443, P431, A421, C44, P445</units_disp>
+    <beat>315</beat>
+    <units_disp> P332, P331, P314, A315, C33</units_disp>
   </event>
 </tfs_active_incidents>
