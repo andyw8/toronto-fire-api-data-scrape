@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-11 16:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-11 17:20:02</update_from_db_time>
   <event>
     <prime_street>BATHURST ST, NY</prime_street>
     <cross_streets>GREENWIN VILLAGE RD / STEELES AVE W</cross_streets>
@@ -29,67 +29,7 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>146</beat>
-    <units_disp> A142, C14, P145, P146, P442, C13, C14, A133, S143, A421, C13, HR114, HZ145, P121, P141, R421, LA421, P415, R441, CMD10, CMD10C, C40, C10</units_disp>
-  </event>
-  <event>
-    <prime_street>OAKDALE RD, NY</prime_street>
-    <cross_streets>EDDYSTONE AVE / FINCH AVE W</cross_streets>
-    <dispatch_time>2020-12-11 15:48:55</dispatch_time>
-    <event_num>F20123134</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A411, R112, S445, C41</units_disp>
-  </event>
-  <event>
-    <prime_street>CLEARBROOKE CRCL, ET</prime_street>
-    <cross_streets>COPPERMILL DR / BERRY CREEK DR</cross_streets>
-    <dispatch_time>2020-12-11 15:59:30</dispatch_time>
-    <event_num>F20123137</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415, C41, P443, P445, R413, R444, S445, A441</units_disp>
-  </event>
-  <event>
-    <prime_street>M3M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-11 16:13:47</dispatch_time>
-    <event_num>F20123142</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P143</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-11 16:24:23</dispatch_time>
-    <event_num>F20123147</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R412</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>DON MILLS RD / SKYMARK DR</cross_streets>
-    <dispatch_time>2020-12-11 16:24:39</dispatch_time>
-    <event_num>F20123148</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P111, P113, A113, C11, R241</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>ATHABASKA AVE / ABITIBI AVE</cross_streets>
-    <dispatch_time>2020-12-11 16:26:03</dispatch_time>
-    <event_num>F20123149</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> R112, T114</units_disp>
+    <units_disp> A142, C14, P145, P146, P442, C13, C14, A133, S143, A421, C13, HR114, HZ145, P121, P141, R421, LA421, P415, R441, CMD10, CMD10C, C40, C10, R421, R421</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -102,16 +42,6 @@
     <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-11 16:37:52</dispatch_time>
-    <event_num>F20123153</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
     <prime_street>M1L</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-11 16:44:45</dispatch_time>
@@ -120,5 +50,75 @@
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
     <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M4H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-11 16:52:54</dispatch_time>
+    <event_num>F20123156</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
+  </event>
+  <event>
+    <prime_street>M5J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-11 16:57:23</dispatch_time>
+    <event_num>F20123158</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-11 17:07:44</dispatch_time>
+    <event_num>F20123161</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>NIAGARA ST / WALNUT AVE</cross_streets>
+    <dispatch_time>2020-12-11 17:11:42</dispatch_time>
+    <event_num>F20123162</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331, P334, A331, C33, HR332, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-11 17:11:49</dispatch_time>
+    <event_num>F20123163</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>LESLIE ST / LAWRENCE AVE E</cross_streets>
+    <dispatch_time>2020-12-11 17:11:59</dispatch_time>
+    <event_num>F20123164</event_num>
+    <event_type>Vehicle Accident - Minor Fuel Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>3950 LAWRENCE AVE E / 3967 LAWRENCE AVE E</cross_streets>
+    <dispatch_time>2020-12-11 17:16:15</dispatch_time>
+    <event_num>F20123165</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P221, P234, A231, C23, P223</units_disp>
   </event>
 </tfs_active_incidents>
