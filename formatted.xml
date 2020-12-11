@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-11 06:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-11 06:40:02</update_from_db_time>
   <event>
     <prime_street>BATHURST ST, NY</prime_street>
     <cross_streets>GREENWIN VILLAGE RD / STEELES AVE W</cross_streets>
@@ -20,26 +20,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>132</beat>
     <units_disp> P131, P132, R134, A341, R341, C13, P132, R133, A321, LA421, S313, C34, C30, C31, P311, P343, P442, CMD30, CMD30C, A135, A321, P442, R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-11 05:41:39</dispatch_time>
-    <event_num>F20122968</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>JARVIS ST / RICHMOND ST E</cross_streets>
-    <dispatch_time>2020-12-11 06:14:35</dispatch_time>
-    <event_num>F20122973</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
   </event>
   <event>
     <prime_street>BROADVIEW AVE, TT</prime_street>
@@ -62,13 +42,13 @@
     <units_disp> C31, R326, S313, P227</units_disp>
   </event>
   <event>
-    <prime_street>FRONT ST, TT</prime_street>
-    <cross_streets>BAY ST / YORK ST</cross_streets>
-    <dispatch_time>2020-12-11 06:18:12</dispatch_time>
-    <event_num>F20122976</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-11 06:29:25</dispatch_time>
+    <event_num>F20122977</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> R426, P332, HR332, P334, S331, T333, C33</units_disp>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
   </event>
 </tfs_active_incidents>
