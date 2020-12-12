@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-12 08:20:01</update_from_db_time>
+  <update_from_db_time>2020-12-12 08:25:02</update_from_db_time>
   <event>
     <prime_street>JANE ST, NY</prime_street>
     <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
@@ -20,26 +20,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>214</beat>
     <units_disp> R214, A215, C21, P211, P212, P234, A231, LA231, P221, P223, P245, R243, S232, C23, HZ145, C20, CMD10, CMD10C, C24, R241, A244, A215, R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 07:29:06</dispatch_time>
-    <event_num>F20123349</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 07:59:48</dispatch_time>
-    <event_num>F20123355</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
   </event>
   <event>
     <prime_street>EGLINTON AVE, ET</prime_street>
