@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-12 01:25:02</update_from_db_time>
+  <update_from_db_time>2020-12-12 01:45:02</update_from_db_time>
   <event>
     <prime_street>JANE ST, NY</prime_street>
     <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>146</beat>
-    <units_disp> A142, C14, P145, P146, P442, C13, C14, A133, S143, A421, C13, HR114, HZ145, P121, P141, R421, LA421, P415, R441, CMD10, CMD10C, C40, C10, R421, R421, P114, P143, P415, R134</units_disp>
+    <units_disp> A142, C14, P145, P146, P442, C13, C14, A133, S143, A421, C13, HR114, HZ145, P121, P141, R421, LA421, P415, R441, CMD10, CMD10C, C40, C10, R421, R421, P114, P143, P415, R134, P113</units_disp>
   </event>
   <event>
     <prime_street>KINGSTON RD, SC</prime_street>
@@ -22,36 +22,6 @@
     <units_disp> R214, A215, C21, P211, P212, P234, A231, LA231, P221, P223, P245, R243, S232, C23, HZ145, C20, CMD10, CMD10C, C24, R241</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 00:33:25</dispatch_time>
-    <event_num>F20123292</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> A213</units_disp>
-  </event>
-  <event>
-    <prime_street>FRASER AVE, TT</prime_street>
-    <cross_streets>LIBERTY ST / KING ST W</cross_streets>
-    <dispatch_time>2020-12-12 00:56:35</dispatch_time>
-    <event_num>F20123294</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344, P426, C34, A426</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 01:05:32</dispatch_time>
-    <event_num>F20123295</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
     <prime_street>KING ST, TT</prime_street>
     <cross_streets>MOWAT AVE / DUFFERIN ST</cross_streets>
     <dispatch_time>2020-12-12 01:12:03</dispatch_time>
@@ -62,13 +32,23 @@
     <units_disp> R426, P331, C33, P315, A426</units_disp>
   </event>
   <event>
-    <prime_street>MCCOWAN RD, SC</prime_street>
-    <cross_streets>EGLINTON AVE E / TRUDELLE ST</cross_streets>
-    <dispatch_time>2020-12-12 01:16:27</dispatch_time>
-    <event_num>F20123297</event_num>
-    <event_type>Water Problem</event_type>
+    <prime_street>BAYVIEW AVE, EY</prime_street>
+    <cross_streets>DON VALLEY BRICK WORKS TRL / HEPC</cross_streets>
+    <dispatch_time>2020-12-12 01:30:59</dispatch_time>
+    <event_num>F20123298</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221, A231</units_disp>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
+  </event>
+  <event>
+    <prime_street>SCARLETT RD, ET</prime_street>
+    <cross_streets>RICHVIEW RD / LA ROSE AVE</cross_streets>
+    <dispatch_time>2020-12-12 01:39:50</dispatch_time>
+    <event_num>F20123299</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
