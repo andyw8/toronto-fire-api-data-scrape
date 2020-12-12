@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-12 02:15:02</update_from_db_time>
+  <update_from_db_time>2020-12-12 02:35:02</update_from_db_time>
   <event>
     <prime_street>JANE ST, NY</prime_street>
     <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> R214, A215, C21, P211, P212, P234, A231, LA231, P221, P223, P245, R243, S232, C23, HZ145, C20, CMD10, CMD10C, C24, R241</units_disp>
   </event>
   <event>
-    <prime_street>KING ST, TT</prime_street>
-    <cross_streets>MOWAT AVE / DUFFERIN ST</cross_streets>
-    <dispatch_time>2020-12-12 01:12:03</dispatch_time>
-    <event_num>F20123296</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> R426, P331, C33, P315, A426</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 01:54:25</dispatch_time>
-    <event_num>F20123301</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
     <prime_street>M6E</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-12 02:01:41</dispatch_time>
@@ -52,13 +32,13 @@
     <units_disp> R341</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 02:05:20</dispatch_time>
-    <event_num>F20123303</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>COXWELL AVE / LAKE SHORE BLVD E</cross_streets>
+    <dispatch_time>2020-12-12 02:24:40</dispatch_time>
+    <event_num>F20123306</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>326</beat>
+    <units_disp> R326</units_disp>
   </event>
 </tfs_active_incidents>
