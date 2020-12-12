@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-12 01:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-12 02:15:02</update_from_db_time>
   <event>
     <prime_street>JANE ST, NY</prime_street>
     <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
@@ -32,23 +32,33 @@
     <units_disp> R426, P331, C33, P315, A426</units_disp>
   </event>
   <event>
-    <prime_street>BAYVIEW AVE, EY</prime_street>
-    <cross_streets>DON VALLEY BRICK WORKS TRL / HEPC</cross_streets>
-    <dispatch_time>2020-12-12 01:30:59</dispatch_time>
-    <event_num>F20123298</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-12 01:54:25</dispatch_time>
+    <event_num>F20123301</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>SCARLETT RD, ET</prime_street>
-    <cross_streets>RICHVIEW RD / LA ROSE AVE</cross_streets>
-    <dispatch_time>2020-12-12 01:39:50</dispatch_time>
-    <event_num>F20123299</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-12 02:01:41</dispatch_time>
+    <event_num>F20123302</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-12 02:05:20</dispatch_time>
+    <event_num>F20123303</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
