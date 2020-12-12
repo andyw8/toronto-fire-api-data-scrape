@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-12 03:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-12 03:45:02</update_from_db_time>
   <event>
     <prime_street>JANE ST, NY</prime_street>
     <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>146</beat>
-    <units_disp> A142, C14, P145, P146, P442, C13, C14, A133, S143, A421, C13, HR114, HZ145, P121, P141, R421, LA421, P415, R441, CMD10, CMD10C, C40, C10, R421, R421, P114, P143, P415, R134, P113</units_disp>
+    <units_disp> A142, C14, P145, P146, P442, C13, C14, A133, S143, A421, C13, HR114, HZ145, P121, P141, R421, LA421, P415, R441, CMD10, CMD10C, C40, C10, R421, R421, P114, P143, P415, R134, P113, R112</units_disp>
   </event>
   <event>
     <prime_street>KINGSTON RD, SC</prime_street>
@@ -42,13 +42,43 @@
     <units_disp> P132, P342, A341, C13, R421</units_disp>
   </event>
   <event>
-    <prime_street>M8Z</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-12 03:12:20</dispatch_time>
-    <event_num>F20123311</event_num>
+    <dispatch_time>2020-12-12 03:26:35</dispatch_time>
+    <event_num>F20123312</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>HILLHURST BLVD / AVENUE RD</cross_streets>
+    <dispatch_time>2020-12-12 03:27:07</dispatch_time>
+    <event_num>F20123313</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-12 03:27:22</dispatch_time>
+    <event_num>F20123314</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-12 03:40:10</dispatch_time>
+    <event_num>F20123316</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
