@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-12 12:35:02</update_from_db_time>
+  <update_from_db_time>2020-12-12 12:40:02</update_from_db_time>
   <event>
     <prime_street>JANE ST, NY</prime_street>
     <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> A142, C14, P145, P146, P442, C13, C14, A133, S143, A421, C13, HR114, HZ145, P121, P141, R421, LA421, P415, R441, CMD10, CMD10C, C40, C10, R421, R421, P114, P143, P415, R134, P113, R112, P146, FI15</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 11:39:07</dispatch_time>
-    <event_num>F20123419</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
     <prime_street>M4W</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-12 12:05:41</dispatch_time>
@@ -30,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 12:17:47</dispatch_time>
-    <event_num>F20123428</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> P426</units_disp>
   </event>
   <event>
     <prime_street>BLOOR ST, TT</prime_street>
@@ -70,15 +50,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>412</beat>
     <units_disp> P415, R412, R413, A415, C41, R411</units_disp>
-  </event>
-  <event>
-    <prime_street>SHOREHAM DR, NY</prime_street>
-    <cross_streets>GOSFORD BLVD / HULLMAR PARK TRL</cross_streets>
-    <dispatch_time>2020-12-12 12:28:30</dispatch_time>
-    <event_num>F20123433</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P141, A142, C14, P146, R112</units_disp>
   </event>
 </tfs_active_incidents>
