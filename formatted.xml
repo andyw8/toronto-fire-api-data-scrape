@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-12 04:25:02</update_from_db_time>
+  <update_from_db_time>2020-12-12 04:50:02</update_from_db_time>
   <event>
     <prime_street>JANE ST, NY</prime_street>
     <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
@@ -32,23 +32,13 @@
     <units_disp> P233</units_disp>
   </event>
   <event>
-    <prime_street>M5T</prime_street>
+    <prime_street>M2M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-12 04:14:59</dispatch_time>
-    <event_num>F20123319</event_num>
+    <dispatch_time>2020-12-12 04:36:57</dispatch_time>
+    <event_num>F20123322</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 04:21:17</dispatch_time>
-    <event_num>F20123320</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
   </event>
 </tfs_active_incidents>
