@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-12 02:35:02</update_from_db_time>
+  <update_from_db_time>2020-12-12 03:20:02</update_from_db_time>
   <event>
     <prime_street>JANE ST, NY</prime_street>
     <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
@@ -19,7 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>214</beat>
-    <units_disp> R214, A215, C21, P211, P212, P234, A231, LA231, P221, P223, P245, R243, S232, C23, HZ145, C20, CMD10, CMD10C, C24, R241</units_disp>
+    <units_disp> R214, A215, C21, P211, P212, P234, A231, LA231, P221, P223, P245, R243, S232, C23, HZ145, C20, CMD10, CMD10C, C24, R241, A244</units_disp>
   </event>
   <event>
     <prime_street>M6E</prime_street>
@@ -32,13 +32,23 @@
     <units_disp> R341</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>COXWELL AVE / LAKE SHORE BLVD E</cross_streets>
-    <dispatch_time>2020-12-12 02:24:40</dispatch_time>
-    <event_num>F20123306</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>FAIRBANK AVE, YK</prime_street>
+    <cross_streets>CASTLEFIELD AVE / </cross_streets>
+    <dispatch_time>2020-12-12 03:10:28</dispatch_time>
+    <event_num>F20123310</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> R326</units_disp>
+    <beat>341</beat>
+    <units_disp> P132, P342, A341, C13, R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Z</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-12 03:12:20</dispatch_time>
+    <event_num>F20123311</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
   </event>
 </tfs_active_incidents>
