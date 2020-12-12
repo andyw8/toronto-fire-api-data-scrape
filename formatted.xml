@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-12 17:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-12 18:15:02</update_from_db_time>
   <event>
     <prime_street>YONGE ST, TT</prime_street>
     <cross_streets>SUMMERHILL AVE / WOODLAWN AVE E</cross_streets>
@@ -10,106 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>311</beat>
     <units_disp> P311, P312, A312, C31, P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 17:04:05</dispatch_time>
-    <event_num>F20123527</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421</units_disp>
-  </event>
-  <event>
-    <prime_street>KINGSTON RD, SC</prime_street>
-    <cross_streets>VICTORIA PARK AVE / BLANTYRE AVE</cross_streets>
-    <dispatch_time>2020-12-12 17:25:40</dispatch_time>
-    <event_num>F20123537</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> C22, P227, HZ332, P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M5G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 17:26:22</dispatch_time>
-    <event_num>F20123538</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>MORNINGSIDE AVE / COLLINSGROVE RD</cross_streets>
-    <dispatch_time>2020-12-12 17:26:55</dispatch_time>
-    <event_num>F20123539</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234, R214, A215, C23, P221</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>BOND ST / LN W CHURCH S DUNDAS</cross_streets>
-    <dispatch_time>2020-12-12 17:28:30</dispatch_time>
-    <event_num>F20123540</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P325, P333, A325, C33, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 17:29:40</dispatch_time>
-    <event_num>F20123541</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
-    <prime_street>NEILSON RD, SC</prime_street>
-    <cross_streets>2867 ELLESMERE RD / ELLESMERE RD</cross_streets>
-    <dispatch_time>2020-12-12 17:30:09</dispatch_time>
-    <event_num>F20123542</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> P212, P211, A213, C21, P232, P245</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 17:35:04</dispatch_time>
-    <event_num>F20123544</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>ALEXDON RD, NY</prime_street>
-    <cross_streets>TORO RD / FINCH AVE W</cross_streets>
-    <dispatch_time>2020-12-12 17:35:22</dispatch_time>
-    <event_num>F20123545</event_num>
-    <event_type>Police Assist</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> S143</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 17:38:35</dispatch_time>
-    <event_num>F20123546</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244, R243</units_disp>
   </event>
   <event>
     <prime_street>HALDON AVE, EY</prime_street>
@@ -130,5 +30,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> A244</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-12 17:45:50</dispatch_time>
+    <event_num>F20123549</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>M2P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-12 17:48:51</dispatch_time>
+    <event_num>F20123552</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
+  </event>
+  <event>
+    <prime_street>GOULD ST, TT</prime_street>
+    <cross_streets>BOND ST / CHURCH ST</cross_streets>
+    <dispatch_time>2020-12-12 17:51:20</dispatch_time>
+    <event_num>F20123553</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> R325, P314, A325, C31, P312, P315</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNCANWOODS DR, NY</prime_street>
+    <cross_streets>FINCH AVE W / CHERRYLAWN AVE</cross_streets>
+    <dispatch_time>2020-12-12 17:53:39</dispatch_time>
+    <event_num>F20123554</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411, R413, A415, C41, R412</units_disp>
   </event>
 </tfs_active_incidents>
