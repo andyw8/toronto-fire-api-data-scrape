@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-11 22:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-11 22:40:02</update_from_db_time>
   <event>
     <prime_street>JANE ST, NY</prime_street>
     <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
@@ -12,23 +12,53 @@
     <units_disp> A142, C14, P145, P146, P442, C13, C14, A133, S143, A421, C13, HR114, HZ145, P121, P141, R421, LA421, P415, R441, CMD10, CMD10C, C40, C10, R421, R421, P114, P143, P415</units_disp>
   </event>
   <event>
-    <prime_street>ROYWOOD DR, NY</prime_street>
-    <cross_streets>UNDERPASS GT / SANDOVER PARK TRL</cross_streets>
-    <dispatch_time>2020-12-11 21:47:32</dispatch_time>
-    <event_num>F20123259</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123, A113, C11, P233, R115</units_disp>
+    <prime_street>KINGSTON RD, SC</prime_street>
+    <cross_streets>STAGECOACH CRCL / WHITE AVE</cross_streets>
+    <dispatch_time>2020-12-11 22:19:46</dispatch_time>
+    <event_num>F20123265</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>2</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214, A215, C21, P211, P212, P234, A231, LA231, P221, P223, P245, R243, S232, C23, HZ145, C20, CMD10, CMD10C</units_disp>
   </event>
   <event>
-    <prime_street>O'CONNOR DR, EY</prime_street>
-    <cross_streets>GARDENS CRES / DOHME AVE</cross_streets>
-    <dispatch_time>2020-12-11 22:09:43</dispatch_time>
-    <event_num>F20123263</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>CHRISTIE PITS PARK TRL / CHRISTIE PITS PARK TRL</cross_streets>
+    <dispatch_time>2020-12-11 22:22:20</dispatch_time>
+    <event_num>F20123266</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224, R235, C22, A322, P322</units_disp>
+    <beat>344</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-11 22:30:49</dispatch_time>
+    <event_num>F20123268</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>JUDSON ST, ET</prime_street>
+    <cross_streets>HAROLD ST / O'DONNELL AVE</cross_streets>
+    <dispatch_time>2020-12-11 22:31:40</dispatch_time>
+    <event_num>F20123269</event_num>
+    <event_type>Vehicle - Spill Clean Up</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>M3B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-11 22:33:27</dispatch_time>
+    <event_num>F20123270</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
 </tfs_active_incidents>
