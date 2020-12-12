@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-11 21:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-11 22:20:02</update_from_db_time>
   <event>
     <prime_street>JANE ST, NY</prime_street>
     <cross_streets>WILSON AVE / WILLIAM CRAGG DR</cross_streets>
@@ -9,76 +9,26 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>146</beat>
-    <units_disp> A142, C14, P145, P146, P442, C13, C14, A133, S143, A421, C13, HR114, HZ145, P121, P141, R421, LA421, P415, R441, CMD10, CMD10C, C40, C10, R421, R421, P114, P143</units_disp>
+    <units_disp> A142, C14, P145, P146, P442, C13, C14, A133, S143, A421, C13, HR114, HZ145, P121, P141, R421, LA421, P415, R441, CMD10, CMD10C, C40, C10, R421, R421, P114, P143, P415</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>MABELLE AVE / CORDOVA AVE</cross_streets>
-    <dispatch_time>2020-12-11 21:02:54</dispatch_time>
-    <event_num>F20123241</event_num>
-    <event_type>Vehicle Accident with Fire</event_type>
+    <prime_street>ROYWOOD DR, NY</prime_street>
+    <cross_streets>UNDERPASS GT / SANDOVER PARK TRL</cross_streets>
+    <dispatch_time>2020-12-11 21:47:32</dispatch_time>
+    <event_num>F20123259</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445, R425</units_disp>
+    <beat>123</beat>
+    <units_disp> P123, A113, C11, P233, R115</units_disp>
   </event>
   <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-11 21:16:39</dispatch_time>
-    <event_num>F20123249</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>O'CONNOR DR, EY</prime_street>
+    <cross_streets>GARDENS CRES / DOHME AVE</cross_streets>
+    <dispatch_time>2020-12-11 22:09:43</dispatch_time>
+    <event_num>F20123263</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>VICTORIA PARK AVE, SC</prime_street>
-    <cross_streets>PATRICK BLVD / OLD SHEPPARD AVE</cross_streets>
-    <dispatch_time>2020-12-11 21:16:49</dispatch_time>
-    <event_num>F20123250</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> S232, A244</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-11 21:28:07</dispatch_time>
-    <event_num>F20123251</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>M6R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-11 21:30:16</dispatch_time>
-    <event_num>F20123252</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-11 21:38:56</dispatch_time>
-    <event_num>F20123255</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>AVENUE RD, TT</prime_street>
-    <cross_streets>AMSTERDAM SQUARE TRL / HEATH ST W</cross_streets>
-    <dispatch_time>2020-12-11 21:40:45</dispatch_time>
-    <event_num>F20123256</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311, A312, C31, P312, P135</units_disp>
+    <beat>224</beat>
+    <units_disp> R224, R235, C22, A322, P322</units_disp>
   </event>
 </tfs_active_incidents>
