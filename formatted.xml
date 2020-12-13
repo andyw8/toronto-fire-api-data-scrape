@@ -1,44 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-13 05:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-13 06:20:02</update_from_db_time>
   <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-13 05:21:02</dispatch_time>
-    <event_num>F20123710</event_num>
+    <dispatch_time>2020-12-13 05:50:38</dispatch_time>
+    <event_num>F20123714</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-13 05:37:38</dispatch_time>
-    <event_num>F20123711</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>MARGUERETTA ST, TT</prime_street>
+    <cross_streets>SUSAN TIBALDI PARKETTE TRL / WALLACE AVE</cross_streets>
+    <dispatch_time>2020-12-13 06:08:30</dispatch_time>
+    <event_num>F20123718</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-13 05:44:13</dispatch_time>
-    <event_num>F20123712</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-13 05:45:55</dispatch_time>
-    <event_num>F20123713</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
   </event>
 </tfs_active_incidents>
