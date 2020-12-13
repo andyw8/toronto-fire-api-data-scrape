@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-13 08:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-13 09:20:01</update_from_db_time>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-13 07:32:55</dispatch_time>
-    <event_num>F20123731</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BIGGIN CRT, NY</prime_street>
+    <cross_streets>VICTORIA PARK AVE / </cross_streets>
+    <dispatch_time>2020-12-13 08:56:56</dispatch_time>
+    <event_num>F20123735</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>235</beat>
+    <units_disp> A222, C22, P233, R235, P125, R224, P221</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>EASTERN AVE / ORCHARD PARK BLVD</cross_streets>
-    <dispatch_time>2020-12-13 08:31:26</dispatch_time>
-    <event_num>F20123732</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-13 08:58:05</dispatch_time>
+    <event_num>F20123736</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
+    <beat>235</beat>
+    <units_disp> P123</units_disp>
   </event>
 </tfs_active_incidents>
