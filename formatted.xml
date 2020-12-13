@@ -1,34 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-13 04:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-13 05:20:02</update_from_db_time>
   <event>
-    <prime_street>ORDNANCE ST, TT</prime_street>
-    <cross_streets> / STRACHAN AVE</cross_streets>
-    <dispatch_time>2020-12-13 04:21:33</dispatch_time>
-    <event_num>F20123702</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344, P331, R325, A331, C33</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-13 04:30:58</dispatch_time>
-    <event_num>F20123703</event_num>
+    <dispatch_time>2020-12-13 05:05:48</dispatch_time>
+    <event_num>F20123705</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-13 04:32:24</dispatch_time>
-    <event_num>F20123704</event_num>
+    <dispatch_time>2020-12-13 05:08:38</dispatch_time>
+    <event_num>F20123706</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-13 05:08:46</dispatch_time>
+    <event_num>F20123707</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
     <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-13 05:12:01</dispatch_time>
+    <event_num>F20123708</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
 </tfs_active_incidents>
