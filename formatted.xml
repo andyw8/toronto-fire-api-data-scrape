@@ -1,24 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-13 03:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-13 04:20:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>KENNEDY RD / PROGRESS AVE</cross_streets>
-    <dispatch_time>2020-12-13 03:34:30</dispatch_time>
-    <event_num>F20123697</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-13 04:12:45</dispatch_time>
+    <event_num>F20123701</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>245</beat>
     <units_disp> P245</units_disp>
-  </event>
-  <event>
-    <prime_street>EGLINTON AVE, YK</prime_street>
-    <cross_streets>GABIAN WAY / VENN CRES</cross_streets>
-    <dispatch_time>2020-12-13 03:38:40</dispatch_time>
-    <event_num>F20123698</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R423, P342, A421, C42, P422, P442</units_disp>
   </event>
 </tfs_active_incidents>
