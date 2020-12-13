@@ -1,124 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-12 18:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-12 20:00:02</update_from_db_time>
   <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>SUMMERHILL AVE / WOODLAWN AVE E</cross_streets>
-    <dispatch_time>2020-12-12 15:20:32</dispatch_time>
-    <event_num>F20123493</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-12 18:32:27</dispatch_time>
+    <event_num>F20123565</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311, P312, A312, C31, P314</units_disp>
+    <beat>324</beat>
+    <units_disp> P324, A325, P324</units_disp>
   </event>
   <event>
-    <prime_street>HALDON AVE, EY</prime_street>
-    <cross_streets>STAN WADLOW PARK TRL / HEPC</cross_streets>
-    <dispatch_time>2020-12-12 17:40:59</dispatch_time>
-    <event_num>F20123547</event_num>
+    <prime_street>PANORAMA CRT, ET</prime_street>
+    <cross_streets>KIPLING AVE / </cross_streets>
+    <dispatch_time>2020-12-12 19:45:34</dispatch_time>
+    <event_num>F20123586</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224, P226, A322, C32, P323</units_disp>
+    <beat>413</beat>
+    <units_disp> R413, P415, A415, C41, R411, S445</units_disp>
   </event>
   <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 17:41:05</dispatch_time>
-    <event_num>F20123548</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LEE CENTRE DR, SC</prime_street>
+    <cross_streets>CORPORATE DR / CORPORATE DR</cross_streets>
+    <dispatch_time>2020-12-12 19:52:11</dispatch_time>
+    <event_num>F20123587</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 17:45:50</dispatch_time>
-    <event_num>F20123549</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 18:13:12</dispatch_time>
-    <event_num>F20123555</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BURNHAMTHORPE RD / RENFORTH DR</cross_streets>
-    <dispatch_time>2020-12-12 18:14:57</dispatch_time>
-    <event_num>F20123556</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 18:16:25</dispatch_time>
-    <event_num>F20123557</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 18:17:12</dispatch_time>
-    <event_num>F20123558</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> HR114</units_disp>
-  </event>
-  <event>
-    <prime_street>O'CONNOR DR, EY</prime_street>
-    <cross_streets>DOHME AVE / YARDLEY AVE</cross_streets>
-    <dispatch_time>2020-12-12 18:17:35</dispatch_time>
-    <event_num>F20123559</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R235, P221, C22, R225, A322, S232</units_disp>
-  </event>
-  <event>
-    <prime_street>M9P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 18:22:00</dispatch_time>
-    <event_num>F20123560</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-12 18:23:49</dispatch_time>
-    <event_num>F20123561</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P245</units_disp>
-  </event>
-  <event>
-    <prime_street>WHEELER AVE, TT</prime_street>
-    <cross_streets>QUEEN ST E / NORWAY AVE</cross_streets>
-    <dispatch_time>2020-12-12 18:24:31</dispatch_time>
-    <event_num>F20123562</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227, P226, C32, R326, T333</units_disp>
+    <beat>243</beat>
+    <units_disp> R243, P232, A231, C23, P245</units_disp>
   </event>
 </tfs_active_incidents>
