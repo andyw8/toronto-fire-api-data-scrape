@@ -1,44 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-13 14:30:02</update_from_db_time>
-  <event>
-    <prime_street>BREMNER BLVD, TT</prime_street>
-    <cross_streets>LAKE SHORE BLVD W / YORK ST</cross_streets>
-    <dispatch_time>2020-12-13 13:47:11</dispatch_time>
-    <event_num>F20123785</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-13 14:10:10</dispatch_time>
-    <event_num>F20123790</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-13 14:22:13</dispatch_time>
-    <event_num>F20123795</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-13 14:22:18</dispatch_time>
-    <event_num>F20123796</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
+  <update_from_db_time>2020-12-13 14:40:02</update_from_db_time>
 </tfs_active_incidents>
