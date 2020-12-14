@@ -1,54 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-13 22:50:01</update_from_db_time>
+  <update_from_db_time>2020-12-13 23:30:02</update_from_db_time>
   <event>
-    <prime_street>PAULINE AVE, TT</prime_street>
-    <cross_streets>LN N BLOOR W PAULINE / WALLACE AVE</cross_streets>
-    <dispatch_time>2020-12-13 21:55:49</dispatch_time>
-    <event_num>F20123912</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>FINCH AVE E / LESLIE ST</cross_streets>
+    <dispatch_time>2020-12-13 22:56:09</dispatch_time>
+    <event_num>F20123938</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345, R426, A345, C34, P315, P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-13 22:28:46</dispatch_time>
-    <event_num>F20123925</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
-    <prime_street>ADELAIDE ST, TT</prime_street>
-    <cross_streets>ONTARIO ST / POMPADOUR LANE</cross_streets>
-    <dispatch_time>2020-12-13 22:33:36</dispatch_time>
-    <event_num>F20123927</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-13 22:34:16</dispatch_time>
-    <event_num>F20123928</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
+    <beat>113</beat>
     <units_disp> A113</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>KINGSTON RD / EGLINTON AVE E</cross_streets>
-    <dispatch_time>2020-12-13 22:36:38</dispatch_time>
-    <event_num>F20123930</event_num>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-13 23:02:07</dispatch_time>
+    <event_num>F20123940</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-13 23:06:20</dispatch_time>
+    <event_num>F20123944</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-13 23:15:28</dispatch_time>
+    <event_num>F20123946</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNDAS ST, TT</prime_street>
+    <cross_streets>MC CAUL ST / BEVERLEY ST</cross_streets>
+    <dispatch_time>2020-12-13 23:17:53</dispatch_time>
+    <event_num>F20123947</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> A315, C33, P314, P315, P332</units_disp>
+  </event>
+  <event>
+    <prime_street>BAYSIDE LANE, ET</prime_street>
+    <cross_streets>BELL MANOR PARK TRL / BELL MANOR PARK TRL</cross_streets>
+    <dispatch_time>2020-12-13 23:20:49</dispatch_time>
+    <event_num>F20123948</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
   </event>
 </tfs_active_incidents>
