@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-15 00:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-15 00:40:02</update_from_db_time>
   <event>
     <prime_street>BATHURST ST, NY</prime_street>
     <cross_streets>EARL BALES PARK TRL / ALEXIS BLVD</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>143</beat>
     <units_disp> R112, C11, P143, S143</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-15 00:03:38</dispatch_time>
-    <event_num>F20124242</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> P125, R235</units_disp>
   </event>
   <event>
     <prime_street>VICTORIA ST, TT</prime_street>
@@ -40,5 +30,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
     <units_disp> A142</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 00:32:27</dispatch_time>
+    <event_num>F20124245</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
   </event>
 </tfs_active_incidents>
