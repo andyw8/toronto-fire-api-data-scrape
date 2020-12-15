@@ -1,24 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-15 09:40:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-15 09:15:38</dispatch_time>
-    <event_num>F20124316</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A441, P443, P445</units_disp>
-  </event>
+  <update_from_db_time>2020-12-15 10:20:02</update_from_db_time>
   <event>
     <prime_street>GLAMORGAN AVE, SC</prime_street>
     <cross_streets>KENNEDY RD / DUNDALK DR</cross_streets>
     <dispatch_time>2020-12-15 09:32:37</dispatch_time>
     <event_num>F20124317</event_num>
     <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
+    <alarm_lev>2</alarm_lev>
     <beat>245</beat>
-    <units_disp> R243, P245, A244, C24, P232, P233</units_disp>
+    <units_disp> R243, P245, A244, C24, P232, P233, A231, LA231, P242, S232, C23, HZ145, P116, P123, R115, HR114, C20, CMD10, CMD10C</units_disp>
+  </event>
+  <event>
+    <prime_street>M4B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 10:12:22</dispatch_time>
+    <event_num>F20124323</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 10:14:41</dispatch_time>
+    <event_num>F20124324</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street>M3M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 10:14:57</dispatch_time>
+    <event_num>F20124325</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>MERRIAN RD, SC</prime_street>
+    <cross_streets>SAUGEEN CRES / SAUGEEN CRES</cross_streets>
+    <dispatch_time>2020-12-15 10:15:52</dispatch_time>
+    <event_num>F20124326</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>FRITH RD, NY</prime_street>
+    <cross_streets>GREYFRIAR CRT / ROSEGLEN CRES</cross_streets>
+    <dispatch_time>2020-12-15 10:16:34</dispatch_time>
+    <event_num>F20124327</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P145, A142, C14, HZ332</units_disp>
+  </event>
+  <event>
+    <prime_street>BATHURST ST, NY</prime_street>
+    <cross_streets>VERWOOD AVE / REINER RD</cross_streets>
+    <dispatch_time>2020-12-15 10:16:50</dispatch_time>
+    <event_num>F20124328</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P143, R112, C11, HR114, P132, T114</units_disp>
   </event>
 </tfs_active_incidents>
