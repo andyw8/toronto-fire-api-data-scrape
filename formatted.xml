@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-15 16:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-15 17:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>BARKER AVE / ISLINGTON AVE</cross_streets>
@@ -10,5 +10,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
     <units_disp> R413, C41, P415, S445, P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 16:58:21</dispatch_time>
+    <event_num>F20124444</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 17:03:09</dispatch_time>
+    <event_num>F20124446</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>ISABELLA ST / ST MARY ST</cross_streets>
+    <dispatch_time>2020-12-15 17:05:26</dispatch_time>
+    <event_num>F20124447</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312, P314, A312, C31, P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 17:07:18</dispatch_time>
+    <event_num>F20124448</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P325</units_disp>
+  </event>
+  <event>
+    <prime_street>M9A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 17:07:37</dispatch_time>
+    <event_num>F20124449</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNDAS ST, TT</prime_street>
+    <cross_streets>MC CAUL ST / BEVERLEY ST</cross_streets>
+    <dispatch_time>2020-12-15 17:16:13</dispatch_time>
+    <event_num>F20124450</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P315, P332, A331, P314, C31</units_disp>
   </event>
 </tfs_active_incidents>
