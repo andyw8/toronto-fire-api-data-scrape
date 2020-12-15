@@ -1,56 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-15 17:50:02</update_from_db_time>
-  <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>MC CAUL ST / BEVERLEY ST</cross_streets>
-    <dispatch_time>2020-12-15 17:16:13</dispatch_time>
-    <event_num>F20124450</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P315, P332, A331, P314, C31, A331, P314, C31</units_disp>
-  </event>
-  <event>
-    <prime_street>BAYVIEW AVE, NY</prime_street>
-    <cross_streets>STRATFORD PARK TRL / STRATFORD PARK TRL</cross_streets>
-    <dispatch_time>2020-12-15 17:21:05</dispatch_time>
-    <event_num>F20124453</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131, R122, C13, P125, R134, A321</units_disp>
-  </event>
-  <event>
-    <prime_street>EDENBRIDGE DR, ET</prime_street>
-    <cross_streets>EDENBROOK HILL / ROYAL YORK RD</cross_streets>
-    <dispatch_time>2020-12-15 17:28:34</dispatch_time>
-    <event_num>F20124455</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> S445, P443, A441, C44, P431, P445</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>VIRGILWOOD DR / GOLDFINCH CRT</cross_streets>
-    <dispatch_time>2020-12-15 17:32:58</dispatch_time>
-    <event_num>F20124457</event_num>
-    <event_type>Fire - Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> A142, C13, P132, P141, P143, P145, S143, R112, C11</units_disp>
-  </event>
-  <event>
-    <prime_street>M2H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-15 17:36:29</dispatch_time>
-    <event_num>F20124458</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113</units_disp>
-  </event>
+  <update_from_db_time>2020-12-15 18:20:02</update_from_db_time>
   <event>
     <prime_street>M3J</prime_street>
     <cross_streets/>
@@ -62,36 +12,6 @@
     <units_disp> P146</units_disp>
   </event>
   <event>
-    <prime_street>TAPSCOTT RD, SC</prime_street>
-    <cross_streets>C P R / HEPC</cross_streets>
-    <dispatch_time>2020-12-15 17:39:26</dispatch_time>
-    <event_num>F20124460</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211, P242, A213, C24, P212</units_disp>
-  </event>
-  <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-15 17:42:50</dispatch_time>
-    <event_num>F20124461</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>TOWN HAVEN PL, SC</prime_street>
-    <cross_streets>110 TOWN HAVEN PL / MIDLAND AVE</cross_streets>
-    <dispatch_time>2020-12-15 17:43:27</dispatch_time>
-    <event_num>F20124462</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221, P232, A222, C22, R225</units_disp>
-  </event>
-  <event>
     <prime_street>KEELE ST, NY</prime_street>
     <cross_streets>YORK BLVD / THE CHIMNEYSTACK RD</cross_streets>
     <dispatch_time>2020-12-15 17:44:54</dispatch_time>
@@ -99,16 +19,56 @@
     <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
-    <units_disp> R411, P111, C14, P121, A411, P121</units_disp>
+    <units_disp> R411, P111, C14, P121, A411, P121, P141</units_disp>
   </event>
   <event>
-    <prime_street>M1S</prime_street>
+    <prime_street>M1J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-15 17:46:21</dispatch_time>
-    <event_num>F20124464</event_num>
+    <dispatch_time>2020-12-15 17:47:16</dispatch_time>
+    <event_num>F20124465</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> R241</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>ST DENNIS DR, NY</prime_street>
+    <cross_streets>DON MILLS RD / DEAUVILLE LANE</cross_streets>
+    <dispatch_time>2020-12-15 17:57:04</dispatch_time>
+    <event_num>F20124470</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> R224, P125, P123, A322, C32, P233, A322</units_disp>
+  </event>
+  <event>
+    <prime_street>BRAEMAR AVE, TT</prime_street>
+    <cross_streets>CHAPLIN CRES / COLLEGE VIEW AVE</cross_streets>
+    <dispatch_time>2020-12-15 17:58:06</dispatch_time>
+    <event_num>F20124472</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> R134, P311, A135, C13, P131, P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 18:00:33</dispatch_time>
+    <event_num>F20124476</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> A133</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>WILLOWDALE AVE / LN E WILLOWDALE S SHEPPARD</cross_streets>
+    <dispatch_time>2020-12-15 18:11:00</dispatch_time>
+    <event_num>F20124477</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P121, R122, C11, P116, T114</units_disp>
   </event>
 </tfs_active_incidents>
