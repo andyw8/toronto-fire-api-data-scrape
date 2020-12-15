@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-15 08:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-15 08:35:02</update_from_db_time>
   <event>
     <prime_street>MACKAY AVE, TT</prime_street>
     <cross_streets>VIA ITALIA / LN E GREENLAW S MACKAY</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>342</beat>
     <units_disp> P342, HZ332</units_disp>
-  </event>
-  <event>
-    <prime_street>M6R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-15 07:52:40</dispatch_time>
-    <event_num>F20124294</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
-    <prime_street>ASHBURNHAM RD, TT</prime_street>
-    <cross_streets>VIA ITALIA / LN E GREENLAW N ASHBURNHAM</cross_streets>
-    <dispatch_time>2020-12-15 08:11:47</dispatch_time>
-    <event_num>F20124297</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> A345, C31, HZ145, P145</units_disp>
   </event>
   <event>
     <prime_street>M1W</prime_street>
@@ -60,5 +40,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>341</beat>
     <units_disp> A341</units_disp>
+  </event>
+  <event>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 08:20:28</dispatch_time>
+    <event_num>F20124301</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> A441</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 08:30:08</dispatch_time>
+    <event_num>F20124303</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 08:30:47</dispatch_time>
+    <event_num>F20124304</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
   </event>
 </tfs_active_incidents>
