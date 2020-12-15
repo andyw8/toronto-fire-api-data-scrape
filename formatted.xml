@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-15 15:20:02</update_from_db_time>
-  <event>
-    <prime_street>WICKSTEED AVE, EY</prime_street>
-    <cross_streets>C P R / BETH NEALSON DR</cross_streets>
-    <dispatch_time>2020-12-15 14:53:50</dispatch_time>
-    <event_num>F20124407</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> P125, R235, A321, C32, R224</units_disp>
-  </event>
+  <update_from_db_time>2020-12-15 15:30:02</update_from_db_time>
   <event>
     <prime_street>BENLAMOND AVE, TT</prime_street>
     <cross_streets>MAIN ST / NORWOOD RD</cross_streets>
@@ -34,21 +24,71 @@
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-15 15:04:51</dispatch_time>
-    <event_num>F20124412</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> A133, P146</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
     <dispatch_time>2020-12-15 15:14:08</dispatch_time>
     <event_num>F20124413</event_num>
     <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>145</beat>
     <units_disp> P442, P141, P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Z</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 15:18:25</dispatch_time>
+    <event_num>F20124414</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 15:20:06</dispatch_time>
+    <event_num>F20124415</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>TOWN HAVEN PL, SC</prime_street>
+    <cross_streets>110 TOWN HAVEN PL / MIDLAND AVE</cross_streets>
+    <dispatch_time>2020-12-15 15:20:55</dispatch_time>
+    <event_num>F20124416</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221, P232, A222, C23, P223, S232</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 15:21:40</dispatch_time>
+    <event_num>F20124417</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> A133, P442</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-15 15:22:36</dispatch_time>
+    <event_num>F20124418</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433, P432, C43, R435, S445</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 15:24:41</dispatch_time>
+    <event_num>F20124419</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> R224</units_disp>
   </event>
 </tfs_active_incidents>
