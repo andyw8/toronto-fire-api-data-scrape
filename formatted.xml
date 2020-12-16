@@ -1,14 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-16 04:20:02</update_from_db_time>
-  <event>
-    <prime_street>FLEET ST, TT</prime_street>
-    <cross_streets>FORT YORK BLVD / GARRISON RD</cross_streets>
-    <dispatch_time>2020-12-16 03:13:22</dispatch_time>
-    <event_num>F20124585</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P334, P331, C31, A331, C33, T333, C33</units_disp>
-  </event>
+  <update_from_db_time>2020-12-16 04:45:02</update_from_db_time>
 </tfs_active_incidents>
