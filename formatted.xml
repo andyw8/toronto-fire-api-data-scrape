@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-16 08:35:02</update_from_db_time>
-  <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-16 08:19:49</dispatch_time>
-    <event_num>F20124631</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
+  <update_from_db_time>2020-12-16 08:40:02</update_from_db_time>
   <event>
     <prime_street>ROWNTREE RD, ET</prime_street>
     <cross_streets>KIPLING AVE BICYCLE TRL / HUMBER RIVER RECREATIONAL TRL</cross_streets>
@@ -40,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> P244, R243, C24, P242, A113</units_disp>
+  </event>
+  <event>
+    <prime_street>M3J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-16 08:35:05</dispatch_time>
+    <event_num>F20124636</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-16 08:35:41</dispatch_time>
+    <event_num>F20124637</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
   </event>
 </tfs_active_incidents>
