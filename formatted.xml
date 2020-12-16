@@ -1,64 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-15 23:55:02</update_from_db_time>
+  <update_from_db_time>2020-12-16 00:25:02</update_from_db_time>
   <event>
-    <prime_street>M6J</prime_street>
+    <prime_street>M4R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-15 23:42:07</dispatch_time>
-    <event_num>F20124553</event_num>
+    <dispatch_time>2020-12-16 00:18:58</dispatch_time>
+    <event_num>F20124561</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-15 23:42:20</dispatch_time>
-    <event_num>F20124554</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-15 23:45:42</dispatch_time>
-    <event_num>F20124555</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-15 23:48:23</dispatch_time>
-    <event_num>F20124556</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
-  </event>
-  <event>
-    <prime_street>MAITLAND ST, TT</prime_street>
-    <cross_streets>WELLSPRING LANE / MUTUAL ST</cross_streets>
-    <dispatch_time>2020-12-15 23:49:55</dispatch_time>
-    <event_num>F20124557</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-15 23:51:14</dispatch_time>
-    <event_num>F20124558</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> A215, P234</units_disp>
+    <beat>131</beat>
+    <units_disp> P131</units_disp>
   </event>
 </tfs_active_incidents>
