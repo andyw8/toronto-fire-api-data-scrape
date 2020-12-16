@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-16 13:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-16 13:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>BERMONDSEY RD / EGLINTON AVE E</cross_streets>
@@ -12,46 +12,6 @@
     <units_disp> R235</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-16 13:03:43</dispatch_time>
-    <event_num>F20124729</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>ISLINGTON AVE, ET</prime_street>
-    <cross_streets>BEAUMONDE HEIGHTS DR / HUMBER RIVER RECREATIONAL TRL</cross_streets>
-    <dispatch_time>2020-12-16 13:06:21</dispatch_time>
-    <event_num>F20124730</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R411, A411, R412, P146, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>METHUEN AVE, YK</prime_street>
-    <cross_streets>JANE ST / HARSHAW AVE</cross_streets>
-    <dispatch_time>2020-12-16 13:08:54</dispatch_time>
-    <event_num>F20124732</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> A433, C42, P422, R423, R425</units_disp>
-  </event>
-  <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-16 13:12:35</dispatch_time>
-    <event_num>F20124733</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133</units_disp>
-  </event>
-  <event>
     <prime_street>KEELE ST, NY</prime_street>
     <cross_streets>WILSON AVE / VICTORY DR</cross_streets>
     <dispatch_time>2020-12-16 13:15:35</dispatch_time>
@@ -60,5 +20,75 @@
     <alarm_lev>0</alarm_lev>
     <beat>146</beat>
     <units_disp> A142, P145, P146, P442, C14</units_disp>
+  </event>
+  <event>
+    <prime_street>KINGSTON RD, SC</prime_street>
+    <cross_streets>IGNATIUS LANE / POPLAR RD</cross_streets>
+    <dispatch_time>2020-12-16 13:22:17</dispatch_time>
+    <event_num>F20124735</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234, A213, C23, P223, R214, A231</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-16 13:23:08</dispatch_time>
+    <event_num>F20124736</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DON MILLS RD / DON VALLEY PKWY N</cross_streets>
+    <dispatch_time>2020-12-16 13:27:13</dispatch_time>
+    <event_num>F20124738</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
+  </event>
+  <event>
+    <prime_street>M4A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-16 13:32:00</dispatch_time>
+    <event_num>F20124739</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> A222</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-16 13:35:18</dispatch_time>
+    <event_num>F20124741</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M6B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-16 13:43:02</dispatch_time>
+    <event_num>F20124742</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>MARKHAM RD, SC</prime_street>
+    <cross_streets>MARKANNA DR / EGLINTON AVE E</cross_streets>
+    <dispatch_time>2020-12-16 13:46:34</dispatch_time>
+    <event_num>F20124743</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P221, P223, P232, S232, A231, C23</units_disp>
   </event>
 </tfs_active_incidents>
