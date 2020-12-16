@@ -1,74 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-16 17:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-16 17:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>KIPLING AVE / RATHBURN RD</cross_streets>
-    <dispatch_time>2020-12-16 16:31:46</dispatch_time>
-    <event_num>F20124787</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>SPADINA AVE / FRONT ST W</cross_streets>
+    <cross_streets>SPADINA AVE / CLARENCE SQ</cross_streets>
     <dispatch_time>2020-12-16 16:53:31</dispatch_time>
     <event_num>F20124795</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>332</beat>
-    <units_disp> HR332</units_disp>
+    <units_disp> HR332, P332</units_disp>
   </event>
   <event>
-    <prime_street>M2M</prime_street>
+    <prime_street>SUNRISE AVE, NY</prime_street>
+    <cross_streets>VICTORIA PARK AVE / O'CONNOR DR</cross_streets>
+    <dispatch_time>2020-12-16 17:32:32</dispatch_time>
+    <event_num>F20124813</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235, P222, A222, P221, C32</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-16 16:56:14</dispatch_time>
-    <event_num>F20124799</event_num>
+    <dispatch_time>2020-12-16 17:38:46</dispatch_time>
+    <event_num>F20124815</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-16 17:03:59</dispatch_time>
-    <event_num>F20124800</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> S331</units_disp>
-  </event>
-  <event>
-    <prime_street>LINSMORE CRES, EY</prime_street>
-    <cross_streets>COSBURN AVE / PLAINS RD</cross_streets>
-    <dispatch_time>2020-12-16 17:05:06</dispatch_time>
-    <event_num>F20124801</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
-  </event>
-  <event>
-    <prime_street>CARAVAN DR, NY</prime_street>
-    <cross_streets>BAMBOO GRV / BAMBOO GRV</cross_streets>
-    <dispatch_time>2020-12-16 17:10:44</dispatch_time>
-    <event_num>F20124803</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122, P116, A113, C11, P123</units_disp>
-  </event>
-  <event>
-    <prime_street>M8W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-16 17:12:14</dispatch_time>
-    <event_num>F20124804</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
   </event>
 </tfs_active_incidents>
