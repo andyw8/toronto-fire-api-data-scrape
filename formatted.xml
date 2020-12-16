@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-15 21:50:02</update_from_db_time>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-15 21:20:28</dispatch_time>
-    <event_num>F20124523</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-15 21:22:16</dispatch_time>
-    <event_num>F20124524</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> P415, R412</units_disp>
-  </event>
-  <event>
-    <prime_street>M5N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-15 21:28:56</dispatch_time>
-    <event_num>F20124526</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135</units_disp>
-  </event>
+  <update_from_db_time>2020-12-15 22:25:02</update_from_db_time>
   <event>
     <prime_street>MIDWEST RD, SC</prime_street>
     <cross_streets>MIDLAND AVE / GREAT WEST DR</cross_streets>
@@ -42,26 +12,6 @@
     <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-15 21:36:38</dispatch_time>
-    <event_num>F20124528</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-15 21:44:34</dispatch_time>
-    <event_num>F20124530</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
     <prime_street>FLEET ST, TT</prime_street>
     <cross_streets>FORT YORK BLVD / GARRISON RD</cross_streets>
     <dispatch_time>2020-12-15 21:46:42</dispatch_time>
@@ -69,16 +19,56 @@
     <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <units_disp> P344, A331, C33, P331, S331, LA333</units_disp>
   </event>
   <event>
-    <prime_street>M6B</prime_street>
+    <prime_street>M2P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-15 21:46:57</dispatch_time>
-    <event_num>F20124533</event_num>
+    <dispatch_time>2020-12-15 22:05:58</dispatch_time>
+    <event_num>F20124537</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133</units_disp>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MCCOWAN RD / STEELES AVE E</cross_streets>
+    <dispatch_time>2020-12-15 22:07:10</dispatch_time>
+    <event_num>F20124539</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>LN E WILSON HEIGHTS S SHEPPARD / WILSON HEIGHTS BLVD</cross_streets>
+    <dispatch_time>2020-12-15 22:07:07</dispatch_time>
+    <event_num>F20124540</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> S143, P143</units_disp>
+  </event>
+  <event>
+    <prime_street>WELLINGTON ST, TT</prime_street>
+    <cross_streets>BLUE JAYS WAY / CLARENCE SQ</cross_streets>
+    <dispatch_time>2020-12-15 22:12:00</dispatch_time>
+    <event_num>F20124541</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P334, C31, HR332, P315, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-15 22:17:44</dispatch_time>
+    <event_num>F20124542</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
   </event>
 </tfs_active_incidents>
