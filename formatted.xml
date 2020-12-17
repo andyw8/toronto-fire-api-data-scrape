@@ -1,54 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-16 20:00:03</update_from_db_time>
+  <update_from_db_time>2020-12-16 21:00:02</update_from_db_time>
   <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-16 18:51:36</dispatch_time>
-    <event_num>F20124845</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>FINCH AVE, SC</prime_street>
+    <cross_streets>MIDDLEFIELD RD / TIFFIELD RD</cross_streets>
+    <dispatch_time>2020-12-16 20:08:42</dispatch_time>
+    <event_num>F20124865</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
+    <beat>242</beat>
+    <units_disp> P242, R243, A213, C24, P211, R241</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-16 19:27:09</dispatch_time>
-    <event_num>F20124854</event_num>
+    <dispatch_time>2020-12-16 20:46:31</dispatch_time>
+    <event_num>F20124874</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M6B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-16 19:50:31</dispatch_time>
-    <event_num>F20124859</event_num>
+    <dispatch_time>2020-12-16 20:54:22</dispatch_time>
+    <event_num>F20124876</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
   <event>
-    <prime_street>LOWCREST BLVD, SC</prime_street>
-    <cross_streets>ROTUNDA PL / WARDEN AVE</cross_streets>
-    <dispatch_time>2020-12-16 19:51:38</dispatch_time>
-    <event_num>F20124860</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244CA, A213, C24, P244, R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-16 19:55:04</dispatch_time>
-    <event_num>F20124861</event_num>
+    <dispatch_time>2020-12-16 20:54:26</dispatch_time>
+    <event_num>F20124877</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113</units_disp>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-16 20:54:27</dispatch_time>
+    <event_num>F20124878</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
   </event>
 </tfs_active_incidents>
