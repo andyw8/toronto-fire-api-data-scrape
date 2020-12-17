@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-16 22:45:01</update_from_db_time>
-  <event>
-    <prime_street>BREMNER BLVD, TT</prime_street>
-    <cross_streets>LAKE SHORE BLVD W / YORK ST</cross_streets>
-    <dispatch_time>2020-12-16 22:35:08</dispatch_time>
-    <event_num>F20124899</event_num>
-    <event_type>Fire - Highrise Residential - Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334, S331, C33, HR332, P332, P344, T333</units_disp>
-  </event>
+  <update_from_db_time>2020-12-16 23:20:02</update_from_db_time>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>OAK ST / FAIRGLEN CRES</cross_streets>
@@ -22,13 +12,23 @@
     <units_disp> P442, P146, A441, C41, R441</units_disp>
   </event>
   <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>VICTORIA STREET LANE / BOND ST</cross_streets>
-    <dispatch_time>2020-12-16 22:38:33</dispatch_time>
-    <event_num>F20124901</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street>EGLINTON AVE, TT</prime_street>
+    <cross_streets>EGLINTON PARK TRL / EASTBOURNE AVE</cross_streets>
+    <dispatch_time>2020-12-16 23:08:37</dispatch_time>
+    <event_num>F20124904</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, S313</units_disp>
+    <beat>134</beat>
+    <units_disp> R134, P135, A135, C13, P131</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-16 23:09:09</dispatch_time>
+    <event_num>F20124905</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
   </event>
 </tfs_active_incidents>
