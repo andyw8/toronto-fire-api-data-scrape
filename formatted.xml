@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-17 16:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-17 16:30:02</update_from_db_time>
   <event>
     <prime_street>M8W</prime_street>
     <cross_streets/>
@@ -10,36 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>434</beat>
     <units_disp> R434</units_disp>
-  </event>
-  <event>
-    <prime_street>BLAKLEY AVE, YK</prime_street>
-    <cross_streets>HENRIETTA ST / GAFFNEY PARK TRL</cross_streets>
-    <dispatch_time>2020-12-17 15:40:31</dispatch_time>
-    <event_num>F20125128</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422, R423, A423, C42, P432</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>QUEENSBURY AVE / CLONMORE DR</cross_streets>
-    <dispatch_time>2020-12-17 15:53:37</dispatch_time>
-    <event_num>F20125133</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-17 16:07:12</dispatch_time>
-    <event_num>F20125139</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
   </event>
   <event>
     <prime_street>M3C</prime_street>
@@ -82,13 +52,53 @@
     <units_disp> P141, P143, C14, T114, R411</units_disp>
   </event>
   <event>
-    <prime_street>M4R</prime_street>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>JAMES ST / BAY ST</cross_streets>
+    <dispatch_time>2020-12-17 16:21:43</dispatch_time>
+    <event_num>F20125145</event_num>
+    <event_type>Alarms Highrise Institution Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P314, C31, HR332, P333, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-17 16:16:53</dispatch_time>
-    <event_num>F20125144</event_num>
+    <dispatch_time>2020-12-17 16:23:23</dispatch_time>
+    <event_num>F20125146</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135</units_disp>
+    <beat>435</beat>
+    <units_disp> R435</units_disp>
+  </event>
+  <event>
+    <prime_street>GLEBEHOLME BLVD, TT</prime_street>
+    <cross_streets>WOODINGTON AVE / GLEBEMOUNT AVE</cross_streets>
+    <dispatch_time>2020-12-17 16:23:55</dispatch_time>
+    <event_num>F20125147</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> A322, P323, P226, R224, C32</units_disp>
+  </event>
+  <event>
+    <prime_street>JANE ST, YK</prime_street>
+    <cross_streets>ALLIANCE AVE / BLACK CREEK BLVD</cross_streets>
+    <dispatch_time>2020-12-17 16:25:13</dispatch_time>
+    <event_num>F20125148</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> P426, P422, A421, C42, R423</units_disp>
+  </event>
+  <event>
+    <prime_street>CLARENCE SQ, TT</prime_street>
+    <cross_streets>CLARENCE SQUARE PARK TRL / CLARENCE SQUARE PARK TRL</cross_streets>
+    <dispatch_time>2020-12-17 16:25:39</dispatch_time>
+    <event_num>F20125149</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P334</units_disp>
   </event>
 </tfs_active_incidents>
