@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-16 21:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-16 21:50:02</update_from_db_time>
   <event>
     <prime_street>FINCH AVE, SC</prime_street>
     <cross_streets>MIDDLEFIELD RD / TIFFIELD RD</cross_streets>
@@ -12,23 +12,23 @@
     <units_disp> P242, R243, A213, C24, P211, R241</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-16 21:05:41</dispatch_time>
-    <event_num>F20124882</event_num>
+    <dispatch_time>2020-12-16 21:42:16</dispatch_time>
+    <event_num>F20124886</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>M8X</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-16 21:24:50</dispatch_time>
-    <event_num>F20124883</event_num>
+    <dispatch_time>2020-12-16 21:46:19</dispatch_time>
+    <event_num>F20124887</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
   </event>
 </tfs_active_incidents>
