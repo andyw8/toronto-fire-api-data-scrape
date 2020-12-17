@@ -1,44 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-17 06:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-17 07:30:02</update_from_db_time>
   <event>
-    <prime_street>SCARLETT RD, YK</prime_street>
-    <cross_streets>BERNICE CRES / EILEEN AVE</cross_streets>
-    <dispatch_time>2020-12-17 05:29:21</dispatch_time>
-    <event_num>F20124963</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>YONGE ST / PARK RD</cross_streets>
+    <dispatch_time>2020-12-17 07:18:34</dispatch_time>
+    <event_num>F20124978</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422, R421, A421, C42, P431, R425</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-17 06:25:13</dispatch_time>
-    <event_num>F20124971</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>SHUTER ST, TT</prime_street>
-    <cross_streets>DALHOUSIE ST / MUTUAL ST</cross_streets>
-    <dispatch_time>2020-12-17 06:30:49</dispatch_time>
-    <event_num>F20124972</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-17 06:31:51</dispatch_time>
-    <event_num>F20124973</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
