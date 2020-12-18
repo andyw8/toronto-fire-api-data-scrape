@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-18 16:20:02</update_from_db_time>
-  <event>
-    <prime_street>LAUGHTON AVE, TT</prime_street>
-    <cross_streets>PELHAM AVE / LN S DAVENPORT W LAUGHTON</cross_streets>
-    <dispatch_time>2020-12-18 02:50:13</dispatch_time>
-    <event_num>F20125317</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423, P342, A423, C42, P422, P343, LA421, P426, A421, C42, P415, P431</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-18 15:32:01</dispatch_time>
-    <event_num>F20125515</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146, A133</units_disp>
-  </event>
+  <update_from_db_time>2020-12-18 16:35:02</update_from_db_time>
   <event>
     <prime_street>LAWRENCE AVE, NY</prime_street>
     <cross_streets>THE BRIDLE PATH / EDWARDS GARDENS TRL</cross_streets>
@@ -32,26 +12,6 @@
     <units_disp> P125</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 15:48:16</dispatch_time>
-    <event_num>F20125521</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>KEELE ST / MAPLE LEAF DR</cross_streets>
-    <dispatch_time>2020-12-18 15:53:21</dispatch_time>
-    <event_num>F20125522</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
-  </event>
-  <event>
     <prime_street>DUFFERIN ST, NY</prime_street>
     <cross_streets>JANE OSLER BLVD / YORKDALE RD</cross_streets>
     <dispatch_time>2020-12-18 15:58:23</dispatch_time>
@@ -60,26 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>145</beat>
     <units_disp> S143, P145</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-18 15:59:50</dispatch_time>
-    <event_num>F20125524</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 16:05:14</dispatch_time>
-    <event_num>F20125525</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> P116</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -100,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>441</beat>
     <units_disp> A441, R441</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-18 16:23:36</dispatch_time>
+    <event_num>F20125528</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415, A415</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-18 16:25:14</dispatch_time>
+    <event_num>F20125529</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
   </event>
 </tfs_active_incidents>
