@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-18 08:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-18 09:30:02</update_from_db_time>
   <event>
     <prime_street>LAUGHTON AVE, TT</prime_street>
     <cross_streets>PELHAM AVE / LN S DAVENPORT W LAUGHTON</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
-    <units_disp> R423, P342, A423, C42, P422, P343, LA421, P426, A421</units_disp>
+    <units_disp> R423, P342, A423, C42, P422, P343, LA421, P426, A421, C42, P415</units_disp>
   </event>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
@@ -22,53 +22,63 @@
     <units_disp> A331, C33, P315, P331, P332, S331, A315, LA333, R325, R426, C30, C31, C34, HZ332, P314, P334, P344, CMD30, CMD30C</units_disp>
   </event>
   <event>
-    <prime_street>BATHURST ST, NY</prime_street>
-    <cross_streets>DEWLANE DR / CARPENTER RD</cross_streets>
-    <dispatch_time>2020-12-18 08:21:12</dispatch_time>
-    <event_num>F20125364</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> C11, P111, P114, P143, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-18 08:23:32</dispatch_time>
-    <event_num>F20125365</event_num>
+    <dispatch_time>2020-12-18 08:51:58</dispatch_time>
+    <event_num>F20125370</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>442</beat>
+    <units_disp> R133, C44</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-18 08:24:26</dispatch_time>
-    <event_num>F20125366</event_num>
+    <dispatch_time>2020-12-18 09:07:37</dispatch_time>
+    <event_num>F20125374</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>421</beat>
+    <units_disp> A133</units_disp>
+  </event>
+  <event>
+    <prime_street>STRATHMORE BLVD, TT</prime_street>
+    <cross_streets>CAITHNESS AVE / GREENWOOD AVE</cross_streets>
+    <dispatch_time>2020-12-18 09:13:22</dispatch_time>
+    <event_num>F20125376</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323, P322, P324, R224, A324, C32, HR332</units_disp>
+  </event>
+  <event>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>QUEENS QUAY W / HARBOUR ST</cross_streets>
+    <dispatch_time>2020-12-18 09:15:45</dispatch_time>
+    <event_num>F20125377</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P332, P333, P334, T333, C33</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>LAWRENCE AVE W / WESTON RD</cross_streets>
-    <dispatch_time>2020-12-18 08:40:51</dispatch_time>
-    <event_num>F20125367</event_num>
-    <event_type>Vehicle - Spill Clean Up</event_type>
+    <cross_streets>REED GRASSWAY / SWEET GRASSWAY</cross_streets>
+    <dispatch_time>2020-12-18 09:22:54</dispatch_time>
+    <event_num>F20125378</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>M9M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 08:43:25</dispatch_time>
-    <event_num>F20125368</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>DANESBURY AVE, NY</prime_street>
+    <cross_streets>STAYNER AVE / LILYWOOD RD</cross_streets>
+    <dispatch_time>2020-12-18 09:22:57</dispatch_time>
+    <event_num>F20125379</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
   </event>
 </tfs_active_incidents>
