@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-18 18:20:02</update_from_db_time>
-  <event>
-    <prime_street>ROUGE HILLS DR, SC</prime_street>
-    <cross_streets>ISLAND RD / EAST AVE</cross_streets>
-    <dispatch_time>2020-12-18 16:59:26</dispatch_time>
-    <event_num>F20125542</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> C21, P212, R214, S232</units_disp>
-  </event>
+  <update_from_db_time>2020-12-18 18:55:02</update_from_db_time>
   <event>
     <prime_street>LANSDOWNE AVE, TT</prime_street>
     <cross_streets>LN 2 N SEAFORTH E LANSDOWNE / RIDEAU AVE</cross_streets>
@@ -20,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
     <units_disp> P324, P426, C34</units_disp>
-  </event>
-  <event>
-    <prime_street>HIGH PARK AVE, TT</prime_street>
-    <cross_streets>BLOOR ST W / GLENLAKE AVE</cross_streets>
-    <dispatch_time>2020-12-18 17:40:47</dispatch_time>
-    <event_num>F20125557</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A426, P431, R421, C34, P343, P344, R426, A426, P422, C42, P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 17:55:42</dispatch_time>
-    <event_num>F20125565</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -52,26 +22,6 @@
     <units_disp> R122</units_disp>
   </event>
   <event>
-    <prime_street>M4G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 18:10:31</dispatch_time>
-    <event_num>F20125568</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R321</units_disp>
-  </event>
-  <event>
-    <prime_street>ROXBOROUGH ST, TT</prime_street>
-    <cross_streets>PAUL HAHN LANE / MOLSON ST</cross_streets>
-    <dispatch_time>2020-12-18 18:12:09</dispatch_time>
-    <event_num>F20125569</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> A315, C31, P311, P312, P314</units_disp>
-  </event>
-  <event>
     <prime_street>DUNN AVE, TT</prime_street>
     <cross_streets>LN N SPRINGHURST W COWAN / LN S KING E DUNN</cross_streets>
     <dispatch_time>2020-12-18 18:13:42</dispatch_time>
@@ -79,26 +29,66 @@
     <event_type>Fire - Outside Storage</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>346</beat>
-    <units_disp> P315, P344, R426, C34, P334, A426</units_disp>
-  </event>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 18:13:38</dispatch_time>
-    <event_num>F20125571</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425</units_disp>
+    <units_disp> P315, P344, R426, C34, P334, A426, LA333</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>MARTIN GROVE RD / WEST HUMBER TRL</cross_streets>
-    <dispatch_time>2020-12-18 18:15:02</dispatch_time>
-    <event_num>F20125573</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-18 18:29:33</dispatch_time>
+    <event_num>F20125579</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
+    <beat>444</beat>
+    <units_disp> R444, R441</units_disp>
+  </event>
+  <event>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>DUNN AVE / CLOSE AVE</cross_streets>
+    <dispatch_time>2020-12-18 18:29:16</dispatch_time>
+    <event_num>F20125580</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> R345, C33, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>EALING DR, NY</prime_street>
+    <cross_streets> / STUBBS DR</cross_streets>
+    <dispatch_time>2020-12-18 18:40:10</dispatch_time>
+    <event_num>F20125584</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
+  </event>
+  <event>
+    <prime_street>M9A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-18 18:44:34</dispatch_time>
+    <event_num>F20125585</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-18 18:48:20</dispatch_time>
+    <event_num>F20125586</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>ROSEDALE HEIGHTS DR, TT</prime_street>
+    <cross_streets>HUDSON DR / HARPER AVE</cross_streets>
+    <dispatch_time>2020-12-18 18:49:32</dispatch_time>
+    <event_num>F20125587</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P145, C31, P311</units_disp>
   </event>
 </tfs_active_incidents>
