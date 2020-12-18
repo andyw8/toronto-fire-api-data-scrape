@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-18 06:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-18 07:30:02</update_from_db_time>
   <event>
     <prime_street>LAUGHTON AVE, TT</prime_street>
     <cross_streets>PELHAM AVE / LN S DAVENPORT W LAUGHTON</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
-    <units_disp> R423, P342, A423, C42, P422, P343, LA421, P426</units_disp>
+    <units_disp> R423, P342, A423, C42, P422, P343, LA421, P426, A421</units_disp>
   </event>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
@@ -17,38 +17,18 @@
     <dispatch_time>2020-12-18 06:00:52</dispatch_time>
     <event_num>F20125348</event_num>
     <event_type>Fire - Residential</event_type>
-    <alarm_lev>1</alarm_lev>
+    <alarm_lev>2</alarm_lev>
     <beat>331</beat>
-    <units_disp> A331, C33, P315, P331, P332, S331, A315, LA333, R325, R426, C30</units_disp>
+    <units_disp> A331, C33, P315, P331, P332, S331, A315, LA333, R325, R426, C30, C31, C34, HZ332, P314, P334, P344, CMD30, CMD30C</units_disp>
   </event>
   <event>
-    <prime_street>MC CAUL ST, TT</prime_street>
-    <cross_streets>RENFREW PL / STEPHANIE ST</cross_streets>
-    <dispatch_time>2020-12-18 06:29:16</dispatch_time>
-    <event_num>F20125350</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P314, P334, C31, HR332, P333, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
+    <prime_street>M5V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-18 06:31:48</dispatch_time>
-    <event_num>F20125351</event_num>
+    <dispatch_time>2020-12-18 07:03:40</dispatch_time>
+    <event_num>F20125353</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M5P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 06:32:48</dispatch_time>
-    <event_num>F20125352</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135</units_disp>
+    <beat>334</beat>
+    <units_disp> HR332</units_disp>
   </event>
 </tfs_active_incidents>
