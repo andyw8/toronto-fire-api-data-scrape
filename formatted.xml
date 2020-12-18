@@ -1,44 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-18 00:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-18 01:30:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>EGLINTON AVE W / TIMES RD</cross_streets>
-    <dispatch_time>2020-12-17 23:57:33</dispatch_time>
-    <event_num>F20125292</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
-  </event>
-  <event>
-    <prime_street>LAKESHORE RD, MS</prime_street>
-    <cross_streets>ORCHARD RD / FERGUS AVE</cross_streets>
-    <dispatch_time>2020-12-18 00:20:33</dispatch_time>
-    <event_num>F20125299</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434, P431, P433, PL432, R435, C43</units_disp>
-  </event>
-  <event>
-    <prime_street>YORK MILLS RD, NY</prime_street>
-    <cross_streets>RAYOAK DR / VICTORIA PARK AVE</cross_streets>
-    <dispatch_time>2020-12-18 00:23:00</dispatch_time>
-    <event_num>F20125300</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233, R115, C24, P245, A113</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
+    <prime_street>M1G</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-18 00:46:38</dispatch_time>
-    <event_num>F20125302</event_num>
+    <dispatch_time>2020-12-18 01:03:24</dispatch_time>
+    <event_num>F20125304</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
+    <beat>231</beat>
+    <units_disp> A231</units_disp>
+  </event>
+  <event>
+    <prime_street>M4N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-18 01:16:21</dispatch_time>
+    <event_num>F20125305</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-18 01:16:44</dispatch_time>
+    <event_num>F20125306</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M6B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-18 01:24:46</dispatch_time>
+    <event_num>F20125307</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
 </tfs_active_incidents>
