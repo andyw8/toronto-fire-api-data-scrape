@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-18 14:20:03</update_from_db_time>
+  <update_from_db_time>2020-12-18 14:40:02</update_from_db_time>
   <event>
     <prime_street>LAUGHTON AVE, TT</prime_street>
     <cross_streets>PELHAM AVE / LN S DAVENPORT W LAUGHTON</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
     <units_disp> R423, P342, A423, C42, P422, P343, LA421, P426, A421, C42, P415, P431</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-18 13:38:59</dispatch_time>
-    <event_num>F20125471</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> PL432, R434</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTON RD, NY</prime_street>
-    <cross_streets>DEE AVE / 401 C E WESTON RD RAMP</cross_streets>
-    <dispatch_time>2020-12-18 13:47:08</dispatch_time>
-    <event_num>F20125473</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P146, P415, A441, C41, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 14:04:51</dispatch_time>
-    <event_num>F20125477</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> A423</units_disp>
   </event>
   <event>
     <prime_street>WADE AVE, TT</prime_street>
@@ -62,63 +32,53 @@
     <units_disp> A341</units_disp>
   </event>
   <event>
-    <prime_street>COLLEGE ST, TT</prime_street>
-    <cross_streets>DOUGLAS CAMPBELL LANE / ROBERT ST</cross_streets>
-    <dispatch_time>2020-12-18 14:13:28</dispatch_time>
-    <event_num>F20125480</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315, P314, A315, C33, P331</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-18 14:14:40</dispatch_time>
-    <event_num>F20125481</event_num>
+    <dispatch_time>2020-12-18 14:20:40</dispatch_time>
+    <event_num>F20125486</event_num>
     <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 14:14:53</dispatch_time>
-    <event_num>F20125482</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 14:15:12</dispatch_time>
-    <event_num>F20125483</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
-    <prime_street>BROCKPORT DR, ET</prime_street>
-    <cross_streets>DISCO RD / </cross_streets>
-    <dispatch_time>2020-12-18 14:16:19</dispatch_time>
-    <event_num>F20125484</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>441</beat>
-    <units_disp> P415, R441, A441, C41, R412</units_disp>
+    <units_disp> P443</units_disp>
   </event>
   <event>
-    <prime_street>UNIVERSITY AVE, TT</prime_street>
-    <cross_streets>PEARL ST / LN S ADELAIDE W UNIVERSITY</cross_streets>
-    <dispatch_time>2020-12-18 14:16:21</dispatch_time>
-    <event_num>F20125485</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-18 14:25:15</dispatch_time>
+    <event_num>F20125490</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> S331, P332</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>YORK MILLS RD, NY</prime_street>
+    <cross_streets>LESMILL RD / UPJOHN RD</cross_streets>
+    <dispatch_time>2020-12-18 14:31:31</dispatch_time>
+    <event_num>F20125491</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123, R122, A113, C11, R115</units_disp>
+  </event>
+  <event>
+    <prime_street>PLAXTON DR, EY</prime_street>
+    <cross_streets>GLEN ROBERT DR / LN N GLEN ROBERT W PLAXTON DR</cross_streets>
+    <dispatch_time>2020-12-18 14:32:30</dispatch_time>
+    <event_num>F20125492</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> P324, C22, R224</units_disp>
+  </event>
+  <event>
+    <prime_street>WESTON RD, YK</prime_street>
+    <cross_streets>ELPHICK LANE / COULTER AVE</cross_streets>
+    <dispatch_time>2020-12-18 14:35:49</dispatch_time>
+    <event_num>F20125493</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442, P146, C41, A133, R133</units_disp>
   </event>
 </tfs_active_incidents>
