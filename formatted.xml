@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-18 08:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-18 08:50:02</update_from_db_time>
   <event>
     <prime_street>LAUGHTON AVE, TT</prime_street>
     <cross_streets>PELHAM AVE / LN S DAVENPORT W LAUGHTON</cross_streets>
@@ -50,5 +50,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>221</beat>
     <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>LAWRENCE AVE W / WESTON RD</cross_streets>
+    <dispatch_time>2020-12-18 08:40:51</dispatch_time>
+    <event_num>F20125367</event_num>
+    <event_type>Vehicle - Spill Clean Up</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-18 08:43:25</dispatch_time>
+    <event_num>F20125368</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
   </event>
 </tfs_active_incidents>
