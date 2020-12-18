@@ -1,34 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-18 01:50:01</update_from_db_time>
+  <update_from_db_time>2020-12-18 02:20:02</update_from_db_time>
   <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M6H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-18 01:36:30</dispatch_time>
-    <event_num>F20125308</event_num>
+    <dispatch_time>2020-12-18 02:08:03</dispatch_time>
+    <event_num>F20125312</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 01:43:07</dispatch_time>
-    <event_num>F20125309</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>SALOME DR, SC</prime_street>
-    <cross_streets>MIDLAND AVE / HARRISFARM GT</cross_streets>
-    <dispatch_time>2020-12-18 01:43:32</dispatch_time>
-    <event_num>F20125310</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243, P244, A213, C24, P242</units_disp>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
   </event>
 </tfs_active_incidents>
