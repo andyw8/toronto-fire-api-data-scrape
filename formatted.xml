@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-18 09:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-18 09:50:02</update_from_db_time>
   <event>
     <prime_street>LAUGHTON AVE, TT</prime_street>
     <cross_streets>PELHAM AVE / LN S DAVENPORT W LAUGHTON</cross_streets>
@@ -32,53 +32,43 @@
     <units_disp> R133, C44</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>M8V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-18 09:07:37</dispatch_time>
-    <event_num>F20125374</event_num>
+    <dispatch_time>2020-12-18 09:38:07</dispatch_time>
+    <event_num>F20125380</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A133</units_disp>
+    <beat>435</beat>
+    <units_disp> R435</units_disp>
   </event>
   <event>
-    <prime_street>STRATHMORE BLVD, TT</prime_street>
-    <cross_streets>CAITHNESS AVE / GREENWOOD AVE</cross_streets>
-    <dispatch_time>2020-12-18 09:13:22</dispatch_time>
-    <event_num>F20125376</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>M8W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-18 09:42:39</dispatch_time>
+    <event_num>F20125381</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, P322, P324, R224, A324, C32, HR332</units_disp>
+    <beat>434</beat>
+    <units_disp> R434</units_disp>
   </event>
   <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>QUEENS QUAY W / HARBOUR ST</cross_streets>
-    <dispatch_time>2020-12-18 09:15:45</dispatch_time>
-    <event_num>F20125377</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-18 09:44:41</dispatch_time>
+    <event_num>F20125382</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P332, P333, P334, T333, C33</units_disp>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>REED GRASSWAY / SWEET GRASSWAY</cross_streets>
-    <dispatch_time>2020-12-18 09:22:54</dispatch_time>
-    <event_num>F20125378</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-18 09:46:43</dispatch_time>
+    <event_num>F20125383</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street>DANESBURY AVE, NY</prime_street>
-    <cross_streets>STAYNER AVE / LILYWOOD RD</cross_streets>
-    <dispatch_time>2020-12-18 09:22:57</dispatch_time>
-    <event_num>F20125379</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
 </tfs_active_incidents>
