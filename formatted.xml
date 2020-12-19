@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-19 18:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-19 18:50:02</update_from_db_time>
   <event>
     <prime_street>SANDHURST CRCL, SC</prime_street>
     <cross_streets>BRIMWOOD BLVD / FINCH AVE E</cross_streets>
@@ -30,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>145</beat>
     <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-19 18:24:22</dispatch_time>
-    <event_num>F20125929</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
   </event>
   <event>
     <prime_street>NEILSON RD, SC</prime_street>
@@ -80,5 +70,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>133</beat>
     <units_disp> P442, P146, P132, C13, A421</units_disp>
+  </event>
+  <event>
+    <prime_street>M9A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-19 18:37:46</dispatch_time>
+    <event_num>F20125935</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>STRACHAN AVE / ORDNANCE ST</cross_streets>
+    <dispatch_time>2020-12-19 18:39:22</dispatch_time>
+    <event_num>F20125936</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>ZAHARIAS CRT, NY</prime_street>
+    <cross_streets>CHIEFTAIN CRES / </cross_streets>
+    <dispatch_time>2020-12-19 18:41:45</dispatch_time>
+    <event_num>F20125938</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> R122, P116, C11, P121, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>GREENFIELD AVE, NY</prime_street>
+    <cross_streets>LN E YONGE N GREENFIELD AVE / DORIS AVE</cross_streets>
+    <dispatch_time>2020-12-19 18:42:30</dispatch_time>
+    <event_num>F20125939</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, A113, C14, P111, R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-19 18:45:06</dispatch_time>
+    <event_num>F20125940</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
 </tfs_active_incidents>
