@@ -1,34 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-19 00:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-19 01:30:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>BAYVIEW AVE / BAYVIEW MEWS LANE</cross_streets>
-    <dispatch_time>2020-12-19 00:13:30</dispatch_time>
-    <event_num>F20125674</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-19 00:15:56</dispatch_time>
-    <event_num>F20125675</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BERGAMOT AVE, ET</prime_street>
+    <cross_streets>REXDALE BLVD / ISLINGTON AVE</cross_streets>
+    <dispatch_time>2020-12-19 00:49:22</dispatch_time>
+    <event_num>F20125679</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>415</beat>
-    <units_disp> P415</units_disp>
+    <units_disp> P415, S445</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>M6C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-19 00:36:37</dispatch_time>
-    <event_num>F20125677</event_num>
+    <dispatch_time>2020-12-19 01:21:31</dispatch_time>
+    <event_num>F20125685</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415</units_disp>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
   </event>
 </tfs_active_incidents>
