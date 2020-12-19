@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-19 02:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-19 03:25:03</update_from_db_time>
   <event>
     <prime_street>YONGE ST, TT</prime_street>
     <cross_streets>ISABELLA ST / ST MARY ST</cross_streets>
@@ -32,20 +32,40 @@
     <units_disp> P332, P334, A331, C33, P331</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M1T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-19 02:32:40</dispatch_time>
-    <event_num>F20125703</event_num>
+    <dispatch_time>2020-12-19 02:59:58</dispatch_time>
+    <event_num>F20125711</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
+    <prime_street>M4B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-19 02:36:44</dispatch_time>
-    <event_num>F20125704</event_num>
+    <dispatch_time>2020-12-19 03:16:54</dispatch_time>
+    <event_num>F20125713</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-19 03:19:30</dispatch_time>
+    <event_num>F20125714</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M3L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-19 03:21:57</dispatch_time>
+    <event_num>F20125715</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
