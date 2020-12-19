@@ -1,54 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-18 23:45:01</update_from_db_time>
+  <update_from_db_time>2020-12-19 00:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>YORK MILLS RD / DON VALLEY PKWY N</cross_streets>
-    <dispatch_time>2020-12-18 22:46:04</dispatch_time>
-    <event_num>F20125656</event_num>
+    <cross_streets>BAYVIEW AVE / BAYVIEW MEWS LANE</cross_streets>
+    <dispatch_time>2020-12-19 00:13:30</dispatch_time>
+    <event_num>F20125674</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
   <event>
-    <prime_street>M9M</prime_street>
+    <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-18 22:57:14</dispatch_time>
-    <event_num>F20125661</event_num>
+    <dispatch_time>2020-12-19 00:15:56</dispatch_time>
+    <event_num>F20125675</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-18 23:18:47</dispatch_time>
-    <event_num>F20125668</event_num>
+    <dispatch_time>2020-12-19 00:16:42</dispatch_time>
+    <event_num>F20125676</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 23:31:57</dispatch_time>
-    <event_num>F20125669</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-18 23:32:53</dispatch_time>
-    <event_num>F20125670</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>326</beat>
+    <units_disp> R326</units_disp>
   </event>
 </tfs_active_incidents>
