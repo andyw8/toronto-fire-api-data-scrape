@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-20 12:15:02</update_from_db_time>
+  <update_from_db_time>2020-12-20 12:40:02</update_from_db_time>
   <event>
     <prime_street>SORAUREN AVE, TT</prime_street>
     <cross_streets>LN N QUEEN E SORAUREN / SAUNDERS AVE</cross_streets>
@@ -12,53 +12,63 @@
     <units_disp> P426, A426, C34, P331</units_disp>
   </event>
   <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-20 11:59:30</dispatch_time>
-    <event_num>F20126181</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>OXFORD DR, YK</prime_street>
+    <cross_streets>WESTON RD / </cross_streets>
+    <dispatch_time>2020-12-20 12:13:43</dispatch_time>
+    <event_num>F20126187</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>421</beat>
+    <units_disp> A421, P426, P442, R423, C42</units_disp>
   </event>
   <event>
-    <prime_street>BREMNER BLVD, TT</prime_street>
-    <cross_streets>OLYMPIC PARK TRL / REES ST</cross_streets>
-    <dispatch_time>2020-12-20 12:00:17</dispatch_time>
-    <event_num>F20126183</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>WESTON RD / ST CLAIR AVE W</cross_streets>
+    <dispatch_time>2020-12-20 12:23:56</dispatch_time>
+    <event_num>F20126188</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P332, P344, C33, P333, T333</units_disp>
+    <beat>423</beat>
+    <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-20 12:08:37</dispatch_time>
-    <event_num>F20126184</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>FINCH AVE, SC</prime_street>
+    <cross_streets>MCCOWAN RD / SANDHURST CRCL</cross_streets>
+    <dispatch_time>2020-12-20 12:24:04</dispatch_time>
+    <event_num>F20126189</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>242</beat>
+    <units_disp> P211, P212, P242, R243, A213, C24</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-20 12:09:23</dispatch_time>
-    <event_num>F20126185</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BATHURST ST, TT</prime_street>
+    <cross_streets>ALEXANDRA PARK TRL / ALEXANDRA PARK TRL</cross_streets>
+    <dispatch_time>2020-12-20 12:28:36</dispatch_time>
+    <event_num>F20126191</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-20 12:10:04</dispatch_time>
-    <event_num>F20126186</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>SHERIDAN AVE, TT</prime_street>
+    <cross_streets>MOUTRAY ST / LN S COLLEGE E SHERIDAN</cross_streets>
+    <dispatch_time>2020-12-20 12:32:03</dispatch_time>
+    <event_num>F20126192</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
+    <beat>426</beat>
+    <units_disp> R426, A331, C34, P331, P344</units_disp>
+  </event>
+  <event>
+    <prime_street>RICHMOND ST, TT</prime_street>
+    <cross_streets>WIDMER ST / PETER ST</cross_streets>
+    <dispatch_time>2020-12-20 12:36:20</dispatch_time>
+    <event_num>F20126193</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
