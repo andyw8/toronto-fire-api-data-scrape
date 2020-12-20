@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-20 05:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-20 05:50:02</update_from_db_time>
   <event>
     <prime_street>DUNDAS ST, ET</prime_street>
     <cross_streets>MONTGOMERY RD / TOM RILEY PARK TRL</cross_streets>
@@ -12,13 +12,23 @@
     <units_disp> C44, P445, R444, S445</units_disp>
   </event>
   <event>
-    <prime_street>M4C</prime_street>
+    <prime_street>DRUMMOND ST, ET</prime_street>
+    <cross_streets>ROYAL YORK RD / HAROLD ST</cross_streets>
+    <dispatch_time>2020-12-20 05:24:15</dispatch_time>
+    <event_num>F20126097</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433, R435, A433, C43, P431</units_disp>
+  </event>
+  <event>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-20 04:52:44</dispatch_time>
-    <event_num>F20126094</event_num>
+    <dispatch_time>2020-12-20 05:36:22</dispatch_time>
+    <event_num>F20126098</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
   </event>
 </tfs_active_incidents>
