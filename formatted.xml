@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-19 23:30:02</update_from_db_time>
-  <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-19 21:50:41</dispatch_time>
-    <event_num>F20125993</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226, HZ332</units_disp>
-  </event>
+  <update_from_db_time>2020-12-19 23:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MILLWOOD RD / RANDOLPH RD</cross_streets>
@@ -32,43 +22,63 @@
     <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-19 23:21:53</dispatch_time>
-    <event_num>F20126022</event_num>
+    <dispatch_time>2020-12-19 23:28:29</dispatch_time>
+    <event_num>F20126027</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
+    <prime_street>BRIMLEY RD, SC</prime_street>
+    <cross_streets>BLUFFER'S PARK TRL / BARKDENE HILLS</cross_streets>
+    <dispatch_time>2020-12-19 23:32:36</dispatch_time>
+    <event_num>F20126028</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> R235, P223, A222, C22, P221, P325</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-19 23:23:09</dispatch_time>
-    <event_num>F20126023</event_num>
+    <dispatch_time>2020-12-19 23:34:46</dispatch_time>
+    <event_num>F20126030</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>DOUGLAS AVE, TT</prime_street>
+    <cross_streets>GREER RD / ELM RD</cross_streets>
+    <dispatch_time>2020-12-19 23:35:16</dispatch_time>
+    <event_num>F20126031</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>131</beat>
+    <units_disp> A135, P121, P131, P132, R134, C13</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-19 23:23:25</dispatch_time>
-    <event_num>F20126024</event_num>
+    <dispatch_time>2020-12-19 23:35:26</dispatch_time>
+    <event_num>F20126032</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415</units_disp>
+    <beat>421</beat>
+    <units_disp> A421</units_disp>
   </event>
   <event>
-    <prime_street>JACKES AVE, TT</prime_street>
-    <cross_streets>YONGE ST / DAVID A BALFOUR PARK TRL</cross_streets>
-    <dispatch_time>2020-12-19 23:25:17</dispatch_time>
-    <event_num>F20126026</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <prime_street>M3J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-19 23:46:42</dispatch_time>
+    <event_num>F20126033</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
 </tfs_active_incidents>
