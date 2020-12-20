@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-20 11:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-20 12:15:02</update_from_db_time>
   <event>
     <prime_street>SORAUREN AVE, TT</prime_street>
     <cross_streets>LN N QUEEN E SORAUREN / SAUNDERS AVE</cross_streets>
@@ -12,63 +12,53 @@
     <units_disp> P426, A426, C34, P331</units_disp>
   </event>
   <event>
-    <prime_street>M9P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-20 11:14:52</dispatch_time>
-    <event_num>F20126172</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>GOLDFINCH CRT, NY</prime_street>
-    <cross_streets> / FINCH AVE W</cross_streets>
-    <dispatch_time>2020-12-20 11:25:58</dispatch_time>
-    <event_num>F20126173</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112, P143, C11, HR114, P114, T114</units_disp>
-  </event>
-  <event>
     <prime_street>M9B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-20 11:27:27</dispatch_time>
-    <event_num>F20126174</event_num>
+    <dispatch_time>2020-12-20 11:59:30</dispatch_time>
+    <event_num>F20126181</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
     <units_disp> P445</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>BREMNER BLVD, TT</prime_street>
+    <cross_streets>OLYMPIC PARK TRL / REES ST</cross_streets>
+    <dispatch_time>2020-12-20 12:00:17</dispatch_time>
+    <event_num>F20126183</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P332, P344, C33, P333, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-20 11:29:44</dispatch_time>
-    <event_num>F20126175</event_num>
+    <dispatch_time>2020-12-20 12:08:37</dispatch_time>
+    <event_num>F20126184</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
   <event>
-    <prime_street>ADANAC DR, SC</prime_street>
-    <cross_streets>BELLAMY RD S / MASON RD</cross_streets>
-    <dispatch_time>2020-12-20 11:31:27</dispatch_time>
-    <event_num>F20126176</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-20 12:09:23</dispatch_time>
+    <event_num>F20126185</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> A231, C23, P221, P234, R225, P223</units_disp>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
   </event>
   <event>
-    <prime_street>EARL PL, TT</prime_street>
-    <cross_streets>JARVIS ST / </cross_streets>
-    <dispatch_time>2020-12-20 11:33:09</dispatch_time>
-    <event_num>F20126177</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-20 12:10:04</dispatch_time>
+    <event_num>F20126186</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, A325, C31, P312, P314</units_disp>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
   </event>
 </tfs_active_incidents>
