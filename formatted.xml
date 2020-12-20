@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-20 08:00:02</update_from_db_time>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-20 07:32:58</dispatch_time>
-    <event_num>F20126115</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>BLOOR ST W / EDNA AVE</cross_streets>
-    <dispatch_time>2020-12-20 07:35:50</dispatch_time>
-    <event_num>F20126117</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
+  <update_from_db_time>2020-12-20 08:20:02</update_from_db_time>
   <event>
     <prime_street>M2L</prime_street>
     <cross_streets/>
@@ -30,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>122</beat>
     <units_disp> R122</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNDAS ST, ET</prime_street>
+    <cross_streets>MONTGOMERY RD / TOM RILEY PARK TRL</cross_streets>
+    <dispatch_time>2020-12-20 08:04:20</dispatch_time>
+    <event_num>F20126124</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-20 08:15:02</dispatch_time>
+    <event_num>F20126125</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
   </event>
 </tfs_active_incidents>
