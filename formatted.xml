@@ -1,24 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-21 08:00:02</update_from_db_time>
+  <update_from_db_time>2020-12-21 08:30:02</update_from_db_time>
   <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-21 06:58:33</dispatch_time>
-    <event_num>F20126443</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>DUNLOE RD, TT</prime_street>
+    <cross_streets>KILBARRY RD / HAWARDEN CRES</cross_streets>
+    <dispatch_time>2020-12-21 08:24:14</dispatch_time>
+    <event_num>F20126455</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>FINCH AVE E / YONGE ST</cross_streets>
-    <dispatch_time>2020-12-21 07:25:24</dispatch_time>
-    <event_num>F20126450</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, C11, R112, S143</units_disp>
+    <beat>135</beat>
+    <units_disp> P311, R134, A135, C13, P343</units_disp>
   </event>
 </tfs_active_incidents>
