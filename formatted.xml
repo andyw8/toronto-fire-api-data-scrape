@@ -1,34 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-21 06:25:02</update_from_db_time>
+  <update_from_db_time>2020-12-21 06:50:02</update_from_db_time>
   <event>
-    <prime_street>M1T</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 06:11:55</dispatch_time>
-    <event_num>F20126432</event_num>
+    <dispatch_time>2020-12-21 06:38:18</dispatch_time>
+    <event_num>F20126435</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>LOURDES LANE / EARL ST</cross_streets>
-    <dispatch_time>2020-12-21 06:14:37</dispatch_time>
-    <event_num>F20126433</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> A325, C31, P312, P313, P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M5M</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 06:17:22</dispatch_time>
-    <event_num>F20126434</event_num>
+    <dispatch_time>2020-12-21 06:43:28</dispatch_time>
+    <event_num>F20126436</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-21 06:43:56</dispatch_time>
+    <event_num>F20126437</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> R423, A423</units_disp>
+  </event>
+  <event>
+    <prime_street>PHYLLIS AVE, SC</prime_street>
+    <cross_streets>RANDALL CRES / ALLISTER AVE</cross_streets>
+    <dispatch_time>2020-12-21 06:43:58</dispatch_time>
+    <event_num>F20126438</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P221, R225, A222, C22, R224</units_disp>
   </event>
 </tfs_active_incidents>
