@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-21 15:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-21 16:25:02</update_from_db_time>
   <event>
     <prime_street>ADANAC DR, SC</prime_street>
     <cross_streets>BELLAMY RD S / MASON RD</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>223</beat>
     <units_disp> FI15</units_disp>
-  </event>
-  <event>
-    <prime_street>DANFORTH AVE, SC</prime_street>
-    <cross_streets>BALFORD AVE / WARDEN AVE</cross_streets>
-    <dispatch_time>2020-12-21 15:01:17</dispatch_time>
-    <event_num>F20126576</event_num>
-    <event_type>Fire - Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225, P226, A222, C22, P223, P227</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -32,73 +22,43 @@
     <units_disp> P141</units_disp>
   </event>
   <event>
-    <prime_street>M4E</prime_street>
+    <prime_street>M3N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 15:33:20</dispatch_time>
-    <event_num>F20126586</event_num>
+    <dispatch_time>2020-12-21 15:56:16</dispatch_time>
+    <event_num>F20126595</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P227</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>M4X</prime_street>
+    <prime_street>DRIFTWOOD AVE, NY</prime_street>
+    <cross_streets>DRIFTWOOD CRT / JANE ST</cross_streets>
+    <dispatch_time>2020-12-21 16:11:10</dispatch_time>
+    <event_num>F20126601</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P146, R112, C14, A411, R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 15:33:53</dispatch_time>
-    <event_num>F20126587</event_num>
+    <dispatch_time>2020-12-21 16:13:48</dispatch_time>
+    <event_num>F20126602</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
+    <prime_street>M6S</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 15:35:57</dispatch_time>
-    <event_num>F20126588</event_num>
+    <dispatch_time>2020-12-21 16:15:55</dispatch_time>
+    <event_num>F20126603</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-21 15:39:14</dispatch_time>
-    <event_num>F20126589</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
-  </event>
-  <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-21 15:42:40</dispatch_time>
-    <event_num>F20126590</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-21 15:44:20</dispatch_time>
-    <event_num>F20126591</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
-    <prime_street>LANDRON CRES, ET</prime_street>
-    <cross_streets>BROOK TREE CRES / SUMMITCREST DR</cross_streets>
-    <dispatch_time>2020-12-21 15:46:26</dispatch_time>
-    <event_num>F20126592</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443, P442, A421, C44, R441</units_disp>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
   </event>
 </tfs_active_incidents>
