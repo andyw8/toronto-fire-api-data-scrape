@@ -1,56 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-21 18:30:03</update_from_db_time>
-  <event>
-    <prime_street>JOHN TABOR TRL, SC</prime_street>
-    <cross_streets>WARWICK CASTLE CRT / DUFFORT CRT</cross_streets>
-    <dispatch_time>2020-12-21 17:39:49</dispatch_time>
-    <event_num>F20126630</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MEADOWVALE RD / HIGHWAY 401 X E</cross_streets>
-    <dispatch_time>2020-12-21 17:49:30</dispatch_time>
-    <event_num>F20126635</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
-    <cross_streets>R. V. BURGESS PARK TRL / OVERLEA BLVD</cross_streets>
-    <dispatch_time>2020-12-21 18:08:34</dispatch_time>
-    <event_num>F20126641</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322, P313, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-21 18:09:37</dispatch_time>
-    <event_num>F20126642</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>THE WEST MALL / EVANS AVE</cross_streets>
-    <dispatch_time>2020-12-21 18:13:44</dispatch_time>
-    <event_num>F20126643</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
-  </event>
+  <update_from_db_time>2020-12-21 18:55:02</update_from_db_time>
   <event>
     <prime_street>M2K</prime_street>
     <cross_streets/>
@@ -82,23 +32,53 @@
     <units_disp> A213</units_disp>
   </event>
   <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>GRACEDALE BLVD / ARDWICK BLVD</cross_streets>
-    <dispatch_time>2020-12-21 18:24:00</dispatch_time>
-    <event_num>F20126648</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-21 18:32:28</dispatch_time>
+    <event_num>F20126650</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R413</units_disp>
+    <beat>415</beat>
+    <units_disp> A415</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-21 18:26:54</dispatch_time>
-    <event_num>F20126649</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>ROSELAWN AVE, TT</prime_street>
+    <cross_streets>CALDOW RD / CHAPLIN CRES</cross_streets>
+    <dispatch_time>2020-12-21 18:38:03</dispatch_time>
+    <event_num>F20126652</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>2</alarm_lev>
+    <beat>135</beat>
+    <units_disp> R134, A135, C13, P131, P132, R341, A341, HZ145, P145, A345, C34, CMD30, HR332, LA421, P311, P312, P342, S313, CMD10, CMD10C, C10, HR114</units_disp>
+  </event>
+  <event>
+    <prime_street>RONCESVALLES AVE, TT</prime_street>
+    <cross_streets>HARVARD AVE / MARION ST</cross_streets>
+    <dispatch_time>2020-12-21 18:38:48</dispatch_time>
+    <event_num>F20126653</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, P323</units_disp>
+    <beat>426</beat>
+    <units_disp> R426, A426, C42, P426, P331, P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M6G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-21 18:43:06</dispatch_time>
+    <event_num>F20126655</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>CUMBERLAND ST / YORKVILLE AVE</cross_streets>
+    <dispatch_time>2020-12-21 18:48:54</dispatch_time>
+    <event_num>F20126657</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> A312, C31, P313, P314, R325</units_disp>
   </event>
 </tfs_active_incidents>
