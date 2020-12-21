@@ -1,74 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-20 21:05:02</update_from_db_time>
+  <update_from_db_time>2020-12-20 21:40:02</update_from_db_time>
   <event>
-    <prime_street>M5R</prime_street>
+    <prime_street>M2J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-20 20:35:31</dispatch_time>
-    <event_num>F20126332</event_num>
+    <dispatch_time>2020-12-20 21:14:20</dispatch_time>
+    <event_num>F20126345</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P315</units_disp>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
   </event>
   <event>
-    <prime_street>ALBION RD, ET</prime_street>
-    <cross_streets>KIPLING AVE / FINCH AVE W</cross_streets>
-    <dispatch_time>2020-12-20 20:45:51</dispatch_time>
-    <event_num>F20126335</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> P415</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M1T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-20 20:50:37</dispatch_time>
-    <event_num>F20126337</event_num>
+    <dispatch_time>2020-12-20 21:20:24</dispatch_time>
+    <event_num>F20126347</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>244</beat>
+    <units_disp> P245</units_disp>
   </event>
   <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-20 20:55:21</dispatch_time>
-    <event_num>F20126338</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-20 21:22:50</dispatch_time>
+    <event_num>F20126349</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>326</beat>
+    <units_disp> P333, P334, R326</units_disp>
   </event>
   <event>
-    <prime_street>M1R</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-20 20:59:45</dispatch_time>
-    <event_num>F20126339</event_num>
+    <dispatch_time>2020-12-20 21:23:49</dispatch_time>
+    <event_num>F20126350</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-20 21:00:03</dispatch_time>
-    <event_num>F20126340</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>DUNDAS ST W / EDWARD ST</cross_streets>
+    <dispatch_time>2020-12-20 21:29:51</dispatch_time>
+    <event_num>F20126351</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
+    <beat>314</beat>
+    <units_disp> P314, P332, A315, C33, P315</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-20 21:01:08</dispatch_time>
-    <event_num>F20126341</event_num>
+    <dispatch_time>2020-12-20 21:36:20</dispatch_time>
+    <event_num>F20126352</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
 </tfs_active_incidents>
