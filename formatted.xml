@@ -1,74 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-21 11:45:02</update_from_db_time>
+  <update_from_db_time>2020-12-21 12:40:03</update_from_db_time>
   <event>
-    <prime_street>M2N</prime_street>
+    <prime_street>M6B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 11:07:11</dispatch_time>
-    <event_num>F20126498</event_num>
+    <dispatch_time>2020-12-21 11:58:57</dispatch_time>
+    <event_num>F20126517</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> HR114</units_disp>
+    <beat>135</beat>
+    <units_disp> A135</units_disp>
   </event>
   <event>
-    <prime_street>CANTERBURY PL, NY</prime_street>
-    <cross_streets>ELLERSLIE AVE / CHURCHILL AVE</cross_streets>
-    <dispatch_time>2020-12-21 11:12:09</dispatch_time>
-    <event_num>F20126500</event_num>
-    <event_type>Police Assist</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> T114, P114, S143</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
+    <prime_street>M4M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 11:10:25</dispatch_time>
-    <event_num>F20126501</event_num>
+    <dispatch_time>2020-12-21 12:11:22</dispatch_time>
+    <event_num>F20126521</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
   </event>
   <event>
-    <prime_street>MAYBROOK DR, SC</prime_street>
-    <cross_streets>NEWMILL GT / PASSMORE AVE</cross_streets>
-    <dispatch_time>2020-12-21 11:34:16</dispatch_time>
-    <event_num>F20126507</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 11:34:15</dispatch_time>
-    <event_num>F20126508</event_num>
+    <dispatch_time>2020-12-21 12:14:46</dispatch_time>
+    <event_num>F20126523</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-21 11:37:07</dispatch_time>
-    <event_num>F20126509</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>ADANAC DR, SC</prime_street>
+    <cross_streets>BELLAMY RD S / MASON RD</cross_streets>
+    <dispatch_time>2020-12-21 12:15:20</dispatch_time>
+    <event_num>F20126525</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
+    <beat>223</beat>
+    <units_disp> FI15</units_disp>
   </event>
   <event>
-    <prime_street>M5P</prime_street>
+    <prime_street>M3M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 11:37:02</dispatch_time>
-    <event_num>F20126510</event_num>
+    <dispatch_time>2020-12-21 12:36:10</dispatch_time>
+    <event_num>F20126531</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M4H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-21 12:36:18</dispatch_time>
+    <event_num>F20126532</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
+  </event>
+  <event>
+    <prime_street>M1N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-21 12:36:48</dispatch_time>
+    <event_num>F20126533</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
 </tfs_active_incidents>
