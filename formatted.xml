@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-21 10:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-21 10:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>ISLAND PARK TRL / ISLAND PARK TRL</cross_streets>
@@ -12,43 +12,53 @@
     <units_disp> C33, FB334, P331, P334, P335, P335B, S331, P445, S445, FB334B</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>YONGE ST / FINCH AVE E</cross_streets>
-    <dispatch_time>2020-12-21 09:44:23</dispatch_time>
-    <event_num>F20126475</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
+    <prime_street>M5V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 10:05:25</dispatch_time>
-    <event_num>F20126479</event_num>
+    <dispatch_time>2020-12-21 10:17:41</dispatch_time>
+    <event_num>F20126484</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
   <event>
-    <prime_street>WELLESLEY ST, TT</prime_street>
-    <cross_streets>CHURCH ST / JARVIS ST</cross_streets>
-    <dispatch_time>2020-12-21 10:05:37</dispatch_time>
-    <event_num>F20126481</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> A312</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 10:08:42</dispatch_time>
-    <event_num>F20126483</event_num>
+    <dispatch_time>2020-12-21 10:31:33</dispatch_time>
+    <event_num>F20126485</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNDAS ST, ET</prime_street>
+    <cross_streets>MABELLE AVE / AVONHURST RD</cross_streets>
+    <dispatch_time>2020-12-21 10:33:53</dispatch_time>
+    <event_num>F20126487</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445, P431, C44, P443, PL432, C43</units_disp>
+  </event>
+  <event>
+    <prime_street>M9A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-21 10:36:04</dispatch_time>
+    <event_num>F20126488</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> S445</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>CHARLES ST W / HAYDEN ST</cross_streets>
+    <dispatch_time>2020-12-21 10:44:02</dispatch_time>
+    <event_num>F20126491</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P311, P315, A312, C31, R325</units_disp>
   </event>
 </tfs_active_incidents>
