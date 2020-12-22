@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-21 20:10:02</update_from_db_time>
+  <update_from_db_time>2020-12-21 21:05:02</update_from_db_time>
   <event>
     <prime_street>ROSELAWN AVE, TT</prime_street>
     <cross_streets>CALDOW RD / CHAPLIN CRES</cross_streets>
@@ -12,63 +12,53 @@
     <units_disp> R134, A135, C13, P131, P132, R341, A341, HZ145, P145, A345, C34, CMD30, HR332, LA421, P311, P312, P342, S313, CMD10, CMD10C, C10, HR114</units_disp>
   </event>
   <event>
-    <prime_street>M3L</prime_street>
+    <prime_street>M1T</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 19:12:06</dispatch_time>
-    <event_num>F20126668</event_num>
+    <dispatch_time>2020-12-21 20:23:10</dispatch_time>
+    <event_num>F20126695</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>ROBERT HICKS DR, NY</prime_street>
+    <cross_streets>HENRY WELSH DR / HENRY WELSH DR</cross_streets>
+    <dispatch_time>2020-12-21 20:37:50</dispatch_time>
+    <event_num>F20126703</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> C11, HZ145, P145, R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 19:57:08</dispatch_time>
-    <event_num>F20126684</event_num>
+    <dispatch_time>2020-12-21 20:51:07</dispatch_time>
+    <event_num>F20126705</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
   </event>
   <event>
-    <prime_street>GARDINER RD, TT</prime_street>
-    <cross_streets>CHADWICK AVE / EGLINTON AVE W</cross_streets>
-    <dispatch_time>2020-12-21 19:58:13</dispatch_time>
-    <event_num>F20126685</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>MCCOWAN RD, SC</prime_street>
+    <cross_streets>EGLINTON AVE E / TRUDELLE ST</cross_streets>
+    <dispatch_time>2020-12-21 20:56:47</dispatch_time>
+    <event_num>F20126706</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P311, A312, C31, P342, R321, R341, R341, A345</units_disp>
+    <beat>221</beat>
+    <units_disp> A231, P221, P223, P232, S232, C23</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
+    <prime_street>M4V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 19:59:05</dispatch_time>
-    <event_num>F20126686</event_num>
+    <dispatch_time>2020-12-21 20:57:03</dispatch_time>
+    <event_num>F20126707</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-21 20:03:31</dispatch_time>
-    <event_num>F20126687</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MCNICOLL AVE / MIDLAND AVE</cross_streets>
-    <dispatch_time>2020-12-21 20:06:43</dispatch_time>
-    <event_num>F20126688</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
 </tfs_active_incidents>
