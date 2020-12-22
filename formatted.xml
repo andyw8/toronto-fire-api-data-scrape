@@ -1,54 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-22 02:00:03</update_from_db_time>
+  <update_from_db_time>2020-12-22 02:30:02</update_from_db_time>
   <event>
-    <prime_street>M4H</prime_street>
+    <prime_street>M6P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-22 01:20:44</dispatch_time>
-    <event_num>F20126753</event_num>
+    <dispatch_time>2020-12-22 02:21:55</dispatch_time>
+    <event_num>F20126762</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>COOPER ST / LOWER JARVIS ST</cross_streets>
-    <dispatch_time>2020-12-22 01:22:42</dispatch_time>
-    <event_num>F20126756</event_num>
-    <event_type>Alarm Waterfront Marina/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P334, FB334, P332, R325, T333, C33</units_disp>
-  </event>
-  <event>
-    <prime_street>M4A</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-22 01:26:00</dispatch_time>
-    <event_num>F20126758</event_num>
+    <dispatch_time>2020-12-22 02:21:46</dispatch_time>
+    <event_num>F20126763</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>326</beat>
+    <units_disp> R326</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M5V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-22 01:44:01</dispatch_time>
-    <event_num>F20126759</event_num>
+    <dispatch_time>2020-12-22 02:26:11</dispatch_time>
+    <event_num>F20126764</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-22 01:45:24</dispatch_time>
-    <event_num>F20126760</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
   </event>
 </tfs_active_incidents>
