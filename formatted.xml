@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-22 16:20:03</update_from_db_time>
+  <update_from_db_time>2020-12-22 16:50:02</update_from_db_time>
   <event>
     <prime_street>ROSEVEAR AVE, EY</prime_street>
     <cross_streets>DAWES RD / AVONLEA BLVD</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>226</beat>
-    <units_disp> R224, P226, R225, A222, C22, P227, A322, LA333, P312, S313, C20, P233, P232</units_disp>
+    <units_disp> R224, P226, R225, A222, C22, P227, A322, LA333, P312, S313, C20, P233, P232, P221</units_disp>
   </event>
   <event>
     <prime_street>M4C</prime_street>
@@ -32,33 +32,103 @@
     <units_disp> R225, P226, A222, C22, P227, P323</units_disp>
   </event>
   <event>
-    <prime_street>M6A</prime_street>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>NIAGARA ST / BELLWOODS AVE</cross_streets>
+    <dispatch_time>2020-12-22 16:22:23</dispatch_time>
+    <event_num>F20126957</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331, A331, C33, P315, P332, S331</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-22 16:12:30</dispatch_time>
-    <event_num>F20126951</event_num>
+    <dispatch_time>2020-12-22 16:30:15</dispatch_time>
+    <event_num>F20126958</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-22 16:33:52</dispatch_time>
+    <event_num>F20126960</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-22 16:38:40</dispatch_time>
+    <event_num>F20126961</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
     <beat>132</beat>
-    <units_disp> R134</units_disp>
+    <units_disp> P143, R133, R134</units_disp>
   </event>
   <event>
-    <prime_street>MACKENZIE CRES, TT</prime_street>
-    <cross_streets>LN N ARGYLE W DOVERCOURT / GILFILLAN LANE</cross_streets>
-    <dispatch_time>2020-12-22 16:12:36</dispatch_time>
-    <event_num>F20126952</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-22 16:39:22</dispatch_time>
+    <event_num>F20126962</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> A426, R426, C34, P331, P344</units_disp>
+    <beat>441</beat>
+    <units_disp> A441</units_disp>
   </event>
   <event>
-    <prime_street>MC KENZIE AVE, TT</prime_street>
-    <cross_streets>DALE AVE / CASTLE FRANK RD</cross_streets>
-    <dispatch_time>2020-12-22 16:15:43</dispatch_time>
-    <event_num>F20126953</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-22 16:41:59</dispatch_time>
+    <event_num>F20126963</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, P312, A325, C31, P325</units_disp>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-22 16:42:32</dispatch_time>
+    <event_num>F20126964</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-22 16:44:52</dispatch_time>
+    <event_num>F20126965</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-22 16:45:29</dispatch_time>
+    <event_num>F20126966</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-22 16:45:23</dispatch_time>
+    <event_num>F20126967</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> A231</units_disp>
   </event>
 </tfs_active_incidents>
