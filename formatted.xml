@@ -1,34 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-22 04:55:02</update_from_db_time>
+  <update_from_db_time>2020-12-22 05:25:03</update_from_db_time>
   <event>
-    <prime_street>M4H</prime_street>
+    <prime_street>M6H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-22 04:07:26</dispatch_time>
-    <event_num>F20126774</event_num>
+    <dispatch_time>2020-12-22 05:19:01</dispatch_time>
+    <event_num>F20126783</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322, R321</units_disp>
-  </event>
-  <event>
-    <prime_street>KEELE ST, TT</prime_street>
-    <cross_streets>LN S DUNDAS E KEELE / DUNDAS ST W</cross_streets>
-    <dispatch_time>2020-12-22 04:24:15</dispatch_time>
-    <event_num>F20126778</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-22 04:44:47</dispatch_time>
-    <event_num>F20126781</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
   </event>
 </tfs_active_incidents>
