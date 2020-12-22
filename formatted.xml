@@ -1,74 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-22 09:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-22 10:30:02</update_from_db_time>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-22 09:25:54</dispatch_time>
-    <event_num>F20126822</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>FISHERVILLE RD / HIDDEN TRL</cross_streets>
+    <dispatch_time>2020-12-22 10:15:30</dispatch_time>
+    <event_num>F20126838</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>KING ST, TT</prime_street>
-    <cross_streets>BRANT PL / PORTLAND ST</cross_streets>
-    <dispatch_time>2020-12-22 09:31:56</dispatch_time>
-    <event_num>F20126823</event_num>
-    <event_type>Natural Gas Leak</event_type>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-22 10:17:03</dispatch_time>
+    <event_num>F20126839</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M5H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-22 10:22:51</dispatch_time>
+    <event_num>F20126840</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>332</beat>
-    <units_disp> C33, HR332, HZ332, P331</units_disp>
+    <units_disp> P332</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-22 09:32:38</dispatch_time>
-    <event_num>F20126824</event_num>
+    <dispatch_time>2020-12-22 10:24:51</dispatch_time>
+    <event_num>F20126841</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-22 10:25:42</dispatch_time>
+    <event_num>F20126842</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
     <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-22 09:33:25</dispatch_time>
-    <event_num>F20126825</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-22 09:33:39</dispatch_time>
-    <event_num>F20126827</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>CRESCENT RD, TT</prime_street>
-    <cross_streets>CRESCENT MOUNT PLEASANT RAMP / LAMPORT AVE</cross_streets>
-    <dispatch_time>2020-12-22 09:34:33</dispatch_time>
-    <event_num>F20126828</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, P312, A325, C31, P311</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-22 09:46:31</dispatch_time>
-    <event_num>F20126829</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
   </event>
 </tfs_active_incidents>
