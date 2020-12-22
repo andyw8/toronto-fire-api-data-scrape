@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-21 18:55:02</update_from_db_time>
-  <event>
-    <prime_street>M2K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-21 18:14:16</dispatch_time>
-    <event_num>F20126644</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-21 18:14:51</dispatch_time>
-    <event_num>F20126645</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A142, A411</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MILNER AVE / BURROWS HALL BLVD</cross_streets>
-    <dispatch_time>2020-12-21 18:22:01</dispatch_time>
-    <event_num>F20126647</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-21 18:32:28</dispatch_time>
-    <event_num>F20126650</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415</units_disp>
-  </event>
+  <update_from_db_time>2020-12-21 20:10:02</update_from_db_time>
   <event>
     <prime_street>ROSELAWN AVE, TT</prime_street>
     <cross_streets>CALDOW RD / CHAPLIN CRES</cross_streets>
@@ -52,33 +12,63 @@
     <units_disp> R134, A135, C13, P131, P132, R341, A341, HZ145, P145, A345, C34, CMD30, HR332, LA421, P311, P312, P342, S313, CMD10, CMD10C, C10, HR114</units_disp>
   </event>
   <event>
-    <prime_street>RONCESVALLES AVE, TT</prime_street>
-    <cross_streets>HARVARD AVE / MARION ST</cross_streets>
-    <dispatch_time>2020-12-21 18:38:48</dispatch_time>
-    <event_num>F20126653</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, A426, C42, P426, P331, P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>M3L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-21 18:43:06</dispatch_time>
-    <event_num>F20126655</event_num>
+    <dispatch_time>2020-12-21 19:12:06</dispatch_time>
+    <event_num>F20126668</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P343</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>CUMBERLAND ST / YORKVILLE AVE</cross_streets>
-    <dispatch_time>2020-12-21 18:48:54</dispatch_time>
-    <event_num>F20126657</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-21 19:57:08</dispatch_time>
+    <event_num>F20126684</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> A312, C31, P313, P314, R325</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>GARDINER RD, TT</prime_street>
+    <cross_streets>CHADWICK AVE / EGLINTON AVE W</cross_streets>
+    <dispatch_time>2020-12-21 19:58:13</dispatch_time>
+    <event_num>F20126685</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P311, A312, C31, P342, R321, R341, R341, A345</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-21 19:59:05</dispatch_time>
+    <event_num>F20126686</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-21 20:03:31</dispatch_time>
+    <event_num>F20126687</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MCNICOLL AVE / MIDLAND AVE</cross_streets>
+    <dispatch_time>2020-12-21 20:06:43</dispatch_time>
+    <event_num>F20126688</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
 </tfs_active_incidents>
