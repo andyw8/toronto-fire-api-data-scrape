@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-22 15:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-22 16:20:03</update_from_db_time>
   <event>
     <prime_street>ROSEVEAR AVE, EY</prime_street>
     <cross_streets>DAWES RD / AVONLEA BLVD</cross_streets>
@@ -12,43 +12,53 @@
     <units_disp> R224, P226, R225, A222, C22, P227, A322, LA333, P312, S313, C20, P233, P232</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>JANE ST / WILSON AVE</cross_streets>
-    <dispatch_time>2020-12-22 14:44:54</dispatch_time>
-    <event_num>F20126924</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-22 14:59:09</dispatch_time>
-    <event_num>F20126934</event_num>
+    <dispatch_time>2020-12-22 16:00:11</dispatch_time>
+    <event_num>F20126948</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
   <event>
-    <prime_street>BIRCHMOUNT RD, SC</prime_street>
-    <cross_streets>BONNIEWOOD RD / EGLINTON AVE E</cross_streets>
-    <dispatch_time>2020-12-22 15:38:42</dispatch_time>
-    <event_num>F20126942</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>BLANTYRE AVE, SC</prime_street>
+    <cross_streets>PARKLAND RD / SWANWICK AVE</cross_streets>
+    <dispatch_time>2020-12-22 16:09:13</dispatch_time>
+    <event_num>F20126950</event_num>
+    <event_type>Alarm - Institution - School</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P221, R235, A222, C22, R225, P223</units_disp>
+    <beat>226</beat>
+    <units_disp> R225, P226, A222, C22, P227, P323</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN'S PLATE DR, ET</prime_street>
-    <cross_streets>TRIPLE CROWN AVE / REXDALE BLVD</cross_streets>
-    <dispatch_time>2020-12-22 15:42:26</dispatch_time>
-    <event_num>F20126943</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-22 16:12:30</dispatch_time>
+    <event_num>F20126951</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
+    <beat>132</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>MACKENZIE CRES, TT</prime_street>
+    <cross_streets>LN N ARGYLE W DOVERCOURT / GILFILLAN LANE</cross_streets>
+    <dispatch_time>2020-12-22 16:12:36</dispatch_time>
+    <event_num>F20126952</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> A426, R426, C34, P331, P344</units_disp>
+  </event>
+  <event>
+    <prime_street>MC KENZIE AVE, TT</prime_street>
+    <cross_streets>DALE AVE / CASTLE FRANK RD</cross_streets>
+    <dispatch_time>2020-12-22 16:15:43</dispatch_time>
+    <event_num>F20126953</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313, P312, A325, C31, P325</units_disp>
   </event>
 </tfs_active_incidents>
