@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-23 07:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-23 08:00:03</update_from_db_time>
   <event>
     <prime_street>ST CLAIR AVE, SC</prime_street>
     <cross_streets>WESTBOURNE AVE / BEXHILL AVE</cross_streets>
@@ -12,53 +12,63 @@
     <units_disp> R235, A222, C22, P226, P233, R225, C22, A222, C22, FI15, A231, R225, P242, R243, R224, P222</units_disp>
   </event>
   <event>
-    <prime_street>DUFFERIN ST, NY</prime_street>
-    <cross_streets>LAWRENCE AVE W / DANE AVE</cross_streets>
-    <dispatch_time>2020-12-23 07:03:43</dispatch_time>
-    <event_num>F20127144</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>LESLIE ST / YORK MILLS RD</cross_streets>
+    <dispatch_time>2020-12-23 07:28:24</dispatch_time>
+    <event_num>F20127151</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145, P132, A133, C13, R341</units_disp>
+    <beat>122</beat>
+    <units_disp> C11, P116, R122, S143, P143</units_disp>
   </event>
   <event>
     <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 07:11:11</dispatch_time>
-    <event_num>F20127147</event_num>
+    <dispatch_time>2020-12-23 07:29:49</dispatch_time>
+    <event_num>F20127153</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
     <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-23 07:19:07</dispatch_time>
-    <event_num>F20127148</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LAKE SHORE BLVD, TT</prime_street>
+    <cross_streets>DAN LECKIE WAY / BATHURST ST</cross_streets>
+    <dispatch_time>2020-12-23 07:42:22</dispatch_time>
+    <event_num>F20127154</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>334</beat>
+    <units_disp> P331, P332, P344, A331, C33</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>M5C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 07:22:37</dispatch_time>
-    <event_num>F20127149</event_num>
+    <dispatch_time>2020-12-23 07:48:07</dispatch_time>
+    <event_num>F20127155</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>M5N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 07:24:04</dispatch_time>
-    <event_num>F20127150</event_num>
+    <dispatch_time>2020-12-23 07:49:12</dispatch_time>
+    <event_num>F20127156</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> R421</units_disp>
+    <beat>135</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>VICKERS RD, ET</prime_street>
+    <cross_streets> / THE EAST MALL</cross_streets>
+    <dispatch_time>2020-12-23 07:50:09</dispatch_time>
+    <event_num>F20127157</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432, R434, C44, P433, PL432</units_disp>
   </event>
 </tfs_active_incidents>
