@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-23 00:30:03</update_from_db_time>
+  <update_from_db_time>2020-12-23 00:50:02</update_from_db_time>
   <event>
     <prime_street>ROSEVEAR AVE, EY</prime_street>
     <cross_streets>DAWES RD / AVONLEA BLVD</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>226</beat>
-    <units_disp> R224, P226, R225, A222, C22, P227, A322, LA333, P312, S313, C20, P233, P232, P221, P223, P226, P227</units_disp>
+    <units_disp> R224, P226, R225, A222, C22, P227, A322, LA333, P312, S313, C20, P233, P232, P221, P223, P226, P227, C22</units_disp>
   </event>
   <event>
     <prime_street>ST CLAIR AVE, SC</prime_street>
@@ -32,16 +32,6 @@
     <units_disp> A324</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>WELLESLEY ST W / YONGE ST</cross_streets>
-    <dispatch_time>2020-12-23 00:20:45</dispatch_time>
-    <event_num>F20127099</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> A315, P312, P313, P314, S313, C31</units_disp>
-  </event>
-  <event>
     <prime_street>M1B</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-23 00:24:44</dispatch_time>
@@ -50,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>213</beat>
     <units_disp> A213</units_disp>
+  </event>
+  <event>
+    <prime_street>M5J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 00:27:14</dispatch_time>
+    <event_num>F20127101</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 00:36:55</dispatch_time>
+    <event_num>F20127102</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
   </event>
 </tfs_active_incidents>
