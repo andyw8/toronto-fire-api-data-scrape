@@ -1,54 +1,114 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-23 11:50:03</update_from_db_time>
+  <update_from_db_time>2020-12-23 12:50:03</update_from_db_time>
   <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-23 10:56:44</dispatch_time>
-    <event_num>F20127210</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <prime_street>HOLBORNE AVE, EY</prime_street>
+    <cross_streets>GLEBEMOUNT AVE / WOODMOUNT AVE</cross_streets>
+    <dispatch_time>2020-12-23 11:59:53</dispatch_time>
+    <event_num>F20127230</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>224</beat>
+    <units_disp> P227, R224, A322, C32, P322, P323, R235, A324, LA333, S313</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-23 11:32:10</dispatch_time>
-    <event_num>F20127223</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>RIVERWOOD PKWY, ET</prime_street>
+    <cross_streets>CROWN HILL PL / HUMBER VALLEY RD</cross_streets>
+    <dispatch_time>2020-12-23 12:12:09</dispatch_time>
+    <event_num>F20127234</event_num>
+    <event_type>Rescue - Water/Ice - No Fireboat</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411, A411</units_disp>
+    <beat>431</beat>
+    <units_disp> P431, P445, S445, A133, S331, A433, C44</units_disp>
   </event>
   <event>
-    <prime_street>M4W</prime_street>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 11:40:01</dispatch_time>
-    <event_num>F20127226</event_num>
+    <dispatch_time>2020-12-23 12:27:03</dispatch_time>
+    <event_num>F20127240</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
+    <beat>133</beat>
+    <units_disp> R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 12:27:09</dispatch_time>
+    <event_num>F20127241</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 12:31:50</dispatch_time>
+    <event_num>F20127242</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>CARLTON ST, TT</prime_street>
+    <cross_streets>REVEREND PORTER LANE / CHURCH ST</cross_streets>
+    <dispatch_time>2020-12-23 12:33:44</dispatch_time>
+    <event_num>F20127243</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P313, P314, R325, A312, C31, A312</units_disp>
+  </event>
+  <event>
+    <prime_street>JANE ST, NY</prime_street>
+    <cross_streets>YEWTREE BLVD / FINCH AVE W</cross_streets>
+    <dispatch_time>2020-12-23 12:38:46</dispatch_time>
+    <event_num>F20127244</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142, A142</units_disp>
   </event>
   <event>
     <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 11:42:14</dispatch_time>
-    <event_num>F20127227</event_num>
+    <dispatch_time>2020-12-23 12:40:46</dispatch_time>
+    <event_num>F20127245</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
-    <units_disp> R421</units_disp>
+    <units_disp> A133</units_disp>
   </event>
   <event>
-    <prime_street>CASTLEGROVE BLVD, NY</prime_street>
-    <cross_streets>FAIRHILL CRES / LIONEL HEIGHTS CRES</cross_streets>
-    <dispatch_time>2020-12-23 11:43:14</dispatch_time>
-    <event_num>F20127228</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>ADELAIDE ST, TT</prime_street>
+    <cross_streets>ONTARIO ST / POMPADOUR LANE</cross_streets>
+    <dispatch_time>2020-12-23 12:40:54</dispatch_time>
+    <event_num>F20127246</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> R235, P233, A222, C22, P245, P123, P123, P123</units_disp>
+    <beat>333</beat>
+    <units_disp> P333, P332, A325, C33, P334</units_disp>
+  </event>
+  <event>
+    <prime_street>TRUDELLE ST, SC</prime_street>
+    <cross_streets>DANFORTH RD / MCCOWAN RD</cross_streets>
+    <dispatch_time>2020-12-23 12:42:14</dispatch_time>
+    <event_num>F20127247</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> A231, C23, P221, P223, P232, S232</units_disp>
+  </event>
+  <event>
+    <prime_street>AUGUSTA AVE, TT</prime_street>
+    <cross_streets>AUGUSTA SQ / ARTHUR KING LANE</cross_streets>
+    <dispatch_time>2020-12-23 12:43:37</dispatch_time>
+    <event_num>F20127248</event_num>
+    <event_type>Fire - Highrise Residential - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P315, P331, S331, A331, C31, R426</units_disp>
   </event>
 </tfs_active_incidents>
