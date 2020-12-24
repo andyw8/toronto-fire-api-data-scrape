@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-23 21:10:02</update_from_db_time>
+  <update_from_db_time>2020-12-23 21:55:02</update_from_db_time>
   <event>
     <prime_street>HOLBORNE AVE, EY</prime_street>
     <cross_streets>GLEBEMOUNT AVE / WOODMOUNT AVE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>224</beat>
-    <units_disp> P227, R224, A322, C32, P322, P323, R235, A324, LA333, S313, R321, R235, P322, P226</units_disp>
+    <units_disp> P227, R224, A322, C32, P322, P323, R235, A324, LA333, S313, R321, R235, P322, P226, A322</units_disp>
   </event>
   <event>
     <prime_street>BRIMORTON DR, SC</prime_street>
@@ -22,83 +22,43 @@
     <units_disp> P232, P234, R243, A231, P245, C23, A213, A215, LA231, R214, S232, C20, C24, P211, A213, R243</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>YORKDALE RD / YORKDALE 401 ALLEN N RAMP</cross_streets>
-    <dispatch_time>2020-12-23 20:13:16</dispatch_time>
-    <event_num>F20127408</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>CLINTON ST, TT</prime_street>
+    <cross_streets>COLLEGE ST / HUGGINS FAMILY LANE</cross_streets>
+    <dispatch_time>2020-12-23 21:23:10</dispatch_time>
+    <event_num>F20127427</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145, HZ145</units_disp>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
+    <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 20:28:43</dispatch_time>
-    <event_num>F20127415</event_num>
+    <dispatch_time>2020-12-23 21:49:05</dispatch_time>
+    <event_num>F20127430</event_num>
     <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 21:50:40</dispatch_time>
+    <event_num>F20127431</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BIRCHMOUNT RD / STEELES AVE E</cross_streets>
+    <dispatch_time>2020-12-23 21:51:55</dispatch_time>
+    <event_num>F20127432</event_num>
+    <event_type>Vehicle Accident with Fire</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>241</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
-    <prime_street>M2H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-23 20:36:04</dispatch_time>
-    <event_num>F20127417</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113</units_disp>
-  </event>
-  <event>
-    <prime_street>M5E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-23 20:37:08</dispatch_time>
-    <event_num>F20127418</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> HZ332</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-23 20:48:53</dispatch_time>
-    <event_num>F20127422</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-23 20:58:06</dispatch_time>
-    <event_num>F20127423</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>BURNDALE AVE, NY</prime_street>
-    <cross_streets>QUILTER RD / WELBECK RD</cross_streets>
-    <dispatch_time>2020-12-23 21:02:18</dispatch_time>
-    <event_num>F20127424</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, P121, R112, C11, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M5C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-23 21:02:51</dispatch_time>
-    <event_num>F20127425</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <units_disp> R115, R241</units_disp>
   </event>
 </tfs_active_incidents>
