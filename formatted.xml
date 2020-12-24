@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-23 21:55:02</update_from_db_time>
+  <update_from_db_time>2020-12-23 22:35:02</update_from_db_time>
   <event>
     <prime_street>HOLBORNE AVE, EY</prime_street>
     <cross_streets>GLEBEMOUNT AVE / WOODMOUNT AVE</cross_streets>
@@ -22,36 +22,6 @@
     <units_disp> P232, P234, R243, A231, P245, C23, A213, A215, LA231, R214, S232, C20, C24, P211, A213, R243</units_disp>
   </event>
   <event>
-    <prime_street>CLINTON ST, TT</prime_street>
-    <cross_streets>COLLEGE ST / HUGGINS FAMILY LANE</cross_streets>
-    <dispatch_time>2020-12-23 21:23:10</dispatch_time>
-    <event_num>F20127427</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-23 21:49:05</dispatch_time>
-    <event_num>F20127430</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-23 21:50:40</dispatch_time>
-    <event_num>F20127431</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>BIRCHMOUNT RD / STEELES AVE E</cross_streets>
     <dispatch_time>2020-12-23 21:51:55</dispatch_time>
@@ -60,5 +30,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>241</beat>
     <units_disp> R115, R241</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ISLINGTON AVE / THE WESTWAY</cross_streets>
+    <dispatch_time>2020-12-23 22:10:33</dispatch_time>
+    <event_num>F20127438</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 22:17:56</dispatch_time>
+    <event_num>F20127439</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-23 22:24:51</dispatch_time>
+    <event_num>F20127441</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> P212, R214</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 22:26:41</dispatch_time>
+    <event_num>F20127442</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 22:27:08</dispatch_time>
+    <event_num>F20127443</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
   </event>
 </tfs_active_incidents>
