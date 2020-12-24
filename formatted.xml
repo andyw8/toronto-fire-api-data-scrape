@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-24 14:10:02</update_from_db_time>
+  <update_from_db_time>2020-12-24 14:40:02</update_from_db_time>
   <event>
     <prime_street>M5N</prime_street>
     <cross_streets/>
@@ -20,26 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
     <units_disp> P145, P131, C13, R122, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 13:50:55</dispatch_time>
-    <event_num>F20127675</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M4N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 13:51:28</dispatch_time>
-    <event_num>F20127676</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> P131</units_disp>
   </event>
   <event>
     <prime_street>STEELES AVE, VA</prime_street>
@@ -62,33 +42,63 @@
     <units_disp> A341</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 13:57:04</dispatch_time>
-    <event_num>F20127680</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>THISTLE DOWN BLVD, ET</prime_street>
+    <cross_streets>THISTLE DOWN TER / BARKWIN DR</cross_streets>
+    <dispatch_time>2020-12-24 14:08:56</dispatch_time>
+    <event_num>F20127683</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
+    <beat>413</beat>
+    <units_disp> R412, A415, P415, R441, P146, C41</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 13:59:21</dispatch_time>
-    <event_num>F20127681</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>WAKELY LANE / SWORD ST</cross_streets>
+    <dispatch_time>2020-12-24 14:17:53</dispatch_time>
+    <event_num>F20127685</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>325</beat>
+    <units_disp> R325, P324, A325, C32, P313</units_disp>
   </event>
   <event>
-    <prime_street>M9L</prime_street>
+    <prime_street>M5M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-24 14:02:05</dispatch_time>
-    <event_num>F20127682</event_num>
+    <dispatch_time>2020-12-24 14:25:27</dispatch_time>
+    <event_num>F20127688</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R413</units_disp>
+    <beat>131</beat>
+    <units_disp> P131</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-24 14:27:07</dispatch_time>
+    <event_num>F20127689</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>243</beat>
+    <units_disp> R243</units_disp>
+  </event>
+  <event>
+    <prime_street>BLEECKER ST, TT</prime_street>
+    <cross_streets>ST JAMES AVE / ST. JAMES TOWN WEST PARK TRL</cross_streets>
+    <dispatch_time>2020-12-24 14:27:42</dispatch_time>
+    <event_num>F20127690</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P312, P314, A312, C31, P311, P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-24 14:30:26</dispatch_time>
+    <event_num>F20127691</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> P143</units_disp>
   </event>
 </tfs_active_incidents>
