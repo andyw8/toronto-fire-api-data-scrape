@@ -1,14 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-24 06:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-24 06:45:03</update_from_db_time>
   <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-24 06:26:54</dispatch_time>
-    <event_num>F20127516</event_num>
+    <dispatch_time>2020-12-24 06:29:14</dispatch_time>
+    <event_num>F20127517</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>415</beat>
+    <units_disp> A415, A415</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-24 06:30:09</dispatch_time>
+    <event_num>F20127519</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-24 06:41:34</dispatch_time>
+    <event_num>F20127520</event_num>
+    <event_type>Vehicle Fire - Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411, R413, C14</units_disp>
   </event>
 </tfs_active_incidents>
