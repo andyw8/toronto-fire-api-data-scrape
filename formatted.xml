@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-23 20:10:02</update_from_db_time>
+  <update_from_db_time>2020-12-23 21:10:02</update_from_db_time>
   <event>
     <prime_street>HOLBORNE AVE, EY</prime_street>
     <cross_streets>GLEBEMOUNT AVE / WOODMOUNT AVE</cross_streets>
@@ -19,96 +19,86 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>231</beat>
-    <units_disp> P232, P234, R243, A231, P245, C23, A213, A215, LA231, R214, S232, C20, C24, P211, A213</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-23 19:40:50</dispatch_time>
-    <event_num>F20127389</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
+    <units_disp> P232, P234, R243, A231, P245, C23, A213, A215, LA231, R214, S232, C20, C24, P211, A213, R243</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>DANFORTH RD / WOLFE AVE</cross_streets>
-    <dispatch_time>2020-12-23 19:43:15</dispatch_time>
-    <event_num>F20127393</event_num>
+    <cross_streets>YORKDALE RD / YORKDALE 401 ALLEN N RAMP</cross_streets>
+    <dispatch_time>2020-12-23 20:13:16</dispatch_time>
+    <event_num>F20127408</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P232</units_disp>
+    <beat>145</beat>
+    <units_disp> P145, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>GRAYDON HALL DR, NY</prime_street>
-    <cross_streets>GRAYDON HALL PL / GRAYDON HALL PARK TRL</cross_streets>
-    <dispatch_time>2020-12-23 19:51:56</dispatch_time>
-    <event_num>F20127396</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, P123, A113, C11, P116</units_disp>
-  </event>
-  <event>
-    <prime_street>CHESTER AVE, TT</prime_street>
-    <cross_streets>LN N DANFORTH E CHESTER / BROWNING AVE</cross_streets>
-    <dispatch_time>2020-12-23 19:55:09</dispatch_time>
-    <event_num>F20127397</event_num>
-    <event_type>Fire - Subway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> R325, S313, HR332, P313, P323, P324, A324, C32, LA333</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 19:56:20</dispatch_time>
-    <event_num>F20127399</event_num>
+    <dispatch_time>2020-12-23 20:28:43</dispatch_time>
+    <event_num>F20127415</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
   </event>
   <event>
-    <prime_street>WESTON RD, NY</prime_street>
-    <cross_streets>HUMBER RIVER RECREATIONAL TRL / SHEPPARD AVE W</cross_streets>
-    <dispatch_time>2020-12-23 19:57:14</dispatch_time>
-    <event_num>F20127400</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> P146, P442, A411, C14, P141</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
+    <prime_street>M2H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 19:57:50</dispatch_time>
-    <event_num>F20127401</event_num>
+    <dispatch_time>2020-12-23 20:36:04</dispatch_time>
+    <event_num>F20127417</event_num>
     <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>M5E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 20:37:08</dispatch_time>
+    <event_num>F20127418</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> HZ332</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 20:48:53</dispatch_time>
+    <event_num>F20127422</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 20:58:06</dispatch_time>
+    <event_num>F20127423</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>BURNDALE AVE, NY</prime_street>
+    <cross_streets>QUILTER RD / WELBECK RD</cross_streets>
+    <dispatch_time>2020-12-23 21:02:18</dispatch_time>
+    <event_num>F20127424</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <units_disp> P114, P121, R112, C11, T114</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>IVOR RD / MILL ST</cross_streets>
-    <dispatch_time>2020-12-23 20:01:40</dispatch_time>
-    <event_num>F20127403</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
+    <prime_street>M5C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 20:03:03</dispatch_time>
-    <event_num>F20127404</event_num>
+    <dispatch_time>2020-12-23 21:02:51</dispatch_time>
+    <event_num>F20127425</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
