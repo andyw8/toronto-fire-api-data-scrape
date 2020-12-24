@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-24 03:30:03</update_from_db_time>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 03:06:50</dispatch_time>
-    <event_num>F20127496</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
-  </event>
+  <update_from_db_time>2020-12-24 03:55:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>DUFFERIN ST / ROGERS RD</cross_streets>
@@ -30,5 +20,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>224</beat>
     <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-24 03:44:32</dispatch_time>
+    <event_num>F20127499</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
 </tfs_active_incidents>
