@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-23 19:00:02</update_from_db_time>
+  <update_from_db_time>2020-12-23 20:10:02</update_from_db_time>
   <event>
     <prime_street>HOLBORNE AVE, EY</prime_street>
     <cross_streets>GLEBEMOUNT AVE / WOODMOUNT AVE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>224</beat>
-    <units_disp> P227, R224, A322, C32, P322, P323, R235, A324, LA333, S313, R321, R235, P322</units_disp>
+    <units_disp> P227, R224, A322, C32, P322, P323, R235, A324, LA333, S313, R321, R235, P322, P226</units_disp>
   </event>
   <event>
     <prime_street>BRIMORTON DR, SC</prime_street>
@@ -22,73 +22,93 @@
     <units_disp> P232, P234, R243, A231, P245, C23, A213, A215, LA231, R214, S232, C20, C24, P211, A213</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-23 18:20:11</dispatch_time>
-    <event_num>F20127364</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-23 19:40:50</dispatch_time>
+    <event_num>F20127389</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411, A411</units_disp>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
   </event>
   <event>
-    <prime_street>BONIS AVE, SC</prime_street>
-    <cross_streets>RON WATSON PARK TRL / KENNEDY RD</cross_streets>
-    <dispatch_time>2020-12-23 18:23:57</dispatch_time>
-    <event_num>F20127366</event_num>
+    <prime_street> </prime_street>
+    <cross_streets>DANFORTH RD / WOLFE AVE</cross_streets>
+    <dispatch_time>2020-12-23 19:43:15</dispatch_time>
+    <event_num>F20127393</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>GRAYDON HALL DR, NY</prime_street>
+    <cross_streets>GRAYDON HALL PL / GRAYDON HALL PARK TRL</cross_streets>
+    <dispatch_time>2020-12-23 19:51:56</dispatch_time>
+    <event_num>F20127396</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244, P245, C24, R243, A113</units_disp>
+    <beat>115</beat>
+    <units_disp> R115, P123, A113, C11, P116</units_disp>
   </event>
   <event>
-    <prime_street>M9B</prime_street>
+    <prime_street>CHESTER AVE, TT</prime_street>
+    <cross_streets>LN N DANFORTH E CHESTER / BROWNING AVE</cross_streets>
+    <dispatch_time>2020-12-23 19:55:09</dispatch_time>
+    <event_num>F20127397</event_num>
+    <event_type>Fire - Subway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> R325, S313, HR332, P313, P323, P324, A324, C32, LA333</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 18:37:58</dispatch_time>
-    <event_num>F20127371</event_num>
+    <dispatch_time>2020-12-23 19:56:20</dispatch_time>
+    <event_num>F20127399</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-23 18:41:50</dispatch_time>
-    <event_num>F20127373</event_num>
-    <event_type>Vehicle - Spill Clean Up - Highway</event_type>
+    <prime_street>WESTON RD, NY</prime_street>
+    <cross_streets>HUMBER RIVER RECREATIONAL TRL / SHEPPARD AVE W</cross_streets>
+    <dispatch_time>2020-12-23 19:57:14</dispatch_time>
+    <event_num>F20127400</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334, P332</units_disp>
+    <beat>411</beat>
+    <units_disp> P146, P442, A411, C14, P141</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 18:43:57</dispatch_time>
-    <event_num>F20127374</event_num>
+    <dispatch_time>2020-12-23 19:57:50</dispatch_time>
+    <event_num>F20127401</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> P324</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
   <event>
-    <prime_street>BAIN AVE, TT</prime_street>
-    <cross_streets>INGHAM AVE / LOGAN AVE</cross_streets>
-    <dispatch_time>2020-12-23 18:49:03</dispatch_time>
-    <event_num>F20127375</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>YONGE ST, NY</prime_street>
+    <cross_streets>IVOR RD / MILL ST</cross_streets>
+    <dispatch_time>2020-12-23 20:01:40</dispatch_time>
+    <event_num>F20127403</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> R325</units_disp>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
   </event>
   <event>
-    <prime_street>M6J</prime_street>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-23 18:54:16</dispatch_time>
-    <event_num>F20127376</event_num>
+    <dispatch_time>2020-12-23 20:03:03</dispatch_time>
+    <event_num>F20127404</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
 </tfs_active_incidents>
