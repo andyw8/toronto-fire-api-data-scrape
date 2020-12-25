@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-25 05:50:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-25 05:16:20</dispatch_time>
-    <event_num>F20127899</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> A133, P145</units_disp>
-  </event>
+  <update_from_db_time>2020-12-25 06:20:02</update_from_db_time>
   <event>
     <prime_street>M5P</prime_street>
     <cross_streets/>
@@ -20,5 +10,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>135</beat>
     <units_disp> A135</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-25 05:55:34</dispatch_time>
+    <event_num>F20127902</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> A133, P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-25 06:01:01</dispatch_time>
+    <event_num>F20127904</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-25 06:02:40</dispatch_time>
+    <event_num>F20127906</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>WAULRON ST / PAXMAN RD</cross_streets>
+    <dispatch_time>2020-12-25 06:16:47</dispatch_time>
+    <event_num>F20127907</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432, P445, C44, PL432, R434</units_disp>
   </event>
 </tfs_active_incidents>
