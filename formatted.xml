@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-25 08:40:02</update_from_db_time>
+  <update_from_db_time>2020-12-25 08:50:02</update_from_db_time>
   <event>
     <prime_street>M1G</prime_street>
     <cross_streets/>
@@ -12,26 +12,6 @@
     <units_disp> R231</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-25 08:07:29</dispatch_time>
-    <event_num>F20127928</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
-  <event>
-    <prime_street>VICTORIA ST, TT</prime_street>
-    <cross_streets>SHUTER ST / DUNDAS SQ</cross_streets>
-    <dispatch_time>2020-12-25 08:08:32</dispatch_time>
-    <event_num>F20127929</event_num>
-    <event_type>Rescue - Personal Entrapment</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> C33, P313, P314, S313, C31</units_disp>
-  </event>
-  <event>
     <prime_street>M9W</prime_street>
     <cross_streets/>
     <dispatch_time>2020-12-25 08:18:24</dispatch_time>
@@ -40,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>415</beat>
     <units_disp> A415</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-25 08:24:21</dispatch_time>
-    <event_num>F20127931</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
   </event>
   <event>
     <prime_street>M4B</prime_street>
@@ -70,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>212</beat>
     <units_disp> P212, R214, A231, C21, P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-25 08:41:55</dispatch_time>
+    <event_num>F20127934</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BAYVIEW AVE / PRINCESS AVE</cross_streets>
+    <dispatch_time>2020-12-25 08:43:51</dispatch_time>
+    <event_num>F20127935</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> C11, R115, R122, S143, R115, P116</units_disp>
   </event>
 </tfs_active_incidents>
