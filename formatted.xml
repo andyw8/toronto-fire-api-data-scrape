@@ -1,94 +1,94 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-24 19:00:02</update_from_db_time>
+  <update_from_db_time>2020-12-24 20:10:02</update_from_db_time>
   <event>
-    <prime_street>LAKE SHORE BLVD, TT</prime_street>
-    <cross_streets>ELLIS AVE / WINDERMERE AVE</cross_streets>
-    <dispatch_time>2020-12-24 17:54:47</dispatch_time>
-    <event_num>F20127747</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425, P426, A426, C42, R426, A423, LA421, R421, R434, S331</units_disp>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-24 19:04:04</dispatch_time>
+    <event_num>F20127770</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN'S PLATE DR, ET</prime_street>
-    <cross_streets>TRIPLE CROWN AVE / REXDALE BLVD</cross_streets>
-    <dispatch_time>2020-12-24 18:12:09</dispatch_time>
-    <event_num>F20127751</event_num>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-24 19:42:16</dispatch_time>
+    <event_num>F20127781</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>BROWNLOW AVE, TT</prime_street>
+    <cross_streets>SOUDAN AVE / EGLINTON AVE E</cross_streets>
+    <dispatch_time>2020-12-24 19:42:28</dispatch_time>
+    <event_num>F20127782</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412, P415, A415, C41, R441</units_disp>
+    <beat>134</beat>
+    <units_disp> A135, C13, P131, R134, R321</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-24 18:29:59</dispatch_time>
-    <event_num>F20127758</event_num>
+    <dispatch_time>2020-12-24 19:48:04</dispatch_time>
+    <event_num>F20127783</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P331</units_disp>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>FRONT ST, TT</prime_street>
+    <cross_streets>BAY ST / YORK ST</cross_streets>
+    <dispatch_time>2020-12-24 19:52:59</dispatch_time>
+    <event_num>F20127785</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P333, P332, A331, C33, P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M3M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-24 18:30:36</dispatch_time>
-    <event_num>F20127759</event_num>
+    <dispatch_time>2020-12-24 19:56:58</dispatch_time>
+    <event_num>F20127786</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P232</units_disp>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M9B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-24 20:02:40</dispatch_time>
+    <event_num>F20127787</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>SUNRISE AVE / O'CONNOR DR</cross_streets>
-    <dispatch_time>2020-12-24 18:42:56</dispatch_time>
-    <event_num>F20127762</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-24 20:03:51</dispatch_time>
+    <event_num>F20127788</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235, A222, S232, C32</units_disp>
+    <beat>123</beat>
+    <units_disp> P123, R115</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 18:50:05</dispatch_time>
-    <event_num>F20127764</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>FRONT ST, TT</prime_street>
+    <cross_streets>MARKET ST / LOWER JARVIS ST</cross_streets>
+    <dispatch_time>2020-12-24 20:06:31</dispatch_time>
+    <event_num>F20127789</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 18:50:57</dispatch_time>
-    <event_num>F20127765</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> A331</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 18:52:58</dispatch_time>
-    <event_num>F20127766</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 18:55:09</dispatch_time>
-    <event_num>F20127767</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
+    <beat>333</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
