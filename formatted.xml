@@ -1,94 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-24 20:10:02</update_from_db_time>
+  <update_from_db_time>2020-12-24 21:10:02</update_from_db_time>
   <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 19:04:04</dispatch_time>
-    <event_num>F20127770</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>LAWRENCE AVE E / UNDERHILL DR</cross_streets>
+    <dispatch_time>2020-12-24 20:29:17</dispatch_time>
+    <event_num>F20127800</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 19:42:16</dispatch_time>
-    <event_num>F20127781</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>BROWNLOW AVE, TT</prime_street>
-    <cross_streets>SOUDAN AVE / EGLINTON AVE E</cross_streets>
-    <dispatch_time>2020-12-24 19:42:28</dispatch_time>
-    <event_num>F20127782</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> A135, C13, P131, R134, R321</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 19:48:04</dispatch_time>
-    <event_num>F20127783</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
-  </event>
-  <event>
-    <prime_street>FRONT ST, TT</prime_street>
-    <cross_streets>BAY ST / YORK ST</cross_streets>
-    <dispatch_time>2020-12-24 19:52:59</dispatch_time>
-    <event_num>F20127785</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P333, P332, A331, C33, P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M3M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 19:56:58</dispatch_time>
-    <event_num>F20127786</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-24 20:02:40</dispatch_time>
-    <event_num>F20127787</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>233</beat>
+    <units_disp> P125</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-24 20:03:51</dispatch_time>
-    <event_num>F20127788</event_num>
+    <dispatch_time>2020-12-24 20:53:30</dispatch_time>
+    <event_num>F20127807</event_num>
     <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123, R115</units_disp>
+    <beat>113</beat>
+    <units_disp> A113, R115</units_disp>
   </event>
   <event>
-    <prime_street>FRONT ST, TT</prime_street>
-    <cross_streets>MARKET ST / LOWER JARVIS ST</cross_streets>
-    <dispatch_time>2020-12-24 20:06:31</dispatch_time>
-    <event_num>F20127789</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-24 20:55:56</dispatch_time>
+    <event_num>F20127808</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> R325</units_disp>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>DORSET RD, SC</prime_street>
+    <cross_streets>KINGSTON RD / LN N KINGSTON E DORSET</cross_streets>
+    <dispatch_time>2020-12-24 21:01:32</dispatch_time>
+    <event_num>F20127809</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223, R224, A222, C22, P221, R225</units_disp>
   </event>
 </tfs_active_incidents>
