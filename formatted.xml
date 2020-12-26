@@ -1,54 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-26 06:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-26 06:45:02</update_from_db_time>
   <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-26 05:14:56</dispatch_time>
-    <event_num>F20128198</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BLEECKER ST, TT</prime_street>
+    <cross_streets>ST. JAMES TOWN WEST PARK TRL / ST. JAMES TOWN WEST PARK TRL</cross_streets>
+    <dispatch_time>2020-12-26 06:19:45</dispatch_time>
+    <event_num>F20128212</event_num>
+    <event_type>Water Problem</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>313</beat>
+    <units_disp> R325, A325</units_disp>
   </event>
   <event>
-    <prime_street>M9A</prime_street>
+    <prime_street>M4M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-26 06:05:36</dispatch_time>
-    <event_num>F20128207</event_num>
+    <dispatch_time>2020-12-26 06:37:32</dispatch_time>
+    <event_num>F20128214</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
+    <prime_street>M1R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-26 06:09:03</dispatch_time>
-    <event_num>F20128208</event_num>
+    <dispatch_time>2020-12-26 06:39:40</dispatch_time>
+    <event_num>F20128215</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M4G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-26 06:09:54</dispatch_time>
-    <event_num>F20128209</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> A321</units_disp>
-  </event>
-  <event>
-    <prime_street>JANE ST, NY</prime_street>
-    <cross_streets>WILLIAM ST / JOHN ST</cross_streets>
-    <dispatch_time>2020-12-26 06:11:18</dispatch_time>
-    <event_num>F20128210</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> S143, P442</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
 </tfs_active_incidents>
