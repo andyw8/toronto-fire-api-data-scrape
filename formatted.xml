@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-26 16:35:02</update_from_db_time>
+  <update_from_db_time>2020-12-26 16:50:02</update_from_db_time>
   <event>
     <prime_street>WELLESLEY ST, TT</prime_street>
     <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
@@ -12,53 +12,63 @@
     <units_disp> P313, A325, C31, P314, P325, S313, A324, P312, C33, HZ332, LA333, P324, P332, P333, HR114, R134, C30, CMD10, CMD10C, CMD30C, CMD30, FI8</units_disp>
   </event>
   <event>
-    <prime_street>WESTON RD, NY</prime_street>
-    <cross_streets>HUMBER RIVER RECREATIONAL TRL / SHEPPARD AVE W</cross_streets>
-    <dispatch_time>2020-12-26 16:07:51</dispatch_time>
-    <event_num>F20128341</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> P142, P146, A411, P442, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>ISLINGTON AVE, NY</prime_street>
-    <cross_streets>HUMBER RIVER RECREATIONAL TRL / AVIEMORE DR</cross_streets>
-    <dispatch_time>2020-12-26 16:14:46</dispatch_time>
-    <event_num>F20128342</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A415, P415, R412, R413, C41</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>M5R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-26 16:23:31</dispatch_time>
-    <event_num>F20128343</event_num>
+    <dispatch_time>2020-12-26 16:35:14</dispatch_time>
+    <event_num>F20128347</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>344</beat>
+    <units_disp> P343</units_disp>
   </event>
   <event>
-    <prime_street>CARLTON ST, TT</prime_street>
-    <cross_streets>REVEREND PORTER LANE / CHURCH ST</cross_streets>
-    <dispatch_time>2020-12-26 16:26:35</dispatch_time>
-    <event_num>F20128344</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-26 16:38:56</dispatch_time>
+    <event_num>F20128352</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>445</beat>
+    <units_disp> P445, R444</units_disp>
   </event>
   <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>KEELE ST, NY</prime_street>
+    <cross_streets>INGRAM DR / WW N GULLIVER W KEELE</cross_streets>
+    <dispatch_time>2020-12-26 16:40:13</dispatch_time>
+    <event_num>F20128353</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> R421, R341, A133, C13, P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-26 16:29:05</dispatch_time>
-    <event_num>F20128345</event_num>
+    <dispatch_time>2020-12-26 16:42:42</dispatch_time>
+    <event_num>F20128356</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P426</units_disp>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 16:44:45</dispatch_time>
+    <event_num>F20128357</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 16:45:29</dispatch_time>
+    <event_num>F20128358</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
   </event>
 </tfs_active_incidents>
