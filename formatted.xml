@@ -1,64 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-26 09:45:03</update_from_db_time>
+  <update_from_db_time>2020-12-26 10:20:02</update_from_db_time>
   <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-26 09:21:49</dispatch_time>
-    <event_num>F20128236</event_num>
+    <dispatch_time>2020-12-26 09:55:22</dispatch_time>
+    <event_num>F20128244</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> A215</units_disp>
+    <beat>244</beat>
+    <units_disp> R241</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>OLD FINCH AVE / SEWELL'S RD</cross_streets>
-    <dispatch_time>2020-12-26 09:22:10</dispatch_time>
-    <event_num>F20128237</event_num>
-    <event_type>Vehicle - Spill Clean Up</event_type>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 10:04:15</dispatch_time>
+    <event_num>F20128246</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
   </event>
   <event>
-    <prime_street>EGLINTON AVE, YK</prime_street>
-    <cross_streets>BICKNELL AVE / BLACK CREEK DR</cross_streets>
-    <dispatch_time>2020-12-26 09:23:37</dispatch_time>
-    <event_num>F20128238</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 10:04:45</dispatch_time>
+    <event_num>F20128247</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421, R341, A421, C42, P442</units_disp>
+    <beat>322</beat>
+    <units_disp> P323</units_disp>
   </event>
   <event>
-    <prime_street>SCOTT RD, YK</prime_street>
-    <cross_streets>HOLWOOD AVE / CAMERON AVE</cross_streets>
-    <dispatch_time>2020-12-26 09:29:28</dispatch_time>
-    <event_num>F20128239</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 10:11:24</dispatch_time>
+    <event_num>F20128248</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R425, P342, A133, C34, P343, R345, P442</units_disp>
+    <beat>322</beat>
+    <units_disp> R224</units_disp>
   </event>
   <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>ADELAIDE ST W / TEMPERANCE ST</cross_streets>
-    <dispatch_time>2020-12-26 09:38:02</dispatch_time>
-    <event_num>F20128240</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <prime_street>M1X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 10:12:12</dispatch_time>
+    <event_num>F20128249</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P333, A325, C33, HR332, P314, C33</units_disp>
+    <beat>211</beat>
+    <units_disp> P211</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>ARROW RD / SHEPPARD AVE W</cross_streets>
-    <dispatch_time>2020-12-26 09:41:44</dispatch_time>
-    <event_num>F20128241</event_num>
-    <event_type>Natural Gas Leak</event_type>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 10:12:55</dispatch_time>
+    <event_num>F20128250</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P145, P142, C14, HZ145</units_disp>
+    <beat>114</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>M9B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 10:13:35</dispatch_time>
+    <event_num>F20128251</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> PL432</units_disp>
   </event>
 </tfs_active_incidents>
