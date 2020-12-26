@@ -1,4 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-26 07:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-26 08:00:02</update_from_db_time>
+  <event>
+    <prime_street>REDPATH AVE, TT</prime_street>
+    <cross_streets>SOUDAN AVE / EGLINTON AVE E</cross_streets>
+    <dispatch_time>2020-12-26 07:27:40</dispatch_time>
+    <event_num>F20128219</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> P322, R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 07:28:56</dispatch_time>
+    <event_num>F20128220</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
 </tfs_active_incidents>
