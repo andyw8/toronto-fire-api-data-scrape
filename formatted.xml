@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-26 08:35:02</update_from_db_time>
+  <update_from_db_time>2020-12-26 08:50:02</update_from_db_time>
   <event>
     <prime_street>PRECISION RD, ET</prime_street>
     <cross_streets>BETHRIDGE RD / VICE REGENT BLVD</cross_streets>
@@ -10,5 +10,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>441</beat>
     <units_disp> A415, R441</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-26 08:37:04</dispatch_time>
+    <event_num>F20128228</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214, P212</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 08:38:28</dispatch_time>
+    <event_num>F20128229</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 08:45:39</dispatch_time>
+    <event_num>F20128230</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
 </tfs_active_incidents>
