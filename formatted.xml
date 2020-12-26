@@ -1,54 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-25 23:00:03</update_from_db_time>
+  <update_from_db_time>2020-12-25 23:30:03</update_from_db_time>
   <event>
-    <prime_street>M9L</prime_street>
+    <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-25 21:41:17</dispatch_time>
-    <event_num>F20128126</event_num>
+    <dispatch_time>2020-12-25 23:14:34</dispatch_time>
+    <event_num>F20128147</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411</units_disp>
+    <beat>415</beat>
+    <units_disp> A415</units_disp>
   </event>
   <event>
-    <prime_street>M9A</prime_street>
+    <prime_street>GEORGE ST, TT</prime_street>
+    <cross_streets>DUNDAS ST E / LN N DUNDAS E GEORGE</cross_streets>
+    <dispatch_time>2020-12-25 23:22:08</dispatch_time>
+    <event_num>F20128148</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P313, P314, A325, C33, P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-25 22:47:46</dispatch_time>
-    <event_num>F20128139</event_num>
+    <dispatch_time>2020-12-25 23:23:55</dispatch_time>
+    <event_num>F20128149</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P431</units_disp>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
+    <prime_street>M4M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-25 22:50:10</dispatch_time>
-    <event_num>F20128141</event_num>
+    <dispatch_time>2020-12-25 23:25:18</dispatch_time>
+    <event_num>F20128150</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M4N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-25 22:53:38</dispatch_time>
-    <event_num>F20128142</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>HORNER AVE, ET</prime_street>
-    <cross_streets>JUDSON ST / KIPLING AVE</cross_streets>
-    <dispatch_time>2020-12-25 22:56:08</dispatch_time>
-    <event_num>F20128143</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435, R434, A433, C43, P433, P445</units_disp>
+    <beat>326</beat>
+    <units_disp> R326</units_disp>
   </event>
 </tfs_active_incidents>
