@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-26 15:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-26 15:50:02</update_from_db_time>
   <event>
     <prime_street>WELLESLEY ST, TT</prime_street>
     <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>313</beat>
     <units_disp> P313, A325, C31, P314, P325, S313, A324, P312, C33, HZ332, LA333, P324, P332, P333, HR114, R134, C30, CMD10, CMD10C, CMD30C, CMD30, FI8</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>LAWRENCE AVE W / MARLEE AVE</cross_streets>
-    <dispatch_time>2020-12-26 14:57:27</dispatch_time>
-    <event_num>F20128319</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-26 15:03:14</dispatch_time>
-    <event_num>F20128321</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142</units_disp>
-  </event>
-  <event>
-    <prime_street>M2L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-26 15:04:58</dispatch_time>
-    <event_num>F20128323</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
   </event>
   <event>
     <prime_street>M1P</prime_street>
@@ -52,26 +22,6 @@
     <units_disp> P232</units_disp>
   </event>
   <event>
-    <prime_street>BRIDLETOWNE CRCL, SC</prime_street>
-    <cross_streets>BEVERLY GLEN BLVD / HUNTINGDALE BLVD</cross_streets>
-    <dispatch_time>2020-12-26 15:05:06</dispatch_time>
-    <event_num>F20128325</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R243, R241, P242, A113, C11, P113</units_disp>
-  </event>
-  <event>
-    <prime_street>ELM ST, TT</prime_street>
-    <cross_streets>LN W YONGE S ELM / LN E BAY S ELM</cross_streets>
-    <dispatch_time>2020-12-26 15:07:00</dispatch_time>
-    <event_num>F20128326</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> A325, P314, P325, R325, C33</units_disp>
-  </event>
-  <event>
     <prime_street>WEST LODGE AVE, TT</prime_street>
     <cross_streets>SEAFORTH AVE / WEST LODGE PARK TRL</cross_streets>
     <dispatch_time>2020-12-26 15:12:22</dispatch_time>
@@ -82,13 +32,53 @@
     <units_disp> P331, P344, A426, C34, P315</units_disp>
   </event>
   <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>LIPPINCOTT ST / LORETTO LANE</cross_streets>
-    <dispatch_time>2020-12-26 15:14:15</dispatch_time>
-    <event_num>F20128329</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-26 15:29:08</dispatch_time>
+    <event_num>F20128332</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P343, R345, S331, A315, C31, P312</units_disp>
+    <beat>227</beat>
+    <units_disp> R326</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 15:29:20</dispatch_time>
+    <event_num>F20128333</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BATHURST ST / NIAGARA ST</cross_streets>
+    <dispatch_time>2020-12-26 15:38:38</dispatch_time>
+    <event_num>F20128334</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> HR332, HZ332, P334, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 15:43:00</dispatch_time>
+    <event_num>F20128335</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 15:43:54</dispatch_time>
+    <event_num>F20128336</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>326</beat>
+    <units_disp> P324</units_disp>
   </event>
 </tfs_active_incidents>
