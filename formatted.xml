@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-26 04:00:03</update_from_db_time>
+  <update_from_db_time>2020-12-26 04:30:02</update_from_db_time>
   <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-26 03:50:54</dispatch_time>
-    <event_num>F20128188</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>WALMER RD, TT</prime_street>
+    <cross_streets>BLOOR ST W / LOWTHER AVE</cross_streets>
+    <dispatch_time>2020-12-26 04:15:30</dispatch_time>
+    <event_num>F20128192</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
+    <beat>344</beat>
+    <units_disp> P315, P312, A315, C31, P314</units_disp>
   </event>
   <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-26 03:54:47</dispatch_time>
-    <event_num>F20128189</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>DUFFERIN ST, NY</prime_street>
+    <cross_streets>APEX RD / CELT AVE</cross_streets>
+    <dispatch_time>2020-12-26 04:19:35</dispatch_time>
+    <event_num>F20128193</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
+    <beat>145</beat>
+    <units_disp> P145, P132, A133, C13, R133</units_disp>
   </event>
 </tfs_active_incidents>
