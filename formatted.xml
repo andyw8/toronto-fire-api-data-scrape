@@ -1,34 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-27 10:55:03</update_from_db_time>
+  <update_from_db_time>2020-12-27 11:45:03</update_from_db_time>
   <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-27 10:32:12</dispatch_time>
-    <event_num>F20128565</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>YONGE ST / ST CLAIR AVE E</cross_streets>
+    <dispatch_time>2020-12-27 11:05:36</dispatch_time>
+    <event_num>F20128572</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>M5J</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-27 10:40:11</dispatch_time>
-    <event_num>F20128568</event_num>
+    <dispatch_time>2020-12-27 11:27:37</dispatch_time>
+    <event_num>F20128580</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
+    <beat>335</beat>
+    <units_disp> FB334B, P335, V335</units_disp>
   </event>
   <event>
-    <prime_street>DALE AVE, TT</prime_street>
-    <cross_streets>MAPLE AVE / NANTON AVE</cross_streets>
-    <dispatch_time>2020-12-27 10:44:31</dispatch_time>
-    <event_num>F20128571</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-27 11:28:59</dispatch_time>
+    <event_num>F20128581</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>332</beat>
+    <units_disp> HZ332</units_disp>
   </event>
 </tfs_active_incidents>
