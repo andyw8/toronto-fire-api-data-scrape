@@ -1,84 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-26 19:00:02</update_from_db_time>
+  <update_from_db_time>2020-12-26 20:10:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>NEILSON RD / SHEPPARD AVE E</cross_streets>
-    <dispatch_time>2020-12-26 17:57:17</dispatch_time>
-    <event_num>F20128379</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>DUFFERIN ST, YK</prime_street>
+    <cross_streets>MARTIN ST / GIBSON ST</cross_streets>
+    <dispatch_time>2020-12-26 19:25:25</dispatch_time>
+    <event_num>F20128412</event_num>
+    <event_type>Vehicle Accident with Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
+    <beat>341</beat>
+    <units_disp> R341, P342</units_disp>
+  </event>
+  <event>
+    <prime_street>KEELE ST, NY</prime_street>
+    <cross_streets>GRANDRAVINE DR / ST REGIS CRES</cross_streets>
+    <dispatch_time>2020-12-26 19:35:13</dispatch_time>
+    <event_num>F20128413</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> A133, C14, P141, P143, P145, S143</units_disp>
+  </event>
+  <event>
+    <prime_street>AUBURNDALE CRT, ET</prime_street>
+    <cross_streets>BERGAMOT AVE / THE ELMS PARK TRL</cross_streets>
+    <dispatch_time>2020-12-26 19:41:46</dispatch_time>
+    <event_num>F20128415</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> A415, C41, P415, P443, R441</units_disp>
+  </event>
+  <event>
+    <prime_street>M4H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-26 19:50:51</dispatch_time>
+    <event_num>F20128418</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322, R321</units_disp>
   </event>
   <event>
     <prime_street>KING ST, TT</prime_street>
     <cross_streets>BRANT ST / BRANT PL</cross_streets>
-    <dispatch_time>2020-12-26 18:32:23</dispatch_time>
-    <event_num>F20128394</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
+    <dispatch_time>2020-12-26 19:52:01</dispatch_time>
+    <event_num>F20128419</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>332</beat>
-    <units_disp> P332, P334, A331, C33, P315, R325</units_disp>
+    <units_disp> P332, P331, A331, C33, P334</units_disp>
   </event>
   <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>WESTON RD / LINDYLOU PARK TRL</cross_streets>
-    <dispatch_time>2020-12-26 18:34:57</dispatch_time>
-    <event_num>F20128395</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411, A415</units_disp>
-  </event>
-  <event>
-    <prime_street>CARNIVAL CRT, NY</prime_street>
-    <cross_streets>FESTIVAL DR / FESTIVAL PARK TRL</cross_streets>
-    <dispatch_time>2020-12-26 18:39:05</dispatch_time>
-    <event_num>F20128397</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> P143, R112, C11, P111, P135, T114</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>THE QUEENSWAY / THE EAST MALL</cross_streets>
-    <dispatch_time>2020-12-26 18:40:08</dispatch_time>
-    <event_num>F20128398</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-26 18:43:14</dispatch_time>
-    <event_num>F20128400</event_num>
+    <dispatch_time>2020-12-26 19:57:39</dispatch_time>
+    <event_num>F20128420</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>GLENGROVE AVE E / ALEXANDER MUIR RD</cross_streets>
-    <dispatch_time>2020-12-26 18:45:23</dispatch_time>
-    <event_num>F20128401</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> R134, P132, C13, R122, A321</units_disp>
-  </event>
-  <event>
-    <prime_street>M9M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-26 18:53:34</dispatch_time>
-    <event_num>F20128404</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
+    <beat>413</beat>
     <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>WESTON RD, NY</prime_street>
+    <cross_streets>OAK ST / FAIRGLEN CRES</cross_streets>
+    <dispatch_time>2020-12-26 20:00:46</dispatch_time>
+    <event_num>F20128421</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P146, HZ145</units_disp>
   </event>
 </tfs_active_incidents>
