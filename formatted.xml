@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-27 16:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-27 17:30:02</update_from_db_time>
   <event>
     <prime_street>FORT YORK BLVD, TT</prime_street>
     <cross_streets>ANGELIQUE ST / FLEET ST</cross_streets>
@@ -12,33 +12,133 @@
     <units_disp> A331, C33, P331, P334, P344, S331</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-27 16:33:43</dispatch_time>
-    <event_num>F20128657</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>CLARION RD, ET</prime_street>
+    <cross_streets>WATERBURY DR / ZEALAND RD</cross_streets>
+    <dispatch_time>2020-12-27 16:49:46</dispatch_time>
+    <event_num>F20128660</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A345</units_disp>
+    <beat>441</beat>
+    <units_disp> P145, R441, C41, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
+    <prime_street>M4M</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-27 16:36:40</dispatch_time>
-    <event_num>F20128658</event_num>
+    <dispatch_time>2020-12-27 16:52:10</dispatch_time>
+    <event_num>F20128662</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>326</beat>
+    <units_disp> R326</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>FOLCROFT AVE, SC</prime_street>
+    <cross_streets>CLIFFSIDE DR / GLEN EVEREST RD</cross_streets>
+    <dispatch_time>2020-12-27 17:01:55</dispatch_time>
+    <event_num>F20128667</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> C22, R225, HZ332, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-27 16:40:28</dispatch_time>
-    <event_num>F20128659</event_num>
+    <dispatch_time>2020-12-27 17:12:37</dispatch_time>
+    <event_num>F20128669</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> R426</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-27 17:16:08</dispatch_time>
+    <event_num>F20128671</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> A411</units_disp>
+  </event>
+  <event>
+    <prime_street>STRATHMORE BLVD, TT</prime_street>
+    <cross_streets>CAITHNESS AVE / GREENWOOD AVE</cross_streets>
+    <dispatch_time>2020-12-27 17:18:06</dispatch_time>
+    <event_num>F20128672</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323, R224, A322, C32, P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-27 17:18:54</dispatch_time>
+    <event_num>F20128673</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> A231</units_disp>
+  </event>
+  <event>
+    <prime_street>M3L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-27 17:19:25</dispatch_time>
+    <event_num>F20128674</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
+  </event>
+  <event>
+    <prime_street>ONTARIO ST, TT</prime_street>
+    <cross_streets> / HOWARD ST</cross_streets>
+    <dispatch_time>2020-12-27 17:19:44</dispatch_time>
+    <event_num>F20128675</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313, P312, A325, C31, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-27 17:22:24</dispatch_time>
+    <event_num>F20128676</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-27 17:22:25</dispatch_time>
+    <event_num>F20128677</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>OUTLOOK AVE, YK</prime_street>
+    <cross_streets>GRANDVILLE AVE / OUTLOOK GARDEN BLVD</cross_streets>
+    <dispatch_time>2020-12-27 17:24:50</dispatch_time>
+    <event_num>F20128678</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> P422, P442, A421, P443, C42</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>CORONA ST / DUFFERIN ST</cross_streets>
+    <dispatch_time>2020-12-27 17:26:45</dispatch_time>
+    <event_num>F20128679</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145, P132, A133, C13, R341</units_disp>
   </event>
 </tfs_active_incidents>
