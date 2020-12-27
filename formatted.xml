@@ -1,24 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-27 15:20:03</update_from_db_time>
+  <update_from_db_time>2020-12-27 15:45:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>YONGE ST / LAWRENCE AVE E</cross_streets>
-    <dispatch_time>2020-12-27 14:29:15</dispatch_time>
-    <event_num>F20128624</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
+    <prime_street>M3H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-27 14:52:48</dispatch_time>
-    <event_num>F20128633</event_num>
+    <dispatch_time>2020-12-27 15:18:34</dispatch_time>
+    <event_num>F20128635</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P315</units_disp>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
+  </event>
+  <event>
+    <prime_street>M5C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-27 15:26:59</dispatch_time>
+    <event_num>F20128638</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-27 15:30:15</dispatch_time>
+    <event_num>F20128639</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>COMBE AVE, NY</prime_street>
+    <cross_streets>ELDER ST / WILMINGTON AVE</cross_streets>
+    <dispatch_time>2020-12-27 15:34:01</dispatch_time>
+    <event_num>F20128641</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> R112, P141, C11, P135, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-27 15:36:36</dispatch_time>
+    <event_num>F20128643</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>BATHURST ST, TT</prime_street>
+    <cross_streets>FRONT ST W / LN S NIAGARA W BATHURST</cross_streets>
+    <dispatch_time>2020-12-27 15:36:46</dispatch_time>
+    <event_num>F20128644</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> HR332, HZ332, P331, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>FALSTAFF AVE, NY</prime_street>
+    <cross_streets>MAIDSTONE ST / SPRINGVIEW AVE</cross_streets>
+    <dispatch_time>2020-12-27 15:40:14</dispatch_time>
+    <event_num>F20128645</event_num>
+    <event_type>Water Problem</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146, A133</units_disp>
   </event>
 </tfs_active_incidents>
