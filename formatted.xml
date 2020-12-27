@@ -1,34 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-27 08:05:02</update_from_db_time>
+  <update_from_db_time>2020-12-27 08:35:03</update_from_db_time>
   <event>
-    <prime_street>ELMWOOD AVE, NY</prime_street>
-    <cross_streets>WILFRED AVE / HIGHGATE AVE</cross_streets>
-    <dispatch_time>2020-12-27 07:47:58</dispatch_time>
-    <event_num>F20128541</event_num>
-    <event_type>Water Problem</event_type>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>BENDALE ACRES / VALPARAISO AVE</cross_streets>
+    <dispatch_time>2020-12-27 08:21:30</dispatch_time>
+    <event_num>F20128546</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> R122, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M9M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-27 07:50:04</dispatch_time>
-    <event_num>F20128543</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-27 07:57:32</dispatch_time>
-    <event_num>F20128544</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
+    <beat>232</beat>
+    <units_disp> P232, S232</units_disp>
   </event>
 </tfs_active_incidents>
