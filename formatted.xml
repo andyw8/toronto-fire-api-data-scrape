@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-27 18:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-27 19:00:03</update_from_db_time>
   <event>
     <prime_street>M9M</prime_street>
     <cross_streets/>
@@ -12,23 +12,93 @@
     <units_disp> A411</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-27 18:08:08</dispatch_time>
-    <event_num>F20128687</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> P131</units_disp>
+    <prime_street> </prime_street>
+    <cross_streets>DUNDAS ST W / STERLING RD</cross_streets>
+    <dispatch_time>2020-12-27 18:33:53</dispatch_time>
+    <event_num>F20128692</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>3</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R423, R425, R426, A426, C34, P342, LA421, A345, P315, S331, C40, CMD30, CMD30C, C42, HZ332, P331, P343, P344, C30, P312, A421, P333, T114, C31, P313, P314, R325, REHAB01, C43, P116, A423</units_disp>
   </event>
   <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-27 18:26:59</dispatch_time>
-    <event_num>F20128690</event_num>
+    <dispatch_time>2020-12-27 18:34:17</dispatch_time>
+    <event_num>F20128693</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>CARLAW AVE, TT</prime_street>
+    <cross_streets>QUEEN ST E / COLGATE AVE</cross_streets>
+    <dispatch_time>2020-12-27 18:45:40</dispatch_time>
+    <event_num>F20128695</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324, R326, A324, P323, C32</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-27 18:47:41</dispatch_time>
+    <event_num>F20128696</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
+  </event>
+  <event>
+    <prime_street>HOWARD PARK AVE, TT</prime_street>
+    <cross_streets>DUNDAS ST W / LN E RONCESVALLES S HOWARD PAR</cross_streets>
+    <dispatch_time>2020-12-27 18:48:47</dispatch_time>
+    <event_num>F20128697</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P422, A331, C33, P332, P334, R341</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DUNDAS ST W / LANSDOWNE AVE</cross_streets>
+    <dispatch_time>2020-12-27 18:49:31</dispatch_time>
+    <event_num>F20128698</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> A315</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>CASTLEFIELD AVE / DUFFERIN ST</cross_streets>
+    <dispatch_time>2020-12-27 18:50:00</dispatch_time>
+    <event_num>F20128699</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
+  </event>
+  <event>
+    <prime_street>RHINESTONE DR, ET</prime_street>
+    <cross_streets>FAVERSHAM CRES / FAVERSHAM CRES</cross_streets>
+    <dispatch_time>2020-12-27 18:50:37</dispatch_time>
+    <event_num>F20128700</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> P145, R444, C44, HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-27 18:51:02</dispatch_time>
+    <event_num>F20128701</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> HR332</units_disp>
   </event>
 </tfs_active_incidents>
