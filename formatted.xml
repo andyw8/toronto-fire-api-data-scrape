@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-28 16:20:02</update_from_db_time>
+  <update_from_db_time>2020-12-28 16:50:02</update_from_db_time>
   <event>
     <prime_street>DUNDAS ST, TT</prime_street>
     <cross_streets>ST HELEN'S AVE / STERLING RD</cross_streets>
@@ -12,53 +12,43 @@
     <units_disp> R423, R425, R426, A426, C34, P342, LA421, A345, P315, S331, C40, CMD30, CMD30C, C42, HZ332, P331, P343, P344, C30, P312, A421, P333, T114, C31, P313, P314, R325, REHAB01, C43, P116, A423, A315, C6, P332, C8, C2, A331, P431, R341, P431, C44, P445, R434, P311, A433, C33, R441, P142, R435, C41, P331, R425, C42, R423, A423, LA421, P432, C34, FI8, A423, C40, C34, P343, P433, A421, C42, P315, P312, C44</units_disp>
   </event>
   <event>
-    <prime_street>M3H</prime_street>
+    <prime_street>M9C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-28 15:58:43</dispatch_time>
-    <event_num>F20128975</event_num>
+    <dispatch_time>2020-12-28 16:35:42</dispatch_time>
+    <event_num>F20128982</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>RIVER ST, TT</prime_street>
+    <cross_streets>WYATT AVE / DUNDAS ST E</cross_streets>
+    <dispatch_time>2020-12-28 16:35:55</dispatch_time>
+    <event_num>F20128983</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325, P333, A325, C33, HR332, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M3K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 16:36:11</dispatch_time>
+    <event_num>F20128984</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>143</beat>
     <units_disp> P113</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M9A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-28 16:03:49</dispatch_time>
-    <event_num>F20128976</event_num>
+    <dispatch_time>2020-12-28 16:39:27</dispatch_time>
+    <event_num>F20128985</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-28 16:15:15</dispatch_time>
-    <event_num>F20128977</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P135</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTON RD, YK</prime_street>
-    <cross_streets>ELPHICK LANE / COULTER AVE</cross_streets>
-    <dispatch_time>2020-12-28 16:16:35</dispatch_time>
-    <event_num>F20128978</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, P146, C41, P443, A133</units_disp>
-  </event>
-  <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>SCARBOROUGH GOLF CLUB RD / 3785 LAWRENCE AVE E</cross_streets>
-    <dispatch_time>2020-12-28 16:16:30</dispatch_time>
-    <event_num>F20128979</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231, P234, A231, P232, C23</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
