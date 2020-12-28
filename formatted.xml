@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-28 17:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-28 18:05:02</update_from_db_time>
   <event>
     <prime_street>DUNDAS ST, TT</prime_street>
     <cross_streets>ST HELEN'S AVE / STERLING RD</cross_streets>
@@ -12,23 +12,73 @@
     <units_disp> R423, R425, R426, A426, C34, P342, LA421, A345, P315, S331, C40, CMD30, CMD30C, C42, HZ332, P331, P343, P344, C30, P312, A421, P333, T114, C31, P313, P314, R325, REHAB01, C43, P116, A423, A315, C6, P332, C8, C2, A331, P431, R341, P431, C44, P445, R434, P311, A433, C33, R441, P142, R435, C41, P331, R425, C42, R423, A423, LA421, P432, C34, FI8, A423, C40, C34, P343, P433, A421, C42, P315, P312, C44, P333</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-28 17:02:01</dispatch_time>
-    <event_num>F20128987</event_num>
+    <dispatch_time>2020-12-28 17:29:47</dispatch_time>
+    <event_num>F20128992</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <beat>441</beat>
+    <units_disp> A441, R441</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets>OLD WESTON RD / ST CLAIR AVE W</cross_streets>
+    <dispatch_time>2020-12-28 17:37:06</dispatch_time>
+    <event_num>F20128994</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-28 17:10:41</dispatch_time>
-    <event_num>F20128989</event_num>
+    <dispatch_time>2020-12-28 17:44:19</dispatch_time>
+    <event_num>F20129000</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>BAYVIEW AVE, TT</prime_street>
+    <cross_streets>CORKTOWN COMMON TRL / RIVER ST E BAYVIEW RAMP</cross_streets>
+    <dispatch_time>2020-12-28 17:46:00</dispatch_time>
+    <event_num>F20129001</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 17:49:30</dispatch_time>
+    <event_num>F20129003</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 17:55:59</dispatch_time>
+    <event_num>F20129004</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 18:01:50</dispatch_time>
+    <event_num>F20129005</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
 </tfs_active_incidents>
