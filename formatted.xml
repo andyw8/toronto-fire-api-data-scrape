@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-28 02:00:03</update_from_db_time>
+  <update_from_db_time>2020-12-28 02:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>DUNDAS ST W / STERLING RD</cross_streets>
@@ -22,13 +22,53 @@
     <units_disp> P132, P145, S143, A133, P131, C13, A135, HZ145, P121, P143, R122, R134, C34, LA421, P342, C10, CMD10, CMD10C</units_disp>
   </event>
   <event>
-    <prime_street>M4M</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-28 01:54:40</dispatch_time>
-    <event_num>F20128805</event_num>
+    <dispatch_time>2020-12-28 02:01:00</dispatch_time>
+    <event_num>F20128808</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
+  </event>
+  <event>
+    <prime_street>M5C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 02:06:21</dispatch_time>
+    <event_num>F20128809</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M9B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 02:08:17</dispatch_time>
+    <event_num>F20128810</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>HAGERMAN ST / DUNDAS ST W</cross_streets>
+    <dispatch_time>2020-12-28 02:16:39</dispatch_time>
+    <event_num>F20128813</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P314, P332, S313, A315, C31, HR332, P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M4H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 02:26:48</dispatch_time>
+    <event_num>F20128814</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
   </event>
 </tfs_active_incidents>
