@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-28 05:30:03</update_from_db_time>
+  <update_from_db_time>2020-12-28 05:55:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>DUNDAS ST W / STERLING RD</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>4</alarm_lev>
     <beat>426</beat>
-    <units_disp> R423, R425, R426, A426, C34, P342, LA421, A345, P315, S331, C40, CMD30, CMD30C, C42, HZ332, P331, P343, P344, C30, P312, A421, P333, T114, C31, P313, P314, R325, REHAB01, C43, P116, A423, A315, C6, P332, C8, C2, A331, P431, R341, P431, C44, P445, R434, P311, A433, C33, R441, P142, R435, C41</units_disp>
+    <units_disp> R423, R425, R426, A426, C34, P342, LA421, A345, P315, S331, C40, CMD30, CMD30C, C42, HZ332, P331, P343, P344, C30, P312, A421, P333, T114, C31, P313, P314, R325, REHAB01, C43, P116, A423, A315, C6, P332, C8, C2, A331, P431, R341, P431, C44, P445, R434, P311, A433, C33, R441, P142, R435, C41, P331, R425</units_disp>
   </event>
   <event>
     <prime_street>VARNA DR, NY</prime_street>
@@ -22,13 +22,43 @@
     <units_disp> P132, P145, S143, A133, P131, C13, A135, HZ145, P121, P143, R122, R134, C34, LA421, P342, C10, CMD10, CMD10C, P121, P135, P146</units_disp>
   </event>
   <event>
-    <prime_street>CARR ST, TT</prime_street>
-    <cross_streets>RYERSON AVE / LN E BATHURST S CARR</cross_streets>
-    <dispatch_time>2020-12-28 05:22:28</dispatch_time>
-    <event_num>F20128836</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 05:33:35</dispatch_time>
+    <event_num>F20128837</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315, P331, A315, C33, P332</units_disp>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 05:40:54</dispatch_time>
+    <event_num>F20128838</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 05:45:00</dispatch_time>
+    <event_num>F20128839</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 05:48:07</dispatch_time>
+    <event_num>F20128840</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
 </tfs_active_incidents>
