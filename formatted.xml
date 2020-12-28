@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-28 09:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-28 09:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>DUNDAS ST W / STERLING RD</cross_streets>
@@ -32,33 +32,23 @@
     <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>AVENUE RD, TT</prime_street>
-    <cross_streets>BLOOR ST W / CUMBERLAND ST</cross_streets>
-    <dispatch_time>2020-12-28 08:57:11</dispatch_time>
-    <event_num>F20128873</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 09:32:44</dispatch_time>
+    <event_num>F20128878</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> A312, C31, P312, P314, P315</units_disp>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
   </event>
   <event>
-    <prime_street>HUDDERSFIELD RD, ET</prime_street>
-    <cross_streets>HUMBERLINE DR / CLAIREVILLE DR</cross_streets>
-    <dispatch_time>2020-12-28 09:12:29</dispatch_time>
-    <event_num>F20128876</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M9P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 09:43:03</dispatch_time>
+    <event_num>F20128881</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> A415, R412, R413, R441, C41</units_disp>
-  </event>
-  <event>
-    <prime_street>KING ST, TT</prime_street>
-    <cross_streets>SIMCOE ST / ED MIRVISH WAY</cross_streets>
-    <dispatch_time>2020-12-28 09:22:29</dispatch_time>
-    <event_num>F20128877</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
