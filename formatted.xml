@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-28 20:10:02</update_from_db_time>
+  <update_from_db_time>2020-12-28 21:20:02</update_from_db_time>
   <event>
     <prime_street>DUNDAS ST, TT</prime_street>
     <cross_streets>ST HELEN'S AVE / STERLING RD</cross_streets>
@@ -12,53 +12,43 @@
     <units_disp> R423, R425, R426, A426, C34, P342, LA421, A345, P315, S331, C40, CMD30, CMD30C, C42, HZ332, P331, P343, P344, C30, P312, A421, P333, T114, C31, P313, P314, R325, REHAB01, C43, P116, A423, A315, C6, P332, C8, C2, A331, P431, R341, P431, C44, P445, R434, P311, A433, C33, R441, P142, R435, C41, P331, R425, C42, R423, A423, LA421, P432, C34, FI8, A423, C40, C34, P343, P433, A421, C42, P315, P312, C44, P333, R325</units_disp>
   </event>
   <event>
-    <prime_street>ASHWARREN RD, NY</prime_street>
-    <cross_streets>BAKERSFIELD ST / CERAMIC RD</cross_streets>
-    <dispatch_time>2020-12-28 19:31:14</dispatch_time>
-    <event_num>F20129036</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> S143, P141, A133, C14, P142, P143, P143, P145, R112, P324, C10</units_disp>
-  </event>
-  <event>
-    <prime_street>M2K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-28 19:32:49</dispatch_time>
-    <event_num>F20129038</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
-    <prime_street>MAITLAND ST, TT</prime_street>
-    <cross_streets>WELLSPRING LANE / MUTUAL ST</cross_streets>
-    <dispatch_time>2020-12-28 19:57:40</dispatch_time>
-    <event_num>F20129043</event_num>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>BEATY AVE / WILSON PARK RD</cross_streets>
+    <dispatch_time>2020-12-28 21:01:25</dispatch_time>
+    <event_num>F20129059</event_num>
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P313, P314, S313, A312, P312, C31</units_disp>
+    <beat>426</beat>
+    <units_disp> A426, C42, R423, R425, R426, R345</units_disp>
   </event>
   <event>
-    <prime_street>GREENSIDES AVE, TT</prime_street>
-    <cross_streets>BENSON AVE / LN S ST CLAIR E GREENSIDES</cross_streets>
-    <dispatch_time>2020-12-28 19:59:09</dispatch_time>
-    <event_num>F20129044</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M6L</prime_street>
+    <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-28 20:06:44</dispatch_time>
-    <event_num>F20129045</event_num>
+    <dispatch_time>2020-12-28 21:05:38</dispatch_time>
+    <event_num>F20129060</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
+  </event>
+  <event>
+    <prime_street>CARR ST, TT</prime_street>
+    <cross_streets>RYERSON AVE / LN E BATHURST S CARR</cross_streets>
+    <dispatch_time>2020-12-28 21:07:25</dispatch_time>
+    <event_num>F20129061</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315, P332, A315, C33, P314, P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-28 21:07:38</dispatch_time>
+    <event_num>F20129062</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
   </event>
 </tfs_active_incidents>
