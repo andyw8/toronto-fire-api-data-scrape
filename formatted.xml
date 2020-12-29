@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-29 08:10:02</update_from_db_time>
+  <update_from_db_time>2020-12-29 08:40:03</update_from_db_time>
   <event>
     <prime_street>DUNDAS ST, TT</prime_street>
     <cross_streets>ST HELEN'S AVE / STERLING RD</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>332</beat>
     <units_disp> P332, P333, A325, C33, HR332, P334, R325, A315, C31, HZ332, LA333, P314, P315, P331, P344, S331, CMD30, CMD30C, C30, FI19, P332, C3</units_disp>
-  </event>
-  <event>
-    <prime_street>BIN-SCARTH RD, TT</prime_street>
-    <cross_streets>HIGHLAND AVE / GLEN RD</cross_streets>
-    <dispatch_time>2020-12-29 07:56:06</dispatch_time>
-    <event_num>F20129133</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313, P313, A312, C31, P312, P314</units_disp>
   </event>
   <event>
     <prime_street>VICKERS RD, ET</prime_street>
