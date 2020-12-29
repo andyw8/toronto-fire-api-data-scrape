@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-29 12:00:03</update_from_db_time>
+  <update_from_db_time>2020-12-29 13:00:02</update_from_db_time>
   <event>
     <prime_street>DUNDAS ST, TT</prime_street>
     <cross_streets>ST HELEN'S AVE / STERLING RD</cross_streets>
@@ -22,53 +22,13 @@
     <units_disp> P332, P333, A325, C33, HR332, P334, R325, A315, C31, HZ332, LA333, P314, P315, P331, P344, S331, CMD30, CMD30C, C30, FI19, P332, C3</units_disp>
   </event>
   <event>
-    <prime_street>DUFFERIN ST, TT</prime_street>
-    <cross_streets>BLOOR ST W / LN N BLOOR E DUFFERIN</cross_streets>
-    <dispatch_time>2020-12-29 11:32:37</dispatch_time>
-    <event_num>F20129171</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> C34, HZ332, R345, P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-29 11:33:18</dispatch_time>
-    <event_num>F20129172</event_num>
+    <dispatch_time>2020-12-29 12:55:50</dispatch_time>
+    <event_num>F20129191</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-29 11:48:10</dispatch_time>
-    <event_num>F20129177</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-29 11:49:14</dispatch_time>
-    <event_num>F20129178</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-29 11:56:30</dispatch_time>
-    <event_num>F20129180</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
