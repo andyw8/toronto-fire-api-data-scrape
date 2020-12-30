@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-29 22:30:02</update_from_db_time>
+  <update_from_db_time>2020-12-29 23:00:03</update_from_db_time>
   <event>
     <prime_street>DUNDAS ST, TT</prime_street>
     <cross_streets>ST HELEN'S AVE / STERLING RD</cross_streets>
@@ -9,57 +9,7 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>4</alarm_lev>
     <beat>426</beat>
-    <units_disp> R423, R425, R426, A426, C34, P342, LA421, A345, P315, S331, C40, CMD30, CMD30C, C42, HZ332, P331, P343, P344, C30, P312, A421, P333, T114, C31, P313, P314, R325, REHAB01, C43, P116, A423, A315, C6, P332, C8, C2, A331, P431, R341, P431, C44, P445, R434, P311, A433, C33, R441, P142, R435, C41, P331, R425, C42, R423, A423, LA421, P432, C34, FI8, A423, C40, C34, P343, P433, A421, C42, P315, P312, C44, P333, R325, R423, P433, R425, P422, R423, R425, P426, A423, P432, LA421, A433, A345</units_disp>
-  </event>
-  <event>
-    <prime_street>MCCORMACK ST, TT</prime_street>
-    <cross_streets>LN W WESTON S NORTHLAND / MAYBANK AVE</cross_streets>
-    <dispatch_time>2020-12-29 21:50:44</dispatch_time>
-    <event_num>F20129362</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> P422, R423, A423, C42, P342, R345</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2020-12-29 21:53:13</dispatch_time>
-    <event_num>F20129363</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344, R426, C33</units_disp>
-  </event>
-  <event>
-    <prime_street>M4W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-29 22:05:17</dispatch_time>
-    <event_num>F20129368</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>AUSTIN TER, TT</prime_street>
-    <cross_streets>SPADINA RD / WALMER RD</cross_streets>
-    <dispatch_time>2020-12-29 22:19:00</dispatch_time>
-    <event_num>F20129369</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P343, P311, R345, A312, C31</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-29 22:20:43</dispatch_time>
-    <event_num>F20129370</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R425, P422</units_disp>
+    <units_disp> R423, R425, R426, A426, C34, P342, LA421, A345, P315, S331, C40, CMD30, CMD30C, C42, HZ332, P331, P343, P344, C30, P312, A421, P333, T114, C31, P313, P314, R325, REHAB01, C43, P116, A423, A315, C6, P332, C8, C2, A331, P431, R341, P431, C44, P445, R434, P311, A433, C33, R441, P142, R435, C41, P331, R425, C42, R423, A423, LA421, P432, C34, FI8, A423, C40, C34, P343, P433, A421, C42, P315, P312, C44, P333, R325, R423, P433, R425, P422, R423, R425, P426, A423, P432, LA421, A433, A345, A441</units_disp>
   </event>
   <event>
     <prime_street>CASTLEDENE CRES, SC</prime_street>
@@ -70,5 +20,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> P234, P244, C24, HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>STRATHEARN RD, YK</prime_street>
+    <cross_streets>CHILTERN HILL RD / GLEN CEDAR RD</cross_streets>
+    <dispatch_time>2020-12-29 22:37:28</dispatch_time>
+    <event_num>F20129373</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> R341, A135, P132, R134, P343, C13</units_disp>
+  </event>
+  <event>
+    <prime_street>M5E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-29 22:43:08</dispatch_time>
+    <event_num>F20129375</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-29 22:54:17</dispatch_time>
+    <event_num>F20129376</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>CARR ST, TT</prime_street>
+    <cross_streets>RYERSON AVE / LN E BATHURST S CARR</cross_streets>
+    <dispatch_time>2020-12-29 22:54:52</dispatch_time>
+    <event_num>F20129377</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
   </event>
 </tfs_active_incidents>
