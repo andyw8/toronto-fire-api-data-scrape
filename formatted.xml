@@ -1,44 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-31 11:05:02</update_from_db_time>
+  <update_from_db_time>2020-12-31 12:20:03</update_from_db_time>
   <event>
-    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
-    <cross_streets>R. V. BURGESS PARK TRL / WEST DON RIVER TRL</cross_streets>
-    <dispatch_time>2020-12-31 10:29:54</dispatch_time>
-    <event_num>F20129859</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322, R321, A322, C32, P125, C31</units_disp>
-  </event>
-  <event>
-    <prime_street>ELM AVE, TT</prime_street>
-    <cross_streets> / MOUNT PLEASANT RD</cross_streets>
-    <dispatch_time>2020-12-31 10:51:26</dispatch_time>
-    <event_num>F20129865</event_num>
+    <prime_street>KANE AVE, YK</prime_street>
+    <cross_streets>TROWELL AVE / EWART AVE</cross_streets>
+    <dispatch_time>2020-12-31 11:30:22</dispatch_time>
+    <event_num>F20129877</event_num>
     <event_type>Alarm - Institution - School</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> R325, P313, A312, C31, P311, P314</units_disp>
+    <beat>421</beat>
+    <units_disp> R421, R133, A421, C42, P342, R341</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-31 10:52:48</dispatch_time>
-    <event_num>F20129866</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>KIPLING AVE, ET</prime_street>
+    <cross_streets>BROOKMERE RD / HENLEY CRES</cross_streets>
+    <dispatch_time>2020-12-31 11:55:29</dispatch_time>
+    <event_num>F20129882</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-31 10:54:08</dispatch_time>
-    <event_num>F20129867</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>415</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
