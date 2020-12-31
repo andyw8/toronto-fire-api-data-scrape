@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-31 02:50:02</update_from_db_time>
+  <update_from_db_time>2020-12-31 03:30:02</update_from_db_time>
   <event>
     <prime_street>CLOVELLY AVE, YK</prime_street>
     <cross_streets>LN W OAKWOOD N CLOVELLY / GLENHOLME AVE</cross_streets>
@@ -9,56 +9,56 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>341</beat>
-    <units_disp> A341, C34, P342, P343, R345, P132, S331, A135, LA421, R134, C30, P311, HZ145, P422, P442, C13, CMD30, CMD30C, C40, C2, FI5, P442</units_disp>
+    <units_disp> A341, C34, P342, P343, R345, P132, S331, A135, LA421, R134, C30, P311, HZ145, P422, P442, C13, CMD30, CMD30C, C40, C2, FI5, P442, A135</units_disp>
   </event>
   <event>
-    <prime_street>MARBLEHEAD RD, ET</prime_street>
-    <cross_streets>NORTHCREST RD / ACME CRES</cross_streets>
-    <dispatch_time>2020-12-31 01:54:48</dispatch_time>
-    <event_num>F20129776</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441</units_disp>
-  </event>
-  <event>
-    <prime_street>AVENUE RD, TT</prime_street>
-    <cross_streets>BLOOR ST W / CUMBERLAND ST</cross_streets>
-    <dispatch_time>2020-12-31 02:05:41</dispatch_time>
-    <event_num>F20129778</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312, P314, A312, C31, P315, A312</units_disp>
-  </event>
-  <event>
-    <prime_street>M3A</prime_street>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-31 02:37:46</dispatch_time>
-    <event_num>F20129787</event_num>
+    <dispatch_time>2020-12-31 03:07:19</dispatch_time>
+    <event_num>F20129792</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-31 02:37:59</dispatch_time>
-    <event_num>F20129788</event_num>
+    <dispatch_time>2020-12-31 03:15:05</dispatch_time>
+    <event_num>F20129794</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-31 02:43:06</dispatch_time>
-    <event_num>F20129790</event_num>
+    <dispatch_time>2020-12-31 03:15:49</dispatch_time>
+    <event_num>F20129795</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-31 03:17:58</dispatch_time>
+    <event_num>F20129796</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-31 03:22:20</dispatch_time>
+    <event_num>F20129797</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
 </tfs_active_incidents>
