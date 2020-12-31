@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-31 12:20:03</update_from_db_time>
+  <update_from_db_time>2020-12-31 13:20:02</update_from_db_time>
   <event>
-    <prime_street>KANE AVE, YK</prime_street>
-    <cross_streets>TROWELL AVE / EWART AVE</cross_streets>
-    <dispatch_time>2020-12-31 11:30:22</dispatch_time>
-    <event_num>F20129877</event_num>
-    <event_type>Alarm - Institution - School</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>RUNNYMEDE RD / ST CLAIR AVE W</cross_streets>
+    <dispatch_time>2020-12-31 12:51:24</dispatch_time>
+    <event_num>F20129894</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421, R133, A421, C42, P342, R341</units_disp>
+    <beat>422</beat>
+    <units_disp> C42, P422, R421, S445</units_disp>
   </event>
   <event>
-    <prime_street>KIPLING AVE, ET</prime_street>
-    <cross_streets>BROOKMERE RD / HENLEY CRES</cross_streets>
-    <dispatch_time>2020-12-31 11:55:29</dispatch_time>
-    <event_num>F20129882</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2020-12-31 13:13:39</dispatch_time>
+    <event_num>F20129898</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> R413</units_disp>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
 </tfs_active_incidents>
