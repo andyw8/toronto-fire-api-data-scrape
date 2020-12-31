@@ -1,54 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-31 14:00:02</update_from_db_time>
+  <update_from_db_time>2020-12-31 14:40:02</update_from_db_time>
   <event>
-    <prime_street>BLACKFRIAR AVE, ET</prime_street>
-    <cross_streets>DIXON RD / BRIDESBURG DR</cross_streets>
-    <dispatch_time>2020-12-31 13:23:58</dispatch_time>
-    <event_num>F20129901</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>RUSHBROOKE AVE / CURZON ST</cross_streets>
+    <dispatch_time>2020-12-31 14:32:02</dispatch_time>
+    <event_num>F20129912</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441, P443, A415, C41, P442, R441, R413</units_disp>
+    <beat>326</beat>
+    <units_disp> P325, P324, A324, C32, P323</units_disp>
   </event>
   <event>
-    <prime_street>WELLINGTON ST, TT</prime_street>
-    <cross_streets>STAFFORD ST / STRACHAN AVE</cross_streets>
-    <dispatch_time>2020-12-31 13:24:17</dispatch_time>
-    <event_num>F20129902</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>RIVERHEAD DR, ET</prime_street>
+    <cross_streets>BARWELL CRES / KATRINE RD</cross_streets>
+    <dispatch_time>2020-12-31 14:32:34</dispatch_time>
+    <event_num>F20129913</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> S331, P331, P332, A331, C33, P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-31 13:34:53</dispatch_time>
-    <event_num>F20129904</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
-  </event>
-  <event>
-    <prime_street>GOTHIC AVE, TT</prime_street>
-    <cross_streets>QUEBEC AVE / QUEBEC AVE</cross_streets>
-    <dispatch_time>2020-12-31 13:38:04</dispatch_time>
-    <event_num>F20129905</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425, R423, A423, C42, R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-31 13:53:55</dispatch_time>
-    <event_num>F20129906</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>415</beat>
+    <units_disp> A415</units_disp>
   </event>
 </tfs_active_incidents>
