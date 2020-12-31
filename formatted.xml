@@ -1,114 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2020-12-30 20:20:03</update_from_db_time>
+  <update_from_db_time>2020-12-30 21:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>CHESSWOOD DR / VANLEY CRES</cross_streets>
-    <dispatch_time>2020-12-30 18:41:38</dispatch_time>
-    <event_num>F20129663</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2020-12-30 20:49:14</dispatch_time>
+    <event_num>F20129704</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
+    <beat>115</beat>
+    <units_disp> R115, P244, P245, C24, S232</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>LITTLE NORWAY CRES / STADIUM RD</cross_streets>
-    <dispatch_time>2020-12-30 19:43:34</dispatch_time>
-    <event_num>F20129684</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> A331, C33, P331, P334, P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M3B</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-30 19:53:29</dispatch_time>
-    <event_num>F20129688</event_num>
+    <dispatch_time>2020-12-30 20:56:47</dispatch_time>
+    <event_num>F20129711</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
+    <beat>426</beat>
+    <units_disp> A426</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M6P</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-30 19:54:10</dispatch_time>
-    <event_num>F20129689</event_num>
+    <dispatch_time>2020-12-30 21:02:43</dispatch_time>
+    <event_num>F20129714</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>426</beat>
+    <units_disp> R345</units_disp>
   </event>
   <event>
-    <prime_street>DENSGROVE RD, SC</prime_street>
-    <cross_streets>HISCOCK BLVD / DELAWANA DR</cross_streets>
-    <dispatch_time>2020-12-30 19:54:56</dispatch_time>
-    <event_num>F20129690</event_num>
-    <event_type>Vehicle Fire</event_type>
+    <prime_street>REGENT PARK BLVD, TT</prime_street>
+    <cross_streets>ST DAVID ST / DUNDAS ST E</cross_streets>
+    <dispatch_time>2020-12-30 21:09:56</dispatch_time>
+    <event_num>F20129716</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> P234</units_disp>
+    <beat>325</beat>
+    <units_disp> R325, P333, A325, C33, P324</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
+    <prime_street>M6A</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-30 19:57:37</dispatch_time>
-    <event_num>F20129692</event_num>
+    <dispatch_time>2020-12-30 21:13:26</dispatch_time>
+    <event_num>F20129717</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
   <event>
-    <prime_street>GOULD ST, TT</prime_street>
-    <cross_streets>BOND ST / CHURCH ST</cross_streets>
-    <dispatch_time>2020-12-30 19:57:43</dispatch_time>
-    <event_num>F20129693</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> R325, P314, A325, C31, P332, P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M3H</prime_street>
     <cross_streets/>
-    <dispatch_time>2020-12-30 19:59:19</dispatch_time>
-    <event_num>F20129694</event_num>
+    <dispatch_time>2020-12-30 21:16:02</dispatch_time>
+    <event_num>F20129718</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> R235</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-30 20:08:53</dispatch_time>
-    <event_num>F20129696</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-30 20:09:48</dispatch_time>
-    <event_num>F20129697</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2020-12-30 20:13:46</dispatch_time>
-    <event_num>F20129698</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315, P313</units_disp>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
   </event>
 </tfs_active_incidents>
