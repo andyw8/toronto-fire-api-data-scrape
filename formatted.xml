@@ -1,64 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-01 02:00:03</update_from_db_time>
+  <update_from_db_time>2021-01-01 02:50:03</update_from_db_time>
+  <event>
+    <prime_street>HUMBER COLLEGE BLVD, ET</prime_street>
+    <cross_streets>FINCH AVE W / CARRIER DR</cross_streets>
+    <dispatch_time>2021-01-01 02:13:31</dispatch_time>
+    <event_num>F21000045</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412, R413, A415, R441, C41</units_disp>
+  </event>
+  <event>
+    <prime_street>LAUDERDALE DR, NY</prime_street>
+    <cross_streets>HEATHCOTE AVE / ROLLSCOURT DR</cross_streets>
+    <dispatch_time>2021-01-01 02:16:40</dispatch_time>
+    <event_num>F21000046</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> P116, R122, C11, P111, P121, T114, HZ145</units_disp>
+  </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>EAST MALL PARK TRL / CANTLE PATH</cross_streets>
-    <dispatch_time>2021-01-01 01:24:43</dispatch_time>
-    <event_num>F21000028</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-01-01 02:17:52</dispatch_time>
+    <event_num>F21000047</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123, R115</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-01-01 02:28:03</dispatch_time>
+    <event_num>F21000049</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
-    <units_disp> P445, P432, C44, PL432, R444, S445</units_disp>
+    <units_disp> C44, P432, R441, R444, S445</units_disp>
   </event>
   <event>
-    <prime_street>M1P</prime_street>
+    <prime_street>PENGARTH CRT, NY</prime_street>
+    <cross_streets>FLEMINGTON RD / </cross_streets>
+    <dispatch_time>2021-01-01 02:33:21</dispatch_time>
+    <event_num>F21000052</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M3M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-01 01:28:05</dispatch_time>
-    <event_num>F21000029</event_num>
+    <dispatch_time>2021-01-01 02:38:04</dispatch_time>
+    <event_num>F21000053</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>LAKE SHORE BLVD W / SPADINA AVE</cross_streets>
-    <dispatch_time>2021-01-01 01:31:46</dispatch_time>
-    <event_num>F21000031</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334, A331, C33, P331, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-01 01:37:09</dispatch_time>
-    <event_num>F21000033</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-01 01:46:27</dispatch_time>
-    <event_num>F21000034</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-01 01:50:04</dispatch_time>
-    <event_num>F21000036</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
   </event>
 </tfs_active_incidents>
