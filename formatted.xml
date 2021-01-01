@@ -1,94 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-01 03:30:03</update_from_db_time>
+  <update_from_db_time>2021-01-01 04:00:03</update_from_db_time>
   <event>
-    <prime_street>HUMBER COLLEGE BLVD, ET</prime_street>
-    <cross_streets>FINCH AVE W / CARRIER DR</cross_streets>
-    <dispatch_time>2021-01-01 02:13:31</dispatch_time>
-    <event_num>F21000045</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412, R413, A415, R441, C41</units_disp>
-  </event>
-  <event>
-    <prime_street>LAUDERDALE DR, NY</prime_street>
-    <cross_streets>HEATHCOTE AVE / ROLLSCOURT DR</cross_streets>
-    <dispatch_time>2021-01-01 02:16:40</dispatch_time>
-    <event_num>F21000046</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> P116, R122, C11, P111, P121, T114, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-01 02:28:03</dispatch_time>
-    <event_num>F21000049</event_num>
-    <event_type>Vehicle Accident - Trapped - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> C44, P432, R441, R444, S445</units_disp>
-  </event>
-  <event>
-    <prime_street>HIGH PARK AVE, TT</prime_street>
-    <cross_streets>BLOOR ST W / GLENLAKE AVE</cross_streets>
-    <dispatch_time>2021-01-01 03:05:22</dispatch_time>
-    <event_num>F21000059</event_num>
+    <prime_street>DAWES RD, EY</prime_street>
+    <cross_streets>CAPTAIN DEMONT LANE / BETH ST</cross_streets>
+    <dispatch_time>2021-01-01 03:48:50</dispatch_time>
+    <event_num>F21000068</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423, R425, A423, C42, P422</units_disp>
-  </event>
-  <event>
-    <prime_street>HAMSTEAD AVE, EY</prime_street>
-    <cross_streets>WESTLAKE CRES / CHISHOLM AVE</cross_streets>
-    <dispatch_time>2021-01-01 03:12:31</dispatch_time>
-    <event_num>F21000061</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
     <beat>224</beat>
-    <units_disp> R224</units_disp>
+    <units_disp> R224, R225, A222, C22, R235</units_disp>
   </event>
   <event>
-    <prime_street>TEESDALE PL, SC</prime_street>
-    <cross_streets>PHARMACY AVE / </cross_streets>
-    <dispatch_time>2021-01-01 03:18:03</dispatch_time>
-    <event_num>F21000062</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>MASCOT PL, NY</prime_street>
+    <cross_streets>BATHURST ST / </cross_streets>
+    <dispatch_time>2021-01-01 03:50:14</dispatch_time>
+    <event_num>F21000069</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R235, A222, P226, P227, R225, C22</units_disp>
+    <beat>112</beat>
+    <units_disp> R112, P143, C11, HR114, P114, T114</units_disp>
   </event>
   <event>
-    <prime_street>NORRIS CRES, ET</prime_street>
-    <cross_streets>LAKE SHORE BLVD W / MIMICO WATERFRONT PARK TRL</cross_streets>
-    <dispatch_time>2021-01-01 03:23:10</dispatch_time>
-    <event_num>F21000063</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>BROADVIEW AVE, EY</prime_street>
+    <cross_streets>CHARLES SAURIOL PARKETTE TRL / HILLSIDE DR</cross_streets>
+    <dispatch_time>2021-01-01 03:52:11</dispatch_time>
+    <event_num>F21000071</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
+    <beat>322</beat>
+    <units_disp> P322, P324, C32, HZ332</units_disp>
   </event>
   <event>
-    <prime_street>EMMELINE CRES, SC</prime_street>
-    <cross_streets>KITTERY BLVD / SCOTLAND RD</cross_streets>
-    <dispatch_time>2021-01-01 03:23:20</dispatch_time>
-    <event_num>F21000064</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M5E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-01 03:24:23</dispatch_time>
-    <event_num>F21000065</event_num>
+    <dispatch_time>2021-01-01 03:56:59</dispatch_time>
+    <event_num>F21000072</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
