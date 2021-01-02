@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-02 05:30:02</update_from_db_time>
-  <event>
-    <prime_street>SPADINA AVE, TT</prime_street>
-    <cross_streets>SULLIVAN ST / GRANGE AVE</cross_streets>
-    <dispatch_time>2021-01-02 03:08:07</dispatch_time>
-    <event_num>F21000381</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P315, A315, C33, P331</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-02 04:47:21</dispatch_time>
-    <event_num>F21000394</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P244, P245, C24, P145, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-02 05:16:09</dispatch_time>
-    <event_num>F21000402</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-02 05:23:32</dispatch_time>
-    <event_num>F21000403</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
+  <update_from_db_time>2021-01-02 05:55:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>WOODFIELD RD / CAM FELLA LANE</cross_streets>
@@ -62,13 +22,13 @@
     <units_disp> P332</units_disp>
   </event>
   <event>
-    <prime_street>M6B</prime_street>
+    <prime_street>M6C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-02 05:26:42</dispatch_time>
-    <event_num>F21000406</event_num>
+    <dispatch_time>2021-01-02 05:38:51</dispatch_time>
+    <event_num>F21000407</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
   </event>
 </tfs_active_incidents>
