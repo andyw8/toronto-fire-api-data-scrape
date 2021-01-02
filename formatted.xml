@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-02 16:50:03</update_from_db_time>
+  <update_from_db_time>2021-01-02 17:30:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -22,56 +22,6 @@
     <units_disp> R225, FB334, P334, C22, C22, P212, P232, S232, P223, C20</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-02 16:19:46</dispatch_time>
-    <event_num>F21000537</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
-  <event>
-    <prime_street>WOODFORD PARK RD, ET</prime_street>
-    <cross_streets>THE QUEENSWAY / DANIELS ST</cross_streets>
-    <dispatch_time>2021-01-02 16:27:43</dispatch_time>
-    <event_num>F21000541</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, A433</units_disp>
-  </event>
-  <event>
-    <prime_street>YORK ST, TT</prime_street>
-    <cross_streets>HARBOUR ST / LAKE SHORE BLVD W</cross_streets>
-    <dispatch_time>2021-01-02 16:36:36</dispatch_time>
-    <event_num>F21000542</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P332, P344, C33, HR332, P333, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-02 16:37:10</dispatch_time>
-    <event_num>F21000543</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ENNERDALE RD / ROCHDALE AVE</cross_streets>
-    <dispatch_time>2021-01-02 16:37:59</dispatch_time>
-    <event_num>F21000544</event_num>
-    <event_type>Vehicle - Spill Clean Up</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
-  </event>
-  <event>
     <prime_street>FOREST HILL RD, TT</prime_street>
     <cross_streets>FRYBROOK RD / KILBARRY RD</cross_streets>
     <dispatch_time>2021-01-02 16:39:32</dispatch_time>
@@ -82,13 +32,33 @@
     <units_disp> P145, A135, C31, HZ332</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-02 16:42:09</dispatch_time>
-    <event_num>F21000546</event_num>
+    <dispatch_time>2021-01-02 16:48:35</dispatch_time>
+    <event_num>F21000547</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>EAST MALL PARK TRL / CANTLE PATH</cross_streets>
+    <dispatch_time>2021-01-02 17:22:35</dispatch_time>
+    <event_num>F21000552</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445, R444, C44, P431, PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>M1H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-02 17:24:02</dispatch_time>
+    <event_num>F21000553</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> A231</units_disp>
   </event>
 </tfs_active_incidents>
