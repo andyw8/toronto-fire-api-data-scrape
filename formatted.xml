@@ -1,34 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-01 21:50:02</update_from_db_time>
+  <update_from_db_time>2021-01-01 22:30:02</update_from_db_time>
   <event>
-    <prime_street>M4T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-01 21:33:57</dispatch_time>
-    <event_num>F21000316</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>WATERLOO TER / BATHURST ST</cross_streets>
+    <dispatch_time>2021-01-01 22:00:25</dispatch_time>
+    <event_num>F21000323</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
+    <beat>331</beat>
+    <units_disp> P344, P315, A331, C31, HR332, P314, C33</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-01 21:36:41</dispatch_time>
-    <event_num>F21000317</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>YORK ST / UNIVERSITY AVE</cross_streets>
+    <dispatch_time>2021-01-01 22:20:55</dispatch_time>
+    <event_num>F21000327</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <beat>332</beat>
+    <units_disp> P332, P314, A315, C31, P315</units_disp>
   </event>
   <event>
-    <prime_street>M6S</prime_street>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-01 21:46:44</dispatch_time>
-    <event_num>F21000318</event_num>
+    <dispatch_time>2021-01-01 22:21:51</dispatch_time>
+    <event_num>F21000328</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
 </tfs_active_incidents>
