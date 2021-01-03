@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-03 05:30:02</update_from_db_time>
+  <update_from_db_time>2021-01-03 06:00:03</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -12,13 +12,43 @@
     <units_disp> R325</units_disp>
   </event>
   <event>
-    <prime_street>BLOOR ST, ET</prime_street>
-    <cross_streets>EAGLE RD / LOTHIAN AVE</cross_streets>
-    <dispatch_time>2021-01-03 04:42:13</dispatch_time>
-    <event_num>F21000677</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M5J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-03 05:36:08</dispatch_time>
+    <event_num>F21000685</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431, A433, P433, P445, C44</units_disp>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-03 05:46:39</dispatch_time>
+    <event_num>F21000686</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-03 05:51:35</dispatch_time>
+    <event_num>F21000687</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-03 05:54:19</dispatch_time>
+    <event_num>F21000688</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
   </event>
 </tfs_active_incidents>
