@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-02 21:20:02</update_from_db_time>
+  <update_from_db_time>2021-01-02 22:10:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -12,33 +12,63 @@
     <units_disp> R325</units_disp>
   </event>
   <event>
-    <prime_street>FAIRHOLME AVE, NY</prime_street>
-    <cross_streets>ENGLEMOUNT AVE / SHERMOUNT AVE</cross_streets>
-    <dispatch_time>2021-01-02 20:32:32</dispatch_time>
-    <event_num>F21000611</event_num>
-    <event_type>Natural Gas Leak</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>FINCH AVE E / WARDEN AVE</cross_streets>
+    <dispatch_time>2021-01-02 21:20:42</dispatch_time>
+    <event_num>F21000621</event_num>
+    <event_type>Vehicle Accident with Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P145, P132, C13, HZ145</units_disp>
+    <beat>241</beat>
+    <units_disp> R241, P244</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-02 21:01:14</dispatch_time>
-    <event_num>F21000618</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>YONGE ST / PARK RD</cross_streets>
+    <dispatch_time>2021-01-02 21:55:23</dispatch_time>
+    <event_num>F21000628</event_num>
+    <event_type>Fire - Subway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> R325, S313, HR332, P312, P313, LA333, A312, C31</units_disp>
+  </event>
+  <event>
+    <prime_street>SUMACH ST, TT</prime_street>
+    <cross_streets>SHUTER ST / ST DAVID ST</cross_streets>
+    <dispatch_time>2021-01-02 21:59:34</dispatch_time>
+    <event_num>F21000629</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <units_disp> P333, P324, A325, C33, P314</units_disp>
   </event>
   <event>
-    <prime_street>GRAND TRUNK CRES, TT</prime_street>
-    <cross_streets>LOWER SIMCOE ST / BREMNER BLVD</cross_streets>
-    <dispatch_time>2021-01-02 21:01:52</dispatch_time>
-    <event_num>F21000619</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-02 22:00:49</dispatch_time>
+    <event_num>F21000630</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334, S331</units_disp>
+    <beat>231</beat>
+    <units_disp> A231</units_disp>
+  </event>
+  <event>
+    <prime_street>WATERGARDEN WAY, NY</prime_street>
+    <cross_streets>FINCH AVE E / </cross_streets>
+    <dispatch_time>2021-01-02 22:01:20</dispatch_time>
+    <event_num>F21000631</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P111, P114, A113, C11, R122</units_disp>
+  </event>
+  <event>
+    <prime_street>BRUNSWICK AVE, TT</prime_street>
+    <cross_streets>BARTON AVE / WELLS ST</cross_streets>
+    <dispatch_time>2021-01-02 22:03:46</dispatch_time>
+    <event_num>F21000632</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> P315</units_disp>
   </event>
 </tfs_active_incidents>
