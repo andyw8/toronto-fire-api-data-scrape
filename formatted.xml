@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-04 17:00:03</update_from_db_time>
+  <update_from_db_time>2021-01-04 17:30:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -22,46 +22,6 @@
     <units_disp> P315, A331, P331, C33, A315, FI11</units_disp>
   </event>
   <event>
-    <prime_street>STRATHMORE BLVD, TT</prime_street>
-    <cross_streets>COXWELL AVE / WOODINGTON AVE</cross_streets>
-    <dispatch_time>2021-01-04 16:23:40</dispatch_time>
-    <event_num>F21001120</event_num>
-    <event_type>Rescue - Subway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, A322, C32, HR332, P313, S313, R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-04 16:29:49</dispatch_time>
-    <event_num>F21001121</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-04 16:36:13</dispatch_time>
-    <event_num>F21001123</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-04 16:38:46</dispatch_time>
-    <event_num>F21001124</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2021-01-04 16:48:18</dispatch_time>
@@ -72,23 +32,13 @@
     <units_disp> P334, T333</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-04 16:48:41</dispatch_time>
-    <event_num>F21001127</event_num>
+    <dispatch_time>2021-01-04 17:21:44</dispatch_time>
+    <event_num>F21001132</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-04 16:56:20</dispatch_time>
-    <event_num>F21001128</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
