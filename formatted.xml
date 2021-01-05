@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-05 09:30:02</update_from_db_time>
+  <update_from_db_time>2021-01-05 09:50:03</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -22,16 +22,6 @@
     <units_disp> A133, P146, R133, P442, S143, C34, P143, HZ145, R122, A135, LA111, LA333, LA421, P142, C41, P111, A135, P116, A113, P145</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-05 08:59:47</dispatch_time>
-    <event_num>F21001290</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
     <prime_street>M6S</prime_street>
     <cross_streets/>
     <dispatch_time>2021-01-05 09:11:54</dispatch_time>
@@ -42,13 +32,43 @@
     <units_disp> R425</units_disp>
   </event>
   <event>
-    <prime_street>M9B</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-05 09:24:08</dispatch_time>
-    <event_num>F21001292</event_num>
+    <dispatch_time>2021-01-05 09:34:58</dispatch_time>
+    <event_num>F21001295</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-05 09:36:40</dispatch_time>
+    <event_num>F21001296</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> P113</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-05 09:37:19</dispatch_time>
+    <event_num>F21001297</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SCARBOROUGH RD / WOODALE AVE</cross_streets>
+    <dispatch_time>2021-01-05 09:44:29</dispatch_time>
+    <event_num>F21001299</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> C22, P226, R235, S232, P227</units_disp>
   </event>
 </tfs_active_incidents>
