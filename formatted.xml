@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-04 21:25:02</update_from_db_time>
+  <update_from_db_time>2021-01-04 22:10:03</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -42,43 +42,23 @@
     <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-04 21:10:52</dispatch_time>
-    <event_num>F21001182</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>TRANSIT RD, NY</prime_street>
+    <cross_streets>WILSON AVE / TRANSIT RD ALLEN S RAMP</cross_streets>
+    <dispatch_time>2021-01-04 21:56:09</dispatch_time>
+    <event_num>F21001189</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>145</beat>
+    <units_disp> A133, C14, P132, P143, P145</units_disp>
   </event>
   <event>
-    <prime_street>M9L</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-04 21:12:33</dispatch_time>
-    <event_num>F21001183</event_num>
+    <dispatch_time>2021-01-04 22:04:38</dispatch_time>
+    <event_num>F21001190</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ST CLAIR AVE W / OLD WESTON RD</cross_streets>
-    <dispatch_time>2021-01-04 21:17:41</dispatch_time>
-    <event_num>F21001184</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-04 21:20:48</dispatch_time>
-    <event_num>F21001185</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> R345</units_disp>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
   </event>
 </tfs_active_incidents>
