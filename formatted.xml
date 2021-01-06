@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-06 15:00:02</update_from_db_time>
+  <update_from_db_time>2021-01-06 15:30:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -22,73 +22,83 @@
     <units_disp> P313, P323, S313, A322, C32, R224, A324, R321, A325, LA333, R325, C30, HZ326, P324, C22, P125, R225, CMD30, CMD30C, P312, P311, P322, P226CA, A324, A315, P323</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>CANTLE PATH / CANTLE PATH</cross_streets>
-    <dispatch_time>2021-01-06 14:27:44</dispatch_time>
-    <event_num>F21001708</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> R441</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 14:41:24</dispatch_time>
-    <event_num>F21001713</event_num>
+    <dispatch_time>2021-01-06 14:57:31</dispatch_time>
+    <event_num>F21001723</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, P324</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
   <event>
-    <prime_street>TWEEDSMUIR AVE, YK</prime_street>
-    <cross_streets>ST CLAIR AVE W / HEATH ST W</cross_streets>
-    <dispatch_time>2021-01-06 14:43:28</dispatch_time>
-    <event_num>F21001715</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P325, P343, C31, A135, P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 14:45:45</dispatch_time>
-    <event_num>F21001716</event_num>
+    <dispatch_time>2021-01-06 15:06:52</dispatch_time>
+    <event_num>F21001726</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
+    <beat>441</beat>
+    <units_disp> A441</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M6H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 14:52:51</dispatch_time>
-    <event_num>F21001720</event_num>
+    <dispatch_time>2021-01-06 15:16:12</dispatch_time>
+    <event_num>F21001727</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 14:54:05</dispatch_time>
-    <event_num>F21001721</event_num>
+    <dispatch_time>2021-01-06 15:20:18</dispatch_time>
+    <event_num>F21001728</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
+  </event>
+  <event>
+    <prime_street>M2K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 15:22:22</dispatch_time>
+    <event_num>F21001729</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
+  </event>
+  <event>
+    <prime_street>M4A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 15:24:23</dispatch_time>
+    <event_num>F21001730</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
     <units_disp> R235</units_disp>
   </event>
   <event>
-    <prime_street>M3B</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 14:56:48</dispatch_time>
-    <event_num>F21001722</event_num>
+    <dispatch_time>2021-01-06 15:25:24</dispatch_time>
+    <event_num>F21001731</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 15:26:25</dispatch_time>
+    <event_num>F21001732</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
 </tfs_active_incidents>
