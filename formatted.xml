@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-06 17:00:03</update_from_db_time>
+  <update_from_db_time>2021-01-06 17:30:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -20,26 +20,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>322</beat>
     <units_disp> P313, P323, S313, A322, C32, R224, A324, R321, A325, LA333, R325, C30, HZ326, P324, C22, P125, R225, CMD30, CMD30C, P312, P311, P322, P226CA, A324, A315, P323, A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-06 16:05:37</dispatch_time>
-    <event_num>F21001745</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312, P314, A312, C31, P325</units_disp>
-  </event>
-  <event>
-    <prime_street>GLEN SCARLETT RD, TT</prime_street>
-    <cross_streets>GUNNS RD / SYMES RD</cross_streets>
-    <dispatch_time>2021-01-06 16:08:38</dispatch_time>
-    <event_num>F21001746</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> HZ145</units_disp>
   </event>
   <event>
     <prime_street>FLEET ST, TT</prime_street>
@@ -62,63 +42,103 @@
     <units_disp> P322</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-06 16:51:26</dispatch_time>
-    <event_num>F21001758</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> A312</units_disp>
+    <prime_street>SHOREHAM DR, NY</prime_street>
+    <cross_streets>HULLMAR DR / DOVEHAVEN CRT</cross_streets>
+    <dispatch_time>2021-01-06 17:01:49</dispatch_time>
+    <event_num>F21001768</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>142</beat>
+    <units_disp> R411, P146, A133, R112, C41, R413, A411, LA421, R421, S143, HR114, C10</units_disp>
   </event>
   <event>
-    <prime_street>M2K</prime_street>
+    <prime_street>M4Y</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 16:53:20</dispatch_time>
-    <event_num>F21001759</event_num>
+    <dispatch_time>2021-01-06 17:04:46</dispatch_time>
+    <event_num>F21001770</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-06 16:54:55</dispatch_time>
-    <event_num>F21001760</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P325</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-06 16:55:32</dispatch_time>
-    <event_num>F21001761</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
+    <beat>312</beat>
+    <units_disp> P314</units_disp>
   </event>
   <event>
     <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 16:55:48</dispatch_time>
-    <event_num>F21001762</event_num>
+    <dispatch_time>2021-01-06 17:05:17</dispatch_time>
+    <event_num>F21001771</event_num>
     <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M9L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 17:05:50</dispatch_time>
+    <event_num>F21001772</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R412</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 17:13:34</dispatch_time>
+    <event_num>F21001774</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 17:15:48</dispatch_time>
+    <event_num>F21001776</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, YK</prime_street>
+    <cross_streets>RALPH ST / SOUTH STATION ST</cross_streets>
+    <dispatch_time>2021-01-06 17:17:29</dispatch_time>
+    <event_num>F21001777</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
     <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>M5P</prime_street>
+    <prime_street>L4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 16:56:04</dispatch_time>
-    <event_num>F21001763</event_num>
+    <dispatch_time>2021-01-06 17:16:54</dispatch_time>
+    <event_num>F21001778</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>412</beat>
+    <units_disp> P415</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 17:21:43</dispatch_time>
+    <event_num>F21001780</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>BATHURST ST, TT</prime_street>
+    <cross_streets>ALEXANDRA PARK TRL / ALEXANDRA PARK TRL</cross_streets>
+    <dispatch_time>2021-01-06 17:25:17</dispatch_time>
+    <event_num>F21001781</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315, A315, C33, P331, P332, S331</units_disp>
   </event>
 </tfs_active_incidents>
