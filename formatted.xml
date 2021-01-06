@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-05 18:50:02</update_from_db_time>
+  <update_from_db_time>2021-01-05 20:20:03</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -12,53 +12,63 @@
     <units_disp> R325, ZMPS1</units_disp>
   </event>
   <event>
-    <prime_street>M4Y</prime_street>
+    <prime_street>GLEDHILL AVE, EY</prime_street>
+    <cross_streets>KING EDWARD AVE / BURRELL AVE</cross_streets>
+    <dispatch_time>2021-01-05 20:04:08</dispatch_time>
+    <event_num>F21001476</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>224</beat>
+    <units_disp> P226, R224, R235, A322, C32, P323, R225, A324, LA333, S313, C20</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-05 18:20:46</dispatch_time>
-    <event_num>F21001459</event_num>
+    <dispatch_time>2021-01-05 20:05:02</dispatch_time>
+    <event_num>F21001477</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> R325</units_disp>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, NY</prime_street>
-    <cross_streets>CORONA ST / DUFFERIN ST</cross_streets>
-    <dispatch_time>2021-01-05 18:23:24</dispatch_time>
-    <event_num>F21001461</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>TREEVIEW DR, ET</prime_street>
+    <cross_streets>RIMILTON AVE / VALERMO DR</cross_streets>
+    <dispatch_time>2021-01-05 20:05:59</dispatch_time>
+    <event_num>F21001478</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132, P145, A133, C13, R133</units_disp>
+    <beat>434</beat>
+    <units_disp> C43, P432, PL432, R434, R435, S445</units_disp>
   </event>
   <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>DUNDAS ST W / EDWARD ST</cross_streets>
-    <dispatch_time>2021-01-05 18:37:19</dispatch_time>
-    <event_num>F21001462</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
+    <prime_street>YORK ST, TT</prime_street>
+    <cross_streets>LAKESHORE W YORK ST RAMP / BREMNER BLVD</cross_streets>
+    <dispatch_time>2021-01-05 20:07:32</dispatch_time>
+    <event_num>F21001479</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, P332, A325, C33, P333</units_disp>
+    <beat>334</beat>
+    <units_disp> P334, P332, C33, HR332, P344, T333</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-05 18:38:32</dispatch_time>
-    <event_num>F21001463</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
+    <prime_street>GREENBRAE CRCT, SC</prime_street>
+    <cross_streets>SEDGEMOUNT DR / WW W ABBEVILLE S SIX NATIONS</cross_streets>
+    <dispatch_time>2021-01-05 20:08:57</dispatch_time>
+    <event_num>F21001480</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415, P443, C41</units_disp>
+    <beat>231</beat>
+    <units_disp> R231, P232, A231, C23, P221, P234</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-05 18:39:30</dispatch_time>
-    <event_num>F21001464</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BREMNER BLVD, TT</prime_street>
+    <cross_streets>OLYMPIC PARK TRL / REES ST</cross_streets>
+    <dispatch_time>2021-01-05 20:15:57</dispatch_time>
+    <event_num>F21001481</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211</units_disp>
+    <beat>334</beat>
+    <units_disp> P333, P331, A331, C31, P315, T333, P332, C33</units_disp>
   </event>
 </tfs_active_incidents>
