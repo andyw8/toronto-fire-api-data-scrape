@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-06 06:05:02</update_from_db_time>
+  <update_from_db_time>2021-01-06 06:45:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -20,5 +20,25 @@
     <alarm_lev>2</alarm_lev>
     <beat>322</beat>
     <units_disp> P313, P323, S313, A322, C32, R224, A324, R321, A325, LA333, R325, C30, HZ326, P324, C22, P125, R225, CMD30, CMD30C, P312, P311</units_disp>
+  </event>
+  <event>
+    <prime_street>DIXON RD, ET</prime_street>
+    <cross_streets>CHETTA PL / DIXON PARK TRL</cross_streets>
+    <dispatch_time>2021-01-06 06:36:33</dispatch_time>
+    <event_num>F21001593</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> S445, R441</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 06:38:57</dispatch_time>
+    <event_num>F21001594</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
 </tfs_active_incidents>
