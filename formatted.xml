@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-06 08:50:02</update_from_db_time>
+  <update_from_db_time>2021-01-06 09:30:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -19,7 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>322</beat>
-    <units_disp> P313, P323, S313, A322, C32, R224, A324, R321, A325, LA333, R325, C30, HZ326, P324, C22, P125, R225, CMD30, CMD30C, P312, P311, P322</units_disp>
+    <units_disp> P313, P323, S313, A322, C32, R224, A324, R321, A325, LA333, R325, C30, HZ326, P324, C22, P125, R225, CMD30, CMD30C, P312, P311, P322, P226CA</units_disp>
   </event>
   <event>
     <prime_street>CHAMBERLAIN AVE, YK</prime_street>
@@ -32,43 +32,43 @@
     <units_disp> P324, R341, C34, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-06 08:29:44</dispatch_time>
-    <event_num>F21001617</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>SCARBOROUGH GOLF CLUB RD, SC</prime_street>
+    <cross_streets>C N R / CONFEDERATION DR</cross_streets>
+    <dispatch_time>2021-01-06 09:04:32</dispatch_time>
+    <event_num>F21001626</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
+    <beat>231</beat>
+    <units_disp> R231, P234, A231, C23, P232</units_disp>
+  </event>
+  <event>
+    <prime_street>JANE ST, NY</prime_street>
+    <cross_streets>EDDYSTONE AVE / FIRGROVE CRES</cross_streets>
+    <dispatch_time>2021-01-06 09:21:15</dispatch_time>
+    <event_num>F21001628</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142CA, P142, C14, P146, A411</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-06 08:30:45</dispatch_time>
-    <event_num>F21001618</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <cross_streets>ROSEDALE VALLEY RD / BLOOR ST E</cross_streets>
+    <dispatch_time>2021-01-06 09:24:06</dispatch_time>
+    <event_num>F21001629</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445, R441</units_disp>
+    <beat>313</beat>
+    <units_disp> S313, P312</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 08:31:43</dispatch_time>
-    <event_num>F21001619</event_num>
+    <dispatch_time>2021-01-06 09:24:49</dispatch_time>
+    <event_num>F21001630</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-06 08:42:45</dispatch_time>
-    <event_num>F21001621</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
