@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-06 10:30:02</update_from_db_time>
+  <update_from_db_time>2021-01-06 11:00:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -19,26 +19,36 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>322</beat>
-    <units_disp> P313, P323, S313, A322, C32, R224, A324, R321, A325, LA333, R325, C30, HZ326, P324, C22, P125, R225, CMD30, CMD30C, P312, P311, P322, P226CA</units_disp>
+    <units_disp> P313, P323, S313, A322, C32, R224, A324, R321, A325, LA333, R325, C30, HZ326, P324, C22, P125, R225, CMD30, CMD30C, P312, P311, P322, P226CA, A324</units_disp>
   </event>
   <event>
-    <prime_street>BATHURST ST, NY</prime_street>
-    <cross_streets>GLENGROVE AVE / COLDSTREAM AVE</cross_streets>
-    <dispatch_time>2021-01-06 10:18:06</dispatch_time>
-    <event_num>F21001639</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> R341, P132, A135, C13, P131, P135</units_disp>
-  </event>
-  <event>
-    <prime_street>M4A</prime_street>
+    <prime_street>M1R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 10:22:53</dispatch_time>
-    <event_num>F21001640</event_num>
+    <dispatch_time>2021-01-06 10:47:57</dispatch_time>
+    <event_num>F21001642</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>233</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>MOUNT PLEASANT RD, TT</prime_street>
+    <cross_streets>SOUDAN AVE / EGLINTON AVE E</cross_streets>
+    <dispatch_time>2021-01-06 10:50:16</dispatch_time>
+    <event_num>F21001643</event_num>
+    <event_type>Rescue - Personal Entrapment</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> P143, S313, C13, R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 10:54:24</dispatch_time>
+    <event_num>F21001644</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> S143</units_disp>
   </event>
 </tfs_active_incidents>
