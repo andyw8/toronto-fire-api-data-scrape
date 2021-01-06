@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-06 14:00:02</update_from_db_time>
+  <update_from_db_time>2021-01-06 14:35:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -22,23 +22,83 @@
     <units_disp> P313, P323, S313, A322, C32, R224, A324, R321, A325, LA333, R325, C30, HZ326, P324, C22, P125, R225, CMD30, CMD30C, P312, P311, P322, P226CA, A324, A315</units_disp>
   </event>
   <event>
-    <prime_street>TIPPETT RD, NY</prime_street>
-    <cross_streets> / WILSON AVE</cross_streets>
-    <dispatch_time>2021-01-06 12:18:38</dispatch_time>
-    <event_num>F21001668</event_num>
-    <event_type>Rescue - Other</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145, C13, S313, P143, S143</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 13:46:41</dispatch_time>
-    <event_num>F21001697</event_num>
+    <dispatch_time>2021-01-06 14:13:37</dispatch_time>
+    <event_num>F21001700</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 14:20:40</dispatch_time>
+    <event_num>F21001704</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 14:21:21</dispatch_time>
+    <event_num>F21001705</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>WELLESLEY ST, TT</prime_street>
+    <cross_streets>ONTARIO ST / ROSE AVE</cross_streets>
+    <dispatch_time>2021-01-06 14:22:12</dispatch_time>
+    <event_num>F21001706</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> A325, C31, P313, P314, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, YK</prime_street>
+    <cross_streets>NORTHCLIFFE BLVD / DUFFERIN N EGLINTON E RAMP</cross_streets>
+    <dispatch_time>2021-01-06 14:22:52</dispatch_time>
+    <event_num>F21001707</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> R341, A341, P343, P135, C34, C42</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>CANTLE PATH / CANTLE PATH</cross_streets>
+    <dispatch_time>2021-01-06 14:27:44</dispatch_time>
+    <event_num>F21001708</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> R441</units_disp>
+  </event>
+  <event>
+    <prime_street>GOODWOOD PARK CRT, EY</prime_street>
+    <cross_streets>HEPC / DENTONIA PARK TRL</cross_streets>
+    <dispatch_time>2021-01-06 14:30:17</dispatch_time>
+    <event_num>F21001709</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226CA, P226, A222, C22, R224</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-06 14:31:56</dispatch_time>
+    <event_num>F21001711</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
