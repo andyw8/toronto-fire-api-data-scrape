@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-06 23:00:02</update_from_db_time>
+  <update_from_db_time>2021-01-06 23:45:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -32,73 +32,13 @@
     <units_disp> R411, P146, A133, R112, C41, R413, A411, LA421, R421, S143, HR114, C10, R133, FI11</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
+    <prime_street>M5M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-06 22:34:31</dispatch_time>
-    <event_num>F21001861</event_num>
+    <dispatch_time>2021-01-06 23:38:22</dispatch_time>
+    <event_num>F21001872</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>BARTEL DR, NY</prime_street>
-    <cross_streets>BREWSTER CRES / SHORTRIDGE CRT</cross_streets>
-    <dispatch_time>2021-01-06 22:45:10</dispatch_time>
-    <event_num>F21001863</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> HZ145, P142CA, P145, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-06 22:47:53</dispatch_time>
-    <event_num>F21001864</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-06 22:51:01</dispatch_time>
-    <event_num>F21001865</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> P226CA</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-06 22:51:56</dispatch_time>
-    <event_num>F21001866</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-06 22:52:11</dispatch_time>
-    <event_num>F21001867</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-06 22:53:06</dispatch_time>
-    <event_num>F21001868</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>131</beat>
+    <units_disp> P131</units_disp>
   </event>
 </tfs_active_incidents>
