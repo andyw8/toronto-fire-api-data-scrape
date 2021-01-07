@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-07 15:00:02</update_from_db_time>
+  <update_from_db_time>2021-01-07 15:30:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -12,36 +12,6 @@
     <units_disp> R325, ZMPS1</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-07 14:20:44</dispatch_time>
-    <event_num>F21002048</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423, P422</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-07 14:37:32</dispatch_time>
-    <event_num>F21002052</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-07 14:47:15</dispatch_time>
-    <event_num>F21002055</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
     <prime_street>M6L</prime_street>
     <cross_streets/>
     <dispatch_time>2021-01-07 14:47:44</dispatch_time>
@@ -49,26 +19,76 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>133</beat>
-    <units_disp> R133</units_disp>
+    <units_disp> R133, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-07 14:49:14</dispatch_time>
-    <event_num>F21002057</event_num>
+    <dispatch_time>2021-01-07 15:05:03</dispatch_time>
+    <event_num>F21002061</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
   </event>
   <event>
-    <prime_street>M4A</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets>PASSMORE AVE / MIDDLEFIELD RD</cross_streets>
+    <dispatch_time>2021-01-07 15:06:01</dispatch_time>
+    <event_num>F21002062</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P211</units_disp>
+  </event>
+  <event>
+    <prime_street>WESTON RD, YK</prime_street>
+    <cross_streets>OAK ST / FAIRGLEN CRES</cross_streets>
+    <dispatch_time>2021-01-07 15:06:27</dispatch_time>
+    <event_num>F21002063</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P146, P415, A441, C41, R421, C42, P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-07 14:54:52</dispatch_time>
-    <event_num>F21002058</event_num>
+    <dispatch_time>2021-01-07 15:10:28</dispatch_time>
+    <event_num>F21002065</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> P222</units_disp>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
+  </event>
+  <event>
+    <prime_street>GOODWOOD PARK CRT, EY</prime_street>
+    <cross_streets>HEPC / DENTONIA PARK TRL</cross_streets>
+    <dispatch_time>2021-01-07 15:19:21</dispatch_time>
+    <event_num>F21002066</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226, R224, C22, R225, A322, P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-07 15:23:51</dispatch_time>
+    <event_num>F21002067</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-07 15:25:16</dispatch_time>
+    <event_num>F21002068</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> A133</units_disp>
   </event>
 </tfs_active_incidents>
