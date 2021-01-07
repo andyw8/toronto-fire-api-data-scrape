@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-07 12:30:02</update_from_db_time>
+  <update_from_db_time>2021-01-07 13:20:03</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -12,63 +12,63 @@
     <units_disp> R325, ZMPS1</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
+    <prime_street>M6J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-07 12:04:06</dispatch_time>
-    <event_num>F21002004</event_num>
+    <dispatch_time>2021-01-07 12:35:53</dispatch_time>
+    <event_num>F21002014</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-07 12:45:52</dispatch_time>
+    <event_num>F21002018</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> A312</units_disp>
+  </event>
+  <event>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>SHAW ST / DOURO ST</cross_streets>
+    <dispatch_time>2021-01-07 12:54:38</dispatch_time>
+    <event_num>F21002024</event_num>
+    <event_type>Police Assist - Request</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> C33, A331</units_disp>
+  </event>
+  <event>
+    <prime_street>M9A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-07 12:54:14</dispatch_time>
+    <event_num>F21002025</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M1N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-07 12:58:48</dispatch_time>
+    <event_num>F21002029</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
     <units_disp> R225</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-07 12:15:44</dispatch_time>
-    <event_num>F21002005</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>MERTON ST, TT</prime_street>
+    <cross_streets>AL GREEN LANE / PAILTON CRES</cross_streets>
+    <dispatch_time>2021-01-07 12:59:41</dispatch_time>
+    <event_num>F21002030</event_num>
+    <event_type>Police Assist - Request</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DON MILLS RD / STEELES AVE E</cross_streets>
-    <dispatch_time>2021-01-07 12:19:16</dispatch_time>
-    <event_num>F21002006</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> R235, C11, P125, S143</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-07 12:20:33</dispatch_time>
-    <event_num>F21002007</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
-  </event>
-  <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>CARLTON ST / WELLESLEY ST E</cross_streets>
-    <dispatch_time>2021-01-07 12:23:28</dispatch_time>
-    <event_num>F21002009</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P314, P325, P333, A325, C31, P313</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DON MILLS RD / STEELES AVE E</cross_streets>
-    <dispatch_time>2021-01-07 12:26:35</dispatch_time>
-    <event_num>F21002010</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113</units_disp>
+    <beat>311</beat>
+    <units_disp> C31, R134</units_disp>
   </event>
 </tfs_active_incidents>
