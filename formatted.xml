@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-07 20:20:02</update_from_db_time>
+  <update_from_db_time>2021-01-07 21:40:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -12,43 +12,23 @@
     <units_disp> R325, ZMPS1</units_disp>
   </event>
   <event>
-    <prime_street>DON MILLS RD, NY</prime_street>
-    <cross_streets>GATEWAY BLVD / HEPC</cross_streets>
-    <dispatch_time>2021-01-07 20:04:36</dispatch_time>
-    <event_num>F21002149</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>BIRCHMOUNT RD, SC</prime_street>
+    <cross_streets>EGLINTON AVE E / MAIDAVALE PARK TRL</cross_streets>
+    <dispatch_time>2021-01-07 21:07:41</dispatch_time>
+    <event_num>F21002164</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> R235, P125, A125, C11, P322, R321</units_disp>
+    <beat>222</beat>
+    <units_disp> A222, C22, P221, P222, P245</units_disp>
   </event>
   <event>
-    <prime_street>M1T</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-07 20:08:59</dispatch_time>
-    <event_num>F21002150</event_num>
+    <dispatch_time>2021-01-07 21:33:59</dispatch_time>
+    <event_num>F21002168</event_num>
     <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-07 20:16:33</dispatch_time>
-    <event_num>F21002151</event_num>
-    <event_type>Vehicle - Spill Clean Up - Highway</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
-    <units_disp> R426, A426</units_disp>
-  </event>
-  <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-07 20:16:47</dispatch_time>
-    <event_num>F21002152</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
