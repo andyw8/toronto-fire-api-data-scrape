@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-08 07:40:02</update_from_db_time>
+  <update_from_db_time>2021-01-08 08:15:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -20,45 +20,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
     <units_disp> P422, R425, A423, C42, R345, R423</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>WESTON RD / FENMAR DR</cross_streets>
-    <dispatch_time>2021-01-08 06:40:00</dispatch_time>
-    <event_num>F21002248</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>WILLIAM R ALLEN RD N / TRANSIT RD</cross_streets>
-    <dispatch_time>2021-01-08 06:50:28</dispatch_time>
-    <event_num>F21002249</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street>YORKLAND BLVD, NY</prime_street>
-    <cross_streets>SHINLEAF TER / YORKLAND RD</cross_streets>
-    <dispatch_time>2021-01-08 07:22:19</dispatch_time>
-    <event_num>F21002257</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, P113, P116, A244, C11</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-08 07:30:51</dispatch_time>
-    <event_num>F21002258</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
