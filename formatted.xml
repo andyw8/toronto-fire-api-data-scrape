@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-07 23:50:02</update_from_db_time>
+  <update_from_db_time>2021-01-08 00:45:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -12,53 +12,23 @@
     <units_disp> R325, ZMPS1</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-07 21:42:50</dispatch_time>
-    <event_num>F21002172</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>AMESBURY PARK TRL / CULFORD RD</cross_streets>
+    <dispatch_time>2021-01-08 00:33:51</dispatch_time>
+    <event_num>F21002202</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235, P125</units_disp>
+    <beat>133</beat>
+    <units_disp> R133, P442, A133, C13, P146</units_disp>
   </event>
   <event>
-    <prime_street>PARMA CRT, NY</prime_street>
-    <cross_streets>VICTORIA PARK AVE / </cross_streets>
-    <dispatch_time>2021-01-07 23:30:47</dispatch_time>
-    <event_num>F21002193</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>TEMPERANCE ST, TT</prime_street>
+    <cross_streets>LN W BAY S RICHMOND / SHEPPARD ST</cross_streets>
+    <dispatch_time>2021-01-08 00:39:12</dispatch_time>
+    <event_num>F21002203</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222, P233, A222, C22, R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-07 23:30:59</dispatch_time>
-    <event_num>F21002194</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-07 23:33:34</dispatch_time>
-    <event_num>F21002195</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BLOOR ST W / PARKSIDE DR</cross_streets>
-    <dispatch_time>2021-01-07 23:46:59</dispatch_time>
-    <event_num>F21002196</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
+    <beat>332</beat>
+    <units_disp> R325, P333, C33, HR332, P314, T333</units_disp>
   </event>
 </tfs_active_incidents>
