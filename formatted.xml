@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-10 11:10:02</update_from_db_time>
+  <update_from_db_time>2021-01-10 12:40:02</update_from_db_time>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
@@ -12,63 +12,53 @@
     <units_disp> R325, ZMPS1</units_disp>
   </event>
   <event>
-    <prime_street>M4X</prime_street>
+    <prime_street>M3N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-10 10:22:44</dispatch_time>
-    <event_num>F21002887</event_num>
+    <dispatch_time>2021-01-10 12:20:44</dispatch_time>
+    <event_num>F21002921</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
   </event>
   <event>
-    <prime_street>M3M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-10 10:53:33</dispatch_time>
-    <event_num>F21002894</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>EGLINTON AVE, TT</prime_street>
+    <cross_streets>TAUNTON RD / RAWLINSON AVE</cross_streets>
+    <dispatch_time>2021-01-10 12:26:31</dispatch_time>
+    <event_num>F21002923</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
+    <beat>134</beat>
+    <units_disp> R134, R321, A135, C13, P135</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-10 10:54:15</dispatch_time>
-    <event_num>F21002895</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>AVENUE RD, TT</prime_street>
+    <cross_streets>COLLEGE VIEW AVE / EGLINTON AVE W</cross_streets>
+    <dispatch_time>2021-01-10 12:33:34</dispatch_time>
+    <event_num>F21002924</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>135</beat>
+    <units_disp> P325, P132, A341, C31, P343, A135, C13</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-10 10:54:43</dispatch_time>
-    <event_num>F21002896</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>PORTLAND ST / WATERLOO TER</cross_streets>
+    <dispatch_time>2021-01-10 12:34:14</dispatch_time>
+    <event_num>F21002925</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>331</beat>
+    <units_disp> P331, P332, A331, C33, P334</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-10 10:54:37</dispatch_time>
-    <event_num>F21002897</event_num>
+    <dispatch_time>2021-01-10 12:36:56</dispatch_time>
+    <event_num>F21002926</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-10 11:00:01</dispatch_time>
-    <event_num>F21002898</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
 </tfs_active_incidents>
