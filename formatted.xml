@@ -1,34 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-11 08:50:02</update_from_db_time>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-02 11:11:32</dispatch_time>
-    <event_num>F21000460</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, ZMPS1</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-11 07:45:28</dispatch_time>
-    <event_num>F21003140</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
+  <update_from_db_time>2021-01-11 09:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-11 08:20:13</dispatch_time>
-    <event_num>F21003144</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <cross_streets>ISLINGTON AVE / DIXON RD</cross_streets>
+    <dispatch_time>2021-01-11 09:09:06</dispatch_time>
+    <event_num>F21003149</event_num>
+    <event_type>Public Hazard</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> P415, R413</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M4B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-11 09:18:40</dispatch_time>
+    <event_num>F21003152</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-11 09:27:40</dispatch_time>
+    <event_num>F21003155</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-11 09:32:37</dispatch_time>
+    <event_num>F21003156</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
 </tfs_active_incidents>
