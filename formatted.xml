@@ -1,14 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-12 00:45:02</update_from_db_time>
+  <update_from_db_time>2021-01-12 01:45:02</update_from_db_time>
   <event>
-    <prime_street>LIBRARY LANE, NY</prime_street>
-    <cross_streets>ATKINSON RD / SCHOLARS WALK</cross_streets>
-    <dispatch_time>2021-01-12 00:19:36</dispatch_time>
-    <event_num>F21003372</event_num>
-    <event_type>Alarm - Institution - School</event_type>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-12 01:23:13</dispatch_time>
+    <event_num>F21003382</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> R411, P141, A142, C14, P142, P143</units_disp>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
+  </event>
+  <event>
+    <prime_street>WOODBINE AVE, EY</prime_street>
+    <cross_streets>VENTNOR AVE / O'CONNOR DR</cross_streets>
+    <dispatch_time>2021-01-12 01:24:47</dispatch_time>
+    <event_num>F21003383</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> A322</units_disp>
   </event>
 </tfs_active_incidents>
