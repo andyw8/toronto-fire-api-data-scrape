@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-13 04:50:02</update_from_db_time>
+  <update_from_db_time>2021-01-13 05:50:03</update_from_db_time>
   <event>
     <prime_street>BELLWOODS AVE, TT</prime_street>
     <cross_streets>CROCKER AVE / ROBINSON ST</cross_streets>
@@ -12,23 +12,33 @@
     <units_disp> P315, P331, S331, A331, C33, P332, A315, LA333, R345, R426, A426, C30</units_disp>
   </event>
   <event>
-    <prime_street>GAMBLE AVE, EY</prime_street>
-    <cross_streets>BROADVIEW AVE / LOGAN AVE</cross_streets>
-    <dispatch_time>2021-01-13 04:17:19</dispatch_time>
-    <event_num>F21003711</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322, C32, P313, P323, P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
+    <prime_street>M1J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-13 04:18:05</dispatch_time>
-    <event_num>F21003712</event_num>
+    <dispatch_time>2021-01-13 05:34:59</dispatch_time>
+    <event_num>F21003718</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>KINGSTON RD, TT</prime_street>
+    <cross_streets>SILVER BIRCH AVE / SCARBOROUGH RD</cross_streets>
+    <dispatch_time>2021-01-13 05:38:11</dispatch_time>
+    <event_num>F21003719</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
     <beat>226</beat>
-    <units_disp> P226CA</units_disp>
+    <units_disp> P226, P226CA, A222, C22, P227</units_disp>
+  </event>
+  <event>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-13 05:43:55</dispatch_time>
+    <event_num>F21003720</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
 </tfs_active_incidents>
