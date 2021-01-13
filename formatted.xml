@@ -1,44 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-13 05:50:03</update_from_db_time>
+  <update_from_db_time>2021-01-13 06:50:02</update_from_db_time>
   <event>
-    <prime_street>BELLWOODS AVE, TT</prime_street>
-    <cross_streets>CROCKER AVE / ROBINSON ST</cross_streets>
-    <dispatch_time>2021-01-13 03:15:10</dispatch_time>
-    <event_num>F21003701</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P315, P331, S331, A331, C33, P332, A315, LA333, R345, R426, A426, C30</units_disp>
+    <prime_street> </prime_street>
+    <cross_streets>DAVENPORT RD / DUFFERIN ST</cross_streets>
+    <dispatch_time>2021-01-13 06:34:59</dispatch_time>
+    <event_num>F21003726</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
   </event>
   <event>
-    <prime_street>M1J</prime_street>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-13 05:34:59</dispatch_time>
-    <event_num>F21003718</event_num>
+    <dispatch_time>2021-01-13 06:44:45</dispatch_time>
+    <event_num>F21003727</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>KINGSTON RD, TT</prime_street>
-    <cross_streets>SILVER BIRCH AVE / SCARBOROUGH RD</cross_streets>
-    <dispatch_time>2021-01-13 05:38:11</dispatch_time>
-    <event_num>F21003719</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226, P226CA, A222, C22, P227</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-13 05:43:55</dispatch_time>
-    <event_num>F21003720</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
   </event>
 </tfs_active_incidents>
