@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-16 17:10:02</update_from_db_time>
+  <update_from_db_time>2021-01-16 18:05:02</update_from_db_time>
   <event>
     <prime_street>MAITLAND ST, TT</prime_street>
     <cross_streets>MAITLAND TER / LUSCOMBE LANE</cross_streets>
@@ -9,66 +9,56 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> R325, A325, C31, P312, P311, P313, P331</units_disp>
+    <units_disp> R325, A325, C31, P312, P311, P313, P331, P315</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M9M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-16 16:50:02</dispatch_time>
-    <event_num>F21004830</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>LANSDOWNE AVE, TT</prime_street>
-    <cross_streets>LN N WHYTOCK W LANSDOWNE / LN 2 S BLOOR E LANSDOWNE</cross_streets>
-    <dispatch_time>2021-01-16 16:50:42</dispatch_time>
-    <event_num>F21004832</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M9L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-16 16:52:39</dispatch_time>
-    <event_num>F21004835</event_num>
+    <dispatch_time>2021-01-16 17:41:42</dispatch_time>
+    <event_num>F21004843</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>411</beat>
-    <units_disp> R411</units_disp>
+    <units_disp> A411</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-16 17:00:01</dispatch_time>
-    <event_num>F21004836</event_num>
+    <dispatch_time>2021-01-16 17:51:38</dispatch_time>
+    <event_num>F21004845</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
   <event>
-    <prime_street>M6R</prime_street>
+    <prime_street>M8Z</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-16 17:02:40</dispatch_time>
-    <event_num>F21004837</event_num>
+    <dispatch_time>2021-01-16 17:54:00</dispatch_time>
+    <event_num>F21004846</event_num>
     <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>COOLMINE RD, TT</prime_street>
+    <cross_streets>LN N DUNDAS W DOVERCOURT / LN N DUNDAS E COOLMINE</cross_streets>
+    <dispatch_time>2021-01-16 17:56:22</dispatch_time>
+    <event_num>F21004847</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
-    <units_disp> A426</units_disp>
+    <units_disp> A426, P426, R426, P344, R345, C34</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
+    <prime_street>M4R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-16 17:03:09</dispatch_time>
-    <event_num>F21004838</event_num>
+    <dispatch_time>2021-01-16 17:58:59</dispatch_time>
+    <event_num>F21004848</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
