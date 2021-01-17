@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-17 08:50:02</update_from_db_time>
+  <update_from_db_time>2021-01-17 09:40:02</update_from_db_time>
   <event>
     <prime_street>LAWRENCE AVE, SC</prime_street>
     <cross_streets>VICTORIA PARK AVE / TOWNLEY AVE</cross_streets>
@@ -22,73 +22,33 @@
     <units_disp> R426, A426, C42, P426, P331, P344, LA421, R423, A331, S331, C34, R425, C33, HZ326, P315, R345, C40, CMD30, CMD30C, C42</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-17 08:27:18</dispatch_time>
-    <event_num>F21004970</event_num>
+    <dispatch_time>2021-01-17 09:22:21</dispatch_time>
+    <event_num>F21004980</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
   </event>
   <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>INKERMAN ST / ST MARY ST</cross_streets>
-    <dispatch_time>2021-01-17 08:35:20</dispatch_time>
-    <event_num>F21004971</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street>PARMBELLE CRES, NY</prime_street>
+    <cross_streets>LAURENTIDE DR / BUSHBURY DR</cross_streets>
+    <dispatch_time>2021-01-17 09:33:41</dispatch_time>
+    <event_num>F21004981</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> S313, P314</units_disp>
+    <beat>123</beat>
+    <units_disp> P123, A125, C11, R115, R122</units_disp>
   </event>
   <event>
-    <prime_street>M3J</prime_street>
+    <prime_street>M4W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-17 08:44:14</dispatch_time>
-    <event_num>F21004972</event_num>
+    <dispatch_time>2021-01-17 09:36:42</dispatch_time>
+    <event_num>F21004982</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-17 08:44:14</dispatch_time>
-    <event_num>F21004973</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-17 08:44:25</dispatch_time>
-    <event_num>F21004974</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142</units_disp>
-  </event>
-  <event>
-    <prime_street>M8W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-17 08:44:39</dispatch_time>
-    <event_num>F21004975</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
-  </event>
-  <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-17 08:45:25</dispatch_time>
-    <event_num>F21004976</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> P131</units_disp>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
