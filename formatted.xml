@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-18 12:20:02</update_from_db_time>
+  <update_from_db_time>2021-01-18 13:35:02</update_from_db_time>
   <event>
     <prime_street>CALLENDER ST, TT</prime_street>
     <cross_streets>LN N QUEEN E TRILLER / HARVARD AVE</cross_streets>
@@ -19,56 +19,66 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>325</beat>
-    <units_disp> R325, P333, A325, C33, P313, P314, C33, LA333, P312, S313, T333, C30, C31, T333, P325, FI5, FI20, C30</units_disp>
+    <units_disp> R325, P333, A325, C33, P313, P314, C33, LA333, P312, S313, T333, C30, C31, T333, P325, FI5, FI20, C30, P324</units_disp>
   </event>
   <event>
-    <prime_street>LAKE SHORE BLVD, TT</prime_street>
-    <cross_streets>DAN LECKIE WAY / BATHURST ST</cross_streets>
-    <dispatch_time>2021-01-18 11:53:14</dispatch_time>
-    <event_num>F21005281</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> A331, P331, P334, P344, C33</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M1M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-18 12:01:38</dispatch_time>
-    <event_num>F21005283</event_num>
+    <dispatch_time>2021-01-18 13:10:28</dispatch_time>
+    <event_num>F21005298</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441</units_disp>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>M4E</prime_street>
+    <prime_street>M3N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-18 12:05:43</dispatch_time>
-    <event_num>F21005284</event_num>
+    <dispatch_time>2021-01-18 13:19:59</dispatch_time>
+    <event_num>F21005300</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
   <event>
-    <prime_street>M1J</prime_street>
+    <prime_street>M8Z</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-18 12:08:49</dispatch_time>
-    <event_num>F21005285</event_num>
+    <dispatch_time>2021-01-18 13:20:05</dispatch_time>
+    <event_num>F21005301</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 13:22:37</dispatch_time>
+    <event_num>F21005302</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
+  </event>
+  <event>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 13:23:57</dispatch_time>
+    <event_num>F21005303</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 13:30:02</dispatch_time>
+    <event_num>F21005304</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>221</beat>
     <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-18 12:10:54</dispatch_time>
-    <event_num>F21005286</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
   </event>
 </tfs_active_incidents>
