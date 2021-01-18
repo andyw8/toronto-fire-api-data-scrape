@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-17 22:25:02</update_from_db_time>
+  <update_from_db_time>2021-01-17 23:20:02</update_from_db_time>
   <event>
     <prime_street>CALLENDER ST, TT</prime_street>
     <cross_streets>LN N QUEEN E TRILLER / HARVARD AVE</cross_streets>
@@ -19,7 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>422</beat>
-    <units_disp> A423, C42, P422, P431, R423, R425, A421, LA421, P433, S445, C34, R421</units_disp>
+    <units_disp> A423, C42, P422, P431, R423, R425, A421, LA421, P433, S445, C34, R421, A411</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -32,26 +32,6 @@
     <units_disp> P431</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>KING ST W / JEFFERSON AVE</cross_streets>
-    <dispatch_time>2021-01-17 22:10:23</dispatch_time>
-    <event_num>F21005150</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>GALLOWAY RD / ANDOVER CRES</cross_streets>
-    <dispatch_time>2021-01-17 22:13:09</dispatch_time>
-    <event_num>F21005151</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> R231, P234, A231, C23, P212, R214, A215</units_disp>
-  </event>
-  <event>
     <prime_street>ORCHARD VIEW BLVD, TT</prime_street>
     <cross_streets>YONGE ST / DUPLEX AVE</cross_streets>
     <dispatch_time>2021-01-17 22:17:55</dispatch_time>
@@ -62,13 +42,23 @@
     <units_disp> R134, S313</units_disp>
   </event>
   <event>
-    <prime_street>M5R</prime_street>
+    <prime_street>M4J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-17 22:19:03</dispatch_time>
-    <event_num>F21005153</event_num>
+    <dispatch_time>2021-01-17 23:03:15</dispatch_time>
+    <event_num>F21005157</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-01-17 23:06:08</dispatch_time>
+    <event_num>F21005158</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> C21, P212, R214, R231, S232</units_disp>
   </event>
 </tfs_active_incidents>
