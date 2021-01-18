@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-18 15:20:03</update_from_db_time>
+  <update_from_db_time>2021-01-18 16:00:08</update_from_db_time>
   <event>
     <prime_street>CALLENDER ST, TT</prime_street>
     <cross_streets>LN N QUEEN E TRILLER / HARVARD AVE</cross_streets>
@@ -22,43 +22,13 @@
     <units_disp> R325, P333, A325, C33, P313, P314, C33, LA333, P312, S313, T333, C30, C31, T333, P325, FI5, FI20, C30, P324, P333</units_disp>
   </event>
   <event>
-    <prime_street>INDUSTRY ST, YK</prime_street>
-    <cross_streets>TODD BAYLIS BLVD / BERTAL RD</cross_streets>
-    <dispatch_time>2021-01-18 14:52:50</dispatch_time>
-    <event_num>F21005330</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
-  <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>VALPARAISO AVE / MCCOWAN RD</cross_streets>
-    <dispatch_time>2021-01-18 15:07:08</dispatch_time>
-    <event_num>F21005332</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232, R231, A231, C23, P221, P233</units_disp>
-  </event>
-  <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-18 15:08:22</dispatch_time>
-    <event_num>F21005333</event_num>
+    <dispatch_time>2021-01-18 15:48:07</dispatch_time>
+    <event_num>F21005336</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-18 15:14:47</dispatch_time>
-    <event_num>F21005334</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
