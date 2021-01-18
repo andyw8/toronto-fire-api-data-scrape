@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-17 23:20:02</update_from_db_time>
+  <update_from_db_time>2021-01-18 00:10:02</update_from_db_time>
   <event>
     <prime_street>CALLENDER ST, TT</prime_street>
     <cross_streets>LN N QUEEN E TRILLER / HARVARD AVE</cross_streets>
@@ -22,43 +22,23 @@
     <units_disp> A423, C42, P422, P431, R423, R425, A421, LA421, P433, S445, C34, R421, A411</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>ROYAL YORK RD / BLOOR ST W</cross_streets>
-    <dispatch_time>2021-01-17 21:54:57</dispatch_time>
-    <event_num>F21005148</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>LORRAINE DR / ALTAMONT RD</cross_streets>
+    <dispatch_time>2021-01-17 23:35:07</dispatch_time>
+    <event_num>F21005160</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
+    <beat>112</beat>
+    <units_disp> R112, P114, C14, P111, T114</units_disp>
   </event>
   <event>
-    <prime_street>ORCHARD VIEW BLVD, TT</prime_street>
-    <cross_streets>YONGE ST / DUPLEX AVE</cross_streets>
-    <dispatch_time>2021-01-17 22:17:55</dispatch_time>
-    <event_num>F21005152</event_num>
+    <prime_street>YORK ST, TT</prime_street>
+    <cross_streets>LAKESHORE W YORK ST RAMP / BREMNER BLVD</cross_streets>
+    <dispatch_time>2021-01-18 00:05:27</dispatch_time>
+    <event_num>F21005164</event_num>
     <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-17 23:03:15</dispatch_time>
-    <event_num>F21005157</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-17 23:06:08</dispatch_time>
-    <event_num>F21005158</event_num>
-    <event_type>Vehicle Accident - Trapped - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> C21, P212, R214, R231, S232</units_disp>
+    <beat>334</beat>
+    <units_disp> S331, P334</units_disp>
   </event>
 </tfs_active_incidents>
