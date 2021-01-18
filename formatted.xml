@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-18 00:10:02</update_from_db_time>
+  <update_from_db_time>2021-01-18 01:10:03</update_from_db_time>
   <event>
     <prime_street>CALLENDER ST, TT</prime_street>
     <cross_streets>LN N QUEEN E TRILLER / HARVARD AVE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>426</beat>
-    <units_disp> R426, A426, C42, P426, P331, P344, LA421, R423, A331, S331, C34, R425, C33, HZ326, P315, R345, C40, CMD30, CMD30C, C42, FI19, R411, P426, A421, P432, P445, R444</units_disp>
+    <units_disp> R426, A426, C42, P426, P331, P344, LA421, R423, A331, S331, C34, R425, C33, HZ326, P315, R345, C40, CMD30, CMD30C, C42, FI19, R411, P426, A421, P432, P445, R444, P431</units_disp>
   </event>
   <event>
     <prime_street>RUNNYMEDE RD, TT</prime_street>
@@ -19,26 +19,6 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>422</beat>
-    <units_disp> A423, C42, P422, P431, R423, R425, A421, LA421, P433, S445, C34, R421, A411</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>LORRAINE DR / ALTAMONT RD</cross_streets>
-    <dispatch_time>2021-01-17 23:35:07</dispatch_time>
-    <event_num>F21005160</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112, P114, C14, P111, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>YORK ST, TT</prime_street>
-    <cross_streets>LAKESHORE W YORK ST RAMP / BREMNER BLVD</cross_streets>
-    <dispatch_time>2021-01-18 00:05:27</dispatch_time>
-    <event_num>F21005164</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> S331, P334</units_disp>
+    <units_disp> A423, C42, P422, P431, R423, R425, A421, LA421, P433, S445, C34, R421, A411, R435</units_disp>
   </event>
 </tfs_active_incidents>
