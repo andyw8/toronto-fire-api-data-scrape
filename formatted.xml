@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-18 10:00:03</update_from_db_time>
+  <update_from_db_time>2021-01-18 10:45:03</update_from_db_time>
   <event>
     <prime_street>CALLENDER ST, TT</prime_street>
     <cross_streets>LN N QUEEN E TRILLER / HARVARD AVE</cross_streets>
@@ -22,46 +22,6 @@
     <units_disp> R325, P333, A325, C33, P313, P314, C33, LA333, P312, S313, T333, C30, C31, T333</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-18 09:35:29</dispatch_time>
-    <event_num>F21005225</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
-  </event>
-  <event>
-    <prime_street>M6B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-18 09:38:55</dispatch_time>
-    <event_num>F21005226</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-18 09:43:53</dispatch_time>
-    <event_num>F21005227</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>OXFORD ST, TT</prime_street>
-    <cross_streets>AUGUSTA AVE / CAMPBELL RUSSELL LANE</cross_streets>
-    <dispatch_time>2021-01-18 09:43:59</dispatch_time>
-    <event_num>F21005228</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
     <prime_street>M1C</prime_street>
     <cross_streets/>
     <dispatch_time>2021-01-18 09:47:26</dispatch_time>
@@ -72,53 +32,133 @@
     <units_disp> A215</units_disp>
   </event>
   <event>
-    <prime_street>LAKE SHORE BLVD, ET</prime_street>
-    <cross_streets>ROYAL YORK RD / SAND BEACH RD</cross_streets>
-    <dispatch_time>2021-01-18 09:48:44</dispatch_time>
-    <event_num>F21005230</event_num>
-    <event_type>Natural Gas Leak</event_type>
+    <prime_street>SPRINGDALE BLVD, EY</prime_street>
+    <cross_streets>WOODMOUNT AVE / WOODBINE AVE</cross_streets>
+    <dispatch_time>2021-01-18 10:19:57</dispatch_time>
+    <event_num>F21005244</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> P433, R435, C43, HZ145</units_disp>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
   <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>LN N QUEEN E SHERBOURNE / SHUTER ST</cross_streets>
-    <dispatch_time>2021-01-18 09:51:07</dispatch_time>
-    <event_num>F21005231</event_num>
+    <prime_street>M1G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 10:26:07</dispatch_time>
+    <event_num>F21005247</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> A231</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 10:30:41</dispatch_time>
+    <event_num>F21005248</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 10:32:02</dispatch_time>
+    <event_num>F21005249</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 10:33:00</dispatch_time>
+    <event_num>F21005250</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
+  </event>
+  <event>
+    <prime_street>JACKES AVE, TT</prime_street>
+    <cross_streets>YONGE ST / DAVID A BALFOUR PARK TRL</cross_streets>
+    <dispatch_time>2021-01-18 10:35:02</dispatch_time>
+    <event_num>F21005251</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325, R325, A325, C33, P333</units_disp>
+    <beat>311</beat>
+    <units_disp> P311, P312, A312, C31, P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 10:36:36</dispatch_time>
+    <event_num>F21005252</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
+  </event>
+  <event>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>HOWLAND RD / LOGAN AVE</cross_streets>
+    <dispatch_time>2021-01-18 10:38:19</dispatch_time>
+    <event_num>F21005253</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324, P325, A324, C32, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M5M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 10:38:24</dispatch_time>
+    <event_num>F21005254</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>131</beat>
+    <units_disp> P131</units_disp>
+  </event>
+  <event>
+    <prime_street>M6L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 10:38:32</dispatch_time>
+    <event_num>F21005255</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> R133</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>LAWRENCE AVE E / DVP N LAWRENCE E RAMP</cross_streets>
-    <dispatch_time>2021-01-18 09:52:58</dispatch_time>
-    <event_num>F21005232</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <cross_streets>RICHMOND ST E / CHURCH ST</cross_streets>
+    <dispatch_time>2021-01-18 10:39:21</dispatch_time>
+    <event_num>F21005256</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
   <event>
-    <prime_street>ISABELLA ST, TT</prime_street>
-    <cross_streets>LN E CHURCH S ISABELLA / JARVIS ST</cross_streets>
-    <dispatch_time>2021-01-18 09:55:01</dispatch_time>
-    <event_num>F21005233</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> A312, C31, P312, P313, P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
+    <prime_street>M2M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-18 09:56:50</dispatch_time>
-    <event_num>F21005234</event_num>
+    <dispatch_time>2021-01-18 10:41:16</dispatch_time>
+    <event_num>F21005257</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P311</units_disp>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 10:41:48</dispatch_time>
+    <event_num>F21005258</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P223</units_disp>
   </event>
 </tfs_active_incidents>
