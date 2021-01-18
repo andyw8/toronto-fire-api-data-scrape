@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-18 14:35:02</update_from_db_time>
+  <update_from_db_time>2021-01-18 15:20:03</update_from_db_time>
   <event>
     <prime_street>CALLENDER ST, TT</prime_street>
     <cross_streets>LN N QUEEN E TRILLER / HARVARD AVE</cross_streets>
@@ -19,86 +19,46 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>325</beat>
-    <units_disp> R325, P333, A325, C33, P313, P314, C33, LA333, P312, S313, T333, C30, C31, T333, P325, FI5, FI20, C30, P324</units_disp>
+    <units_disp> R325, P333, A325, C33, P313, P314, C33, LA333, P312, S313, T333, C30, C31, T333, P325, FI5, FI20, C30, P324, P333</units_disp>
   </event>
   <event>
-    <prime_street>TRETHEWEY DR, YK</prime_street>
-    <cross_streets>CLEARVIEW HTS / KING GEORGE'S DR</cross_streets>
-    <dispatch_time>2021-01-18 14:19:19</dispatch_time>
-    <event_num>F21005317</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>INDUSTRY ST, YK</prime_street>
+    <cross_streets>TODD BAYLIS BLVD / BERTAL RD</cross_streets>
+    <dispatch_time>2021-01-18 14:52:50</dispatch_time>
+    <event_num>F21005330</event_num>
+    <event_type>Wires Down - Hydro</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
   </event>
   <event>
-    <prime_street>EVANSTON DR, NY</prime_street>
-    <cross_streets>BARKSDALE AVE / PURDON DR</cross_streets>
-    <dispatch_time>2021-01-18 14:20:15</dispatch_time>
-    <event_num>F21005318</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>VALPARAISO AVE / MCCOWAN RD</cross_streets>
+    <dispatch_time>2021-01-18 15:07:08</dispatch_time>
+    <event_num>F21005332</event_num>
+    <event_type>Alarm Institution</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> C14, P141, P143, R112, T114</units_disp>
+    <beat>232</beat>
+    <units_disp> P232, R231, A231, C23, P221, P233</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M6G</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-18 14:20:47</dispatch_time>
-    <event_num>F21005319</event_num>
+    <dispatch_time>2021-01-18 15:08:22</dispatch_time>
+    <event_num>F21005333</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
   </event>
   <event>
-    <prime_street>GRAYDON HALL DR, NY</prime_street>
-    <cross_streets>GRAYDON HALL PL / GRAYDON HALL PARK TRL</cross_streets>
-    <dispatch_time>2021-01-18 14:23:50</dispatch_time>
-    <event_num>F21005320</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-18 15:14:47</dispatch_time>
+    <event_num>F21005334</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>115</beat>
-    <units_disp> R115, P123, A113, C11, P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-18 14:25:03</dispatch_time>
-    <event_num>F21005321</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-18 14:25:03</dispatch_time>
-    <event_num>F21005322</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-18 14:29:36</dispatch_time>
-    <event_num>F21005323</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-18 14:31:48</dispatch_time>
-    <event_num>F21005324</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
+    <units_disp> R115</units_disp>
   </event>
 </tfs_active_incidents>
