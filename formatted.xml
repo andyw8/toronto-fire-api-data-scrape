@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-18 05:10:02</update_from_db_time>
+  <update_from_db_time>2021-01-18 06:15:03</update_from_db_time>
   <event>
     <prime_street>CALLENDER ST, TT</prime_street>
     <cross_streets>LN N QUEEN E TRILLER / HARVARD AVE</cross_streets>
@@ -22,13 +22,13 @@
     <units_disp> A423, C42, P422, P431, R423, R425, A421, LA421, P433, S445, C34, R421, A411, R435, P443, P433</units_disp>
   </event>
   <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-18 04:59:43</dispatch_time>
-    <event_num>F21005185</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <prime_street>BERKELEY ST, TT</prime_street>
+    <cross_streets>SHUTER ST / COATSWORTH ST</cross_streets>
+    <dispatch_time>2021-01-18 05:18:40</dispatch_time>
+    <event_num>F21005187</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325, P333, A325, C33, P313, P314, C33, LA333, P312, S313, T333, C30, C31</units_disp>
   </event>
 </tfs_active_incidents>
