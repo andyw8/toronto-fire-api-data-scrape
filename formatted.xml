@@ -1,64 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-19 10:00:02</update_from_db_time>
+  <update_from_db_time>2021-01-19 10:40:03</update_from_db_time>
   <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-19 09:40:20</dispatch_time>
-    <event_num>F21005539</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>FOREST MANOR RD, NY</prime_street>
+    <cross_streets>GEORGE HENRY BLVD / PARKWAY FOREST DR</cross_streets>
+    <dispatch_time>2021-01-19 10:14:33</dispatch_time>
+    <event_num>F21005548</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
+    <beat>115</beat>
+    <units_disp> P114, P123, A222, C23, P244, R115, P116, A113</units_disp>
   </event>
   <event>
-    <prime_street>EXBURY RD, NY</prime_street>
-    <cross_streets>MONCLOVA RD / JANE ST</cross_streets>
-    <dispatch_time>2021-01-19 09:43:51</dispatch_time>
-    <event_num>F21005540</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street>DON MILLS RD, EY</prime_street>
+    <cross_streets>TAYLOR CREEK TRL / GATEWAY BLVD</cross_streets>
+    <dispatch_time>2021-01-19 10:31:33</dispatch_time>
+    <event_num>F21005551</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P143, P146</units_disp>
+    <beat>322</beat>
+    <units_disp> R321, R224, A322, C32, R235</units_disp>
   </event>
   <event>
-    <prime_street>M4N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-19 09:46:09</dispatch_time>
-    <event_num>F21005541</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>YONGE ST / DORIS AVE</cross_streets>
+    <dispatch_time>2021-01-19 10:36:15</dispatch_time>
+    <event_num>F21005552</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>VENDOME PL, NY</prime_street>
-    <cross_streets>GRENOBLE DR / </cross_streets>
-    <dispatch_time>2021-01-19 09:47:24</dispatch_time>
-    <event_num>F21005542</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> A125, HZ326, P324, C11</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-19 09:47:38</dispatch_time>
-    <event_num>F21005543</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> P226, R225, A222</units_disp>
-  </event>
-  <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-19 09:48:38</dispatch_time>
-    <event_num>F21005544</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <beat>114</beat>
+    <units_disp> P114, P121, A113, C11, HR114, P116</units_disp>
   </event>
 </tfs_active_incidents>
