@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-18 18:10:02</update_from_db_time>
+  <update_from_db_time>2021-01-18 19:10:02</update_from_db_time>
   <event>
     <prime_street>CALLENDER ST, TT</prime_street>
     <cross_streets>LN N QUEEN E TRILLER / HARVARD AVE</cross_streets>
@@ -22,73 +22,63 @@
     <units_disp> R325, P333, A325, C33, P313, P314, C33, LA333, P312, S313, T333, C30, C31, T333, P325, FI5, FI20, C30, P324, P333, R325</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>BIRCHMOUNT RD, SC</prime_street>
+    <cross_streets>LAURA SECORD WALK / ELLENDALE DR</cross_streets>
+    <dispatch_time>2021-01-18 18:31:38</dispatch_time>
+    <event_num>F21005377</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> R235, P245, A222, C23, P222, P232</units_disp>
+  </event>
+  <event>
+    <prime_street>M6G</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-18 17:47:06</dispatch_time>
-    <event_num>F21005361</event_num>
+    <dispatch_time>2021-01-18 18:40:41</dispatch_time>
+    <event_num>F21005382</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
   </event>
   <event>
-    <prime_street>M5R</prime_street>
+    <prime_street>M2M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-18 17:55:14</dispatch_time>
-    <event_num>F21005364</event_num>
+    <dispatch_time>2021-01-18 18:55:10</dispatch_time>
+    <event_num>F21005385</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
   </event>
   <event>
-    <prime_street>M3H</prime_street>
+    <prime_street>M3N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-18 17:57:56</dispatch_time>
-    <event_num>F21005365</event_num>
+    <dispatch_time>2021-01-18 19:01:44</dispatch_time>
+    <event_num>F21005386</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
   </event>
   <event>
-    <prime_street>MAIN ST, TT</prime_street>
-    <cross_streets>GERRARD ST E / STEPHENSON AVE</cross_streets>
-    <dispatch_time>2021-01-18 17:59:04</dispatch_time>
-    <event_num>F21005366</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>M5V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-18 18:01:22</dispatch_time>
-    <event_num>F21005367</event_num>
+    <dispatch_time>2021-01-18 19:02:43</dispatch_time>
+    <event_num>F21005387</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
   </event>
   <event>
-    <prime_street>M6R</prime_street>
+    <prime_street>M4G</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-18 18:01:34</dispatch_time>
-    <event_num>F21005368</event_num>
+    <dispatch_time>2021-01-18 19:05:50</dispatch_time>
+    <event_num>F21005388</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>SHEPPARD AVE E / DORIS AVE</cross_streets>
-    <dispatch_time>2021-01-18 18:03:06</dispatch_time>
-    <event_num>F21005369</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <beat>321</beat>
+    <units_disp> R321</units_disp>
   </event>
 </tfs_active_incidents>
