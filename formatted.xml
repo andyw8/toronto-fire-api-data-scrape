@@ -1,14 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-20 05:15:02</update_from_db_time>
+  <update_from_db_time>2021-01-20 06:10:02</update_from_db_time>
   <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-20 05:02:40</dispatch_time>
-    <event_num>F21005778</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>LANSDOWNE AVE / DUNDAS ST W</cross_streets>
+    <dispatch_time>2021-01-20 05:51:15</dispatch_time>
+    <event_num>F21005784</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>ROYAL YORK RD, ET</prime_street>
+    <cross_streets>LN N BLOOR E ROYAL YORK / BIRCHVIEW BLVD</cross_streets>
+    <dispatch_time>2021-01-20 06:05:45</dispatch_time>
+    <event_num>F21005785</event_num>
+    <event_type>Fire - Subway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> R425, P422, P431, P433, S445, A433, C44, LA421, HR332</units_disp>
   </event>
 </tfs_active_incidents>
