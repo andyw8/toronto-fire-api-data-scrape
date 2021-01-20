@@ -1,44 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-19 19:10:02</update_from_db_time>
+  <update_from_db_time>2021-01-19 21:10:02</update_from_db_time>
   <event>
-    <prime_street>MAIN ST, EY</prime_street>
-    <cross_streets>LUMSDEN AVE / HAMSTEAD AVE</cross_streets>
-    <dispatch_time>2021-01-19 15:37:40</dispatch_time>
-    <event_num>F21005637</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>IVORDALE CRES, SC</prime_street>
+    <cross_streets>VICTORIA PARK AVE / DELFIELD RD</cross_streets>
+    <dispatch_time>2021-01-19 20:52:44</dispatch_time>
+    <event_num>F21005717</event_num>
+    <event_type>Police Assist - Request</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> LA333, FI15, P226, R224</units_disp>
+    <beat>233</beat>
+    <units_disp> P233, C11</units_disp>
   </event>
   <event>
-    <prime_street>STONEHILL CRT, SC</prime_street>
-    <cross_streets>42 STONEHILL CRT / </cross_streets>
-    <dispatch_time>2021-01-19 18:26:09</dispatch_time>
-    <event_num>F21005693</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> R241, P244, A244, C24, P242, P113</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>BRAD ST / LN S ANNETTE W DUNDAS</cross_streets>
-    <dispatch_time>2021-01-19 18:49:43</dispatch_time>
-    <event_num>F21005696</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423, C42, R423, P342, R345</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
+    <prime_street>M1R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-19 18:57:41</dispatch_time>
-    <event_num>F21005699</event_num>
+    <dispatch_time>2021-01-19 21:02:46</dispatch_time>
+    <event_num>F21005718</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
   </event>
 </tfs_active_incidents>
