@@ -1,44 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-20 13:30:02</update_from_db_time>
+  <update_from_db_time>2021-01-20 14:35:02</update_from_db_time>
   <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M6L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-20 13:11:38</dispatch_time>
-    <event_num>F21005899</event_num>
+    <dispatch_time>2021-01-20 13:55:29</dispatch_time>
+    <event_num>F21005909</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>133</beat>
+    <units_disp> R133</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>ARROW RD / FINCH AVE W</cross_streets>
-    <dispatch_time>2021-01-20 13:19:29</dispatch_time>
-    <event_num>F21005901</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-20 14:20:18</dispatch_time>
+    <event_num>F21005916</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>M5R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-20 14:25:39</dispatch_time>
+    <event_num>F21005918</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-20 14:28:32</dispatch_time>
+    <event_num>F21005919</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
   <event>
     <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-20 13:19:01</dispatch_time>
-    <event_num>F21005902</event_num>
+    <dispatch_time>2021-01-20 14:29:05</dispatch_time>
+    <event_num>F21005920</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
+    <beat>346</beat>
     <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>RATHBURN RD / REMINGTON DR</cross_streets>
-    <dispatch_time>2021-01-20 13:20:22</dispatch_time>
-    <event_num>F21005903</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
