@@ -1,34 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-20 16:05:03</update_from_db_time>
+  <update_from_db_time>2021-01-20 16:50:02</update_from_db_time>
   <event>
-    <prime_street>EGLINTON AVE, SC</prime_street>
-    <cross_streets>LEBOVIC AVE / WARDEN AVE</cross_streets>
-    <dispatch_time>2021-01-20 15:43:22</dispatch_time>
-    <event_num>F21005941</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
+    <prime_street>MAYNARD AVE, TT</prime_street>
+    <cross_streets>KING ST W / LEOPOLD ST</cross_streets>
+    <dispatch_time>2021-01-20 16:06:08</dispatch_time>
+    <event_num>F21005944</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>2</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426, P426, A426, C42, R425, P331, C40, R423, A331, C34, HR332, HZ326, LA333, P315, P334, R345, S331, CMD30, CMD30C</units_disp>
   </event>
   <event>
-    <prime_street>DAVENPORT RD, TT</prime_street>
-    <cross_streets>AVENUE RD / LN W AVENUE S DAVENPORT</cross_streets>
-    <dispatch_time>2021-01-20 15:49:53</dispatch_time>
-    <event_num>F21005942</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312, P311, A312, C31, P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-20 15:53:32</dispatch_time>
-    <event_num>F21005943</event_num>
+    <dispatch_time>2021-01-20 16:12:26</dispatch_time>
+    <event_num>F21005946</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M5M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-20 16:29:06</dispatch_time>
+    <event_num>F21005953</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>131</beat>
+    <units_disp> P131</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-20 16:38:03</dispatch_time>
+    <event_num>F21005955</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>FRONT ST, TT</prime_street>
+    <cross_streets>PORTLAND ST / BATHURST ST</cross_streets>
+    <dispatch_time>2021-01-20 16:39:34</dispatch_time>
+    <event_num>F21005956</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> A331, C33, HR332, P315, P334, P344</units_disp>
+  </event>
+  <event>
+    <prime_street>DUFFERIN ST, TT</prime_street>
+    <cross_streets>LN N DUNDAS E DUFFERIN / FISHER ST</cross_streets>
+    <dispatch_time>2021-01-20 16:46:30</dispatch_time>
+    <event_num>F21005957</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R423, P331, P343, A345, C34</units_disp>
   </event>
 </tfs_active_incidents>
