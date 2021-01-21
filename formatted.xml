@@ -1,54 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-21 13:30:02</update_from_db_time>
+  <update_from_db_time>2021-01-21 14:35:02</update_from_db_time>
   <event>
-    <prime_street>M6B</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-21 12:53:37</dispatch_time>
-    <event_num>F21006179</event_num>
+    <dispatch_time>2021-01-21 14:10:55</dispatch_time>
+    <event_num>F21006194</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>GREENBRAE CRCT, SC</prime_street>
-    <cross_streets>SEDGEMOUNT DR / WW W ABBEVILLE S SIX NATIONS</cross_streets>
-    <dispatch_time>2021-01-21 13:12:01</dispatch_time>
-    <event_num>F21006180</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231, P232, A231, C23, P221, P234, A213, C24, LA231, P223, P245, R213, R243, S232, HR114, HZ326, C20, CMD10, CMD10C, R243</units_disp>
-  </event>
-  <event>
-    <prime_street>M4G</prime_street>
+    <prime_street>M4H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-21 13:14:31</dispatch_time>
-    <event_num>F21006182</event_num>
+    <dispatch_time>2021-01-21 14:15:35</dispatch_time>
+    <event_num>F21006195</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
   </event>
   <event>
-    <prime_street>NIAGARA ST, TT</prime_street>
-    <cross_streets>LN E BATHURST S WELLINGTON / BATHURST ST</cross_streets>
-    <dispatch_time>2021-01-21 13:17:03</dispatch_time>
-    <event_num>F21006184</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <prime_street>M9P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-21 14:22:45</dispatch_time>
+    <event_num>F21006196</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P334, P344, C31, HR332, P333, T333, C33</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>PARLIAMENT ST / BLOOR ST E</cross_streets>
-    <dispatch_time>2021-01-21 13:20:42</dispatch_time>
-    <event_num>F21006185</event_num>
-    <event_type>Fire - Other</event_type>
+    <prime_street>M5N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-21 14:30:30</dispatch_time>
+    <event_num>F21006197</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313, A325, C32, P312, P313, R325, C31</units_disp>
+    <beat>135</beat>
+    <units_disp> P135</units_disp>
   </event>
 </tfs_active_incidents>
