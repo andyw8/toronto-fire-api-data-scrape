@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-21 10:00:03</update_from_db_time>
+  <update_from_db_time>2021-01-21 10:45:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -12,83 +12,53 @@
     <units_disp> P146, R133, C34, P442, S331</units_disp>
   </event>
   <event>
-    <prime_street>M6A</prime_street>
+    <prime_street>HARBOUR SQ, TT</prime_street>
+    <cross_streets>MARTIN GOODMAN TRL / </cross_streets>
+    <dispatch_time>2021-01-21 10:16:18</dispatch_time>
+    <event_num>F21006132</event_num>
+    <event_type>Fire - Alarm Waterfront Highrise</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334, P333, P332, C33, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>GRANGE AVE, TT</prime_street>
+    <cross_streets>GRANGE PL / HURON ST</cross_streets>
+    <dispatch_time>2021-01-21 10:24:38</dispatch_time>
+    <event_num>F21006134</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> S331, P315, A315, C31, P314, P331</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-21 09:36:54</dispatch_time>
-    <event_num>F21006117</event_num>
+    <dispatch_time>2021-01-21 10:31:49</dispatch_time>
+    <event_num>F21006135</event_num>
     <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>GAMBLE AVE, EY</prime_street>
+    <cross_streets>BROADVIEW AVE / LOGAN AVE</cross_streets>
+    <dispatch_time>2021-01-21 10:32:39</dispatch_time>
+    <event_num>F21006136</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322, P313, A324, C32, P323</units_disp>
+  </event>
+  <event>
+    <prime_street>FLEMINGTON RD, NY</prime_street>
+    <cross_streets>REPLIN RD / DYNASTY LANE</cross_streets>
+    <dispatch_time>2021-01-21 10:41:57</dispatch_time>
+    <event_num>F21006137</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-21 09:37:32</dispatch_time>
-    <event_num>F21006118</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>HURON ST / MADISON AVE</cross_streets>
-    <dispatch_time>2021-01-21 09:43:10</dispatch_time>
-    <event_num>F21006119</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> R325, P312, A312, C31, P314, P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-21 09:44:06</dispatch_time>
-    <event_num>F21006120</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-21 09:47:33</dispatch_time>
-    <event_num>F21006123</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226CA</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-21 09:54:31</dispatch_time>
-    <event_num>F21006124</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142</units_disp>
-  </event>
-  <event>
-    <prime_street>M1X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-21 09:56:39</dispatch_time>
-    <event_num>F21006125</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211</units_disp>
-  </event>
-  <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-21 09:56:54</dispatch_time>
-    <event_num>F21006126</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> A222</units_disp>
+    <units_disp> R133, P132, C13, P131, P145, A341</units_disp>
   </event>
 </tfs_active_incidents>
