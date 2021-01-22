@@ -1,104 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-21 19:10:03</update_from_db_time>
+  <update_from_db_time>2021-01-21 21:10:02</update_from_db_time>
   <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-21 17:15:18</dispatch_time>
-    <event_num>F21006235</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423, A423</units_disp>
-  </event>
-  <event>
-    <prime_street>OXFORD ST, TT</prime_street>
-    <cross_streets>CAMPBELL RUSSELL LANE / BELLEVUE AVE</cross_streets>
-    <dispatch_time>2021-01-21 17:43:21</dispatch_time>
-    <event_num>F21006246</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>315</beat>
-    <units_disp> R325, P314, A315, C31, P312, P332, A331, R341, LA421, S143, C30, P315, A312, LA333, S313</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-21 18:14:57</dispatch_time>
-    <event_num>F21006255</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>DANA AVE, NY</prime_street>
+    <cross_streets>WESTCLIFFE RD / </cross_streets>
+    <dispatch_time>2021-01-21 20:40:37</dispatch_time>
+    <event_num>F21006287</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>146</beat>
-    <units_disp> A133, R133</units_disp>
+    <units_disp> P146</units_disp>
   </event>
   <event>
-    <prime_street>MULOCK AVE, TT</prime_street>
-    <cross_streets>HIRONS ST / LLOYD AVE</cross_streets>
-    <dispatch_time>2021-01-21 18:29:34</dispatch_time>
-    <event_num>F21006258</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>PEMBERTON AVE, NY</prime_street>
+    <cross_streets> / KENNETH AVE</cross_streets>
+    <dispatch_time>2021-01-21 20:51:55</dispatch_time>
+    <event_num>F21006289</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423</units_disp>
+    <beat>114</beat>
+    <units_disp> P114, P111, C11, HR114, R112, T114</units_disp>
   </event>
   <event>
-    <prime_street>M8W</prime_street>
+    <prime_street>M1G</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-21 18:47:40</dispatch_time>
-    <event_num>F21006266</event_num>
+    <dispatch_time>2021-01-21 20:57:26</dispatch_time>
+    <event_num>F21006290</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
+    <beat>231</beat>
+    <units_disp> R231</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>M4Y</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-21 18:50:02</dispatch_time>
-    <event_num>F21006267</event_num>
+    <dispatch_time>2021-01-21 21:01:01</dispatch_time>
+    <event_num>F21006291</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>THE ESPLANADE / CHURCH ST</cross_streets>
-    <dispatch_time>2021-01-21 18:54:42</dispatch_time>
-    <event_num>F21006268</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P314, P333, S313, P334, C33, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
+    <prime_street>M3A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-21 18:57:27</dispatch_time>
-    <event_num>F21006269</event_num>
+    <dispatch_time>2021-01-21 21:03:32</dispatch_time>
+    <event_num>F21006292</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
   </event>
   <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M9P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-21 18:58:12</dispatch_time>
-    <event_num>F21006270</event_num>
+    <dispatch_time>2021-01-21 21:04:38</dispatch_time>
+    <event_num>F21006293</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>443</beat>
     <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-21 19:06:31</dispatch_time>
-    <event_num>F21006271</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
   </event>
 </tfs_active_incidents>
