@@ -1,24 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-22 04:10:02</update_from_db_time>
+  <update_from_db_time>2021-01-22 05:10:03</update_from_db_time>
   <event>
-    <prime_street>M1V</prime_street>
+    <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-22 03:32:51</dispatch_time>
-    <event_num>F21006360</event_num>
+    <dispatch_time>2021-01-22 04:55:20</dispatch_time>
+    <event_num>F21006364</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>222</beat>
+    <units_disp> P222</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-22 03:55:18</dispatch_time>
-    <event_num>F21006362</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>JANE ST, TT</prime_street>
+    <cross_streets>LESSARD AVE / HARSHAW AVE</cross_streets>
+    <dispatch_time>2021-01-22 04:55:19</dispatch_time>
+    <event_num>F21006365</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
+    <beat>422</beat>
+    <units_disp> C42, P422, R425, S445</units_disp>
+  </event>
+  <event>
+    <prime_street>ATKINSON RD, NY</prime_street>
+    <cross_streets>THE POND RD / FINE ARTS RD</cross_streets>
+    <dispatch_time>2021-01-22 05:05:28</dispatch_time>
+    <event_num>F21006367</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141, P142, A142, C14, P143</units_disp>
   </event>
 </tfs_active_incidents>
