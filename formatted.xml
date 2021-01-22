@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-22 12:50:03</update_from_db_time>
+  <update_from_db_time>2021-01-22 14:00:02</update_from_db_time>
   <event>
     <prime_street>WESTON RD, NY</prime_street>
     <cross_streets>STARVIEW LANE / GEORGE MCKENZIE CRT</cross_streets>
@@ -9,36 +9,46 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>411</beat>
-    <units_disp> R411, P142, A411, P442, C14, P146, LA421, R413, A142, S143, C40, C41, FI19, FI21</units_disp>
+    <units_disp> R411, P142, A411, P442, C14, P146, LA421, R413, A142, S143, C40, C41, FI19, FI21, P415</units_disp>
   </event>
   <event>
-    <prime_street>ORCHARD VIEW BLVD, TT</prime_street>
-    <cross_streets>YONGE ST / DUPLEX AVE</cross_streets>
-    <dispatch_time>2021-01-22 11:54:40</dispatch_time>
-    <event_num>F21006448</event_num>
-    <event_type>Water Problem</event_type>
+    <prime_street>ALBION RD, ET</prime_street>
+    <cross_streets>ALBION W 27 N RAMP / 27 N ALBION E RAMP</cross_streets>
+    <dispatch_time>2021-01-22 13:45:20</dispatch_time>
+    <event_num>F21006476</event_num>
+    <event_type>Rescue - Structural Collapse</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> A135, R134</units_disp>
+    <beat>413</beat>
+    <units_disp> A441, C41, LA421, P445, R413, S445, HR114, HZ145, P143, R235, S143, TRS235</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M9C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-22 12:35:29</dispatch_time>
-    <event_num>F21006460</event_num>
+    <dispatch_time>2021-01-22 13:48:58</dispatch_time>
+    <event_num>F21006477</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> A426</units_disp>
+    <beat>432</beat>
+    <units_disp> PL432, P432</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-22 12:42:54</dispatch_time>
-    <event_num>F21006461</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>ST GERMAIN AVE, TT</prime_street>
+    <cross_streets>JEDBURGH RD / GREER RD</cross_streets>
+    <dispatch_time>2021-01-22 13:49:07</dispatch_time>
+    <event_num>F21006478</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425</units_disp>
+    <beat>131</beat>
+    <units_disp> C13, P131, R122, S313</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>WESTON RD / BIRDSTONE CRES</cross_streets>
+    <dispatch_time>2021-01-22 13:54:51</dispatch_time>
+    <event_num>F21006480</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
 </tfs_active_incidents>
