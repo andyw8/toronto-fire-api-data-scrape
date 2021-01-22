@@ -1,24 +1,104 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-22 06:10:02</update_from_db_time>
+  <update_from_db_time>2021-01-22 07:00:03</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>WESTON RD / BLACK CREEK DR</cross_streets>
-    <dispatch_time>2021-01-22 05:56:51</dispatch_time>
-    <event_num>F21006372</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-22 06:26:03</dispatch_time>
+    <event_num>F21006376</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
   </event>
   <event>
-    <prime_street>COXWELL AVE, TT</prime_street>
-    <cross_streets>LN S DANFORTH W COXWELL / DANFORTH AVE</cross_streets>
-    <dispatch_time>2021-01-22 06:00:19</dispatch_time>
-    <event_num>F21006373</event_num>
+    <prime_street>BROADVIEW AVE, EY</prime_street>
+    <cross_streets>MORTIMER AVE / WESTWOOD AVE</cross_streets>
+    <dispatch_time>2021-01-22 06:39:51</dispatch_time>
+    <event_num>F21006378</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, P322, A324, C32, R224</units_disp>
+    <beat>322</beat>
+    <units_disp> P313, P323, A324, C32, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-22 06:45:57</dispatch_time>
+    <event_num>F21006379</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-22 06:46:43</dispatch_time>
+    <event_num>F21006380</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-22 06:46:54</dispatch_time>
+    <event_num>F21006381</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>M9P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-22 06:47:44</dispatch_time>
+    <event_num>F21006382</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>HALESIA DR, ET</prime_street>
+    <cross_streets>BRIARWOOD AVE / FINCH AVE W</cross_streets>
+    <dispatch_time>2021-01-22 06:50:05</dispatch_time>
+    <event_num>F21006384</event_num>
+    <event_type>Vehicle Accident - Minor Fuel Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
+  </event>
+  <event>
+    <prime_street>PETER ST, TT</prime_street>
+    <cross_streets>LN N KING E PETER / ADELAIDE ST W</cross_streets>
+    <dispatch_time>2021-01-22 06:50:42</dispatch_time>
+    <event_num>F21006385</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P331, A331, C33, HR332, P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-22 06:50:51</dispatch_time>
+    <event_num>F21006386</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> A324</units_disp>
+  </event>
+  <event>
+    <prime_street>M3J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-22 06:52:08</dispatch_time>
+    <event_num>F21006387</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
 </tfs_active_incidents>
