@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-23 16:35:02</update_from_db_time>
+  <update_from_db_time>2021-01-23 17:10:02</update_from_db_time>
   <event>
     <prime_street>TUXEDO CRT, SC</prime_street>
     <cross_streets>MARKHAM RD / </cross_streets>
@@ -19,7 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
-    <units_disp> R411, A142, P141, P143, P146, C14</units_disp>
+    <units_disp> R411, A142, P141, P143, P146, C14, FI11, FI17</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -32,63 +32,73 @@
     <units_disp> P143, S143</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-23 16:13:19</dispatch_time>
-    <event_num>F21006832</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>WESTON RD, YK</prime_street>
+    <cross_streets>EDMUND AVE / CLOUSTON AVE</cross_streets>
+    <dispatch_time>2021-01-23 16:34:30</dispatch_time>
+    <event_num>F21006841</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>442</beat>
+    <units_disp> P442, R421, A421, C42, R133</units_disp>
   </event>
   <event>
-    <prime_street>BEECROFT RD, NY</prime_street>
-    <cross_streets>FINCH AVE W / LORRAINE DR</cross_streets>
-    <dispatch_time>2021-01-23 16:13:54</dispatch_time>
-    <event_num>F21006833</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> HR114, P111, P114, P121, C14, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>M2J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-23 16:19:11</dispatch_time>
-    <event_num>F21006835</event_num>
+    <dispatch_time>2021-01-23 16:34:56</dispatch_time>
+    <event_num>F21006842</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <beat>115</beat>
+    <units_disp> P123, P111</units_disp>
   </event>
   <event>
-    <prime_street>M4H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-23 16:22:12</dispatch_time>
-    <event_num>F21006836</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>OSLER ST / DUPONT ST</cross_streets>
+    <dispatch_time>2021-01-23 16:51:14</dispatch_time>
+    <event_num>F21006847</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322, R321</units_disp>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
   <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-23 16:27:44</dispatch_time>
-    <event_num>F21006837</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>KENNEDY RD / MIDLAND AVE</cross_streets>
+    <dispatch_time>2021-01-23 16:52:30</dispatch_time>
+    <event_num>F21006849</event_num>
+    <event_type>Rescue - Other</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
+    <beat>232</beat>
+    <units_disp> P232, R231, C23, S232</units_disp>
   </event>
   <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>SCARBOROUGH RD, TT</prime_street>
+    <cross_streets>PINE AVE / BRACKEN AVE</cross_streets>
+    <dispatch_time>2021-01-23 16:53:19</dispatch_time>
+    <event_num>F21006850</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-23 16:30:17</dispatch_time>
-    <event_num>F21006838</event_num>
+    <dispatch_time>2021-01-23 16:57:47</dispatch_time>
+    <event_num>F21006852</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>222</beat>
+    <units_disp> P222, P222</units_disp>
+  </event>
+  <event>
+    <prime_street>M8W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-23 17:01:04</dispatch_time>
+    <event_num>F21006853</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434</units_disp>
   </event>
 </tfs_active_incidents>
