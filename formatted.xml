@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-23 19:10:03</update_from_db_time>
-  <event>
-    <prime_street>LONDON GREEN CRT, NY</prime_street>
-    <cross_streets>DERRYDOWNS PARK TRL / </cross_streets>
-    <dispatch_time>2021-01-23 14:08:15</dispatch_time>
-    <event_num>F21006801</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> R411, A142, P141, P143, P146, C14, FI11, FI17</units_disp>
-  </event>
+  <update_from_db_time>2021-01-23 21:10:02</update_from_db_time>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>EDMUND AVE / CLOUSTON AVE</cross_streets>
@@ -19,56 +9,56 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
-    <units_disp> P442, R421, A421, C42, R133</units_disp>
+    <units_disp> P442, R421, A421, C42, R133, R421</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>MCNICOLL AVE / KENNEDY RD</cross_streets>
-    <dispatch_time>2021-01-23 17:59:19</dispatch_time>
-    <event_num>F21006868</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-23 20:47:18</dispatch_time>
+    <event_num>F21006925</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>342</beat>
+    <units_disp> P343</units_disp>
   </event>
   <event>
-    <prime_street>JOHN ST, YK</prime_street>
-    <cross_streets>PANTELIS KALAMARIS LANE / SOUTH STATION ST</cross_streets>
-    <dispatch_time>2021-01-23 18:39:35</dispatch_time>
-    <event_num>F21006881</event_num>
-    <event_type>Hazmat Level 2</event_type>
+    <prime_street>LOWER OSSINGTON AVE, TT</prime_street>
+    <cross_streets>QUEEN ST W / STOKES ST</cross_streets>
+    <dispatch_time>2021-01-23 20:55:53</dispatch_time>
+    <event_num>F21006926</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> HZ145, P145, R133, C41</units_disp>
+    <beat>331</beat>
+    <units_disp> P331, P344, A331, C33, P426</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-23 20:56:16</dispatch_time>
+    <event_num>F21006927</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> P113</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-23 21:00:55</dispatch_time>
+    <event_num>F21006929</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-23 18:52:47</dispatch_time>
-    <event_num>F21006883</event_num>
+    <dispatch_time>2021-01-23 21:02:52</dispatch_time>
+    <event_num>F21006930</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-23 18:56:58</dispatch_time>
-    <event_num>F21006885</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DONLANDS AVE / DANFORTH AVE</cross_streets>
-    <dispatch_time>2021-01-23 18:59:23</dispatch_time>
-    <event_num>F21006887</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> C32, P323, S313, R224</units_disp>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
 </tfs_active_incidents>
