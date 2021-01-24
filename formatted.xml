@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-24 08:50:02</update_from_db_time>
+  <update_from_db_time>2021-01-24 09:45:02</update_from_db_time>
   <event>
     <prime_street>COWAN AVE, TT</prime_street>
     <cross_streets>TRENTON TER / SPENCER COWAN PARKETTE TRL</cross_streets>
@@ -9,26 +9,46 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>346</beat>
-    <units_disp> P344, C34, P331, P426, R426, A426, A331, LA333, P315, S331, C30, HR332, C33, P342, R423</units_disp>
+    <units_disp> P344, C34, P331, P426, R426, A426, A331, LA333, P315, S331, C30, HR332, C33, P342, R423, P344</units_disp>
   </event>
   <event>
-    <prime_street>M2K</prime_street>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-24 08:28:41</dispatch_time>
-    <event_num>F21007025</event_num>
+    <dispatch_time>2021-01-24 09:18:58</dispatch_time>
+    <event_num>F21007033</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
   </event>
   <event>
-    <prime_street>COMMISSIONERS ST, TT</prime_street>
-    <cross_streets>CARLAW AVE / LESLIE ST</cross_streets>
-    <dispatch_time>2021-01-24 08:35:45</dispatch_time>
-    <event_num>F21007027</event_num>
-    <event_type>Vehicle Fire</event_type>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-24 09:22:33</dispatch_time>
+    <event_num>F21007034</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> P324</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-24 09:23:10</dispatch_time>
+    <event_num>F21007035</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR AVE, TT</prime_street>
+    <cross_streets>LN E OSLER S ST CLAIR / OSLER ST</cross_streets>
+    <dispatch_time>2021-01-24 09:27:33</dispatch_time>
+    <event_num>F21007036</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342, R345, R423, A423, C42</units_disp>
   </event>
 </tfs_active_incidents>
