@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-24 14:00:03</update_from_db_time>
+  <update_from_db_time>2021-01-24 14:55:02</update_from_db_time>
   <event>
     <prime_street>COWAN AVE, TT</prime_street>
     <cross_streets>TRENTON TER / SPENCER COWAN PARKETTE TRL</cross_streets>
@@ -9,36 +9,76 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>346</beat>
-    <units_disp> P344, C34, P331, P426, R426, A426, A331, LA333, P315, S331, C30, HR332, C33, P342, R423, P344, P331, P334</units_disp>
+    <units_disp> P344, C34, P331, P426, R426, A426, A331, LA333, P315, S331, C30, HR332, C33, P342, R423, P344, P331, P334, R434</units_disp>
   </event>
   <event>
-    <prime_street>M5J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-24 13:22:29</dispatch_time>
-    <event_num>F21007085</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>GAMBLE AVE, EY</prime_street>
+    <cross_streets>TODMORDEN LANE / DONLANDS AVE</cross_streets>
+    <dispatch_time>2021-01-24 14:10:06</dispatch_time>
+    <event_num>F21007093</event_num>
+    <event_type>Fire - Transformer/Pole</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>335</beat>
-    <units_disp> FB334, P335</units_disp>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>HORNER AVE / KIPLING AVE</cross_streets>
-    <dispatch_time>2021-01-24 13:24:32</dispatch_time>
-    <event_num>F21007088</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
+    <cross_streets>CARLAW AVE / EASTERN AVE</cross_streets>
+    <dispatch_time>2021-01-24 14:27:52</dispatch_time>
+    <event_num>F21007097</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> C43, R425, R435, S445</units_disp>
+    <beat>326</beat>
+    <units_disp> P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M4H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-24 14:32:10</dispatch_time>
+    <event_num>F21007101</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> R321</units_disp>
   </event>
   <event>
     <prime_street>M3N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-24 13:41:07</dispatch_time>
-    <event_num>F21007090</event_num>
+    <dispatch_time>2021-01-24 14:32:50</dispatch_time>
+    <event_num>F21007102</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
+    <beat>142</beat>
     <units_disp> A142</units_disp>
+  </event>
+  <event>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-24 14:39:56</dispatch_time>
+    <event_num>F21007104</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
+  </event>
+  <event>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-24 14:42:02</dispatch_time>
+    <event_num>F21007105</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> A411</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-24 14:44:49</dispatch_time>
+    <event_num>F21007106</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
