@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-25 04:10:02</update_from_db_time>
+  <update_from_db_time>2021-01-25 05:15:02</update_from_db_time>
   <event>
-    <prime_street>FUNDY BAY BLVD, SC</prime_street>
-    <cross_streets>29 FUNDY BAY BLVD / AMBERCROFT BLVD</cross_streets>
-    <dispatch_time>2021-01-25 03:21:34</dispatch_time>
-    <event_num>F21007243</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> P244, R241, A244, C24, P242, R243</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-25 03:57:00</dispatch_time>
-    <event_num>F21007247</event_num>
+    <dispatch_time>2021-01-25 04:59:33</dispatch_time>
+    <event_num>F21007249</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>PARLIAMENT ST, TT</prime_street>
+    <cross_streets>LANCASTER AVE / PROSPECT ST</cross_streets>
+    <dispatch_time>2021-01-25 05:11:25</dispatch_time>
+    <event_num>F21007250</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313, R325, A325, C31, P314</units_disp>
   </event>
 </tfs_active_incidents>
