@@ -1,24 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-25 01:05:02</update_from_db_time>
+  <update_from_db_time>2021-01-25 02:10:02</update_from_db_time>
   <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-24 23:58:30</dispatch_time>
-    <event_num>F21007222</event_num>
+    <dispatch_time>2021-01-25 01:53:01</dispatch_time>
+    <event_num>F21007229</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street>FISHERY RD, SC</prime_street>
-    <cross_streets>CALVERLEY TRL / WW W MORRISH N ELLESMERE</cross_streets>
-    <dispatch_time>2021-01-25 00:04:31</dispatch_time>
-    <event_num>F21007224</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>214</beat>
-    <units_disp> A213, C21, P212, P234, R213, R214, A215, R231, LA231, S232, C20</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
