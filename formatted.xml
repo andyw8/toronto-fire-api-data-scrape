@@ -1,14 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-26 04:00:03</update_from_db_time>
-  <event>
-    <prime_street>EGLINTON AVE, TT</prime_street>
-    <cross_streets>BANFF RD / WALDER AVE</cross_streets>
-    <dispatch_time>2021-01-26 03:56:31</dispatch_time>
-    <event_num>F21007552</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
+  <update_from_db_time>2021-01-26 04:30:03</update_from_db_time>
 </tfs_active_incidents>
