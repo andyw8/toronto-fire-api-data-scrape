@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-27 17:55:02</update_from_db_time>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-27 16:22:31</dispatch_time>
-    <event_num>F21008040</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
-    <prime_street>KINGSTON RD, SC</prime_street>
-    <cross_streets>BROOKLAWN AVE / ST CLAIR AVE E</cross_streets>
-    <dispatch_time>2021-01-27 16:30:57</dispatch_time>
-    <event_num>F21008041</event_num>
-    <event_type>Vehicle Accident with Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223, R231</units_disp>
-  </event>
+  <update_from_db_time>2021-01-27 18:30:02</update_from_db_time>
   <event>
     <prime_street>M3C</prime_street>
     <cross_streets/>
@@ -32,63 +12,53 @@
     <units_disp> P123</units_disp>
   </event>
   <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-27 17:24:58</dispatch_time>
-    <event_num>F21008050</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-01-27 17:52:36</dispatch_time>
+    <event_num>F21008057</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441</units_disp>
+    <beat>145</beat>
+    <units_disp> HZ145, P145</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-27 17:32:20</dispatch_time>
-    <event_num>F21008052</event_num>
+    <dispatch_time>2021-01-27 18:08:51</dispatch_time>
+    <event_num>F21008062</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
   <event>
-    <prime_street>BEARBURY DR, ET</prime_street>
-    <cross_streets>GREENCOAT RD / GREENCOAT RD</cross_streets>
-    <dispatch_time>2021-01-27 17:33:23</dispatch_time>
-    <event_num>F21008053</event_num>
+    <prime_street>M8W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-27 18:17:29</dispatch_time>
+    <event_num>F21008064</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-27 18:23:50</dispatch_time>
+    <event_num>F21008065</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
+  </event>
+  <event>
+    <prime_street>KENNEDY RD, SC</prime_street>
+    <cross_streets>CORVETTE AVE / MERRIAN RD</cross_streets>
+    <dispatch_time>2021-01-27 18:25:29</dispatch_time>
+    <event_num>F21008066</event_num>
     <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P145, P432, C44, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-27 17:44:23</dispatch_time>
-    <event_num>F21008054</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>UNIVERSITY AVE, TT</prime_street>
-    <cross_streets>ADELAIDE ST W / RICHMOND ST W</cross_streets>
-    <dispatch_time>2021-01-27 17:50:08</dispatch_time>
-    <event_num>F21008055</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> S313, HR332</units_disp>
-  </event>
-  <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-27 17:51:57</dispatch_time>
-    <event_num>F21008056</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> HZ326</units_disp>
+    <beat>221</beat>
+    <units_disp> P222, P324, C22, HZ326</units_disp>
   </event>
 </tfs_active_incidents>
