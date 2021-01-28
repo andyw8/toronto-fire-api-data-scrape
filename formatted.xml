@@ -1,34 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-28 03:45:01</update_from_db_time>
+  <update_from_db_time>2021-01-28 04:10:02</update_from_db_time>
   <event>
-    <prime_street>SHEPPARD AVE, NY</prime_street>
-    <cross_streets>YONGE ST / DORIS AVE</cross_streets>
-    <dispatch_time>2021-01-28 03:27:01</dispatch_time>
-    <event_num>F21008148</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
+    <prime_street>HOMEWOOD AVE, TT</prime_street>
+    <cross_streets>CARLTON ST / MONTAGUE PARKETTE TRL</cross_streets>
+    <dispatch_time>2021-01-28 03:44:48</dispatch_time>
+    <event_num>F21008152</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P111, P114, P121, C11, T114, HR114</units_disp>
+    <beat>313</beat>
+    <units_disp> A325, P314, P325, R325, C31</units_disp>
   </event>
   <event>
     <prime_street>M2H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-28 03:29:17</dispatch_time>
-    <event_num>F21008149</event_num>
+    <dispatch_time>2021-01-28 04:00:57</dispatch_time>
+    <event_num>F21008155</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>113</beat>
-    <units_disp> P113</units_disp>
+    <units_disp> A113</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>BROADVIEW AVE / MONTCREST BLVD</cross_streets>
-    <dispatch_time>2021-01-28 03:35:08</dispatch_time>
-    <event_num>F21008150</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-28 04:03:02</dispatch_time>
+    <event_num>F21008156</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
   </event>
 </tfs_active_incidents>
