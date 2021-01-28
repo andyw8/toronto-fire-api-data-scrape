@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-28 16:20:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-28 14:44:23</dispatch_time>
-    <event_num>F21008301</event_num>
-    <event_type>Vehicle Accident - Trapped - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> A133, P146, S143, C34, P442, R341</units_disp>
-  </event>
+  <update_from_db_time>2021-01-28 16:40:02</update_from_db_time>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>VICTORIA AVE W / WRIGHT AVE</cross_streets>
@@ -22,66 +12,6 @@
     <units_disp> A421, C42, P422, P443, R423, P342, R133, A441, LA421, R421, S331, C40, C41, P442, R423, HZ145, R341, CMD10, C34</units_disp>
   </event>
   <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>YONGE ST / PARK RD</cross_streets>
-    <dispatch_time>2021-01-28 15:16:26</dispatch_time>
-    <event_num>F21008310</event_num>
-    <event_type>Rescue - Subway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P313, A325, C31, HR332, P331, S313, R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-28 15:57:34</dispatch_time>
-    <event_num>F21008316</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-28 15:57:57</dispatch_time>
-    <event_num>F21008317</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>EGLINTON AVE, SC</prime_street>
-    <cross_streets>CENTRE ST / MARKHAM RD</cross_streets>
-    <dispatch_time>2021-01-28 16:03:44</dispatch_time>
-    <event_num>F21008319</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223, R231, A231, C23, P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-28 16:06:24</dispatch_time>
-    <event_num>F21008320</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P232</units_disp>
-  </event>
-  <event>
-    <prime_street>GLENAYR RD, TT</prime_street>
-    <cross_streets>MILLBANK AVE / STRATHEARN BLVD</cross_streets>
-    <dispatch_time>2021-01-28 16:10:57</dispatch_time>
-    <event_num>F21008321</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P135, A135, C13, P311, P343</units_disp>
-  </event>
-  <event>
     <prime_street>M3C</prime_street>
     <cross_streets/>
     <dispatch_time>2021-01-28 16:13:27</dispatch_time>
@@ -90,5 +20,75 @@
     <alarm_lev>0</alarm_lev>
     <beat>123</beat>
     <units_disp> P123</units_disp>
+  </event>
+  <event>
+    <prime_street>M5P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-28 16:20:06</dispatch_time>
+    <event_num>F21008323</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343, P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-28 16:20:02</dispatch_time>
+    <event_num>F21008324</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-01-28 16:20:57</dispatch_time>
+    <event_num>F21008325</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> A113, R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M4V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-28 16:29:32</dispatch_time>
+    <event_num>F21008326</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>BABY POINT CRES, YK</prime_street>
+    <cross_streets>L'ESTRANGE PL / BABY POINT RD</cross_streets>
+    <dispatch_time>2021-01-28 16:32:30</dispatch_time>
+    <event_num>F21008327</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P431, A426, C44, R423, R425</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>YONGE ST / HENDON AVE</cross_streets>
+    <dispatch_time>2021-01-28 16:35:26</dispatch_time>
+    <event_num>F21008328</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-28 16:36:26</dispatch_time>
+    <event_num>F21008329</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
