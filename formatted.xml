@@ -1,56 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-28 14:55:02</update_from_db_time>
-  <event>
-    <prime_street>LAKE SHORE BLVD, ET</prime_street>
-    <cross_streets>LONG BRANCH AVE / THIRTY FIFTH ST</cross_streets>
-    <dispatch_time>2021-01-28 14:33:16</dispatch_time>
-    <event_num>F21008293</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> C43, P431, P432, P445, PL432, R434</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-28 14:35:29</dispatch_time>
-    <event_num>F21008296</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-28 14:36:55</dispatch_time>
-    <event_num>F21008297</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-28 14:38:19</dispatch_time>
-    <event_num>F21008298</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
-    <prime_street>PRINCES BLVD, TT</prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-28 14:39:33</dispatch_time>
-    <event_num>F21008299</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> R426, C33, P331, P334, P344, A426</units_disp>
-  </event>
+  <update_from_db_time>2021-01-28 15:25:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -67,18 +17,48 @@
     <dispatch_time>2021-01-28 14:45:13</dispatch_time>
     <event_num>F21008302</event_num>
     <event_type>Fire - Residential</event_type>
-    <alarm_lev>1</alarm_lev>
+    <alarm_lev>2</alarm_lev>
     <beat>442</beat>
-    <units_disp> A421, C42, P422, P443, R423, P342, R133, A441, LA421, R421, S331, C40</units_disp>
+    <units_disp> A421, C42, P422, P443, R423, P342, R133, A441, LA421, R421, S331, C40, C41, P442, R423, HZ145, R341, CMD10, C34</units_disp>
   </event>
   <event>
-    <prime_street>EGLINTON AVE, YK</prime_street>
-    <cross_streets>MENIN RD / GLENARDEN RD</cross_streets>
-    <dispatch_time>2021-01-28 14:46:24</dispatch_time>
-    <event_num>F21008303</event_num>
-    <event_type>Alarm Institution</event_type>
+    <prime_street>M2P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-28 15:04:14</dispatch_time>
+    <event_num>F21008307</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P135, P132, A135, C13, R134, P343, P132</units_disp>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-28 15:05:15</dispatch_time>
+    <event_num>F21008308</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>EGLINTON AVE W / SCARLETT RD</cross_streets>
+    <dispatch_time>2021-01-28 15:09:52</dispatch_time>
+    <event_num>F21008309</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P445, S445</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>YONGE ST / PARK RD</cross_streets>
+    <dispatch_time>2021-01-28 15:16:26</dispatch_time>
+    <event_num>F21008310</event_num>
+    <event_type>Rescue - Subway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P313, A325, C31, HR332, P331, S313, R134</units_disp>
   </event>
 </tfs_active_incidents>
