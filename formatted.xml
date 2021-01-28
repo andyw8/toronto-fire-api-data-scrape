@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-28 16:40:02</update_from_db_time>
+  <update_from_db_time>2021-01-28 16:55:02</update_from_db_time>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>VICTORIA AVE W / WRIGHT AVE</cross_streets>
@@ -22,56 +22,6 @@
     <units_disp> P123</units_disp>
   </event>
   <event>
-    <prime_street>M5P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-28 16:20:06</dispatch_time>
-    <event_num>F21008323</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343, P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-28 16:20:02</dispatch_time>
-    <event_num>F21008324</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-01-28 16:20:57</dispatch_time>
-    <event_num>F21008325</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113, R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M4V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-28 16:29:32</dispatch_time>
-    <event_num>F21008326</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
-  </event>
-  <event>
-    <prime_street>BABY POINT CRES, YK</prime_street>
-    <cross_streets>L'ESTRANGE PL / BABY POINT RD</cross_streets>
-    <dispatch_time>2021-01-28 16:32:30</dispatch_time>
-    <event_num>F21008327</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P431, A426, C44, R423, R425</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>YONGE ST / HENDON AVE</cross_streets>
     <dispatch_time>2021-01-28 16:35:26</dispatch_time>
@@ -82,13 +32,43 @@
     <units_disp> P114</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
+    <prime_street>OAKWOOD AVE, YK</prime_street>
+    <cross_streets>ROGERS RD / HANSON RD</cross_streets>
+    <dispatch_time>2021-01-28 16:38:47</dispatch_time>
+    <event_num>F21008330</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> P343, R341, P135, R134, A135, C34</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-28 16:36:26</dispatch_time>
-    <event_num>F21008329</event_num>
+    <dispatch_time>2021-01-28 16:49:14</dispatch_time>
+    <event_num>F21008331</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>341</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-28 16:50:27</dispatch_time>
+    <event_num>F21008333</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-28 16:51:53</dispatch_time>
+    <event_num>F21008334</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> P415</units_disp>
   </event>
 </tfs_active_incidents>
