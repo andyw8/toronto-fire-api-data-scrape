@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-29 16:20:02</update_from_db_time>
+  <update_from_db_time>2021-01-29 16:40:01</update_from_db_time>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>VICTORIA AVE W / WRIGHT AVE</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P226, P227, R224, A324, C32, P323, P324, R225, A322, LA333, S313, C20, C22, HZ326, P322, P325, CMD30, CMD30C, C31, P221, R235, P114, P312, R321, REHAB01, T333, A125, C34, P311, C2, P333, R134, P315, C30, CMD10, LA231, C3, C7, P221, FI15, FI18, C22, C33, C24, C20, R325, A325, C10, P333, T333, C22, HR332, R231, A231, LA231, A231, A231</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-29 15:17:22</dispatch_time>
-    <event_num>F21008669</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
-  </event>
-  <event>
     <prime_street>M6N</prime_street>
     <cross_streets/>
     <dispatch_time>2021-01-29 15:44:46</dispatch_time>
@@ -40,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>342</beat>
     <units_disp> P342</units_disp>
-  </event>
-  <event>
-    <prime_street>COMMISSIONERS ST, TT</prime_street>
-    <cross_streets>CARLAW AVE / LESLIE ST</cross_streets>
-    <dispatch_time>2021-01-29 15:46:05</dispatch_time>
-    <event_num>F21008678</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> A324, C32, P323, P324, P227</units_disp>
   </event>
   <event>
     <prime_street>M5A</prime_street>
@@ -62,16 +42,6 @@
     <units_disp> P325</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-29 16:06:57</dispatch_time>
-    <event_num>F21008683</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
     <prime_street>LEE CENTRE DR, SC</prime_street>
     <cross_streets>CORPORATE DR / CORPORATE DR</cross_streets>
     <dispatch_time>2021-01-29 16:11:35</dispatch_time>
@@ -82,43 +52,63 @@
     <units_disp> R243, P232, A244, C23, P245</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M4H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-29 16:12:27</dispatch_time>
-    <event_num>F21008687</event_num>
+    <dispatch_time>2021-01-29 16:24:03</dispatch_time>
+    <event_num>F21008694</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M8V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-29 16:12:46</dispatch_time>
-    <event_num>F21008688</event_num>
+    <dispatch_time>2021-01-29 16:24:36</dispatch_time>
+    <event_num>F21008695</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>435</beat>
+    <units_disp> P433</units_disp>
   </event>
   <event>
-    <prime_street>ELIA LANE, NY</prime_street>
-    <cross_streets>EVELYN WIGGINS DR / LEITCH AVE</cross_streets>
-    <dispatch_time>2021-01-29 16:13:35</dispatch_time>
-    <event_num>F21008689</event_num>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-29 16:28:24</dispatch_time>
+    <event_num>F21008696</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-01-29 16:30:21</dispatch_time>
+    <event_num>F21008697</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> P415, R412</units_disp>
+  </event>
+  <event>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>PRINCESS ST / ONTARIO ST</cross_streets>
+    <dispatch_time>2021-01-29 16:34:10</dispatch_time>
+    <event_num>F21008698</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, R325, A325, C33, P332, C32</units_disp>
+  </event>
+  <event>
+    <prime_street>O'CONNOR DR, EY</prime_street>
+    <cross_streets>GARDENS CRES / DOHME AVE</cross_streets>
+    <dispatch_time>2021-01-29 16:36:04</dispatch_time>
+    <event_num>F21008699</event_num>
     <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> A142, C14, P141, P143, R411</units_disp>
-  </event>
-  <event>
-    <prime_street>LAWRENCE AVE, NY</prime_street>
-    <cross_streets>KEELE ST / PIMLICO RD</cross_streets>
-    <dispatch_time>2021-01-29 16:13:47</dispatch_time>
-    <event_num>F21008690</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133, A133, C13, P132, P146</units_disp>
+    <beat>224</beat>
+    <units_disp> R224, R235, P222, A322, C11</units_disp>
   </event>
 </tfs_active_incidents>
