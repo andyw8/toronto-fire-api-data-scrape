@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-29 14:50:02</update_from_db_time>
+  <update_from_db_time>2021-01-29 15:25:02</update_from_db_time>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>VICTORIA AVE W / WRIGHT AVE</cross_streets>
@@ -19,37 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>3</alarm_lev>
     <beat>227</beat>
-    <units_disp> P226, P227, R224, A324, C32, P323, P324, R225, A322, LA333, S313, C20, C22, HZ326, P322, P325, CMD30, CMD30C, C31, P221, R235, P114, P312, R321, REHAB01, T333, A125, C34, P311, C2, P333, R134, P315, C30, CMD10, LA231, C3, C7, P221, FI15, FI18, C22, C33, C24, C20, R325, A325, C10, P333, T333, C22, HR332</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-29 14:12:15</dispatch_time>
-    <event_num>F21008639</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
-  </event>
-  <event>
-    <prime_street>TAPSCOTT RD, SC</prime_street>
-    <cross_streets>FINCH AVE E / NEWGALE GT</cross_streets>
-    <dispatch_time>2021-01-29 14:15:56</dispatch_time>
-    <event_num>F21008642</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211, R213, S232, C24</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>DREWRY AVE / WEDGEWOOD DR</cross_streets>
-    <dispatch_time>2021-01-29 14:25:54</dispatch_time>
-    <event_num>F21008644</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111, P114, C14, HR114, R112, T114</units_disp>
+    <units_disp> P226, P227, R224, A324, C32, P323, P324, R225, A322, LA333, S313, C20, C22, HZ326, P322, P325, CMD30, CMD30C, C31, P221, R235, P114, P312, R321, REHAB01, T333, A125, C34, P311, C2, P333, R134, P315, C30, CMD10, LA231, C3, C7, P221, FI15, FI18, C22, C33, C24, C20, R325, A325, C10, P333, T333, C22, HR332, R231</units_disp>
   </event>
   <event>
     <prime_street>M4L</prime_street>
@@ -62,83 +32,73 @@
     <units_disp> P324</units_disp>
   </event>
   <event>
-    <prime_street>ST JOSEPH ST, TT</prime_street>
-    <cross_streets>YONGE ST / ST NICHOLAS ST</cross_streets>
-    <dispatch_time>2021-01-29 14:37:30</dispatch_time>
-    <event_num>F21008649</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <prime_street>RICHOME CRT, SC</prime_street>
+    <cross_streets>ROSEMOUNT DR / </cross_streets>
+    <dispatch_time>2021-01-29 14:53:36</dispatch_time>
+    <event_num>F21008658</event_num>
+    <event_type>Vehicle Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>221</beat>
+    <units_disp> P221, P222, P232</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-29 14:38:54</dispatch_time>
-    <event_num>F21008650</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>SHERWAY DR, ET</prime_street>
+    <cross_streets>THE WEST MALL / </cross_streets>
+    <dispatch_time>2021-01-29 15:06:46</dispatch_time>
+    <event_num>F21008664</event_num>
+    <event_type>Alarm Institution</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P312</units_disp>
+    <beat>432</beat>
+    <units_disp> P432, R434, C42, P445, PL432, R444, C44</units_disp>
   </event>
   <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-29 14:40:43</dispatch_time>
-    <event_num>F21008651</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>YONGE ST, NY</prime_street>
+    <cross_streets>DREWRY AVE / WEDGEWOOD DR</cross_streets>
+    <dispatch_time>2021-01-29 15:11:08</dispatch_time>
+    <event_num>F21008665</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P313</units_disp>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-29 14:40:44</dispatch_time>
-    <event_num>F21008652</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>MILEPOST PL, EY</prime_street>
+    <cross_streets>THORNCLIFFE PARK DR / </cross_streets>
+    <dispatch_time>2021-01-29 15:12:29</dispatch_time>
+    <event_num>F21008666</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>322</beat>
+    <units_disp> P322, R321, A322, C32, P125</units_disp>
   </event>
   <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-29 14:42:10</dispatch_time>
-    <event_num>F21008653</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>EVANS AVE, ET</prime_street>
+    <cross_streets>EASTWICK RD / HORNER AVENUE RAMP</cross_streets>
+    <dispatch_time>2021-01-29 15:13:08</dispatch_time>
+    <event_num>F21008667</event_num>
+    <event_type>Natural Gas Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>433</beat>
+    <units_disp> A433, R435, A426, C42, P431, HZ145, C44</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-29 14:43:14</dispatch_time>
-    <event_num>F21008654</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>JARVIS ST / GEORGE ST</cross_streets>
+    <dispatch_time>2021-01-29 15:14:15</dispatch_time>
+    <event_num>F21008668</event_num>
+    <event_type>Fire - Institution</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
+    <beat>333</beat>
+    <units_disp> P332, R325, A325, C33, P314, P325</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-29 14:43:39</dispatch_time>
-    <event_num>F21008655</event_num>
+    <dispatch_time>2021-01-29 15:17:22</dispatch_time>
+    <event_num>F21008669</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M8W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-29 14:44:56</dispatch_time>
-    <event_num>F21008656</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
+    <beat>222</beat>
+    <units_disp> P222</units_disp>
   </event>
 </tfs_active_incidents>
