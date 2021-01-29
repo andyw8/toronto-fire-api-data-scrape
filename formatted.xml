@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-29 14:40:02</update_from_db_time>
+  <update_from_db_time>2021-01-29 14:50:02</update_from_db_time>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>VICTORIA AVE W / WRIGHT AVE</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>3</alarm_lev>
     <beat>227</beat>
     <units_disp> P226, P227, R224, A324, C32, P323, P324, R225, A322, LA333, S313, C20, C22, HZ326, P322, P325, CMD30, CMD30C, C31, P221, R235, P114, P312, R321, REHAB01, T333, A125, C34, P311, C2, P333, R134, P315, C30, CMD10, LA231, C3, C7, P221, FI15, FI18, C22, C33, C24, C20, R325, A325, C10, P333, T333, C22, HR332</units_disp>
-  </event>
-  <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-29 13:49:40</dispatch_time>
-    <event_num>F21008636</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
   </event>
   <event>
     <prime_street>M1P</prime_street>
@@ -62,26 +52,6 @@
     <units_disp> P111, P114, C14, HR114, R112, T114</units_disp>
   </event>
   <event>
-    <prime_street>ROGERS RD, YK</prime_street>
-    <cross_streets>BICKNELL AVE / FORBES AVE</cross_streets>
-    <dispatch_time>2021-01-29 14:26:20</dispatch_time>
-    <event_num>F21008645</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421, R423, A421, C42, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-29 14:26:35</dispatch_time>
-    <event_num>F21008646</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
     <prime_street>M4L</prime_street>
     <cross_streets/>
     <dispatch_time>2021-01-29 14:28:42</dispatch_time>
@@ -92,13 +62,83 @@
     <units_disp> P324</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
+    <prime_street>ST JOSEPH ST, TT</prime_street>
+    <cross_streets>YONGE ST / ST NICHOLAS ST</cross_streets>
+    <dispatch_time>2021-01-29 14:37:30</dispatch_time>
+    <event_num>F21008649</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-29 14:30:43</dispatch_time>
-    <event_num>F21008648</event_num>
+    <dispatch_time>2021-01-29 14:38:54</dispatch_time>
+    <event_num>F21008650</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
+    <beat>314</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-29 14:40:43</dispatch_time>
+    <event_num>F21008651</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-29 14:40:44</dispatch_time>
+    <event_num>F21008652</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-29 14:42:10</dispatch_time>
+    <event_num>F21008653</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-29 14:43:14</dispatch_time>
+    <event_num>F21008654</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-29 14:43:39</dispatch_time>
+    <event_num>F21008655</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M8W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-29 14:44:56</dispatch_time>
+    <event_num>F21008656</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434</units_disp>
   </event>
 </tfs_active_incidents>
