@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-30 22:30:02</update_from_db_time>
+  <update_from_db_time>2021-01-30 23:00:02</update_from_db_time>
   <event>
     <prime_street>CARLTON ST, TT</prime_street>
     <cross_streets>REVEREND PORTER LANE / CHURCH ST</cross_streets>
@@ -12,36 +12,6 @@
     <units_disp> P314, P312, P313, A325, C31, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>THE CHIMNEYSTACK RD, NY</prime_street>
-    <cross_streets>IAN MACDONALD BLVD / ALBANY RD</cross_streets>
-    <dispatch_time>2021-01-30 22:05:32</dispatch_time>
-    <event_num>F21009163</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141, S143</units_disp>
-  </event>
-  <event>
-    <prime_street>GAINSBOROUGH RD, TT</prime_street>
-    <cross_streets>EASTWOOD RD / LN N EASTWOOD W GAINSBOROUGH</cross_streets>
-    <dispatch_time>2021-01-30 22:12:05</dispatch_time>
-    <event_num>F21009164</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street>YORK ST, TT</prime_street>
-    <cross_streets>BREMNER BLVD / STATION ST</cross_streets>
-    <dispatch_time>2021-01-30 22:17:17</dispatch_time>
-    <event_num>F21009165</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> A331, C33, P331, P332, P334</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2021-01-30 22:18:31</dispatch_time>
@@ -50,5 +20,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>444</beat>
     <units_disp> P445, R444</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-01-30 22:34:53</dispatch_time>
+    <event_num>F21009168</event_num>
+    <event_type>Rescue - Water/Ice - No Fireboat</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425, S445, P331, S313, S331, C42, P426, C30</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-30 22:53:49</dispatch_time>
+    <event_num>F21009174</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> T114</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>STATION ST / LOWER SIMCOE ST</cross_streets>
+    <dispatch_time>2021-01-30 22:53:55</dispatch_time>
+    <event_num>F21009175</event_num>
+    <event_type>Rescue - High Level</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> S313, S143, P332, T333, P143, P445, C33</units_disp>
   </event>
 </tfs_active_incidents>
