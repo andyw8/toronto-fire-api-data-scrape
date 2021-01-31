@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-31 11:50:02</update_from_db_time>
+  <update_from_db_time>2021-01-31 12:50:02</update_from_db_time>
   <event>
     <prime_street>GAINSBOROUGH RD, TT</prime_street>
     <cross_streets>EASTWOOD RD / LN N EASTWOOD W GAINSBOROUGH</cross_streets>
@@ -12,33 +12,13 @@
     <units_disp> R235, FI15, FI18, REHAB01, P233, P227</units_disp>
   </event>
   <event>
-    <prime_street>M4Y</prime_street>
+    <prime_street>M2J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-31 11:35:22</dispatch_time>
-    <event_num>F21009304</event_num>
+    <dispatch_time>2021-01-31 12:41:22</dispatch_time>
+    <event_num>F21009319</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-31 11:41:14</dispatch_time>
-    <event_num>F21009306</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>ELIZABETH ST, TT</prime_street>
-    <cross_streets>GERRARD ST W / COLLEGE ST</cross_streets>
-    <dispatch_time>2021-01-31 11:46:44</dispatch_time>
-    <event_num>F21009307</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P332, P315, A315, HR332, P312, P313, C33</units_disp>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
   </event>
 </tfs_active_incidents>
