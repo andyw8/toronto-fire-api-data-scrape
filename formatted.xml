@@ -1,124 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-30 18:55:02</update_from_db_time>
+  <update_from_db_time>2021-01-30 20:10:02</update_from_db_time>
   <event>
-    <prime_street>SENLAC RD, NY</prime_street>
-    <cross_streets>SHEPPARD AVE W / HARLANDALE AVE</cross_streets>
-    <dispatch_time>2021-01-30 17:46:27</dispatch_time>
-    <event_num>F21009079</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, P121, P143, HR114, R112, T114, C13</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-30 18:15:43</dispatch_time>
-    <event_num>F21009087</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
-  </event>
-  <event>
-    <prime_street>FOREST MANOR RD, NY</prime_street>
-    <cross_streets>GEORGE HENRY BLVD / PARKWAY FOREST DR</cross_streets>
-    <dispatch_time>2021-01-30 18:25:49</dispatch_time>
-    <event_num>F21009089</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, A113, C11, P113, P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-30 18:29:02</dispatch_time>
-    <event_num>F21009091</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-30 18:32:32</dispatch_time>
-    <event_num>F21009092</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P111</units_disp>
-  </event>
-  <event>
-    <prime_street>HARDING AVE, NY</prime_street>
-    <cross_streets>JANE ST / TEDDER ST</cross_streets>
-    <dispatch_time>2021-01-30 18:34:48</dispatch_time>
-    <event_num>F21009093</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, S445</units_disp>
-  </event>
-  <event>
-    <prime_street>PARLIAMENT ST, TT</prime_street>
-    <cross_streets>LANCASTER AVE / PROSPECT ST</cross_streets>
-    <dispatch_time>2021-01-30 18:37:05</dispatch_time>
-    <event_num>F21009094</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> A325, C31, P313, R321, R325</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BLOOR ST W / KEELE ST</cross_streets>
+    <prime_street>PARKSIDE DR, TT</prime_street>
+    <cross_streets>RIDOUT ST / HIGH PARK TRL</cross_streets>
     <dispatch_time>2021-01-30 18:41:56</dispatch_time>
     <event_num>F21009095</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <event_type>Fire - Encampment</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
-    <units_disp> R423</units_disp>
+    <units_disp> R423, C42</units_disp>
   </event>
   <event>
-    <prime_street>PARLIAMENT ST, TT</prime_street>
-    <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
-    <dispatch_time>2021-01-30 18:42:20</dispatch_time>
-    <event_num>F21009097</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> C33, P312, P314, P333, T333, R321, A325, C31</units_disp>
-  </event>
-  <event>
-    <prime_street>ROYAL YORK RD, ET</prime_street>
-    <cross_streets>NORSEMAN ST / REID MANOR PARK TRL</cross_streets>
-    <dispatch_time>2021-01-30 18:44:49</dispatch_time>
-    <event_num>F21009098</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M4G</prime_street>
+    <prime_street>M2M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-30 18:47:14</dispatch_time>
-    <event_num>F21009100</event_num>
+    <dispatch_time>2021-01-30 19:55:33</dispatch_time>
+    <event_num>F21009124</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> P322</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
   <event>
-    <prime_street>M9A</prime_street>
+    <prime_street>M8X</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-30 18:49:39</dispatch_time>
-    <event_num>F21009101</event_num>
+    <dispatch_time>2021-01-30 19:56:20</dispatch_time>
+    <event_num>F21009125</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
+    <beat>431</beat>
     <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-30 19:57:01</dispatch_time>
+    <event_num>F21009126</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> HR332</units_disp>
   </event>
 </tfs_active_incidents>
