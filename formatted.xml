@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-31 16:55:02</update_from_db_time>
+  <update_from_db_time>2021-01-31 17:30:02</update_from_db_time>
   <event>
     <prime_street>GAINSBOROUGH RD, TT</prime_street>
     <cross_streets>EASTWOOD RD / LN N EASTWOOD W GAINSBOROUGH</cross_streets>
@@ -10,76 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>227</beat>
     <units_disp> R235, FI15, FI18, REHAB01, P233, P227, P223, C22</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-31 16:12:05</dispatch_time>
-    <event_num>F21009382</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
-  </event>
-  <event>
-    <prime_street>JANE ST, YK</prime_street>
-    <cross_streets>ALLIANCE AVE / BLACK CREEK BLVD</cross_streets>
-    <dispatch_time>2021-01-31 16:18:25</dispatch_time>
-    <event_num>F21009385</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> P422, R421, R423, A421, C42, P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-31 16:25:04</dispatch_time>
-    <event_num>F21009389</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331, P315, A331, C33, R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-31 16:35:43</dispatch_time>
-    <event_num>F21009392</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-31 16:35:48</dispatch_time>
-    <event_num>F21009393</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-31 16:46:49</dispatch_time>
-    <event_num>F21009394</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-31 16:48:20</dispatch_time>
-    <event_num>F21009395</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
   </event>
   <event>
     <prime_street>M2J</prime_street>
@@ -92,13 +22,73 @@
     <units_disp> P116</units_disp>
   </event>
   <event>
-    <prime_street>M2L</prime_street>
+    <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-31 16:50:55</dispatch_time>
-    <event_num>F21009397</event_num>
+    <dispatch_time>2021-01-31 17:12:08</dispatch_time>
+    <event_num>F21009409</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122</units_disp>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-31 17:14:43</dispatch_time>
+    <event_num>F21009410</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-31 17:17:18</dispatch_time>
+    <event_num>F21009411</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> S143</units_disp>
+  </event>
+  <event>
+    <prime_street>SHUTER ST, TT</prime_street>
+    <cross_streets>ONTARIO ST / MILAN ST</cross_streets>
+    <dispatch_time>2021-01-31 17:19:20</dispatch_time>
+    <event_num>F21009412</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325, A325, C31, P313, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>KEELE ST, NY</prime_street>
+    <cross_streets>WILSON AVE / VICTORY DR</cross_streets>
+    <dispatch_time>2021-01-31 17:20:30</dispatch_time>
+    <event_num>F21009413</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146, P145, A133, C14, R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-31 17:20:51</dispatch_time>
+    <event_num>F21009414</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>ARMITAGE DR, SC</prime_street>
+    <cross_streets>CROCUS DR / CROCUS DR</cross_streets>
+    <dispatch_time>2021-01-31 17:26:10</dispatch_time>
+    <event_num>F21009415</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> R115, P244, A244, P232, P233, C11</units_disp>
   </event>
 </tfs_active_incidents>
