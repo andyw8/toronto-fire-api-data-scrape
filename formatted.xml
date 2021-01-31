@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-31 15:55:02</update_from_db_time>
+  <update_from_db_time>2021-01-31 16:20:02</update_from_db_time>
   <event>
     <prime_street>GAINSBOROUGH RD, TT</prime_street>
     <cross_streets>EASTWOOD RD / LN N EASTWOOD W GAINSBOROUGH</cross_streets>
@@ -22,63 +22,103 @@
     <units_disp> A325, C31, P312, P313, P314, S313</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>BRIMLEY RD / SHEPPARD AVE E</cross_streets>
-    <dispatch_time>2021-01-31 15:17:32</dispatch_time>
-    <event_num>F21009362</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>YORK ST, TT</prime_street>
+    <cross_streets>QUEENS QUAY W / HARBOUR ST</cross_streets>
+    <dispatch_time>2021-01-31 15:59:12</dispatch_time>
+    <event_num>F21009373</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <beat>334</beat>
+    <units_disp> P334, C33, HR332, P332, P344, T333</units_disp>
   </event>
   <event>
-    <prime_street>ISLINGTON AVE, ET</prime_street>
-    <cross_streets>TOM RILEY PARK TRL / DUNDAS ST W</cross_streets>
-    <dispatch_time>2021-01-31 15:26:44</dispatch_time>
-    <event_num>F21009364</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>ST HELEN'S AVE / RUTTAN ST</cross_streets>
+    <dispatch_time>2021-01-31 16:01:34</dispatch_time>
+    <event_num>F21009374</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445, P431, C44, P443, PL432</units_disp>
+    <beat>426</beat>
+    <units_disp> P426, S331</units_disp>
   </event>
   <event>
-    <prime_street>M1N</prime_street>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>TOPCLIFF AVE / DRIFTWOOD AVE</cross_streets>
+    <dispatch_time>2021-01-31 16:05:20</dispatch_time>
+    <event_num>F21009376</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P141, P142, P146, R411, A142, C14</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-31 15:34:02</dispatch_time>
-    <event_num>F21009366</event_num>
+    <dispatch_time>2021-01-31 16:06:12</dispatch_time>
+    <event_num>F21009377</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
   </event>
   <event>
-    <prime_street>M1C</prime_street>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-31 15:39:03</dispatch_time>
-    <event_num>F21009367</event_num>
+    <dispatch_time>2021-01-31 16:09:33</dispatch_time>
+    <event_num>F21009378</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
+    <beat>142</beat>
+    <units_disp> P143</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>HOLIDAY DR / CAMBRIAN RD</cross_streets>
-    <dispatch_time>2021-01-31 15:41:35</dispatch_time>
-    <event_num>F21009369</event_num>
+    <prime_street>CARLAW AVE, TT</prime_street>
+    <cross_streets>WROXETER AVE / WITHROW PARK TRL</cross_streets>
+    <dispatch_time>2021-01-31 16:10:39</dispatch_time>
+    <event_num>F21009379</event_num>
     <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444, A441, P432, R441, C41</units_disp>
+    <beat>324</beat>
+    <units_disp> A324, P322, P323, P324, C32</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-01-31 15:45:35</dispatch_time>
-    <event_num>F21009370</event_num>
+    <dispatch_time>2021-01-31 16:10:45</dispatch_time>
+    <event_num>F21009380</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-31 16:12:05</dispatch_time>
+    <event_num>F21009382</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
+  </event>
+  <event>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>GROSVENOR ST / BREADALBANE ST</cross_streets>
+    <dispatch_time>2021-01-31 16:13:34</dispatch_time>
+    <event_num>F21009383</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> A315, P312, P314, P315, C31, S313</units_disp>
+  </event>
+  <event>
+    <prime_street>M9B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-31 16:14:42</dispatch_time>
+    <event_num>F21009384</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
   </event>
 </tfs_active_incidents>
