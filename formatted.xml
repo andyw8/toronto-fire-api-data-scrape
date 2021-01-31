@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-01-31 16:20:02</update_from_db_time>
+  <update_from_db_time>2021-01-31 16:35:02</update_from_db_time>
   <event>
     <prime_street>GAINSBOROUGH RD, TT</prime_street>
     <cross_streets>EASTWOOD RD / LN N EASTWOOD W GAINSBOROUGH</cross_streets>
@@ -10,86 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>227</beat>
     <units_disp> R235, FI15, FI18, REHAB01, P233, P227, P223, C22</units_disp>
-  </event>
-  <event>
-    <prime_street>WELLESLEY ST, TT</prime_street>
-    <cross_streets>CHURCH ST / JARVIS ST</cross_streets>
-    <dispatch_time>2021-01-31 15:05:46</dispatch_time>
-    <event_num>F21009358</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> A325, C31, P312, P313, P314, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>YORK ST, TT</prime_street>
-    <cross_streets>QUEENS QUAY W / HARBOUR ST</cross_streets>
-    <dispatch_time>2021-01-31 15:59:12</dispatch_time>
-    <event_num>F21009373</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334, C33, HR332, P332, P344, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>ST HELEN'S AVE / RUTTAN ST</cross_streets>
-    <dispatch_time>2021-01-31 16:01:34</dispatch_time>
-    <event_num>F21009374</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426, S331</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>TOPCLIFF AVE / DRIFTWOOD AVE</cross_streets>
-    <dispatch_time>2021-01-31 16:05:20</dispatch_time>
-    <event_num>F21009376</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P141, P142, P146, R411, A142, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-31 16:06:12</dispatch_time>
-    <event_num>F21009377</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-31 16:09:33</dispatch_time>
-    <event_num>F21009378</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P143</units_disp>
-  </event>
-  <event>
-    <prime_street>CARLAW AVE, TT</prime_street>
-    <cross_streets>WROXETER AVE / WITHROW PARK TRL</cross_streets>
-    <dispatch_time>2021-01-31 16:10:39</dispatch_time>
-    <event_num>F21009379</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> A324, P322, P323, P324, C32</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-01-31 16:10:45</dispatch_time>
-    <event_num>F21009380</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
   </event>
   <event>
     <prime_street>M1B</prime_street>
@@ -102,16 +22,6 @@
     <units_disp> R213</units_disp>
   </event>
   <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>GROSVENOR ST / BREADALBANE ST</cross_streets>
-    <dispatch_time>2021-01-31 16:13:34</dispatch_time>
-    <event_num>F21009383</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> A315, P312, P314, P315, C31, S313</units_disp>
-  </event>
-  <event>
     <prime_street>M9B</prime_street>
     <cross_streets/>
     <dispatch_time>2021-01-31 16:14:42</dispatch_time>
@@ -120,5 +30,75 @@
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
     <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>JANE ST, YK</prime_street>
+    <cross_streets>ALLIANCE AVE / BLACK CREEK BLVD</cross_streets>
+    <dispatch_time>2021-01-31 16:18:25</dispatch_time>
+    <event_num>F21009385</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> P422, R421, R423, A421, C42, P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-31 16:19:50</dispatch_time>
+    <event_num>F21009386</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> R133</units_disp>
+  </event>
+  <event>
+    <prime_street>HABITANT DR, NY</prime_street>
+    <cross_streets>IMOGENE AVE / HABITANT PARK TRL</cross_streets>
+    <dispatch_time>2021-01-31 16:21:44</dispatch_time>
+    <event_num>F21009387</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411, P142, A411, P146, C14</units_disp>
+  </event>
+  <event>
+    <prime_street>SIDNEY BELSEY CRES, YK</prime_street>
+    <cross_streets>PORTAGE GARDENS PARK TRL / WESTPOINT LANE</cross_streets>
+    <dispatch_time>2021-01-31 16:24:41</dispatch_time>
+    <event_num>F21009388</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P443, P341CA, R341, A133, C13, P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-01-31 16:25:04</dispatch_time>
+    <event_num>F21009389</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331, P315, A331, C33, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>ELLERSLIE AVE, NY</prime_street>
+    <cross_streets>CANTERBURY PL / BEECROFT RD</cross_streets>
+    <dispatch_time>2021-01-31 16:28:16</dispatch_time>
+    <event_num>F21009390</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, P121, R112, C11, HR114, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>OWEN BLVD, NY</prime_street>
+    <cross_streets>GORDON RD / UPPER HIGHLAND CRES</cross_streets>
+    <dispatch_time>2021-01-31 16:28:56</dispatch_time>
+    <event_num>F21009391</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> R122</units_disp>
   </event>
 </tfs_active_incidents>
