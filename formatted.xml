@@ -1,14 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-01 02:00:03</update_from_db_time>
-  <event>
-    <prime_street>BATHURST ST, NY</prime_street>
-    <cross_streets>MCALLISTER RD / EARL BALES PARK TRL</cross_streets>
-    <dispatch_time>2021-02-01 01:05:34</dispatch_time>
-    <event_num>F21009517</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143, P114</units_disp>
-  </event>
+  <update_from_db_time>2021-02-01 02:25:02</update_from_db_time>
 </tfs_active_incidents>
