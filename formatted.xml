@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-01 14:10:02</update_from_db_time>
+  <update_from_db_time>2021-02-01 14:40:03</update_from_db_time>
   <event>
     <prime_street>MARTINI DR, NY</prime_street>
     <cross_streets>THURODALE AVE / LAWRENCE AVE W</cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> P442, C13, HZ145, P145</units_disp>
   </event>
   <event>
-    <prime_street>M4G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-01 13:49:02</dispatch_time>
-    <event_num>F21009670</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R321</units_disp>
-  </event>
-  <event>
     <prime_street>GAMBELLO CRES, NY</prime_street>
     <cross_streets>CLAYHALL CRES / CLAYHALL CRES</cross_streets>
     <dispatch_time>2021-02-01 13:55:22</dispatch_time>
@@ -29,56 +19,86 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
-    <units_disp> P141, P142, P143, S143, A142, C14, LA421, R411</units_disp>
+    <units_disp> P141, P142, S143, A142, C14, P143, LA421, R411</units_disp>
   </event>
   <event>
-    <prime_street>FAIRFAX CRES, SC</prime_street>
-    <cross_streets>MONASTERY LANE / WARDEN AVE</cross_streets>
-    <dispatch_time>2021-02-01 13:57:17</dispatch_time>
-    <event_num>F21009673</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222, R225, R235, A222, C22, P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-01 14:00:36</dispatch_time>
-    <event_num>F21009674</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-01 14:03:04</dispatch_time>
-    <event_num>F21009675</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-01 14:03:52</dispatch_time>
-    <event_num>F21009676</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-01 14:06:37</dispatch_time>
-    <event_num>F21009677</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>FREDERICK TISDALE DR, NY</prime_street>
+    <cross_streets>THOMAS MULHOLLAND DR / LOCUST LODGE GDNS</cross_streets>
+    <dispatch_time>2021-02-01 14:08:16</dispatch_time>
+    <event_num>F21009678</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
-    <units_disp> A411</units_disp>
+    <units_disp> P146, R133, A133, R112, C41, R411</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-01 14:09:11</dispatch_time>
+    <event_num>F21009679</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street>WOLSELEY ST, TT</prime_street>
+    <cross_streets>LN E RYERSON N WOLSELEY / RYERSON AVE</cross_streets>
+    <dispatch_time>2021-02-01 14:23:44</dispatch_time>
+    <event_num>F21009682</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>SPADINA AVE / SUSSEX MEWS</cross_streets>
+    <dispatch_time>2021-02-01 14:27:06</dispatch_time>
+    <event_num>F21009683</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> P315, P312, P314, A315, C31</units_disp>
+  </event>
+  <event>
+    <prime_street>M4H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-01 14:28:58</dispatch_time>
+    <event_num>F21009684</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-01 14:31:22</dispatch_time>
+    <event_num>F21009685</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> A421</units_disp>
+  </event>
+  <event>
+    <prime_street>TALARA DR, NY</prime_street>
+    <cross_streets>GREENBRIAR RD / </cross_streets>
+    <dispatch_time>2021-02-01 14:34:36</dispatch_time>
+    <event_num>F21009686</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> R122, P111, P114, P116, T114, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-01 14:36:55</dispatch_time>
+    <event_num>F21009687</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
