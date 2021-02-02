@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-02 06:20:02</update_from_db_time>
-  <event>
-    <prime_street>BLOOR ST, ET</prime_street>
-    <cross_streets>ISLINGTON AVE / CLISSOLD RD</cross_streets>
-    <dispatch_time>2021-02-02 05:07:09</dispatch_time>
-    <event_num>F21009859</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P445, S445</units_disp>
-  </event>
+  <update_from_db_time>2021-02-02 06:50:02</update_from_db_time>
   <event>
     <prime_street>NANTUCKET BLVD, SC</prime_street>
     <cross_streets>MUNHAM GT / </cross_streets>
@@ -22,16 +12,6 @@
     <units_disp> S232, P232, A244, C23, P244, P245</units_disp>
   </event>
   <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 05:47:21</dispatch_time>
-    <event_num>F21009863</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2021-02-02 06:15:35</dispatch_time>
@@ -39,6 +19,26 @@
     <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>334</beat>
-    <units_disp> P333, P334</units_disp>
+    <units_disp> P334, P333, T333</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-02 06:22:14</dispatch_time>
+    <event_num>F21009867</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322, A322</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-02 06:30:12</dispatch_time>
+    <event_num>F21009868</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
