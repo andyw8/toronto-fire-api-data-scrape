@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-02 16:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-02 16:35:02</update_from_db_time>
   <event>
     <prime_street>NANTUCKET BLVD, SC</prime_street>
     <cross_streets>MUNHAM GT / </cross_streets>
@@ -32,36 +32,6 @@
     <units_disp> A433, C44, R435, S445</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>KINGSTON RD / HIGHLAND CREEK TRL</cross_streets>
-    <dispatch_time>2021-02-02 15:55:18</dispatch_time>
-    <event_num>F21010006</event_num>
-    <event_type>Rescue - High Level</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> A215, C21, P232, R214, S232, P313, S313, MP212, P212</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 16:07:30</dispatch_time>
-    <event_num>F21010009</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
-  </event>
-  <event>
-    <prime_street>SOUTH STATION ST, YK</prime_street>
-    <cross_streets>LAWRENCE AVE W / JOHN ST</cross_streets>
-    <dispatch_time>2021-02-02 16:08:01</dispatch_time>
-    <event_num>F21010010</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, R133, C41, R421, A133</units_disp>
-  </event>
-  <event>
     <prime_street>M1B</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-02 16:10:16</dispatch_time>
@@ -70,5 +40,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>212</beat>
     <units_disp> P212, P211</units_disp>
+  </event>
+  <event>
+    <prime_street>BEACHAM CRES, SC</prime_street>
+    <cross_streets>LN N WISHING WELL E BEACHAM / WISHING WELL DR</cross_streets>
+    <dispatch_time>2021-02-02 16:19:44</dispatch_time>
+    <event_num>F21010012</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>244</beat>
+    <units_disp> R115, P244, A244, P245, R241, C11, C24, A213, LA231, R243, S232, C20</units_disp>
+  </event>
+  <event>
+    <prime_street>BRAHMS AVE, NY</prime_street>
+    <cross_streets>FINCH AVE E / RAMEAU DR</cross_streets>
+    <dispatch_time>2021-02-02 16:21:10</dispatch_time>
+    <event_num>F21010013</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> P113, P111, A113, C11, P116</units_disp>
+  </event>
+  <event>
+    <prime_street>M6L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-02 16:23:00</dispatch_time>
+    <event_num>F21010014</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> A133, R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-02 16:24:15</dispatch_time>
+    <event_num>F21010015</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
   </event>
 </tfs_active_incidents>
