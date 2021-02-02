@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-02 16:35:02</update_from_db_time>
+  <update_from_db_time>2021-02-02 16:50:02</update_from_db_time>
   <event>
     <prime_street>NANTUCKET BLVD, SC</prime_street>
     <cross_streets>MUNHAM GT / </cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> S143, A142, C14, P141, P143, P145</units_disp>
   </event>
   <event>
-    <prime_street>JUTLAND RD, ET</prime_street>
-    <cross_streets>GOODRICH RD / ISLINGTON AVE</cross_streets>
-    <dispatch_time>2021-02-02 15:52:31</dispatch_time>
-    <event_num>F21010005</event_num>
-    <event_type>Rescue - Other</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433, C44, R435, S445</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 16:10:16</dispatch_time>
-    <event_num>F21010011</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212, P211</units_disp>
-  </event>
-  <event>
     <prime_street>BEACHAM CRES, SC</prime_street>
     <cross_streets>LN N WISHING WELL E BEACHAM / WISHING WELL DR</cross_streets>
     <dispatch_time>2021-02-02 16:19:44</dispatch_time>
@@ -52,33 +32,33 @@
     <units_disp> R115, P244, A244, P245, R241, C11, C24, A213, LA231, R243, S232, C20</units_disp>
   </event>
   <event>
-    <prime_street>BRAHMS AVE, NY</prime_street>
-    <cross_streets>FINCH AVE E / RAMEAU DR</cross_streets>
-    <dispatch_time>2021-02-02 16:21:10</dispatch_time>
-    <event_num>F21010013</event_num>
+    <prime_street>ST CLARENS AVE, TT</prime_street>
+    <cross_streets>DUPONT ST / LN N DUPONT E ST CLARENS</cross_streets>
+    <dispatch_time>2021-02-02 16:36:43</dispatch_time>
+    <event_num>F21010016</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113, P111, A113, C11, P116</units_disp>
+    <beat>345</beat>
+    <units_disp> A345, C34, P331, R345, R423, P342</units_disp>
   </event>
   <event>
-    <prime_street>M6L</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-02 16:23:00</dispatch_time>
-    <event_num>F21010014</event_num>
+    <dispatch_time>2021-02-02 16:36:55</dispatch_time>
+    <event_num>F21010017</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133, R133</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 16:24:15</dispatch_time>
-    <event_num>F21010015</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>WADSWORTH BLVD, YK</prime_street>
+    <cross_streets>SPRINGMOUNT AVE / WILLIAM ST</cross_streets>
+    <dispatch_time>2021-02-02 16:39:34</dispatch_time>
+    <event_num>F21010018</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
 </tfs_active_incidents>
