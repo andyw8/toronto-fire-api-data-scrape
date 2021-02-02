@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-02 15:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-02 16:20:02</update_from_db_time>
   <event>
     <prime_street>NANTUCKET BLVD, SC</prime_street>
     <cross_streets>MUNHAM GT / </cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>232</beat>
     <units_disp> S232, P232, A244, C23, P244, P245, P244, P245, P233, FI8</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 15:29:43</dispatch_time>
-    <event_num>F21009997</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
   </event>
   <event>
     <prime_street>VANLEY CRES, NY</prime_street>
@@ -32,43 +22,53 @@
     <units_disp> S143, A142, C14, P141, P143, P145</units_disp>
   </event>
   <event>
-    <prime_street>M6A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 15:32:56</dispatch_time>
-    <event_num>F21009999</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>JUTLAND RD, ET</prime_street>
+    <cross_streets>GOODRICH RD / ISLINGTON AVE</cross_streets>
+    <dispatch_time>2021-02-02 15:52:31</dispatch_time>
+    <event_num>F21010005</event_num>
+    <event_type>Rescue - Other</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
+    <beat>433</beat>
+    <units_disp> A433, C44, R435, S445</units_disp>
   </event>
   <event>
-    <prime_street>OUTLOOK AVE, YK</prime_street>
-    <cross_streets>GRANDVILLE AVE / OUTLOOK GARDEN BLVD</cross_streets>
-    <dispatch_time>2021-02-02 15:35:33</dispatch_time>
-    <event_num>F21010000</event_num>
+    <prime_street> </prime_street>
+    <cross_streets>KINGSTON RD / HIGHLAND CREEK TRL</cross_streets>
+    <dispatch_time>2021-02-02 15:55:18</dispatch_time>
+    <event_num>F21010006</event_num>
+    <event_type>Rescue - High Level</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> A215, C21, P232, R214, S232, P313, S313, MP212, P212</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-02 16:07:30</dispatch_time>
+    <event_num>F21010009</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
+  </event>
+  <event>
+    <prime_street>SOUTH STATION ST, YK</prime_street>
+    <cross_streets>LAWRENCE AVE W / JOHN ST</cross_streets>
+    <dispatch_time>2021-02-02 16:08:01</dispatch_time>
+    <event_num>F21010010</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421, P422, P442, R421, C34</units_disp>
+    <beat>442</beat>
+    <units_disp> P442, R133, C41, R421, A133</units_disp>
   </event>
   <event>
-    <prime_street>M3H</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-02 15:39:45</dispatch_time>
-    <event_num>F21010002</event_num>
+    <dispatch_time>2021-02-02 16:10:16</dispatch_time>
+    <event_num>F21010011</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>BANKFIELD DR, ET</prime_street>
-    <cross_streets>THISTLE DOWN BLVD / CALSTOCK DR</cross_streets>
-    <dispatch_time>2021-02-02 15:40:38</dispatch_time>
-    <event_num>F21010003</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> P415, A415, C44, R411, P146</units_disp>
+    <beat>212</beat>
+    <units_disp> P212, P211</units_disp>
   </event>
 </tfs_active_incidents>
