@@ -1,54 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-02 01:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-02 02:00:02</update_from_db_time>
   <event>
-    <prime_street>M4C</prime_street>
+    <prime_street>M2J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-02 01:11:31</dispatch_time>
-    <event_num>F21009833</event_num>
+    <dispatch_time>2021-02-02 01:53:10</dispatch_time>
+    <event_num>F21009841</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M4T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 01:16:45</dispatch_time>
-    <event_num>F21009834</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
-  </event>
-  <event>
-    <prime_street>MILLWICK DR, NY</prime_street>
-    <cross_streets>MILVAN DR / MILVAN DR</cross_streets>
-    <dispatch_time>2021-02-02 01:20:08</dispatch_time>
-    <event_num>F21009835</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411, R413, A411, C41, R412</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 01:25:04</dispatch_time>
-    <event_num>F21009836</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 01:26:45</dispatch_time>
-    <event_num>F21009837</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>113</beat>
+    <units_disp> P113</units_disp>
   </event>
 </tfs_active_incidents>
