@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-02 14:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-02 15:25:02</update_from_db_time>
   <event>
     <prime_street>NANTUCKET BLVD, SC</prime_street>
     <cross_streets>MUNHAM GT / </cross_streets>
@@ -19,46 +19,86 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>421</beat>
-    <units_disp> A421, C42, R421, R423, P342, R133, A423, LA421, S445, R341</units_disp>
+    <units_disp> A421, C42, R421, R423, P342, R133, A423, LA421, S445, R341, C42</units_disp>
   </event>
   <event>
-    <prime_street>WALES AVE, TT</prime_street>
-    <cross_streets>BELLEVUE AVE / LEONARD AVE</cross_streets>
-    <dispatch_time>2021-02-02 14:20:06</dispatch_time>
-    <event_num>F21009979</event_num>
-    <event_type>Natural Gas Leak</event_type>
+    <prime_street>MIDLAND AVE, SC</prime_street>
+    <cross_streets>LORD ROBERTS DR / BROADBENT AVE</cross_streets>
+    <dispatch_time>2021-02-02 14:51:21</dispatch_time>
+    <event_num>F21009986</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> HZ326, P315, P324, C34</units_disp>
+    <beat>221</beat>
+    <units_disp> P221, P232, A231, C23, P223</units_disp>
   </event>
   <event>
-    <prime_street>VIRGINIA AVE, EY</prime_street>
-    <cross_streets>GLEBEMOUNT AVE / WOODMOUNT AVE</cross_streets>
-    <dispatch_time>2021-02-02 14:38:20</dispatch_time>
-    <event_num>F21009981</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224, HZ326, P324, C32</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-02 14:46:05</dispatch_time>
-    <event_num>F21009983</event_num>
+    <dispatch_time>2021-02-02 15:01:41</dispatch_time>
+    <event_num>F21009988</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-02 14:46:56</dispatch_time>
-    <event_num>F21009984</event_num>
+    <dispatch_time>2021-02-02 15:06:30</dispatch_time>
+    <event_num>F21009990</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P341CA</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>BAY ST / YORK ST</cross_streets>
+    <dispatch_time>2021-02-02 15:07:12</dispatch_time>
+    <event_num>F21009991</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P341CA, C33, HR332, P314, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>DYNAMIC DR, SC</prime_street>
+    <cross_streets>TURBINA AVE / PASSMORE AVE</cross_streets>
+    <dispatch_time>2021-02-02 15:11:57</dispatch_time>
+    <event_num>F21009992</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>211</beat>
+    <units_disp> P211, A213, C24, P242, R213</units_disp>
+  </event>
+  <event>
+    <prime_street>GLAMORGAN AVE, SC</prime_street>
+    <cross_streets>KENNEDY RD / DUNDALK DR</cross_streets>
+    <dispatch_time>2021-02-02 15:12:31</dispatch_time>
+    <event_num>F21009993</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245, P244, A244, P232, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-02 15:19:04</dispatch_time>
+    <event_num>F21009994</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-02 15:20:34</dispatch_time>
+    <event_num>F21009995</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
 </tfs_active_incidents>
