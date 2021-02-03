@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-03 08:30:03</update_from_db_time>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-03 07:48:33</dispatch_time>
-    <event_num>F21010185</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
-  </event>
+  <update_from_db_time>2021-02-03 08:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>WESTON RD / WALSH AVE</cross_streets>
@@ -22,13 +12,13 @@
     <units_disp> P146</units_disp>
   </event>
   <event>
-    <prime_street>YORK BLVD, NY</prime_street>
-    <cross_streets>IAN MACDONALD BLVD / IAN MACDONALD BLVD</cross_streets>
-    <dispatch_time>2021-02-03 08:26:46</dispatch_time>
-    <event_num>F21010191</event_num>
-    <event_type>Alarm - Institution - School</event_type>
+    <prime_street>SPADINA RD, TT</prime_street>
+    <cross_streets>ANNEX LANE / LOWTHER AVE</cross_streets>
+    <dispatch_time>2021-02-03 08:42:32</dispatch_time>
+    <event_num>F21010192</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> R411, P141, A142, C13, P142, R112</units_disp>
+    <beat>344</beat>
+    <units_disp> S313, P315</units_disp>
   </event>
 </tfs_active_incidents>
