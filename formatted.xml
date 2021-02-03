@@ -1,59 +1,9 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-03 10:25:02</update_from_db_time>
+  <update_from_db_time>2021-02-03 10:50:02</update_from_db_time>
   <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-03 09:46:57</dispatch_time>
-    <event_num>F21010206</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233, P123</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-03 09:54:12</dispatch_time>
-    <event_num>F21010208</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEBEC AVE, TT</prime_street>
-    <cross_streets>GOTHIC AVE / GOTHIC AVE</cross_streets>
-    <dispatch_time>2021-02-03 10:09:24</dispatch_time>
-    <event_num>F21010213</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423, C42, P422, R423, R425</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>ALEXDON RD / TANGIERS RD</cross_streets>
-    <dispatch_time>2021-02-03 10:11:56</dispatch_time>
-    <event_num>F21010214</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141, P143, A142, C14, P142</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-03 10:13:00</dispatch_time>
-    <event_num>F21010215</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>SUMACH ST / SHUTER ST</cross_streets>
+    <prime_street>SHUTER ST, TT</prime_street>
+    <cross_streets>SUMACH ST / SUMACH - SHUTER PARKETTE TRL</cross_streets>
     <dispatch_time>2021-02-03 10:14:23</dispatch_time>
     <event_num>F21010216</event_num>
     <event_type>Fire - Encampment</event_type>
@@ -62,33 +12,43 @@
     <units_disp> P325, A325, C31, P324, C32</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
+    <prime_street>M4E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-03 10:15:46</dispatch_time>
-    <event_num>F21010217</event_num>
+    <dispatch_time>2021-02-03 10:22:48</dispatch_time>
+    <event_num>F21010220</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-03 10:17:52</dispatch_time>
-    <event_num>F21010218</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>ANTRIM CRES, SC</prime_street>
+    <cross_streets>DUNDALK DR / </cross_streets>
+    <dispatch_time>2021-02-03 10:37:56</dispatch_time>
+    <event_num>F21010226</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P146</units_disp>
+    <beat>245</beat>
+    <units_disp> P245, P244, A244, C24, P232, R243</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
+    <prime_street>ROWNTREE RD, ET</prime_street>
+    <cross_streets>HUMBER RIVER RECREATIONAL TRL / </cross_streets>
+    <dispatch_time>2021-02-03 10:43:53</dispatch_time>
+    <event_num>F21010227</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> A415, C41, P415, R411, R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-03 10:18:27</dispatch_time>
-    <event_num>F21010219</event_num>
+    <dispatch_time>2021-02-03 10:44:01</dispatch_time>
+    <event_num>F21010228</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
 </tfs_active_incidents>
