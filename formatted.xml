@@ -1,84 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-02 20:00:02</update_from_db_time>
+  <update_from_db_time>2021-02-02 20:55:02</update_from_db_time>
   <event>
-    <prime_street>M1C</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-02 19:33:04</dispatch_time>
-    <event_num>F21010058</event_num>
+    <dispatch_time>2021-02-02 20:32:09</dispatch_time>
+    <event_num>F21010079</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
+    <beat>213</beat>
+    <units_disp> R243</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-02 19:36:09</dispatch_time>
-    <event_num>F21010059</event_num>
+    <dispatch_time>2021-02-02 20:40:58</dispatch_time>
+    <event_num>F21010080</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>243</beat>
+    <units_disp> P232</units_disp>
   </event>
   <event>
     <prime_street>M2M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-02 19:41:04</dispatch_time>
-    <event_num>F21010063</event_num>
+    <dispatch_time>2021-02-02 20:47:26</dispatch_time>
+    <event_num>F21010081</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>CORVETTE AVE / MERRIAN RD</cross_streets>
-    <dispatch_time>2021-02-02 19:44:20</dispatch_time>
-    <event_num>F21010065</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> A222, C22, P221, P223, P232, R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 19:47:16</dispatch_time>
-    <event_num>F21010066</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M5M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 19:47:21</dispatch_time>
-    <event_num>F21010067</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-02 19:50:21</dispatch_time>
-    <event_num>F21010068</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street>ST CLAIR AVE, SC</prime_street>
-    <cross_streets>BIRCHMOUNT RD / NORTH WOODROW BLVD</cross_streets>
-    <dispatch_time>2021-02-02 19:52:11</dispatch_time>
-    <event_num>F21010069</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222, R225, C22, P222, S232</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
