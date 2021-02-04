@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-04 01:25:01</update_from_db_time>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>DELAWARE AVE / DOVERCOURT RD</cross_streets>
-    <dispatch_time>2021-02-04 00:35:29</dispatch_time>
-    <event_num>F21010425</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> S331, P343, P315, A315, P342, C42, C34, P426, A345, C34</units_disp>
-  </event>
+  <update_from_db_time>2021-02-04 01:40:02</update_from_db_time>
   <event>
     <prime_street>YORKVILLE AVE, TT</prime_street>
     <cross_streets>HAZELTON AVE / AVENUE RD</cross_streets>
@@ -30,5 +20,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>111</beat>
     <units_disp> P111, P113, P114, R241, A113, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>WELLESLEY ST, TT</prime_street>
+    <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
+    <dispatch_time>2021-02-04 01:33:12</dispatch_time>
+    <event_num>F21010432</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313, P314, A325, C31, R325, HR332, P325, S313, T333</units_disp>
   </event>
 </tfs_active_incidents>
