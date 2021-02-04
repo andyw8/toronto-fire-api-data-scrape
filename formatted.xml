@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-04 03:25:02</update_from_db_time>
+  <update_from_db_time>2021-02-04 03:50:02</update_from_db_time>
   <event>
     <prime_street>ORDNANCE ST, TT</prime_street>
     <cross_streets> / STRACHAN AVE</cross_streets>
@@ -12,13 +12,13 @@
     <units_disp> A331, C33, P331, P334, P344</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-04 03:17:10</dispatch_time>
-    <event_num>F21010444</event_num>
+    <dispatch_time>2021-02-04 03:36:35</dispatch_time>
+    <event_num>F21010445</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
 </tfs_active_incidents>
