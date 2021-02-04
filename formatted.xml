@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-04 09:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-04 09:45:02</update_from_db_time>
   <event>
     <prime_street>M1H</prime_street>
     <cross_streets/>
@@ -12,23 +12,13 @@
     <units_disp> R231</units_disp>
   </event>
   <event>
-    <prime_street>MASSEY SQ, EY</prime_street>
-    <cross_streets>CRESCENT TOWN RD / CRESCENT TOWN RD</cross_streets>
-    <dispatch_time>2021-02-04 09:19:12</dispatch_time>
-    <event_num>F21010476</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M6C</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-04 09:20:28</dispatch_time>
-    <event_num>F21010477</event_num>
+    <dispatch_time>2021-02-04 09:28:00</dispatch_time>
+    <event_num>F21010478</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
