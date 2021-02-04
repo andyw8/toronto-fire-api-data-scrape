@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-04 15:25:02</update_from_db_time>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-04 14:52:47</dispatch_time>
-    <event_num>F21010568</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> A125</units_disp>
-  </event>
+  <update_from_db_time>2021-02-04 15:30:01</update_from_db_time>
   <event>
     <prime_street>YONGE ST, TT</prime_street>
     <cross_streets>ST JOSEPH ST / GLOUCESTER ST</cross_streets>
