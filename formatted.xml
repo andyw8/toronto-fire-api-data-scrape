@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-03 18:50:02</update_from_db_time>
-  <event>
-    <prime_street>VICTORIA ST, TT</prime_street>
-    <cross_streets>SHUTER ST / DUNDAS SQ</cross_streets>
-    <dispatch_time>2021-02-03 18:19:02</dispatch_time>
-    <event_num>F21010354</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>FRONT ST, TT</prime_street>
-    <cross_streets>UNIVERSITY AVE / LN W UNIVERSITY N FRONT</cross_streets>
-    <dispatch_time>2021-02-03 18:34:52</dispatch_time>
-    <event_num>F21010358</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P334, C33, HR332, P333, T333</units_disp>
-  </event>
+  <update_from_db_time>2021-02-03 19:50:02</update_from_db_time>
   <event>
     <prime_street>MAIN ST, TT</prime_street>
     <cross_streets>GERRARD ST E / STEPHENSON AVE</cross_streets>
@@ -30,25 +10,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> P234, P226, C22, HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ST CLAIR AVE E / DANFORTH RD</cross_streets>
-    <dispatch_time>2021-02-03 18:40:23</dispatch_time>
-    <event_num>F21010360</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>MAGNETIC DR, NY</prime_street>
-    <cross_streets>DOLOMITE DR / ALNESS ST</cross_streets>
-    <dispatch_time>2021-02-03 18:42:38</dispatch_time>
-    <event_num>F21010361</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141, P143, A142, C14, R112</units_disp>
   </event>
 </tfs_active_incidents>
