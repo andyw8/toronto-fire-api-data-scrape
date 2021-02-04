@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-04 02:30:03</update_from_db_time>
+  <update_from_db_time>2021-02-04 02:45:02</update_from_db_time>
   <event>
     <prime_street>YORKVILLE AVE, TT</prime_street>
     <cross_streets>HAZELTON AVE / AVENUE RD</cross_streets>
@@ -12,13 +12,23 @@
     <units_disp> P312, P314, A315, C31, P313</units_disp>
   </event>
   <event>
-    <prime_street>M4J</prime_street>
+    <prime_street>M4M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-04 02:14:20</dispatch_time>
-    <event_num>F21010439</event_num>
+    <dispatch_time>2021-02-04 02:31:25</dispatch_time>
+    <event_num>F21010440</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M2M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-04 02:33:46</dispatch_time>
+    <event_num>F21010441</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
 </tfs_active_incidents>
