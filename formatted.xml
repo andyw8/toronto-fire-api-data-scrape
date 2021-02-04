@@ -1,24 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-04 06:25:02</update_from_db_time>
+  <update_from_db_time>2021-02-04 06:55:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-04 04:26:00</dispatch_time>
-    <event_num>F21010450</event_num>
-    <event_type>Hazmat Level 2</event_type>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-04 06:47:22</dispatch_time>
+    <event_num>F21010456</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> C11, HZ145, P113, P116, HS145</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-04 06:04:02</dispatch_time>
-    <event_num>F21010454</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A441, R441</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
