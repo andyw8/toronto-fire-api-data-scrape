@@ -1,64 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-04 17:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-04 18:20:02</update_from_db_time>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets>KENNEDY RD / SHEPPARD AVE E</cross_streets>
+    <dispatch_time>2021-02-04 17:49:57</dispatch_time>
+    <event_num>F21010619</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-04 17:22:44</dispatch_time>
-    <event_num>F21010609</event_num>
+    <dispatch_time>2021-02-04 17:51:18</dispatch_time>
+    <event_num>F21010620</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
   <event>
     <prime_street>BAYVIEW AVE, NY</prime_street>
-    <cross_streets>STRATFORD PARK TRL / STRATFORD PARK TRL</cross_streets>
-    <dispatch_time>2021-02-04 17:26:49</dispatch_time>
-    <event_num>F21010611</event_num>
-    <event_type>Alarm Institution</event_type>
+    <cross_streets>TEAGARDEN CRT / SPRING GARDEN AVE</cross_streets>
+    <dispatch_time>2021-02-04 18:05:51</dispatch_time>
+    <event_num>F21010625</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> A125, C13, P131, R122, R134, R321</units_disp>
+    <beat>116</beat>
+    <units_disp> P116, S143</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>HOWDEN RD / BIRCHMOUNT RD</cross_streets>
-    <dispatch_time>2021-02-04 17:31:03</dispatch_time>
-    <event_num>F21010613</event_num>
+    <prime_street>LASCELLES BLVD, TT</prime_street>
+    <cross_streets>WILBERTON RD / KILBARRY RD</cross_streets>
+    <dispatch_time>2021-02-04 18:07:03</dispatch_time>
+    <event_num>F21010626</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> A222, C23, P222, P232, P233, P245</units_disp>
+    <beat>311</beat>
+    <units_disp> P311, P343, A135, C13, P135</units_disp>
   </event>
   <event>
-    <prime_street>MADISON AVE, TT</prime_street>
-    <cross_streets>BERNARD AVE / DUPONT ST</cross_streets>
-    <dispatch_time>2021-02-04 17:44:08</dispatch_time>
-    <event_num>F21010615</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>BIGGIN CRT, NY</prime_street>
+    <cross_streets>VICTORIA PARK AVE / </cross_streets>
+    <dispatch_time>2021-02-04 18:10:02</dispatch_time>
+    <event_num>F21010627</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P312, A315, C31, P315, R345</units_disp>
+    <beat>235</beat>
+    <units_disp> P233</units_disp>
   </event>
   <event>
-    <prime_street>M3J</prime_street>
+    <prime_street>BIGGIN CRT, NY</prime_street>
+    <cross_streets>VICTORIA PARK AVE / </cross_streets>
+    <dispatch_time>2021-02-04 18:15:31</dispatch_time>
+    <event_num>F21010628</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> P222, R224, P125, A222, P221, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-04 17:44:10</dispatch_time>
-    <event_num>F21010616</event_num>
+    <dispatch_time>2021-02-04 18:16:19</dispatch_time>
+    <event_num>F21010629</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>ALEXANDER ST, TT</prime_street>
-    <cross_streets>ALEXANDER STREET PARKETTE TRL / DONNA SHAW LANE</cross_streets>
-    <dispatch_time>2021-02-04 17:46:57</dispatch_time>
-    <event_num>F21010617</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, P313, A325, C33, P325</units_disp>
+    <beat>125</beat>
+    <units_disp> A125</units_disp>
   </event>
 </tfs_active_incidents>
