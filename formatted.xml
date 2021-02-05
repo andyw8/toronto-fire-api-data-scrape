@@ -1,74 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-05 03:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-05 03:50:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-05 02:26:17</dispatch_time>
-    <event_num>F21010744</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> C23, P244, R243</units_disp>
-  </event>
-  <event>
-    <prime_street>BRIMLEY RD, SC</prime_street>
-    <cross_streets>BLUFFER'S PARK TRL / BARKDENE HILLS</cross_streets>
-    <dispatch_time>2021-02-05 02:33:19</dispatch_time>
-    <event_num>F21010745</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> R231, P223, A222, C22, P221, R225</units_disp>
-  </event>
-  <event>
-    <prime_street>DENFIELD ST, ET</prime_street>
-    <cross_streets>CLEMENT RD / WIDDICOMBE HILL BLVD</cross_streets>
-    <dispatch_time>2021-02-05 02:38:20</dispatch_time>
-    <event_num>F21010747</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> R441, P443, A421, C44, P445, R444</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-05 03:05:20</dispatch_time>
-    <event_num>F21010752</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>WELLESLEY ST, TT</prime_street>
-    <cross_streets>ONTARIO ST / ROSE AVE</cross_streets>
-    <dispatch_time>2021-02-05 03:11:49</dispatch_time>
-    <event_num>F21010754</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> A325, C31, P313, P314, P325</units_disp>
-  </event>
-  <event>
-    <prime_street>GLENGARRY AVE, TT</prime_street>
-    <cross_streets>JEDBURGH RD / GREER RD</cross_streets>
-    <dispatch_time>2021-02-05 03:14:21</dispatch_time>
-    <event_num>F21010755</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131, R134, A135, C13, P135</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-05 03:14:47</dispatch_time>
-    <event_num>F21010756</event_num>
+    <dispatch_time>2021-02-05 03:31:11</dispatch_time>
+    <event_num>F21010758</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P312</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>DIXON RD, ET</prime_street>
+    <cross_streets>CHETTA PL / DIXON PARK TRL</cross_streets>
+    <dispatch_time>2021-02-05 03:33:29</dispatch_time>
+    <event_num>F21010759</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441, P443, A415, C41, P415</units_disp>
   </event>
 </tfs_active_incidents>
