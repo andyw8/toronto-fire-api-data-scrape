@@ -1,74 +1,94 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-04 19:55:02</update_from_db_time>
+  <update_from_db_time>2021-02-04 20:45:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>ROBINGLADE DR / WEST DEANE PARK DR</cross_streets>
-    <dispatch_time>2021-02-04 19:27:20</dispatch_time>
-    <event_num>F21010657</event_num>
-    <event_type>Natural Gas Leak</event_type>
+    <prime_street>KELFIELD ST, ET</prime_street>
+    <cross_streets>HEPC / </cross_streets>
+    <dispatch_time>2021-02-04 20:01:44</dispatch_time>
+    <event_num>F21010668</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P433, C44, P445, HZ145</units_disp>
+    <beat>441</beat>
+    <units_disp> A415, C41, P415, R441, R444</units_disp>
   </event>
   <event>
-    <prime_street>GERRARD ST, TT</prime_street>
-    <cross_streets>HOWLAND RD / LOGAN AVE</cross_streets>
-    <dispatch_time>2021-02-04 19:34:12</dispatch_time>
-    <event_num>F21010660</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>AVENUE RD, NY</prime_street>
+    <cross_streets>RIDLEY BLVD / WILSON AVE</cross_streets>
+    <dispatch_time>2021-02-04 20:08:16</dispatch_time>
+    <event_num>F21010670</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> A324, C32, P323, P324, P325</units_disp>
+    <beat>121</beat>
+    <units_disp> C13, P131, P132, R122, T114</units_disp>
   </event>
   <event>
-    <prime_street>M3B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-04 19:36:20</dispatch_time>
-    <event_num>F21010661</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>PARK LAWN RD, ET</prime_street>
+    <cross_streets>LAKE SHORE BLVD W / GARDINER E PARK LAWN RD RAMP</cross_streets>
+    <dispatch_time>2021-02-04 20:17:42</dispatch_time>
+    <event_num>F21010674</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M4X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-04 19:37:45</dispatch_time>
-    <event_num>F21010662</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-04 19:38:37</dispatch_time>
-    <event_num>F21010663</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113</units_disp>
+    <beat>433</beat>
+    <units_disp> A433, C43, P431, P433, R425, R435</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>KENNEDY RD / SHEPPARD AVE E</cross_streets>
-    <dispatch_time>2021-02-04 19:46:44</dispatch_time>
-    <event_num>F21010664</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <cross_streets>SANDWELL DR / MARTIN GROVE RD</cross_streets>
+    <dispatch_time>2021-02-04 20:23:15</dispatch_time>
+    <event_num>F21010676</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P245</units_disp>
+    <beat>441</beat>
+    <units_disp> P443, P415, A415, C41, R444, A421</units_disp>
   </event>
   <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>401 C W KENNEDY RD S RAMP / VILLAGE GREEN SQ</cross_streets>
-    <dispatch_time>2021-02-04 19:51:47</dispatch_time>
-    <event_num>F21010665</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M6C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-04 20:30:35</dispatch_time>
+    <event_num>F21010678</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-04 20:32:11</dispatch_time>
+    <event_num>F21010679</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DUPONT ST / DUFFERIN ST</cross_streets>
+    <dispatch_time>2021-02-04 20:33:34</dispatch_time>
+    <event_num>F21010680</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>RUSHBROOKE AVE / CURZON ST</cross_streets>
+    <dispatch_time>2021-02-04 20:38:30</dispatch_time>
+    <event_num>F21010681</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>326</beat>
+    <units_disp> A324, C32, P323, P324, P227</units_disp>
+  </event>
+  <event>
+    <prime_street>M5R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-04 20:41:03</dispatch_time>
+    <event_num>F21010682</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
