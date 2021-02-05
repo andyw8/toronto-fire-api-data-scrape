@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-05 09:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-05 09:30:02</update_from_db_time>
   <event>
     <prime_street>DIXON RD, ET</prime_street>
     <cross_streets>KENTROYAL DR / ROXALINE ST</cross_streets>
@@ -32,36 +32,6 @@
     <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-05 09:03:25</dispatch_time>
-    <event_num>F21010824</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-05 09:04:53</dispatch_time>
-    <event_num>F21010825</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-05 09:06:38</dispatch_time>
-    <event_num>F21010826</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
     <prime_street>FOLLIS AVE, TT</prime_street>
     <cross_streets>OLD CROOKSHANK'S LANE / MARKHAM ST</cross_streets>
     <dispatch_time>2021-02-05 09:08:14</dispatch_time>
@@ -82,16 +52,6 @@
     <units_disp> T114</units_disp>
   </event>
   <event>
-    <prime_street>GILDER DR, SC</prime_street>
-    <cross_streets>MIDLAND AVE / EGLINTON AVE E</cross_streets>
-    <dispatch_time>2021-02-05 09:10:57</dispatch_time>
-    <event_num>F21010829</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221, P232, A231, C23, R231</units_disp>
-  </event>
-  <event>
     <prime_street>M4L</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-05 09:14:16</dispatch_time>
@@ -110,5 +70,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>421</beat>
     <units_disp> R341, R421, A421, C42, P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-05 09:19:39</dispatch_time>
+    <event_num>F21010832</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-05 09:22:10</dispatch_time>
+    <event_num>F21010833</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-05 09:26:17</dispatch_time>
+    <event_num>F21010834</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
   </event>
 </tfs_active_incidents>
