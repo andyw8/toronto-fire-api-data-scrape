@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-05 08:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-05 08:45:02</update_from_db_time>
   <event>
     <prime_street>DIXON RD, ET</prime_street>
     <cross_streets>KENTROYAL DR / ROXALINE ST</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> A142, P141, P142, P143, R133, C14, A411, LA421, R413, C11, HR114, HZ145, P114, P132, P145, REHAB01, S445, T114, C41, P415, R421, R441, T333, C10, P116, CMD10, R441</units_disp>
   </event>
   <event>
-    <prime_street>HUPFIELD TRL, SC</prime_street>
-    <cross_streets>MCLEVIN AVE / HORSESHOE CRES</cross_streets>
-    <dispatch_time>2021-02-05 08:09:31</dispatch_time>
-    <event_num>F21010811</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-05 08:10:46</dispatch_time>
-    <event_num>F21010812</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
-  </event>
-  <event>
     <prime_street>M5V</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-05 08:22:12</dispatch_time>
@@ -50,5 +30,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>334</beat>
     <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-05 08:34:48</dispatch_time>
+    <event_num>F21010815</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-05 08:34:55</dispatch_time>
+    <event_num>F21010816</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> T333, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M5R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-05 08:36:14</dispatch_time>
+    <event_num>F21010817</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-05 08:38:35</dispatch_time>
+    <event_num>F21010818</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M2K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-05 08:41:11</dispatch_time>
+    <event_num>F21010819</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
   </event>
 </tfs_active_incidents>
