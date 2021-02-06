@@ -1,24 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-05 22:35:01</update_from_db_time>
+  <update_from_db_time>2021-02-05 22:50:02</update_from_db_time>
   <event>
-    <prime_street>SHORE BREEZE DR, ET</prime_street>
-    <cross_streets>ANNIE CRAIG DR / CROW'S BEACH LANE</cross_streets>
-    <dispatch_time>2021-02-05 21:39:20</dispatch_time>
-    <event_num>F21011075</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-05 22:37:00</dispatch_time>
+    <event_num>F21011082</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> R435, HZ326</units_disp>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
   </event>
   <event>
-    <prime_street>WESTON RD, YK</prime_street>
-    <cross_streets>JUSTICE GDNS / CONRON PL</cross_streets>
-    <dispatch_time>2021-02-05 21:58:48</dispatch_time>
-    <event_num>F21011078</event_num>
-    <event_type>Hazmat Level 2</event_type>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-05 22:38:24</dispatch_time>
+    <event_num>F21011083</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, A213, C41, HZ145</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>M5S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-05 22:42:25</dispatch_time>
+    <event_num>F21011084</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
