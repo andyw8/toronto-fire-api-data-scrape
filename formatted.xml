@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-06 17:20:02</update_from_db_time>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-06 16:56:44</dispatch_time>
-    <event_num>F21011308</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
+  <update_from_db_time>2021-02-06 17:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>HUMBERLINE DR / WOODLOT CRES</cross_streets>
@@ -32,13 +22,23 @@
     <units_disp> R224</units_disp>
   </event>
   <event>
-    <prime_street>TREFANN ST, TT</prime_street>
-    <cross_streets>QUEEN ST E / LN N QUEEN E PARLIAMENT</cross_streets>
-    <dispatch_time>2021-02-06 17:14:31</dispatch_time>
-    <event_num>F21011312</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-06 17:20:12</dispatch_time>
+    <event_num>F21011313</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M3L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-06 17:24:27</dispatch_time>
+    <event_num>F21011314</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
   </event>
 </tfs_active_incidents>
