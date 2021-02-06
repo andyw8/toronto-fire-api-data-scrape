@@ -1,64 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-06 12:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-06 12:50:02</update_from_db_time>
   <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-06 11:48:04</dispatch_time>
-    <event_num>F21011215</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>GLOUCESTER ST, TT</prime_street>
+    <cross_streets>CHURCH ST / JARVIS ST</cross_streets>
+    <dispatch_time>2021-02-06 12:31:42</dispatch_time>
+    <event_num>F21011226</event_num>
+    <event_type>Hazmat Level 2</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <beat>313</beat>
+    <units_disp> P145, P312, C31, HZ326, HZ326</units_disp>
   </event>
   <event>
-    <prime_street>M1C</prime_street>
+    <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-06 12:15:18</dispatch_time>
-    <event_num>F21011220</event_num>
+    <dispatch_time>2021-02-06 12:35:47</dispatch_time>
+    <event_num>F21011227</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
+    <prime_street>M5R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-06 12:19:03</dispatch_time>
-    <event_num>F21011221</event_num>
+    <dispatch_time>2021-02-06 12:38:54</dispatch_time>
+    <event_num>F21011228</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
+    <beat>344</beat>
+    <units_disp> P315</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M8Z</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-06 12:24:46</dispatch_time>
-    <event_num>F21011222</event_num>
+    <dispatch_time>2021-02-06 12:39:37</dispatch_time>
+    <event_num>F21011229</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
   </event>
   <event>
-    <prime_street>FINCH AVE, SC</prime_street>
-    <cross_streets>VICTORIA PARK AVE / PHARMACY AVE</cross_streets>
-    <dispatch_time>2021-02-06 12:26:26</dispatch_time>
-    <event_num>F21011223</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113, A113, C11, P244, P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
+    <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-06 12:26:56</dispatch_time>
-    <event_num>F21011224</event_num>
+    <dispatch_time>2021-02-06 12:40:30</dispatch_time>
+    <event_num>F21011230</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P245</units_disp>
+    <beat>415</beat>
+    <units_disp> A415</units_disp>
   </event>
 </tfs_active_incidents>
