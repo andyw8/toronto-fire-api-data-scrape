@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-06 16:20:02</update_from_db_time>
-  <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>KINGSTON RD / FLORIST LANE</cross_streets>
-    <dispatch_time>2021-02-06 14:26:53</dispatch_time>
-    <event_num>F21011262</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>234</beat>
-    <units_disp> R214, A215, C21, P212, P221, P232, A213, A231, C23, LA231, P242, R213, R231, R243, HR114, HZ326, S313, C20, CMD10, C23, S232</units_disp>
-  </event>
+  <update_from_db_time>2021-02-06 16:25:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>JANE ST / SPENVALLEY DR</cross_streets>
@@ -32,16 +22,6 @@
     <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-06 16:10:17</dispatch_time>
-    <event_num>F21011298</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
     <prime_street>DIXON RD, ET</prime_street>
     <cross_streets>CHETTA PL / DIXON PARK TRL</cross_streets>
     <dispatch_time>2021-02-06 16:15:37</dispatch_time>
@@ -60,5 +40,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
     <units_disp> A415</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-06 16:18:56</dispatch_time>
+    <event_num>F21011301</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
   </event>
 </tfs_active_incidents>
