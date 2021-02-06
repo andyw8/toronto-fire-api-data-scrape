@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-05 21:25:02</update_from_db_time>
+  <update_from_db_time>2021-02-05 21:40:02</update_from_db_time>
   <event>
     <prime_street>DUFFERIN ST, NY</prime_street>
     <cross_streets>STANSTEAD DR / FINCH AVE W</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> P233</units_disp>
   </event>
   <event>
-    <prime_street>KING ST, TT</prime_street>
-    <cross_streets>YORK ST / UNIVERSITY AVE</cross_streets>
-    <dispatch_time>2021-02-05 21:14:27</dispatch_time>
-    <event_num>F21011070</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P334, HR332, C33, P333, T333</units_disp>
-  </event>
-  <event>
     <prime_street>WESTON RD, NY</prime_street>
     <cross_streets>HUMBER RIVER RECREATIONAL TRL / SHEPPARD AVE W</cross_streets>
     <dispatch_time>2021-02-05 21:18:56</dispatch_time>
@@ -52,13 +42,23 @@
     <units_disp> R411, P142, A411, C14, P146</units_disp>
   </event>
   <event>
-    <prime_street>M4C</prime_street>
+    <prime_street>M4S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-05 21:19:40</dispatch_time>
-    <event_num>F21011072</event_num>
+    <dispatch_time>2021-02-05 21:23:49</dispatch_time>
+    <event_num>F21011073</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>KENNEDY RD, SC</prime_street>
+    <cross_streets>401 C W KENNEDY RD S RAMP / VILLAGE GREEN SQ</cross_streets>
+    <dispatch_time>2021-02-05 21:31:49</dispatch_time>
+    <event_num>F21011074</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244, R243, A244, C24, P242</units_disp>
   </event>
 </tfs_active_incidents>
