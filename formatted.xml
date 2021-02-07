@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-07 16:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-07 16:30:02</update_from_db_time>
   <event>
     <prime_street>M5J</prime_street>
     <cross_streets/>
@@ -10,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>335</beat>
     <units_disp> FB334, P335, V335</units_disp>
-  </event>
-  <event>
-    <prime_street>M4H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-07 16:03:42</dispatch_time>
-    <event_num>F21011616</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-07 16:05:51</dispatch_time>
-    <event_num>F21011617</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
   </event>
   <event>
     <prime_street>M3A</prime_street>
@@ -60,5 +40,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>311</beat>
     <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>WINEVA AVE, TT</prime_street>
+    <cross_streets>HUBBARD BLVD / VIOLET AVE</cross_streets>
+    <dispatch_time>2021-02-07 16:27:00</dispatch_time>
+    <event_num>F21011621</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
   </event>
 </tfs_active_incidents>
