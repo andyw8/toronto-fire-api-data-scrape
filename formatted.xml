@@ -1,44 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-07 17:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-07 18:20:02</update_from_db_time>
   <event>
-    <prime_street>M1H</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-07 17:14:21</dispatch_time>
-    <event_num>F21011640</event_num>
+    <dispatch_time>2021-02-07 17:54:42</dispatch_time>
+    <event_num>F21011652</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231</units_disp>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-07 17:24:33</dispatch_time>
-    <event_num>F21011643</event_num>
+    <dispatch_time>2021-02-07 18:04:54</dispatch_time>
+    <event_num>F21011655</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> HZ326</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>LEXINGTON AVE, ET</prime_street>
-    <cross_streets>SILVERSTONE DR / HELMSDALE CRES</cross_streets>
-    <dispatch_time>2021-02-07 17:35:02</dispatch_time>
-    <event_num>F21011648</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>JANE ST / LAWRENCE AVE W</cross_streets>
+    <dispatch_time>2021-02-07 18:08:50</dispatch_time>
+    <event_num>F21011657</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> A415, C41, P415, R411, R412, R413</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>LEE CENTRE DR, SC</prime_street>
-    <cross_streets>CORPORATE DR / CORPORATE DR</cross_streets>
-    <dispatch_time>2021-02-07 17:46:30</dispatch_time>
-    <event_num>F21011650</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-07 18:10:10</dispatch_time>
+    <event_num>F21011658</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> A231, P232, P245, R243, C23</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-07 18:14:09</dispatch_time>
+    <event_num>F21011659</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> A133</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ALBION RD / ELMHURST DR</cross_streets>
+    <dispatch_time>2021-02-07 18:16:12</dispatch_time>
+    <event_num>F21011660</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> R413, S445, C41, P415</units_disp>
   </event>
 </tfs_active_incidents>
