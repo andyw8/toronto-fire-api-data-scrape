@@ -1,74 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-06 19:55:02</update_from_db_time>
-  <event>
-    <prime_street>HUMBER BLVD, YK</prime_street>
-    <cross_streets>ALLIANCE AVE / HILLDALE RD</cross_streets>
-    <dispatch_time>2021-02-06 19:18:35</dispatch_time>
-    <event_num>F21011347</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> P422, R423, A423, C42, P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-06 19:25:23</dispatch_time>
-    <event_num>F21011352</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
+  <update_from_db_time>2021-02-06 20:45:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, SC</prime_street>
-    <cross_streets>HEPC / MIDLAND AVE</cross_streets>
-    <dispatch_time>2021-02-06 19:32:38</dispatch_time>
-    <event_num>F21011354</event_num>
-    <event_type>Water Problem</event_type>
+    <cross_streets>CENTRE ST / MARKHAM RD</cross_streets>
+    <dispatch_time>2021-02-06 20:13:16</dispatch_time>
+    <event_num>F21011363</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> A222, P221</units_disp>
+    <beat>223</beat>
+    <units_disp> A231, C23, P221, P223, R231</units_disp>
+  </event>
+  <event>
+    <prime_street>M3L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-06 20:35:11</dispatch_time>
+    <event_num>F21011368</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
   </event>
   <event>
     <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-06 19:41:41</dispatch_time>
-    <event_num>F21011356</event_num>
+    <dispatch_time>2021-02-06 20:41:06</dispatch_time>
+    <event_num>F21011369</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-06 19:48:02</dispatch_time>
-    <event_num>F21011357</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-06 19:48:44</dispatch_time>
-    <event_num>F21011358</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
-  </event>
-  <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-06 19:49:33</dispatch_time>
-    <event_num>F21011359</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
