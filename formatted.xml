@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-07 06:30:02</update_from_db_time>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-07 05:59:27</dispatch_time>
-    <event_num>F21011477</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-07 06:12:49</dispatch_time>
-    <event_num>F21011481</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142</units_disp>
-  </event>
-  <event>
-    <prime_street>INDIAN RD, TT</prime_street>
-    <cross_streets>KENNETH AVE / HUMBERSIDE AVE</cross_streets>
-    <dispatch_time>2021-02-07 06:21:37</dispatch_time>
-    <event_num>F21011482</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423, C42, R423, R425, R345</units_disp>
-  </event>
+  <update_from_db_time>2021-02-07 06:45:02</update_from_db_time>
   <event>
     <prime_street>M2J</prime_street>
     <cross_streets/>
@@ -40,5 +10,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>113</beat>
     <units_disp> P113</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-07 06:30:13</dispatch_time>
+    <event_num>F21011484</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR AVE, TT</prime_street>
+    <cross_streets>YONGE ST / DEER PARK CRES</cross_streets>
+    <dispatch_time>2021-02-07 06:40:00</dispatch_time>
+    <event_num>F21011485</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311, P312, C31, P314, A135</units_disp>
+  </event>
+  <event>
+    <prime_street>M3L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-07 06:41:00</dispatch_time>
+    <event_num>F21011486</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
   </event>
 </tfs_active_incidents>
