@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-07 02:30:02</update_from_db_time>
-  <event>
-    <prime_street>M1H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-07 02:16:30</dispatch_time>
-    <event_num>F21011446</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R231, R413, R413</units_disp>
-  </event>
+  <update_from_db_time>2021-02-07 02:45:02</update_from_db_time>
   <event>
     <prime_street>THORNMOUNT DR, SC</prime_street>
     <cross_streets>VENTURE DR / WATER TOWER GT</cross_streets>
@@ -20,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>212</beat>
     <units_disp> R213</units_disp>
-  </event>
-  <event>
-    <prime_street>M5N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-07 02:21:54</dispatch_time>
-    <event_num>F21011448</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P135</units_disp>
   </event>
   <event>
     <prime_street>M4C</prime_street>
