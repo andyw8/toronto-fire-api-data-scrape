@@ -1,104 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-06 22:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-06 23:25:02</update_from_db_time>
   <event>
-    <prime_street>SHENDALE DR, ET</prime_street>
-    <cross_streets>ALBION RD / BEMBERG CRT</cross_streets>
-    <dispatch_time>2021-02-06 22:04:15</dispatch_time>
-    <event_num>F21011391</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-06 22:07:26</dispatch_time>
-    <event_num>F21011394</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>BOWMAN ST, TT</prime_street>
-    <cross_streets>CARLTON ST / SACKVILLE PL</cross_streets>
-    <dispatch_time>2021-02-06 22:15:05</dispatch_time>
-    <event_num>F21011395</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A324, C31, P313, P324, P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-06 22:16:42</dispatch_time>
-    <event_num>F21011397</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-06 22:19:50</dispatch_time>
-    <event_num>F21011399</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>FLAXMAN RD, NY</prime_street>
-    <cross_streets>FLINDON RD / LOUISE RUSSO PARK TRL</cross_streets>
-    <dispatch_time>2021-02-06 22:26:07</dispatch_time>
-    <event_num>F21011402</event_num>
+    <prime_street>MACK AVE, SC</prime_street>
+    <cross_streets>WARDEN AVE / ELBA AVE</cross_streets>
+    <dispatch_time>2021-02-06 23:02:21</dispatch_time>
+    <event_num>F21011412</event_num>
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> R411, A142, P142, P146, C41, P442</units_disp>
+    <beat>225</beat>
+    <units_disp> P222, P223, P226, R225, A222, C22</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-06 22:35:27</dispatch_time>
-    <event_num>F21011405</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
-  </event>
-  <event>
-    <prime_street>LAKE SHORE BLVD, ET</prime_street>
-    <cross_streets>DOUGLAS BLVD / QUEENS AVE</cross_streets>
-    <dispatch_time>2021-02-06 22:41:00</dispatch_time>
-    <event_num>F21011407</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> A433, C43, P431, R434, R435</units_disp>
-  </event>
-  <event>
-    <prime_street>DAVENPORT RD, TT</prime_street>
-    <cross_streets>LAUGHTON AVE / LN W LAUGHTON N DAVENPORT</cross_streets>
-    <dispatch_time>2021-02-06 22:41:51</dispatch_time>
-    <event_num>F21011408</event_num>
+    <prime_street> </prime_street>
+    <cross_streets>BAYVIEW AVE / FIFESHIRE RD</cross_streets>
+    <dispatch_time>2021-02-06 23:19:52</dispatch_time>
+    <event_num>F21011413</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M4T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-06 22:45:14</dispatch_time>
-    <event_num>F21011409</event_num>
+    <dispatch_time>2021-02-06 23:19:23</dispatch_time>
+    <event_num>F21011414</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
 </tfs_active_incidents>
