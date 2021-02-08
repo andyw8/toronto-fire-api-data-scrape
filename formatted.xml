@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-07 22:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-07 23:25:02</update_from_db_time>
   <event>
     <prime_street>PENNYHILL DR, SC</prime_street>
     <cross_streets>VIOLA DESMOND PARK TRL / TROUTBECK AVE</cross_streets>
@@ -9,67 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
-    <units_disp> A213, C21, P211, P212, P242, R243, A231, A215, R214, C24, LA231, P232, R213, R231, S232, HZ326, CMD10, C20, C23, C22, LA111, R115, P222, LA231</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-07 22:08:30</dispatch_time>
-    <event_num>F21011717</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-07 22:27:33</dispatch_time>
-    <event_num>F21011720</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>VAUGHAN RD, YK</prime_street>
-    <cross_streets>LN N ST CLAIR E VAUGHAN / LOUISE AVE</cross_streets>
-    <dispatch_time>2021-02-07 22:30:51</dispatch_time>
-    <event_num>F21011721</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> S331, P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-07 22:36:48</dispatch_time>
-    <event_num>F21011722</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>GALLOWAY RD / ANDOVER CRES</cross_streets>
-    <dispatch_time>2021-02-07 22:42:28</dispatch_time>
-    <event_num>F21011723</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> R214, P234, P223, A231, C23, P212</units_disp>
-  </event>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-07 22:43:02</dispatch_time>
-    <event_num>F21011724</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> PL432</units_disp>
+    <units_disp> A213, C21, P211, P212, P242, R243, A231, A215, R214, C24, LA231, P232, R213, R231, S232, HZ326, CMD10, C20, C23, C22, LA111, R115, P222, LA231, P113, C21</units_disp>
   </event>
   <event>
     <prime_street>CABANA DR, NY</prime_street>
@@ -80,5 +20,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>411</beat>
     <units_disp> R411, R413, A415, C41, P415, R412</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-07 23:19:43</dispatch_time>
+    <event_num>F21011730</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
