@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-08 01:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-08 02:15:02</update_from_db_time>
   <event>
     <prime_street>PENNYHILL DR, SC</prime_street>
     <cross_streets>VIOLA DESMOND PARK TRL / TROUTBECK AVE</cross_streets>
@@ -9,77 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
-    <units_disp> A213, C21, P211, P212, P242, R243, A231, A215, R214, C24, LA231, P232, R213, R231, S232, HZ326, CMD10, C20, C23, C22, LA111, R115, P222, LA231, P113, C21, P233</units_disp>
-  </event>
-  <event>
-    <prime_street>OSSINGTON AVE, TT</prime_street>
-    <cross_streets>CARUS AVE / MARCHMOUNT RD</cross_streets>
-    <dispatch_time>2021-02-07 23:39:51</dispatch_time>
-    <event_num>F21011735</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> A345, P343, P342, R341, R345, C34, LA421, LA333</units_disp>
-  </event>
-  <event>
-    <prime_street>BRIDLETOWNE CRCL, SC</prime_street>
-    <cross_streets>L'AMOREAUX DR / ECHO POINT</cross_streets>
-    <dispatch_time>2021-02-08 01:26:59</dispatch_time>
-    <event_num>F21011744</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241, P244, A244, C24, P242, P113</units_disp>
-  </event>
-  <event>
-    <prime_street>M3B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 01:30:15</dispatch_time>
-    <event_num>F21011745</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 01:32:33</dispatch_time>
-    <event_num>F21011746</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 01:41:25</dispatch_time>
-    <event_num>F21011747</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 01:41:59</dispatch_time>
-    <event_num>F21011748</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 01:45:01</dispatch_time>
-    <event_num>F21011749</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <units_disp> A213, C21, P211, P212, P242, R243, A231, A215, R214, C24, LA231, P232, R213, R231, S232, HZ326, CMD10, C20, C23, C22, LA111, R115, P222, LA231, P113, C21, P233, R241</units_disp>
   </event>
   <event>
     <prime_street>M9V</prime_street>
@@ -90,5 +20,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
     <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>PARKCREST DR, SC</prime_street>
+    <cross_streets>ANNIS RD / KINGSTON RD</cross_streets>
+    <dispatch_time>2021-02-08 01:53:57</dispatch_time>
+    <event_num>F21011751</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223, P234, A231, C23, R231</units_disp>
+  </event>
+  <event>
+    <prime_street>M5P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-08 01:55:25</dispatch_time>
+    <event_num>F21011752</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>CLANTON PARK RD, NY</prime_street>
+    <cross_streets>FAYWOOD BLVD / BRETT AVE</cross_streets>
+    <dispatch_time>2021-02-08 02:00:03</dispatch_time>
+    <event_num>F21011754</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P143, P145, C13, R112, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-08 02:03:44</dispatch_time>
+    <event_num>F21011755</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-08 02:09:16</dispatch_time>
+    <event_num>F21011756</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
   </event>
 </tfs_active_incidents>
