@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-08 11:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-08 12:10:03</update_from_db_time>
   <event>
     <prime_street>PENNYHILL DR, SC</prime_street>
     <cross_streets>VIOLA DESMOND PARK TRL / TROUTBECK AVE</cross_streets>
@@ -9,27 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
-    <units_disp> A213, C21, P211, P212, P242, R243, A231, A215, R214, C24, LA231, P232, R213, R231, S232, HZ326, CMD10, C20, C23, C22, LA111, R115, P222, LA231, P113, C21, P233, R241, P244, R213, P212, A213, C21, P211, R213, R243, S232, LA231, R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 11:20:02</dispatch_time>
-    <event_num>F21011864</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 11:24:04</dispatch_time>
-    <event_num>F21011865</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <units_disp> A213, C21, P211, P212, P242, R243, A231, A215, R214, C24, LA231, P232, R213, R231, S232, HZ326, CMD10, C20, C23, C22, LA111, R115, P222, LA231, P113, C21, P233, R241, P244, R213, P212, A213, C21, P211, R213, R243, S232, LA231, R214, A215</units_disp>
   </event>
   <event>
     <prime_street>M2K</prime_street>
@@ -42,16 +22,6 @@
     <units_disp> P116</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>ELM GROVE AVE / BROCK AVE</cross_streets>
-    <dispatch_time>2021-02-08 11:30:15</dispatch_time>
-    <event_num>F21011869</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426, A426, R423, C34, P334</units_disp>
-  </event>
-  <event>
     <prime_street>M9R</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-08 11:31:16</dispatch_time>
@@ -62,13 +32,43 @@
     <units_disp> P443</units_disp>
   </event>
   <event>
-    <prime_street>CLAREMONT ST, TT</prime_street>
-    <cross_streets>DUNDAS ST W / PLYMOUTH AVE</cross_streets>
-    <dispatch_time>2021-02-08 11:32:40</dispatch_time>
-    <event_num>F21011871</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-08 11:50:21</dispatch_time>
+    <event_num>F21011876</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> S331, P332, A345, C33, P312, P314, A315</units_disp>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
+  </event>
+  <event>
+    <prime_street>JANE ST, NY</prime_street>
+    <cross_streets>EDGELEY PARK TRL / DRIFTWOOD AVE</cross_streets>
+    <dispatch_time>2021-02-08 11:58:52</dispatch_time>
+    <event_num>F21011878</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P146, R112, A142, C14, R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-08 12:01:27</dispatch_time>
+    <event_num>F21011879</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street>CONCORDE PL, NY</prime_street>
+    <cross_streets>MCDONALD'S PL / CONCORDE GT</cross_streets>
+    <dispatch_time>2021-02-08 12:03:36</dispatch_time>
+    <event_num>F21011880</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> P233, A125, P123, P125, C11</units_disp>
   </event>
 </tfs_active_incidents>
