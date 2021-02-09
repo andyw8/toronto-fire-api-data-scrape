@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-09 05:25:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-09 04:57:07</dispatch_time>
-    <event_num>F21012091</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213, R213</units_disp>
-  </event>
+  <update_from_db_time>2021-02-09 05:35:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MCCOWAN RD / SANDHURST CRCL</cross_streets>
@@ -50,5 +40,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>341</beat>
     <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-09 05:31:18</dispatch_time>
+    <event_num>F21012098</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
