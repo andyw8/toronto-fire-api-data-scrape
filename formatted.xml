@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-09 12:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-09 12:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -22,46 +22,6 @@
     <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>NYMARK AVE, NY</prime_street>
-    <cross_streets>LESCON PARK TRL / HOLLYBROOK CRES</cross_streets>
-    <dispatch_time>2021-02-09 12:15:15</dispatch_time>
-    <event_num>F21012189</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> A113, C11, P111, P113, R115, R122, P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-09 12:21:36</dispatch_time>
-    <event_num>F21012192</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>KINGSMOUNT PARK RD, TT</prime_street>
-    <cross_streets>DUVERNET AVE / FAIRMOUNT CRES</cross_streets>
-    <dispatch_time>2021-02-09 12:29:35</dispatch_time>
-    <event_num>F21012194</event_num>
-    <event_type>Police Assist - Request</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-09 12:29:17</dispatch_time>
-    <event_num>F21012195</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
-  </event>
-  <event>
     <prime_street>WESTON RD, NY</prime_street>
     <cross_streets>DEE AVE / 401 C E WESTON RD RAMP</cross_streets>
     <dispatch_time>2021-02-09 12:36:22</dispatch_time>
@@ -70,5 +30,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
     <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-09 12:39:30</dispatch_time>
+    <event_num>F21012198</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115, P244</units_disp>
   </event>
 </tfs_active_incidents>
