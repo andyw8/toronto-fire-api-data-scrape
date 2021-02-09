@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-08 22:20:02</update_from_db_time>
-  <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 21:24:29</dispatch_time>
-    <event_num>F21012025</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 21:50:41</dispatch_time>
-    <event_num>F21012031</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415</units_disp>
-  </event>
-  <event>
-    <prime_street>ELSIE LANE, TT</prime_street>
-    <cross_streets>WALLACE AVE / ERNEST AVE</cross_streets>
-    <dispatch_time>2021-02-08 22:01:07</dispatch_time>
-    <event_num>F21012033</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> P145, R423, C42, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 22:08:24</dispatch_time>
-    <event_num>F21012034</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
+  <update_from_db_time>2021-02-08 22:35:02</update_from_db_time>
   <event>
     <prime_street>M2N</prime_street>
     <cross_streets/>
@@ -50,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
     <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-08 22:20:25</dispatch_time>
+    <event_num>F21012036</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-08 22:31:05</dispatch_time>
+    <event_num>F21012037</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
