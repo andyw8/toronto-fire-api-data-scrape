@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-09 08:30:03</update_from_db_time>
-  <event>
-    <prime_street>MARKET ST, TT</prime_street>
-    <cross_streets>THE ESPLANADE / FRONT ST E</cross_streets>
-    <dispatch_time>2021-02-09 08:18:02</dispatch_time>
-    <event_num>F21012119</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P332, C33, P325, T333</units_disp>
-  </event>
+  <update_from_db_time>2021-02-09 08:45:02</update_from_db_time>
   <event>
     <prime_street>M6K</prime_street>
     <cross_streets/>
@@ -20,5 +10,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>346</beat>
     <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-09 08:31:48</dispatch_time>
+    <event_num>F21012122</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-09 08:33:06</dispatch_time>
+    <event_num>F21012123</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> A125</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>BALLIOL ST / CHAPLIN CRES</cross_streets>
+    <dispatch_time>2021-02-09 08:33:26</dispatch_time>
+    <event_num>F21012124</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> C13, HZ145, P135, P145</units_disp>
+  </event>
+  <event>
+    <prime_street>MOUNT PLEASANT RD, NY</prime_street>
+    <cross_streets>GLEN ECHO RD / DONCLIFFE DR</cross_streets>
+    <dispatch_time>2021-02-09 08:35:41</dispatch_time>
+    <event_num>F21012125</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>131</beat>
+    <units_disp> P131, P121, A135, C11, R122</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR AVE, TT</prime_street>
+    <cross_streets>ALVIN AVE / FERNDALE AVE</cross_streets>
+    <dispatch_time>2021-02-09 08:41:45</dispatch_time>
+    <event_num>F21012126</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
 </tfs_active_incidents>
