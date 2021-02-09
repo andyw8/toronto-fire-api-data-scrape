@@ -1,54 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-08 22:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-08 23:20:03</update_from_db_time>
   <event>
-    <prime_street>M2N</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-08 22:12:28</dispatch_time>
-    <event_num>F21012035</event_num>
+    <dispatch_time>2021-02-08 22:59:15</dispatch_time>
+    <event_num>F21012043</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 22:31:05</dispatch_time>
-    <event_num>F21012037</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>FINCH AVE W / HIGHWAY 27 N</cross_streets>
+    <dispatch_time>2021-02-08 23:09:42</dispatch_time>
+    <event_num>F21012044</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>MILLWOOD RD, TT</prime_street>
-    <cross_streets>YONGE ST / ACACIA RD</cross_streets>
-    <dispatch_time>2021-02-08 22:37:54</dispatch_time>
-    <event_num>F21012040</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R321, A135, P131, P135, C13, P311</units_disp>
-  </event>
-  <event>
-    <prime_street>PASSMORE AVE, SC</prime_street>
-    <cross_streets>MAYBROOK DR / STATE CROWN BLVD</cross_streets>
-    <dispatch_time>2021-02-08 22:38:59</dispatch_time>
-    <event_num>F21012041</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211, A213, C24, P242, R213</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-08 22:46:14</dispatch_time>
-    <event_num>F21012042</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
