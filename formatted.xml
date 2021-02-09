@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-09 01:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-09 01:50:02</update_from_db_time>
   <event>
     <prime_street>JAMESON AVE, TT</prime_street>
     <cross_streets>SPRINGHURST AVE / KING ST W</cross_streets>
@@ -20,5 +20,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
     <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M9A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-09 01:38:13</dispatch_time>
+    <event_num>F21012061</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-09 01:44:40</dispatch_time>
+    <event_num>F21012062</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
   </event>
 </tfs_active_incidents>
