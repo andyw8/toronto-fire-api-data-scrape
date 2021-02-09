@@ -1,34 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-09 03:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-09 03:50:02</update_from_db_time>
   <event>
-    <prime_street>BLAIR ST, EY</prime_street>
-    <cross_streets>TUCKER ST / NORTHLINE RD</cross_streets>
-    <dispatch_time>2021-02-09 02:28:07</dispatch_time>
-    <event_num>F21012069</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> A222, P222, R224, R235, C32</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN'S PLATE DR, ET</prime_street>
-    <cross_streets>REXDALE BLVD / WW E QUEEN'S PLATE S HARNESS</cross_streets>
-    <dispatch_time>2021-02-09 02:34:41</dispatch_time>
-    <event_num>F21012071</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> R412, A415, C41, R413, R441</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M8Y</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-09 03:02:30</dispatch_time>
-    <event_num>F21012076</event_num>
+    <dispatch_time>2021-02-09 03:42:02</dispatch_time>
+    <event_num>F21012080</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> P443</units_disp>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
   </event>
 </tfs_active_incidents>
