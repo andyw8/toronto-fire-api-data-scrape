@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-09 14:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-09 14:45:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>YONGE ST / COWBELL LANE</cross_streets>
@@ -12,43 +12,53 @@
     <units_disp> P135, P311, A135, P132, C31</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-09 14:16:48</dispatch_time>
-    <event_num>F21012230</event_num>
+    <dispatch_time>2021-02-09 14:28:36</dispatch_time>
+    <event_num>F21012234</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-09 14:30:45</dispatch_time>
+    <event_num>F21012235</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> P212, A213, P212</units_disp>
+  </event>
+  <event>
+    <prime_street>SUNRISE AVE, NY</prime_street>
+    <cross_streets>VICTORIA PARK AVE / O'CONNOR DR</cross_streets>
+    <dispatch_time>2021-02-09 14:37:32</dispatch_time>
+    <event_num>F21012236</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235, P221, A222, R224, C32</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-09 14:17:53</dispatch_time>
-    <event_num>F21012231</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <cross_streets>DUFFERIN ST / KING ST W</cross_streets>
+    <dispatch_time>2021-02-09 14:37:38</dispatch_time>
+    <event_num>F21012237</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116, R115</units_disp>
-  </event>
-  <event>
-    <prime_street>PEARL ST, TT</prime_street>
-    <cross_streets>SIMCOE ST / ED MIRVISH WAY</cross_streets>
-    <dispatch_time>2021-02-09 14:19:19</dispatch_time>
-    <event_num>F21012232</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>426</beat>
+    <units_disp> P426, R426, C34, S331</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>ROBINGLADE DR / WEST DEANE PARK DR</cross_streets>
-    <dispatch_time>2021-02-09 14:21:18</dispatch_time>
-    <event_num>F21012233</event_num>
-    <event_type>Alarm Residential</event_type>
+    <cross_streets>JAMESON AVE / KING ST W</cross_streets>
+    <dispatch_time>2021-02-09 14:37:49</dispatch_time>
+    <event_num>F21012238</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445, R444, A441, C44, P443</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
