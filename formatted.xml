@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-10 14:25:02</update_from_db_time>
-  <event>
-    <prime_street>ELLIS AVE, YK</prime_street>
-    <cross_streets>GIBSON AVE / JANE ST</cross_streets>
-    <dispatch_time>2021-02-10 12:55:12</dispatch_time>
-    <event_num>F21012534</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> R133, C42, P442, S143, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 14:01:51</dispatch_time>
-    <event_num>F21012549</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
+  <update_from_db_time>2021-02-10 14:45:02</update_from_db_time>
   <event>
     <prime_street>M6N</prime_street>
     <cross_streets/>
@@ -32,33 +12,43 @@
     <units_disp> A421</units_disp>
   </event>
   <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-10 14:07:26</dispatch_time>
-    <event_num>F21012551</event_num>
+    <dispatch_time>2021-02-10 14:24:47</dispatch_time>
+    <event_num>F21012554</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A441</units_disp>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 14:07:29</dispatch_time>
-    <event_num>F21012552</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>PADDOCK CRT, NY</prime_street>
+    <cross_streets>ROLLSCOURT DR / </cross_streets>
+    <dispatch_time>2021-02-10 14:26:33</dispatch_time>
+    <event_num>F21012556</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <beat>122</beat>
+    <units_disp> P111, P121, C11, P114, T114, R115, R122</units_disp>
   </event>
   <event>
-    <prime_street>M1N</prime_street>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>DON MILLS RD / PARKWAY FOREST DR</cross_streets>
+    <dispatch_time>2021-02-10 14:31:32</dispatch_time>
+    <event_num>F21012558</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> A113, P123, C24, P233, P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-10 14:17:24</dispatch_time>
-    <event_num>F21012553</event_num>
+    <dispatch_time>2021-02-10 14:33:46</dispatch_time>
+    <event_num>F21012559</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
 </tfs_active_incidents>
