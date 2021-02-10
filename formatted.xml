@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-10 07:30:02</update_from_db_time>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 06:41:34</dispatch_time>
-    <event_num>F21012441</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 07:05:30</dispatch_time>
-    <event_num>F21012444</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M5P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 07:20:50</dispatch_time>
-    <event_num>F21012446</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
+  <update_from_db_time>2021-02-10 07:55:02</update_from_db_time>
   <event>
     <prime_street>DANFORTH AVE, TT</prime_street>
     <cross_streets>GLEDHILL AVE / OAK PARK AVE</cross_streets>
@@ -40,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-10 07:31:19</dispatch_time>
+    <event_num>F21012449</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KIPLING AVE / BLOOR ST W</cross_streets>
+    <dispatch_time>2021-02-10 07:38:49</dispatch_time>
+    <event_num>F21012450</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
   </event>
 </tfs_active_incidents>
