@@ -1,24 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-10 03:25:02</update_from_db_time>
+  <update_from_db_time>2021-02-10 03:45:02</update_from_db_time>
   <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 02:53:20</dispatch_time>
-    <event_num>F21012417</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>MABELLE AVE, ET</prime_street>
+    <cross_streets>CORDOVA AVE / DUNDAS ST W</cross_streets>
+    <dispatch_time>2021-02-10 03:37:40</dispatch_time>
+    <event_num>F21012419</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MURISON BLVD / MILNER AVE</cross_streets>
-    <dispatch_time>2021-02-10 03:02:23</dispatch_time>
-    <event_num>F21012418</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212, A213</units_disp>
+    <beat>445</beat>
+    <units_disp> P445, P431, C44, P443, PL432</units_disp>
   </event>
 </tfs_active_incidents>
