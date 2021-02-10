@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-10 03:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-10 04:20:01</update_from_db_time>
   <event>
     <prime_street>MABELLE AVE, ET</prime_street>
     <cross_streets>CORDOVA AVE / DUNDAS ST W</cross_streets>
@@ -10,5 +10,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
     <units_disp> P445, P431, C44, P443, PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-10 04:05:01</dispatch_time>
+    <event_num>F21012423</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>QUEEN'S PARK / BEDFORD RD</cross_streets>
+    <dispatch_time>2021-02-10 04:11:23</dispatch_time>
+    <event_num>F21012425</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> A312, P312, P314, P315, C31</units_disp>
+  </event>
+  <event>
+    <prime_street>M6G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-10 04:12:09</dispatch_time>
+    <event_num>F21012426</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-10 04:12:31</dispatch_time>
+    <event_num>F21012427</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P222</units_disp>
   </event>
 </tfs_active_incidents>
