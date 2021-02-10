@@ -1,84 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-10 08:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-10 09:20:02</update_from_db_time>
+  <event>
+    <prime_street>M6C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-10 09:05:08</dispatch_time>
+    <event_num>F21012470</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-10 09:05:17</dispatch_time>
+    <event_num>F21012471</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
+  </event>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-10 08:13:44</dispatch_time>
-    <event_num>F21012454</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <dispatch_time>2021-02-10 09:07:40</dispatch_time>
+    <event_num>F21012472</event_num>
+    <event_type>Vehicle Fire - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, P116</units_disp>
+    <beat>145</beat>
+    <units_disp> C14, P145, R133</units_disp>
   </event>
   <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 08:26:16</dispatch_time>
-    <event_num>F21012457</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BATHURST ST, TT</prime_street>
+    <cross_streets>BRIDGMAN AVE / TOLLKEEPER'S LANE</cross_streets>
+    <dispatch_time>2021-02-10 09:15:32</dispatch_time>
+    <event_num>F21012473</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 08:27:12</dispatch_time>
-    <event_num>F21012458</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> P415</units_disp>
-  </event>
-  <event>
-    <prime_street>M9L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 08:29:13</dispatch_time>
-    <event_num>F21012459</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 08:31:19</dispatch_time>
-    <event_num>F21012460</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 08:32:09</dispatch_time>
-    <event_num>F21012461</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 08:32:41</dispatch_time>
-    <event_num>F21012462</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 08:33:46</dispatch_time>
-    <event_num>F21012463</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P211</units_disp>
+    <beat>344</beat>
+    <units_disp> P343, P311, P312, A312, C31</units_disp>
   </event>
 </tfs_active_incidents>
