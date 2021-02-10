@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-10 00:20:01</update_from_db_time>
-  <event>
-    <prime_street>MONDEO DR, SC</prime_street>
-    <cross_streets>MONDEO PARK TRL / FLORINA BLVD</cross_streets>
-    <dispatch_time>2021-02-09 23:48:30</dispatch_time>
-    <event_num>F21012393</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> A244, C24, P232, P244, P245</units_disp>
-  </event>
+  <update_from_db_time>2021-02-10 00:30:02</update_from_db_time>
   <event>
     <prime_street>KIPLING AVE, ET</prime_street>
     <cross_streets>BEACONHILL RD / KIDRON VALLEY DR</cross_streets>
@@ -20,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
     <units_disp> A415, C41, P415, R411, R412, R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 00:03:55</dispatch_time>
-    <event_num>F21012397</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 00:04:51</dispatch_time>
-    <event_num>F21012398</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
   </event>
   <event>
     <prime_street>BETHRIDGE RD, ET</prime_street>
