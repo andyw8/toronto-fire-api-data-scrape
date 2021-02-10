@@ -1,64 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-09 21:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-09 22:20:02</update_from_db_time>
   <event>
-    <prime_street>M6E</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-09 20:41:27</dispatch_time>
-    <event_num>F21012349</event_num>
+    <dispatch_time>2021-02-09 21:54:03</dispatch_time>
+    <event_num>F21012373</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-09 21:09:03</dispatch_time>
-    <event_num>F21012359</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-09 21:11:22</dispatch_time>
-    <event_num>F21012360</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-09 21:18:36</dispatch_time>
-    <event_num>F21012362</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
-    <prime_street>ISLINGTON AVE, ET</prime_street>
-    <cross_streets>CHESTNUT LANE / RIVERBANK DR</cross_streets>
-    <dispatch_time>2021-02-09 21:18:42</dispatch_time>
-    <event_num>F21012363</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> A433, P431, P443, P445, C44</units_disp>
-  </event>
-  <event>
-    <prime_street>M8X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-09 21:24:56</dispatch_time>
-    <event_num>F21012365</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> R425</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
