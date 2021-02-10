@@ -1,14 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-09 23:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-09 23:50:02</update_from_db_time>
   <event>
-    <prime_street>WELLESLEY ST, TT</prime_street>
-    <cross_streets>ST NICHOLAS ST / BAY ST</cross_streets>
-    <dispatch_time>2021-02-09 23:10:47</dispatch_time>
-    <event_num>F21012386</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>PARKVIEW HILL CRES, EY</prime_street>
+    <cross_streets>WELBY CRCL / ASPEN AVE</cross_streets>
+    <dispatch_time>2021-02-09 23:27:30</dispatch_time>
+    <event_num>F21012389</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, P312, A312, C31, P313</units_disp>
+    <beat>224</beat>
+    <units_disp> R224, R235, A322, C32, P322, P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-09 23:40:20</dispatch_time>
+    <event_num>F21012391</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> P113</units_disp>
+  </event>
+  <event>
+    <prime_street>OLD DUNDAS ST, YK</prime_street>
+    <cross_streets>LUNDY AVE / HUMBER RIVER RECREATIONAL TRL</cross_streets>
+    <dispatch_time>2021-02-09 23:45:11</dispatch_time>
+    <event_num>F21012392</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P422, S445</units_disp>
   </event>
 </tfs_active_incidents>
