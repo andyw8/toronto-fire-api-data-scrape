@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-10 09:20:02</update_from_db_time>
-  <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 09:05:08</dispatch_time>
-    <event_num>F21012470</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> P135</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 09:05:17</dispatch_time>
-    <event_num>F21012471</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
-  </event>
+  <update_from_db_time>2021-02-10 09:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -32,13 +12,33 @@
     <units_disp> C14, P145, R133</units_disp>
   </event>
   <event>
-    <prime_street>BATHURST ST, TT</prime_street>
-    <cross_streets>BRIDGMAN AVE / TOLLKEEPER'S LANE</cross_streets>
-    <dispatch_time>2021-02-10 09:15:32</dispatch_time>
-    <event_num>F21012473</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>MCCOWAN RD, SC</prime_street>
+    <cross_streets>EGLINTON AVE E / TRUDELLE ST</cross_streets>
+    <dispatch_time>2021-02-10 09:21:17</dispatch_time>
+    <event_num>F21012474</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P343, P311, P312, A312, C31</units_disp>
+    <beat>221</beat>
+    <units_disp> S232, P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M8W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-10 09:25:58</dispatch_time>
+    <event_num>F21012475</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-10 09:26:34</dispatch_time>
+    <event_num>F21012476</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
