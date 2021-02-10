@@ -1,84 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-09 18:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-09 19:55:02</update_from_db_time>
+  <event>
+    <prime_street>ISLINGTON AVE, ET</prime_street>
+    <cross_streets>401 C W ISLINGTON N RAMP / REXDALE S 401 C W RAMP</cross_streets>
+    <dispatch_time>2021-02-09 19:18:11</dispatch_time>
+    <event_num>F21012324</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415, R413, R441, A415, C41</units_disp>
+  </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>DIXON RD / CARLINGVIEW DR</cross_streets>
-    <dispatch_time>2021-02-09 17:46:56</dispatch_time>
-    <event_num>F21012296</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-09 19:40:08</dispatch_time>
+    <event_num>F21012333</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A441, C41, R444, S143</units_disp>
+    <beat>116</beat>
+    <units_disp> P116, R115, P244, A244</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-09 18:07:42</dispatch_time>
-    <event_num>F21012300</event_num>
+    <dispatch_time>2021-02-09 19:42:24</dispatch_time>
+    <event_num>F21012334</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, NY</prime_street>
-    <cross_streets>BOLINGBROKE RD / CORONA ST</cross_streets>
-    <dispatch_time>2021-02-09 18:17:20</dispatch_time>
-    <event_num>F21012305</event_num>
-    <event_type>Natural Gas Leak</event_type>
+    <prime_street>ROEHAMPTON AVE, TT</prime_street>
+    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
+    <dispatch_time>2021-02-09 19:44:52</dispatch_time>
+    <event_num>F21012336</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P145, P132, C13, HZ145</units_disp>
+    <beat>134</beat>
+    <units_disp> R134, P135, A135, P131, R321, C31</units_disp>
   </event>
   <event>
-    <prime_street>M4V</prime_street>
+    <prime_street>M1C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-09 18:30:53</dispatch_time>
-    <event_num>F21012309</event_num>
+    <dispatch_time>2021-02-09 19:46:06</dispatch_time>
+    <event_num>F21012337</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-09 18:32:17</dispatch_time>
-    <event_num>F21012310</event_num>
+    <dispatch_time>2021-02-09 19:49:13</dispatch_time>
+    <event_num>F21012338</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>PORTLAND ST, ET</prime_street>
-    <cross_streets>WESLEY ST / WINDSOR ST</cross_streets>
-    <dispatch_time>2021-02-09 18:35:46</dispatch_time>
-    <event_num>F21012311</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-09 18:38:26</dispatch_time>
-    <event_num>F21012312</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-09 18:39:28</dispatch_time>
-    <event_num>F21012313</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
