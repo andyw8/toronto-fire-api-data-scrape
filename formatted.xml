@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-10 17:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-10 17:50:02</update_from_db_time>
   <event>
     <prime_street>PADDOCK CRT, NY</prime_street>
     <cross_streets>ROLLSCOURT DR / </cross_streets>
@@ -20,5 +20,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>311</beat>
     <units_disp> P311, P312, R134, C31, A135</units_disp>
+  </event>
+  <event>
+    <prime_street>M5R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-10 17:43:38</dispatch_time>
+    <event_num>F21012596</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>VILLAGE GREEN SQ, SC</prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-10 17:45:09</dispatch_time>
+    <event_num>F21012597</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
   </event>
 </tfs_active_incidents>
