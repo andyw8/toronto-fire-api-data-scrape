@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-11 12:40:05</update_from_db_time>
+  <update_from_db_time>2021-02-11 12:45:02</update_from_db_time>
   <event>
     <prime_street>BLOOR ST, TT</prime_street>
     <cross_streets>CONCORD AVE / DELAWARE AVE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>345</beat>
-    <units_disp> R345, P343, P315, A345, C34, R426, A315, P312, S331, LA421, C30, P342, P312, P315, P343</units_disp>
+    <units_disp> R345, P343, P315, A345, C34, R426, A315, P312, S331, LA421, C30, P342, P312, P315, P343, R423</units_disp>
   </event>
   <event>
     <prime_street>BRAHMS AVE, NY</prime_street>
@@ -32,56 +32,6 @@
     <units_disp> HR332, P332</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>KIPLING AVE / REDWATER DR</cross_streets>
-    <dispatch_time>2021-02-11 12:15:46</dispatch_time>
-    <event_num>F21012803</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
-  </event>
-  <event>
-    <prime_street>M4R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 12:21:30</dispatch_time>
-    <event_num>F21012804</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134, A135</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 12:22:11</dispatch_time>
-    <event_num>F21012806</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 12:27:40</dispatch_time>
-    <event_num>F21012808</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> A325</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 12:33:22</dispatch_time>
-    <event_num>F21012809</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> A222</units_disp>
-  </event>
-  <event>
     <prime_street>M5S</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-11 12:35:29</dispatch_time>
@@ -99,6 +49,16 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
-    <units_disp> P226CA</units_disp>
+    <units_disp> P226CA, P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-11 12:40:01</dispatch_time>
+    <event_num>F21012812</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
 </tfs_active_incidents>
