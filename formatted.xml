@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-11 06:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-11 06:45:02</update_from_db_time>
   <event>
     <prime_street>MILLIKEN BLVD, SC</prime_street>
     <cross_streets>PASSMORE AVE / MCNICOLL AVE</cross_streets>
@@ -32,43 +32,13 @@
     <units_disp> R115, P111, A113, C11, P114, P116, T114, C11</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 06:09:42</dispatch_time>
-    <event_num>F21012719</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BENJAMIN BOAKE TRL, NY</prime_street>
+    <cross_streets>STILECROFT DR / FREDRICK MOWAT LANE</cross_streets>
+    <dispatch_time>2021-02-11 06:29:09</dispatch_time>
+    <event_num>F21012725</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>DUPONT ST, TT</prime_street>
-    <cross_streets>PERTH AVE / FRANKLIN AVE</cross_streets>
-    <dispatch_time>2021-02-11 06:17:00</dispatch_time>
-    <event_num>F21012721</event_num>
-    <event_type>Vehicle - Spill Clean Up</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 06:18:49</dispatch_time>
-    <event_num>F21012723</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>M1G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 06:20:41</dispatch_time>
-    <event_num>F21012724</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> A231</units_disp>
+    <beat>142</beat>
+    <units_disp> R133, P142, A142, C14, P141, P146</units_disp>
   </event>
 </tfs_active_incidents>
