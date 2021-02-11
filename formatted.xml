@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-11 17:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-11 17:50:02</update_from_db_time>
   <event>
     <prime_street>BARTLETT AVE, TT</prime_street>
     <cross_streets>LN 1 N BLOOR W BARTLETT / BOILERMAKER LANE</cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> C44, P445, PL432, R444, S445</units_disp>
   </event>
   <event>
-    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
-    <cross_streets>R. V. BURGESS PARK TRL / OVERLEA BLVD</cross_streets>
-    <dispatch_time>2021-02-11 17:14:46</dispatch_time>
-    <event_num>F21012912</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> S313, A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 17:21:54</dispatch_time>
-    <event_num>F21012913</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
     <prime_street>M4T</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-11 17:26:36</dispatch_time>
@@ -70,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>434</beat>
     <units_disp> R434</units_disp>
-  </event>
-  <event>
-    <prime_street>ANNIE CRAIG DR, ET</prime_street>
-    <cross_streets>THE MARGINAL BLVD / SILVER MOON DR</cross_streets>
-    <dispatch_time>2021-02-11 17:28:26</dispatch_time>
-    <event_num>F21012916</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433, C43, P431, R425, R435</units_disp>
   </event>
   <event>
     <prime_street>M9W</prime_street>
