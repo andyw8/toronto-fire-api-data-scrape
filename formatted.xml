@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-11 14:15:02</update_from_db_time>
+  <update_from_db_time>2021-02-11 14:20:02</update_from_db_time>
   <event>
     <prime_street>BLOOR ST, TT</prime_street>
     <cross_streets>CONCORD AVE / DELAWARE AVE</cross_streets>
@@ -70,5 +70,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>311</beat>
     <units_disp> R134, P313, C31, P314, A135</units_disp>
+  </event>
+  <event>
+    <prime_street>FINCH AVE, SC</prime_street>
+    <cross_streets>VICTORIA PARK AVE / PHARMACY AVE</cross_streets>
+    <dispatch_time>2021-02-11 14:13:05</dispatch_time>
+    <event_num>F21012846</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-11 14:13:35</dispatch_time>
+    <event_num>F21012847</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
+  </event>
+  <event>
+    <prime_street>FOREST HILL RD, TT</prime_street>
+    <cross_streets>FOREST HILL ROAD PARK TRL / LARRATT ST</cross_streets>
+    <dispatch_time>2021-02-11 14:14:07</dispatch_time>
+    <event_num>F21012848</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P131, P132, C13, A341, P342</units_disp>
   </event>
 </tfs_active_incidents>
