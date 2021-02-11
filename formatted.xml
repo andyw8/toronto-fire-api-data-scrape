@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-10 20:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-10 21:20:02</update_from_db_time>
   <event>
     <prime_street>PADDOCK CRT, NY</prime_street>
     <cross_streets>ROLLSCOURT DR / </cross_streets>
@@ -12,43 +12,33 @@
     <units_disp> P111, P121, C11, P114, T114, R115, R122, P121, P114, P116</units_disp>
   </event>
   <event>
-    <prime_street>M2P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 20:20:38</dispatch_time>
-    <event_num>F21012638</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>M3K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 20:29:41</dispatch_time>
-    <event_num>F21012640</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 20:34:39</dispatch_time>
-    <event_num>F21012641</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-10 20:41:28</dispatch_time>
-    <event_num>F21012643</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>ADELAIDE ST, TT</prime_street>
+    <cross_streets>PRINCESS ST / ONTARIO ST</cross_streets>
+    <dispatch_time>2021-02-10 20:56:53</dispatch_time>
+    <event_num>F21012646</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <units_disp> P333, R325, C33, P332, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M6C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-10 21:01:03</dispatch_time>
+    <event_num>F21012647</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BLOOR ST W / QUEEN'S PARK</cross_streets>
+    <dispatch_time>2021-02-10 21:06:18</dispatch_time>
+    <event_num>F21012650</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
