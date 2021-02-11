@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-11 08:30:03</update_from_db_time>
+  <update_from_db_time>2021-02-11 08:40:02</update_from_db_time>
   <event>
     <prime_street>MILLIKEN BLVD, SC</prime_street>
     <cross_streets>PASSMORE AVE / MCNICOLL AVE</cross_streets>
@@ -29,7 +29,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>113</beat>
-    <units_disp> R115, P111, A113, C11, P114, P116, T114, C11</units_disp>
+    <units_disp> R115, P111, A113, C11, P114, P116, T114, C11, C11</units_disp>
   </event>
   <event>
     <prime_street>M3M</prime_street>
@@ -70,5 +70,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>214</beat>
     <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-11 08:31:15</dispatch_time>
+    <event_num>F21012742</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
