@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-11 10:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-11 11:40:04</update_from_db_time>
   <event>
     <prime_street>BLOOR ST, TT</prime_street>
     <cross_streets>CONCORD AVE / DELAWARE AVE</cross_streets>
@@ -19,57 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>113</beat>
-    <units_disp> R115, P111, A113, C11, P114, P116, T114, C11, C11, R115</units_disp>
-  </event>
-  <event>
-    <prime_street>DIXON RD, ET</prime_street>
-    <cross_streets>DIXON PARK TRL / KIPLING AVE</cross_streets>
-    <dispatch_time>2021-02-11 09:13:04</dispatch_time>
-    <event_num>F21012750</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 09:52:02</dispatch_time>
-    <event_num>F21012765</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street>ENTERPRISE RD, ET</prime_street>
-    <cross_streets>MCCULLOCH AVE / MARTIN GROVE RD</cross_streets>
-    <dispatch_time>2021-02-11 10:29:12</dispatch_time>
-    <event_num>F21012772</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> P415, P443, R413, C41, PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 10:34:09</dispatch_time>
-    <event_num>F21012774</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 10:44:15</dispatch_time>
-    <event_num>F21012776</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
+    <units_disp> R115, P111, A113, C11, P114, P116, T114, C11, C11, R115, P111</units_disp>
   </event>
   <event>
     <prime_street>M8Y</prime_street>
@@ -80,5 +30,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>433</beat>
     <units_disp> A441</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-11 11:23:39</dispatch_time>
+    <event_num>F21012788</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR AVE, YK</prime_street>
+    <cross_streets>BATAVIA AVE / MARIPOSA AVE</cross_streets>
+    <dispatch_time>2021-02-11 11:28:04</dispatch_time>
+    <event_num>F21012789</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> A421, P422, P431, R421, C42</units_disp>
+  </event>
+  <event>
+    <prime_street>M4V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-11 11:36:29</dispatch_time>
+    <event_num>F21012790</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
 </tfs_active_incidents>
