@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-12 14:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-12 15:20:02</update_from_db_time>
   <event>
     <prime_street>HOPEWELL AVE, YK</prime_street>
     <cross_streets>MARLEE AVE / TIMES RD</cross_streets>
@@ -9,57 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>341</beat>
-    <units_disp> P342, P343, A341, C34, R133, R134, A135, LA421, R421, S143, C10, C13, HZ145, P131, P145, R423, CMD10, P132, C30, C42, REHAB01, P116, A133, P422, C34, R133, FI11, FI21, R444</units_disp>
-  </event>
-  <event>
-    <prime_street>VICTORIA PARK AVE, NY</prime_street>
-    <cross_streets>HEPC / MCNICOLL AVE</cross_streets>
-    <dispatch_time>2021-02-12 12:16:38</dispatch_time>
-    <event_num>F21013146</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> R241, R115, C11, P116, A244, R122, P111, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>STEELES AVE W / NEW WESTMINSTER DR</cross_streets>
-    <dispatch_time>2021-02-12 14:13:56</dispatch_time>
-    <event_num>F21013182</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 14:21:06</dispatch_time>
-    <event_num>F21013186</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> S143</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-12 14:24:39</dispatch_time>
-    <event_num>F21013187</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P131, P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 14:25:12</dispatch_time>
-    <event_num>F21013188</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> S331, P331</units_disp>
+    <units_disp> P342, P343, A341, C34, R133, R134, A135, LA421, R421, S143, C10, C13, HZ145, P131, P145, R423, CMD10, P132, C30, C42, REHAB01, P116, A133, P422, C34, R133, FI11, FI21, R444, P432</units_disp>
   </event>
   <event>
     <prime_street>M5V</prime_street>
@@ -72,13 +22,63 @@
     <units_disp> P334</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M4V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-12 14:36:42</dispatch_time>
-    <event_num>F21013190</event_num>
+    <dispatch_time>2021-02-12 15:05:10</dispatch_time>
+    <event_num>F21013198</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>311</beat>
+    <units_disp> A135, P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 15:07:23</dispatch_time>
+    <event_num>F21013199</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 15:07:52</dispatch_time>
+    <event_num>F21013200</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 15:11:50</dispatch_time>
+    <event_num>F21013201</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 15:13:53</dispatch_time>
+    <event_num>F21013202</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>STEELES AVE W / BLACK HAWKWAY</cross_streets>
+    <dispatch_time>2021-02-12 15:15:15</dispatch_time>
+    <event_num>F21013203</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
