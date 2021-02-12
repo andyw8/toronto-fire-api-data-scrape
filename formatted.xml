@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-12 17:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-12 18:25:02</update_from_db_time>
   <event>
     <prime_street>HOPEWELL AVE, YK</prime_street>
     <cross_streets>MARLEE AVE / TIMES RD</cross_streets>
@@ -13,26 +13,6 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>REES ST / LOWER SPADINA AVE</cross_streets>
-    <dispatch_time>2021-02-12 17:12:50</dispatch_time>
-    <event_num>F21013237</event_num>
-    <event_type>Rescue - Water w/Fireboat</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> S313, S445, C31, HR332, P313, T333, S143, FB334, P445</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DUNDAS ST W / MICHAEL POWER PL</cross_streets>
-    <dispatch_time>2021-02-12 17:24:35</dispatch_time>
-    <event_num>F21013243</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> S445, S445</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2021-02-12 17:31:16</dispatch_time>
     <event_num>F21013247</event_num>
@@ -42,36 +22,6 @@
     <units_disp> P132, R133</units_disp>
   </event>
   <event>
-    <prime_street>EVANS AVE, ET</prime_street>
-    <cross_streets>SHERWAY GT / QEW X E EVANS E RAMP</cross_streets>
-    <dispatch_time>2021-02-12 17:31:38</dispatch_time>
-    <event_num>F21013248</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434, P431, PL432, R435, C43</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 17:37:52</dispatch_time>
-    <event_num>F21013249</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 17:38:23</dispatch_time>
-    <event_num>F21013250</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
-  </event>
-  <event>
     <prime_street>WEST LODGE AVE, TT</prime_street>
     <cross_streets>LN N QUEEN E LANSDOWNE / </cross_streets>
     <dispatch_time>2021-02-12 17:40:02</dispatch_time>
@@ -79,36 +29,96 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
-    <units_disp> R426, P331, A426, C34, P344</units_disp>
+    <units_disp> R426, P331, A426, C34, P344, C34</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>WOODSWORTH RD, NY</prime_street>
+    <cross_streets>HOPPERTON DR / NORTHEY DR</cross_streets>
+    <dispatch_time>2021-02-12 18:09:02</dispatch_time>
+    <event_num>F21013261</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116, P123, R122, A125, C11, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-12 17:40:34</dispatch_time>
-    <event_num>F21013252</event_num>
+    <dispatch_time>2021-02-12 18:10:27</dispatch_time>
+    <event_num>F21013262</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 18:10:30</dispatch_time>
+    <event_num>F21013263</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>TEESDALE PL, SC</prime_street>
+    <cross_streets>PHARMACY AVE / </cross_streets>
+    <dispatch_time>2021-02-12 18:13:14</dispatch_time>
+    <event_num>F21013264</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R235, R225, P226, R224, A222, C22</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 18:18:01</dispatch_time>
+    <event_num>F21013265</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 18:19:35</dispatch_time>
+    <event_num>F21013266</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> HR114</units_disp>
+  </event>
+  <event>
+    <prime_street>EVANS AVE, ET</prime_street>
+    <cross_streets>SHERWAY GT / QEW X E EVANS E RAMP</cross_streets>
+    <dispatch_time>2021-02-12 18:19:55</dispatch_time>
+    <event_num>F21013267</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434, P432, C43, PL432, R435</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>NASHDENE RD / MIDDLEFIELD RD</cross_streets>
+    <dispatch_time>2021-02-12 18:20:18</dispatch_time>
+    <event_num>F21013268</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-12 17:45:16</dispatch_time>
-    <event_num>F21013253</event_num>
+    <dispatch_time>2021-02-12 18:21:01</dispatch_time>
+    <event_num>F21013269</event_num>
     <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> S331, R425</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 17:45:45</dispatch_time>
-    <event_num>F21013254</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P332</units_disp>
+    <beat>412</beat>
+    <units_disp> P415, R412</units_disp>
   </event>
 </tfs_active_incidents>
