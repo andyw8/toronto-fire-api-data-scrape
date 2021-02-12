@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-11 21:25:02</update_from_db_time>
+  <update_from_db_time>2021-02-11 21:50:03</update_from_db_time>
   <event>
     <prime_street>BARTLETT AVE, TT</prime_street>
     <cross_streets>LN 1 N BLOOR W BARTLETT / BOILERMAKER LANE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>345</beat>
-    <units_disp> R426, A345, P315, P342, P343, C34, P331, P312, S331, A426, LA421, A315, C30, R423, P314, A421</units_disp>
+    <units_disp> R426, A345, P315, P342, P343, C34, P331, P312, S331, A426, LA421, A315, C30, R423, P314, A421, C30</units_disp>
   </event>
   <event>
     <prime_street>FINCH AVE, SC</prime_street>
@@ -22,63 +22,43 @@
     <units_disp> R241</units_disp>
   </event>
   <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>LN N QUEEN E SHERBOURNE / SHUTER ST</cross_streets>
-    <dispatch_time>2021-02-11 20:44:31</dispatch_time>
-    <event_num>F21012971</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>BIRCHMOUNT RD, SC</prime_street>
+    <cross_streets>EGLINTON AVE E / MAIDAVALE PARK TRL</cross_streets>
+    <dispatch_time>2021-02-11 21:35:35</dispatch_time>
+    <event_num>F21012980</event_num>
+    <event_type>Police Assist - Request</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, S313, C33, P313, P332, P333</units_disp>
+    <beat>222</beat>
+    <units_disp> C22, A222</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M6L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-11 21:04:38</dispatch_time>
-    <event_num>F21012974</event_num>
+    <dispatch_time>2021-02-11 21:42:25</dispatch_time>
+    <event_num>F21012981</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>133</beat>
+    <units_disp> R133</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 21:07:07</dispatch_time>
-    <event_num>F21012975</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>ONTARIO ST, TT</prime_street>
-    <cross_streets> / HOWARD ST</cross_streets>
-    <dispatch_time>2021-02-11 21:13:12</dispatch_time>
-    <event_num>F21012976</event_num>
+    <prime_street>YORKVILLE AVE, TT</prime_street>
+    <cross_streets>LN W YONGE N YORKVILLE / BAY ST</cross_streets>
+    <dispatch_time>2021-02-11 21:46:24</dispatch_time>
+    <event_num>F21012982</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, P312, A312, C31, P314</units_disp>
+    <beat>312</beat>
+    <units_disp> A312, P312, P313, P314, C31</units_disp>
   </event>
   <event>
-    <prime_street>M9P</prime_street>
+    <prime_street>M4B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-11 21:13:40</dispatch_time>
-    <event_num>F21012977</event_num>
+    <dispatch_time>2021-02-11 21:46:30</dispatch_time>
+    <event_num>F21012983</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-11 21:17:16</dispatch_time>
-    <event_num>F21012978</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
 </tfs_active_incidents>
