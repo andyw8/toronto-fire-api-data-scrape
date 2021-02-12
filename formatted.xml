@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-12 01:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-12 01:50:02</update_from_db_time>
   <event>
     <prime_street>BLOOR ST, TT</prime_street>
     <cross_streets>LN W HAVELOCK S BLOOR / GLADSTONE AVE</cross_streets>
@@ -12,43 +12,53 @@
     <units_disp> R426, P331, A345, C34, P315</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>MARLBOROUGH AVE / SCRIVENER SQ</cross_streets>
-    <dispatch_time>2021-02-12 00:33:53</dispatch_time>
-    <event_num>F21013016</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>LOCKPORT AVE / SHORNCLIFFE RD</cross_streets>
+    <dispatch_time>2021-02-12 01:28:14</dispatch_time>
+    <event_num>F21013025</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311, P312, A312, C31, P313</units_disp>
+    <beat>432</beat>
+    <units_disp> PL432, C44, R444, S445</units_disp>
   </event>
   <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>LOGAN AVE / CARLAW AVE</cross_streets>
-    <dispatch_time>2021-02-12 00:52:21</dispatch_time>
-    <event_num>F21013020</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324, P323, A324, C32, R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>M5V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-12 01:06:01</dispatch_time>
-    <event_num>F21013022</event_num>
+    <dispatch_time>2021-02-12 01:32:43</dispatch_time>
+    <event_num>F21013026</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
   <event>
-    <prime_street>MADISON AVE, TT</prime_street>
-    <cross_streets>MACPHERSON AVE / DAVENPORT RD</cross_streets>
-    <dispatch_time>2021-02-12 01:14:07</dispatch_time>
-    <event_num>F21013023</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>SHERBOURNE ST, TT</prime_street>
+    <cross_streets>SHUTER ST / DUNDAS ST E</cross_streets>
+    <dispatch_time>2021-02-12 01:37:27</dispatch_time>
+    <event_num>F21013027</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A315, P311, P315, P343, C31</units_disp>
+    <beat>325</beat>
+    <units_disp> R325, P333, A325, C33, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>ROYAL YORK RD, ET</prime_street>
+    <cross_streets>JUDSON ST / NEWCASTLE ST</cross_streets>
+    <dispatch_time>2021-02-12 01:42:45</dispatch_time>
+    <event_num>F21013028</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> R435, P431, R434, A433, C43</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 01:46:38</dispatch_time>
+    <event_num>F21013029</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
