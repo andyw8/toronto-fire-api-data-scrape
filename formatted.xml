@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-12 08:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-12 08:45:02</update_from_db_time>
   <event>
     <prime_street>HOPEWELL AVE, YK</prime_street>
     <cross_streets>MARLEE AVE / TIMES RD</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>341</beat>
     <units_disp> P342, P343, A341, C34, R133, R134, A135, LA421, R421, S143, C10, C13, HZ145, P131, P145, R423, CMD10, P132, C30, C42, REHAB01, P116, A133, P422, C34</units_disp>
-  </event>
-  <event>
-    <prime_street>M5C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 08:18:05</dispatch_time>
-    <event_num>F21013079</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P332</units_disp>
   </event>
   <event>
     <prime_street>BRIMLEY RD, SC</prime_street>
@@ -40,5 +30,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>341</beat>
     <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M4P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 08:29:11</dispatch_time>
+    <event_num>F21013082</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BAY ST / ADELAIDE ST W</cross_streets>
+    <dispatch_time>2021-02-12 08:29:26</dispatch_time>
+    <event_num>F21013083</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> HR332</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 08:33:16</dispatch_time>
+    <event_num>F21013085</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-12 08:36:03</dispatch_time>
+    <event_num>F21013086</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P131, P132</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-12 08:38:44</dispatch_time>
+    <event_num>F21013087</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> R115, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M5C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 08:40:36</dispatch_time>
+    <event_num>F21013088</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
