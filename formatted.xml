@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-12 12:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-12 12:50:03</update_from_db_time>
   <event>
     <prime_street>HOPEWELL AVE, YK</prime_street>
     <cross_streets>MARLEE AVE / TIMES RD</cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> P132</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 12:13:57</dispatch_time>
-    <event_num>F21013143</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
-  </event>
-  <event>
-    <prime_street>M9L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 12:15:58</dispatch_time>
-    <event_num>F21013144</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411</units_disp>
-  </event>
-  <event>
     <prime_street>VICTORIA PARK AVE, NY</prime_street>
     <cross_streets>HEPC / MCNICOLL AVE</cross_streets>
     <dispatch_time>2021-02-12 12:16:38</dispatch_time>
@@ -60,26 +40,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>113</beat>
     <units_disp> R241, R115, C11, P116, A244, R122, P111</units_disp>
-  </event>
-  <event>
-    <prime_street>GREENBRAE CRCT, SC</prime_street>
-    <cross_streets>SEDGEMOUNT DR / WW W ABBEVILLE S SIX NATIONS</cross_streets>
-    <dispatch_time>2021-02-12 12:25:51</dispatch_time>
-    <event_num>F21013148</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> P232, P234, A231, C23, P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 12:27:51</dispatch_time>
-    <event_num>F21013149</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
   </event>
   <event>
     <prime_street>DUNDAS ST, TT</prime_street>
@@ -110,5 +70,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>231</beat>
     <units_disp> S232</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 12:39:56</dispatch_time>
+    <event_num>F21013153</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R321</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 12:39:34</dispatch_time>
+    <event_num>F21013154</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> A426</units_disp>
+  </event>
+  <event>
+    <prime_street>DUFFERIN ST, YK</prime_street>
+    <cross_streets>RIDELLE AVE / BRIAR HILL AVE</cross_streets>
+    <dispatch_time>2021-02-12 12:42:29</dispatch_time>
+    <event_num>F21013155</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> R341, P342, A133, C13, R421</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>SCRIVENER SQ / BIRCH AVE</cross_streets>
+    <dispatch_time>2021-02-12 12:43:06</dispatch_time>
+    <event_num>F21013156</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> R345, A345, C31, P323, P131</units_disp>
   </event>
 </tfs_active_incidents>
