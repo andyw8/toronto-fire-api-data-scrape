@@ -1,64 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-13 12:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-13 13:25:02</update_from_db_time>
   <event>
-    <prime_street>JANE ST, NY</prime_street>
-    <cross_streets>HEATHROW DR / CHALKFARM DR</cross_streets>
-    <dispatch_time>2021-02-13 12:17:04</dispatch_time>
-    <event_num>F21013479</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> C14, P145, P146, HZ326, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
+    <prime_street>M1G</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-13 12:34:21</dispatch_time>
-    <event_num>F21013483</event_num>
+    <dispatch_time>2021-02-13 13:02:37</dispatch_time>
+    <event_num>F21013490</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>OVERLEA BLVD, EY</prime_street>
-    <cross_streets>THORNCLIFFE PARK DR / THORNCLIFFE PARK DR</cross_streets>
-    <dispatch_time>2021-02-13 12:34:41</dispatch_time>
-    <event_num>F21013484</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> S313, A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M4V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 12:37:44</dispatch_time>
-    <event_num>F21013485</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 12:40:59</dispatch_time>
-    <event_num>F21013486</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P221, HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street>BIRCHMOUNT RD, SC</prime_street>
-    <cross_streets>ZENITH DR / ST CLAIR AVE E</cross_streets>
-    <dispatch_time>2021-02-13 12:46:12</dispatch_time>
-    <event_num>F21013487</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> R225, P221, A222, C22, R235</units_disp>
+    <beat>231</beat>
+    <units_disp> P234</units_disp>
   </event>
 </tfs_active_incidents>
