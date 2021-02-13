@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-13 16:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-13 16:45:02</update_from_db_time>
   <event>
     <prime_street>DON MILLS RD, NY</prime_street>
     <cross_streets>GATEWAY BLVD / HEPC</cross_streets>
@@ -12,36 +12,6 @@
     <units_disp> P324, P125, C32, HZ326</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 16:12:21</dispatch_time>
-    <event_num>F21013543</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 16:14:08</dispatch_time>
-    <event_num>F21013544</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>QUEENS QUAY E / HARBOUR ST</cross_streets>
-    <dispatch_time>2021-02-13 16:16:03</dispatch_time>
-    <event_num>F21013545</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> C33, P332, P334, P344, T333</units_disp>
-  </event>
-  <event>
     <prime_street>NORTHWESTERN AVE, YK</prime_street>
     <cross_streets>KINCORT ST / </cross_streets>
     <dispatch_time>2021-02-13 16:24:12</dispatch_time>
@@ -50,5 +20,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>133</beat>
     <units_disp> S143, R421</units_disp>
+  </event>
+  <event>
+    <prime_street>TOBERMORY DR, NY</prime_street>
+    <cross_streets>FINCH AVE W / POTSDAM RD</cross_streets>
+    <dispatch_time>2021-02-13 16:28:07</dispatch_time>
+    <event_num>F21013548</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141, P143, A142, C14, R411</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-13 16:32:34</dispatch_time>
+    <event_num>F21013549</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> A125</units_disp>
+  </event>
+  <event>
+    <prime_street>MAIN ST, TT</prime_street>
+    <cross_streets>GERRARD ST E / STEPHENSON AVE</cross_streets>
+    <dispatch_time>2021-02-13 16:36:03</dispatch_time>
+    <event_num>F21013550</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226, R224, A222, C22, R225, P227</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-13 16:38:25</dispatch_time>
+    <event_num>F21013551</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>243</beat>
+    <units_disp> R243</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-13 16:41:30</dispatch_time>
+    <event_num>F21013552</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> A315</units_disp>
   </event>
 </tfs_active_incidents>
