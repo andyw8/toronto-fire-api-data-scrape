@@ -1,54 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-13 13:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-13 14:15:02</update_from_db_time>
+  <event>
+    <prime_street>STEEPROCK DR, NY</prime_street>
+    <cross_streets>WHITEHORSE RD / LODESTAR RD</cross_streets>
+    <dispatch_time>2021-02-13 13:48:24</dispatch_time>
+    <event_num>F21013500</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P143, P141, A142, C14, P145</units_disp>
+  </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>THE QUEENSWAY / PLASTICS AVE</cross_streets>
-    <dispatch_time>2021-02-13 13:25:11</dispatch_time>
-    <event_num>F21013493</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-13 13:59:37</dispatch_time>
+    <event_num>F21013502</event_num>
+    <event_type>Vehicle Fire - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
+    <beat>146</beat>
+    <units_disp> P146, R133, C41</units_disp>
   </event>
   <event>
-    <prime_street>M1V</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-13 13:36:47</dispatch_time>
-    <event_num>F21013496</event_num>
+    <dispatch_time>2021-02-13 14:09:49</dispatch_time>
+    <event_num>F21013505</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 13:41:54</dispatch_time>
-    <event_num>F21013497</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Z</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 13:44:15</dispatch_time>
-    <event_num>F21013498</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 13:45:17</dispatch_time>
-    <event_num>F21013499</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
