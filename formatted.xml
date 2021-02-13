@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-13 17:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-13 18:20:02</update_from_db_time>
   <event>
     <prime_street>DON MILLS RD, NY</prime_street>
     <cross_streets>GATEWAY BLVD / HEPC</cross_streets>
@@ -12,56 +12,6 @@
     <units_disp> P324, P125, C32, HZ326, HR332</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 17:41:35</dispatch_time>
-    <event_num>F21013573</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>MAIN ST, TT</prime_street>
-    <cross_streets>GERRARD ST E / STEPHENSON AVE</cross_streets>
-    <dispatch_time>2021-02-13 17:42:36</dispatch_time>
-    <event_num>F21013574</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> R224, R225, C22, P227, A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 17:42:59</dispatch_time>
-    <event_num>F21013575</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> A324</units_disp>
-  </event>
-  <event>
-    <prime_street>BOWMAN ST, TT</prime_street>
-    <cross_streets>CARLTON ST / SACKVILLE PL</cross_streets>
-    <dispatch_time>2021-02-13 17:43:05</dispatch_time>
-    <event_num>F21013576</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
-  </event>
-  <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 17:44:47</dispatch_time>
-    <event_num>F21013577</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
     <prime_street>SHUTER ST, TT</prime_street>
     <cross_streets>ONTARIO ST / MILAN ST</cross_streets>
     <dispatch_time>2021-02-13 17:46:28</dispatch_time>
@@ -70,5 +20,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
     <units_disp> A325, P313, P314, P332, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
+    <cross_streets>R. V. BURGESS PARK TRL / WEST DON RIVER TRL</cross_streets>
+    <dispatch_time>2021-02-13 17:58:08</dispatch_time>
+    <event_num>F21013583</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322, S313</units_disp>
+  </event>
+  <event>
+    <prime_street>SYMINGTON AVE, TT</prime_street>
+    <cross_streets>WALLACE AVE / ANTLER ST</cross_streets>
+    <dispatch_time>2021-02-13 17:59:11</dispatch_time>
+    <event_num>F21013585</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R423, P342, A426, C42, R425, R426</units_disp>
   </event>
 </tfs_active_incidents>
