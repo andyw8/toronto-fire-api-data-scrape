@@ -1,44 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-13 03:25:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-13 02:10:15</dispatch_time>
-    <event_num>F21013381</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116, R115, P123, C11, P123</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-13 03:09:50</dispatch_time>
-    <event_num>F21013390</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322, R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 03:14:25</dispatch_time>
-    <event_num>F21013392</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 03:18:53</dispatch_time>
-    <event_num>F21013393</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
+  <update_from_db_time>2021-02-13 03:50:02</update_from_db_time>
 </tfs_active_incidents>
