@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-13 18:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-13 18:50:02</update_from_db_time>
   <event>
     <prime_street>DON MILLS RD, NY</prime_street>
     <cross_streets>GATEWAY BLVD / HEPC</cross_streets>
@@ -22,13 +22,73 @@
     <units_disp> A325, P313, P314, P332, C33</units_disp>
   </event>
   <event>
-    <prime_street>SYMINGTON AVE, TT</prime_street>
-    <cross_streets>WALLACE AVE / ANTLER ST</cross_streets>
-    <dispatch_time>2021-02-13 17:59:11</dispatch_time>
-    <event_num>F21013585</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-13 18:31:07</dispatch_time>
+    <event_num>F21013587</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R423, P342, A426, C42, R425, R426</units_disp>
+    <beat>333</beat>
+    <units_disp> T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-13 18:32:39</dispatch_time>
+    <event_num>F21013589</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-13 18:36:09</dispatch_time>
+    <event_num>F21013590</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214, P212</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-13 18:38:26</dispatch_time>
+    <event_num>F21013592</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-13 18:40:46</dispatch_time>
+    <event_num>F21013593</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-13 18:41:56</dispatch_time>
+    <event_num>F21013594</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-13 18:45:11</dispatch_time>
+    <event_num>F21013595</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
