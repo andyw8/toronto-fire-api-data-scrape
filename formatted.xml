@@ -1,84 +1,84 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-12 19:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-12 20:40:02</update_from_db_time>
   <event>
-    <prime_street>RAYOAK DR, NY</prime_street>
-    <cross_streets>COMBERMERE DR / PINTAIL CRES</cross_streets>
-    <dispatch_time>2021-02-12 18:29:07</dispatch_time>
-    <event_num>F21013272</event_num>
-    <event_type>Hazmat Level 2</event_type>
+    <prime_street>VILLAGE GREEN SQ, SC</prime_street>
+    <cross_streets>401 C W KENNEDY RD N RAMP / </cross_streets>
+    <dispatch_time>2021-02-12 20:16:49</dispatch_time>
+    <event_num>F21013297</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P324, P233, C11, HZ326, HR114</units_disp>
+    <beat>244</beat>
+    <units_disp> R243, P242, A244, C24, P232, P245</units_disp>
   </event>
   <event>
-    <prime_street>KEELE ST, NY</prime_street>
-    <cross_streets>GRANDRAVINE DR / ST REGIS CRES</cross_streets>
-    <dispatch_time>2021-02-12 18:58:11</dispatch_time>
-    <event_num>F21013280</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>BLEECKER ST, TT</prime_street>
+    <cross_streets>ST. JAMES TOWN WEST PARK TRL / ST. JAMES TOWN WEST PARK TRL</cross_streets>
+    <dispatch_time>2021-02-12 20:20:21</dispatch_time>
+    <event_num>F21013299</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> A142, C14, P141, P145, R112</units_disp>
+    <beat>313</beat>
+    <units_disp> A325, C31, P312, P313, R325</units_disp>
   </event>
   <event>
-    <prime_street>DUFFERIN ST, TT</prime_street>
-    <cross_streets>LN N BLOOR E DUFFERIN / SHANLY ST</cross_streets>
-    <dispatch_time>2021-02-12 19:07:33</dispatch_time>
-    <event_num>F21013283</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R426, P342, A345, C34, P315</units_disp>
-  </event>
-  <event>
-    <prime_street>GLEN EVEREST RD, SC</prime_street>
-    <cross_streets>ROSETTA MCCLAIN GARDENS TRL / WYNNVIEW CRT</cross_streets>
-    <dispatch_time>2021-02-12 19:13:33</dispatch_time>
-    <event_num>F21013284</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> C22, P221, P223, R225, A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 19:32:02</dispatch_time>
-    <event_num>F21013290</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 19:37:31</dispatch_time>
-    <event_num>F21013291</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-12 19:40:31</dispatch_time>
-    <event_num>F21013292</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R444, R441</units_disp>
-  </event>
-  <event>
-    <prime_street>RICHMOND ST, TT</prime_street>
-    <cross_streets>TWILIGHT LANE / DUNCAN ST</cross_streets>
-    <dispatch_time>2021-02-12 19:42:15</dispatch_time>
-    <event_num>F21013293</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>FRONT ST W / WELLINGTON ST W</cross_streets>
+    <dispatch_time>2021-02-12 20:27:15</dispatch_time>
+    <event_num>F21013300</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>332</beat>
-    <units_disp> S331, HR332</units_disp>
+    <units_disp> C33, HR332, P332, P333, P334, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>3950 LAWRENCE AVE E / 3967 LAWRENCE AVE E</cross_streets>
+    <dispatch_time>2021-02-12 20:28:23</dispatch_time>
+    <event_num>F21013301</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234, P221, A231, C23, P223</units_disp>
+  </event>
+  <event>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-12 20:33:14</dispatch_time>
+    <event_num>F21013302</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>AMBROSE RD / OLD LESLIE ST</cross_streets>
+    <dispatch_time>2021-02-12 20:35:02</dispatch_time>
+    <event_num>F21013303</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116, R115, A113, C11, R122</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, TT</prime_street>
+    <cross_streets>VESTA DR / MAYFAIR AVE</cross_streets>
+    <dispatch_time>2021-02-12 20:36:11</dispatch_time>
+    <event_num>F21013304</event_num>
+    <event_type>Fire - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> R134, P132, A135, C13, P131, R341</units_disp>
+  </event>
+  <event>
+    <prime_street>BEECROFT RD, NY</prime_street>
+    <cross_streets>FINCH AVE W / LORRAINE DR</cross_streets>
+    <dispatch_time>2021-02-12 20:36:42</dispatch_time>
+    <event_num>F21013305</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, R112, C14, HR114, P111, T114</units_disp>
   </event>
 </tfs_active_incidents>
