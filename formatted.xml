@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-13 02:30:02</update_from_db_time>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 02:01:28</dispatch_time>
-    <event_num>F21013378</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
+  <update_from_db_time>2021-02-13 02:45:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>SANDWELL DR / MARTIN GROVE RD</cross_streets>
@@ -40,5 +30,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>322</beat>
     <units_disp> R321, P125, A322, C32, R224</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MEDFORD AVE / DANFORTH RD</cross_streets>
+    <dispatch_time>2021-02-13 02:29:50</dispatch_time>
+    <event_num>F21013385</event_num>
+    <event_type>Vehicle Accident - Minor Fuel Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-13 02:37:06</dispatch_time>
+    <event_num>F21013386</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-13 02:37:46</dispatch_time>
+    <event_num>F21013387</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
 </tfs_active_incidents>
