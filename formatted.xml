@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-14 12:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-14 13:20:02</update_from_db_time>
   <event>
     <prime_street>BRISBANE RD, NY</prime_street>
     <cross_streets>MARTIN ROSS AVE / ALNESS ST</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> P223, P234, A231, C22, R243</units_disp>
   </event>
   <event>
-    <prime_street>M2H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-14 12:30:22</dispatch_time>
-    <event_num>F21013807</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113</units_disp>
-  </event>
-  <event>
     <prime_street>CONEY RD, ET</prime_street>
     <cross_streets>LARSTONE AVE / UNO DR</cross_streets>
     <dispatch_time>2021-02-14 12:31:38</dispatch_time>
@@ -52,53 +42,63 @@
     <units_disp> P433</units_disp>
   </event>
   <event>
-    <prime_street>M8W</prime_street>
+    <prime_street>M9M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-14 12:35:10</dispatch_time>
-    <event_num>F21013810</event_num>
+    <dispatch_time>2021-02-14 12:52:39</dispatch_time>
+    <event_num>F21013820</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-14 12:37:58</dispatch_time>
-    <event_num>F21013811</event_num>
+    <dispatch_time>2021-02-14 12:59:51</dispatch_time>
+    <event_num>F21013821</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> P131, R134</units_disp>
+    <beat>315</beat>
+    <units_disp> P331</units_disp>
   </event>
   <event>
-    <prime_street>MILEPOST PL, EY</prime_street>
-    <cross_streets>THORNCLIFFE PARK DR / </cross_streets>
-    <dispatch_time>2021-02-14 12:38:36</dispatch_time>
-    <event_num>F21013812</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>YONGE ST / BAY ST</cross_streets>
+    <dispatch_time>2021-02-14 13:02:57</dispatch_time>
+    <event_num>F21013825</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
+    <beat>314</beat>
+    <units_disp> A312, C31, P314, P332, P344</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>MILNER AVE / MARKHAM RD</cross_streets>
-    <dispatch_time>2021-02-14 12:38:53</dispatch_time>
-    <event_num>F21013813</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>MILNER BUSINESS CRT, SC</prime_street>
+    <cross_streets>MILNER AVE / PROGRESS AVE</cross_streets>
+    <dispatch_time>2021-02-14 13:07:42</dispatch_time>
+    <event_num>F21013827</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>213</beat>
-    <units_disp> A213</units_disp>
+    <units_disp> A213, C23, P211, P212, R243</units_disp>
   </event>
   <event>
-    <prime_street>M6J</prime_street>
+    <prime_street>M9M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-14 12:39:48</dispatch_time>
-    <event_num>F21013814</event_num>
+    <dispatch_time>2021-02-14 13:09:36</dispatch_time>
+    <event_num>F21013828</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-14 13:13:45</dispatch_time>
+    <event_num>F21013829</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
   </event>
 </tfs_active_incidents>
