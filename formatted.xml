@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-14 00:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-14 01:15:02</update_from_db_time>
   <event>
     <prime_street>POYNTZ AVE, NY</prime_street>
     <cross_streets>BEECROFT RD / FRIZZELL RD</cross_streets>
@@ -9,17 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>114</beat>
-    <units_disp> P114, P121, P143, S143, T114, C11, C11, A113, C13, HZ145, LA111, P111, P116, P131, R112, R122, HR114, C10, CMD10, P111</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-13 23:52:56</dispatch_time>
-    <event_num>F21013685</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> HR332</units_disp>
+    <units_disp> P114, P121, P143, S143, T114, C11, C11, A113, C13, HZ145, LA111, P111, P116, P131, R112, R122, HR114, C10, CMD10, P111, R112</units_disp>
   </event>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
@@ -32,43 +22,13 @@
     <units_disp> R426, P331, A426, C33, P344</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-14 00:39:12</dispatch_time>
-    <event_num>F21013694</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>KINGSTON RD, TT</prime_street>
+    <cross_streets>WAVERLEY RD / LEE AVE</cross_streets>
+    <dispatch_time>2021-02-14 01:04:56</dispatch_time>
+    <event_num>F21013698</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>CHESTNUT PK, TT</prime_street>
-    <cross_streets>ROXBOROUGH ST E / CLUNY DR</cross_streets>
-    <dispatch_time>2021-02-14 00:40:24</dispatch_time>
-    <event_num>F21013695</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>DAWES RD, EY</prime_street>
-    <cross_streets>CAPTAIN DEMONT LANE / BETH ST</cross_streets>
-    <dispatch_time>2021-02-14 00:41:13</dispatch_time>
-    <event_num>F21013696</event_num>
-    <event_type>Police Assist - Request</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-14 00:40:45</dispatch_time>
-    <event_num>F21013697</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
+    <beat>226</beat>
+    <units_disp> P226, P227, R224, A324, C32, R235</units_disp>
   </event>
 </tfs_active_incidents>
