@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-14 05:35:02</update_from_db_time>
+  <update_from_db_time>2021-02-14 05:45:02</update_from_db_time>
   <event>
     <prime_street>POYNTZ AVE, NY</prime_street>
     <cross_streets>BEECROFT RD / FRIZZELL RD</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>343</beat>
     <units_disp> P343, R341, A345, C34, P342</units_disp>
-  </event>
-  <event>
-    <prime_street>HARBOUR SQ, TT</prime_street>
-    <cross_streets>MARTIN GOODMAN TRL / </cross_streets>
-    <dispatch_time>2021-02-14 05:09:03</dispatch_time>
-    <event_num>F21013716</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334, P332, C33, P331, T333</units_disp>
   </event>
   <event>
     <prime_street>M1R</prime_street>
