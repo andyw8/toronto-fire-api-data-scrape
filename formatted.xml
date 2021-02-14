@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-14 17:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-14 18:20:01</update_from_db_time>
   <event>
     <prime_street>BRISBANE RD, NY</prime_street>
     <cross_streets>MARTIN ROSS AVE / ALNESS ST</cross_streets>
@@ -12,73 +12,53 @@
     <units_disp> P141, P143, P145, S143, C14, T114, A142, C13, R122, P111, LA421, R411, LA111, HR114, C10, P132, P146, R133, A133, A423, P431</units_disp>
   </event>
   <event>
-    <prime_street>MARKHAM RD, SC</prime_street>
-    <cross_streets>MARKANNA DR / EGLINTON AVE E</cross_streets>
-    <dispatch_time>2021-02-14 17:19:49</dispatch_time>
-    <event_num>F21013906</event_num>
+    <prime_street>CHURCH ST, TT</prime_street>
+    <cross_streets>DUNDAS ST E / GOULD ST</cross_streets>
+    <dispatch_time>2021-02-14 17:55:22</dispatch_time>
+    <event_num>F21013917</event_num>
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223, S232, A231, C23, P221, P234, C23</units_disp>
+    <beat>314</beat>
+    <units_disp> A325, C33, P312, P314, P332, R325</units_disp>
   </event>
   <event>
-    <prime_street>M9M</prime_street>
+    <prime_street>M3A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-14 17:27:39</dispatch_time>
-    <event_num>F21013909</event_num>
+    <dispatch_time>2021-02-14 17:55:29</dispatch_time>
+    <event_num>F21013918</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
   </event>
   <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>MERRIAN RD / KENMARK BLVD</cross_streets>
-    <dispatch_time>2021-02-14 17:27:59</dispatch_time>
-    <event_num>F21013910</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P222, P223, A222, C22, P232, R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M9M</prime_street>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-14 17:29:07</dispatch_time>
-    <event_num>F21013911</event_num>
+    <dispatch_time>2021-02-14 18:07:38</dispatch_time>
+    <event_num>F21013919</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A142</units_disp>
+    <beat>422</beat>
+    <units_disp> A421</units_disp>
   </event>
   <event>
-    <prime_street>SHUTER ST, TT</prime_street>
-    <cross_streets>POULETT ST / PARLIAMENT ST</cross_streets>
-    <dispatch_time>2021-02-14 17:33:11</dispatch_time>
-    <event_num>F21013913</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>SUDBURY ST, TT</prime_street>
+    <cross_streets>KING ST W / LN E DOVERCOURT N SUDBURY</cross_streets>
+    <dispatch_time>2021-02-14 18:08:15</dispatch_time>
+    <event_num>F21013920</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, A325, C33, P313, P314</units_disp>
+    <beat>331</beat>
+    <units_disp> P331, P344, A331, C34, P315</units_disp>
   </event>
   <event>
-    <prime_street>M5J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-14 17:41:30</dispatch_time>
-    <event_num>F21013914</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>VICTORIA PARK AVE, NY</prime_street>
+    <cross_streets>SLOANE AVE / JANET BLVD</cross_streets>
+    <dispatch_time>2021-02-14 18:12:29</dispatch_time>
+    <event_num>F21013921</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M6R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-14 17:45:25</dispatch_time>
-    <event_num>F21013915</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>233</beat>
+    <units_disp> R235</units_disp>
   </event>
 </tfs_active_incidents>
