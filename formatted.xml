@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-15 09:20:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>SUNNYSIDE AVE / GLENDALE AVE</cross_streets>
-    <dispatch_time>2021-02-15 08:53:18</dispatch_time>
-    <event_num>F21014100</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R423, R425, R426, P331, A426, C42</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>VICTORIA PARK AVE / HIGHWAY 401 X E</cross_streets>
-    <dispatch_time>2021-02-15 09:00:37</dispatch_time>
-    <event_num>F21014102</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Z</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-15 09:07:04</dispatch_time>
-    <event_num>F21014104</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
-  </event>
+  <update_from_db_time>2021-02-15 09:30:02</update_from_db_time>
   <event>
     <prime_street>YUKON LANE, NY</prime_street>
     <cross_streets>SHEPPARD AVE W / CARL HALL RD</cross_streets>
@@ -40,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>143</beat>
     <units_disp> A142, P141, P142, P145, C14</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, SC</prime_street>
+    <cross_streets>ROUGE PARK GLEN EAGLES VISTA TRL / RAINBOW RIDGE AVE</cross_streets>
+    <dispatch_time>2021-02-15 09:17:36</dispatch_time>
+    <event_num>F21014107</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> A213, C21, R214, HZ326, P212, R213, R231</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 09:23:16</dispatch_time>
+    <event_num>F21014108</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
