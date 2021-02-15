@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-15 00:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-15 00:45:02</update_from_db_time>
   <event>
     <prime_street>DUNDAS ST, TT</prime_street>
     <cross_streets>VICTORIA STREET LANE / BOND ST</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> R243, P242, A244, C24, P211</units_disp>
   </event>
   <event>
-    <prime_street>CARRIER DR, ET</prime_street>
-    <cross_streets>HUMBER COLLEGE BLVD / DANSK CRT</cross_streets>
-    <dispatch_time>2021-02-15 00:06:24</dispatch_time>
-    <event_num>F21014024</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412, R413, R441, A415, C41</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>ARMOURY ST / UNIVERSITY AVE</cross_streets>
     <dispatch_time>2021-02-15 00:22:21</dispatch_time>
@@ -50,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>145</beat>
     <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M6C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 00:31:40</dispatch_time>
+    <event_num>F21014028</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M5P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 00:36:08</dispatch_time>
+    <event_num>F21014029</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
