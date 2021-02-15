@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-15 10:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-15 10:35:02</update_from_db_time>
   <event>
     <prime_street>M6H</prime_street>
     <cross_streets/>
@@ -22,26 +22,6 @@
     <units_disp> P324, A324, C32, P323, R325</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-15 09:55:07</dispatch_time>
-    <event_num>F21014118</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BATHURST ST / LAWRENCE AVE W</cross_streets>
-    <dispatch_time>2021-02-15 09:58:53</dispatch_time>
-    <event_num>F21014119</event_num>
-    <event_type>Vehicle - Spill Clean Up</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
     <prime_street>EUCLID AVE, TT</prime_street>
     <cross_streets>ROBINSON ST / LN 1 S DUNDAS W EUCLID</cross_streets>
     <dispatch_time>2021-02-15 10:01:02</dispatch_time>
@@ -50,15 +30,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>331</beat>
     <units_disp> S331, A331, C33, P315, P331, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M5G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-15 10:06:22</dispatch_time>
-    <event_num>F21014123</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> HR332</units_disp>
   </event>
 </tfs_active_incidents>
