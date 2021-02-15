@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-15 13:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-15 14:15:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -12,33 +12,33 @@
     <units_disp> A312, P312</units_disp>
   </event>
   <event>
-    <prime_street>KINGSTON RD, SC</prime_street>
-    <cross_streets>GALLOWAY RD / 4315 KINGSTON RD</cross_streets>
-    <dispatch_time>2021-02-15 13:24:06</dispatch_time>
-    <event_num>F21014169</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> R214, A215, C23, P221, P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
+    <prime_street>M3C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-15 13:32:43</dispatch_time>
-    <event_num>F21014171</event_num>
+    <dispatch_time>2021-02-15 13:57:05</dispatch_time>
+    <event_num>F21014176</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
   </event>
   <event>
-    <prime_street>TYNDALL AVE, TT</prime_street>
-    <cross_streets>TEMPLE AVE / KING ST W</cross_streets>
-    <dispatch_time>2021-02-15 13:45:35</dispatch_time>
-    <event_num>F21014174</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>SPRUCEWOOD CRT, SC</prime_street>
+    <cross_streets>PINEMEADOW BLVD / </cross_streets>
+    <dispatch_time>2021-02-15 14:01:57</dispatch_time>
+    <event_num>F21014177</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344, C34, P334, A426, R426</units_disp>
+    <beat>244</beat>
+    <units_disp> P244, P113, A244, C24, R241, R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M2L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 14:04:44</dispatch_time>
+    <event_num>F21014178</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
   </event>
 </tfs_active_incidents>
