@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-15 14:45:02</update_from_db_time>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-15 14:12:16</dispatch_time>
-    <event_num>F21014179</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
-  </event>
-  <event>
-    <prime_street>LAKE SHORE BLVD, ET</prime_street>
-    <cross_streets>DOUGLAS BLVD / QUEENS AVE</cross_streets>
-    <dispatch_time>2021-02-15 14:18:44</dispatch_time>
-    <event_num>F21014183</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435, S445</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-15 14:22:22</dispatch_time>
-    <event_num>F21014184</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-15 14:22:31</dispatch_time>
-    <event_num>F21014185</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
+  <update_from_db_time>2021-02-15 15:20:02</update_from_db_time>
   <event>
     <prime_street>LAKE SHORE BLVD, TT</prime_street>
     <cross_streets>MARTIN GOODMAN TRL / REMEMBRANCE DR</cross_streets>
@@ -49,6 +9,36 @@
     <event_type>Rescue - Water w/Fireboat</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>346</beat>
-    <units_disp> FB334, S331, P313, P334, S313, R426, C33, P344, P445</units_disp>
+    <units_disp> FB334, P313, P334, S313, S331, P445, R426, C33, P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 15:00:32</dispatch_time>
+    <event_num>F21014193</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M9A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 15:07:28</dispatch_time>
+    <event_num>F21014194</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> S445, R435</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>ERSKINE AVE / CASTLEFIELD AVE</cross_streets>
+    <dispatch_time>2021-02-15 15:11:21</dispatch_time>
+    <event_num>F21014195</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> A135, C13, P131, P132, R134</units_disp>
   </event>
 </tfs_active_incidents>
