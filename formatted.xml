@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-14 22:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-14 22:30:02</update_from_db_time>
   <event>
     <prime_street>BEDFORD PARK AVE, NY</prime_street>
     <cross_streets>WOBURN PARK TRL / LN E BATHURST N BEDFORD PARK</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
     <units_disp> P131, P145, R134, A135, C13, P121, A133</units_disp>
-  </event>
-  <event>
-    <prime_street>ALLONSIUS DR, ET</prime_street>
-    <cross_streets>WINDUST GT / RENFORTH DR</cross_streets>
-    <dispatch_time>2021-02-14 21:08:17</dispatch_time>
-    <event_num>F21013975</event_num>
-    <event_type>Rescue - Personal Entrapment</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> P445, S445, C44, R444</units_disp>
-  </event>
-  <event>
-    <prime_street>EGLINTON AVE, YK</prime_street>
-    <cross_streets>ALAMEDA AVE / OAKWOOD AVE</cross_streets>
-    <dispatch_time>2021-02-14 21:37:12</dispatch_time>
-    <event_num>F21013983</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> P342, A345</units_disp>
   </event>
   <event>
     <prime_street>DUFFERIN ST, TT</prime_street>
@@ -42,33 +22,23 @@
     <units_disp> P331, P344, A426, C34, P315, P334, R426</units_disp>
   </event>
   <event>
-    <prime_street>M6A</prime_street>
+    <prime_street>M5R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-14 21:51:31</dispatch_time>
-    <event_num>F21013993</event_num>
+    <dispatch_time>2021-02-14 22:21:44</dispatch_time>
+    <event_num>F21014000</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-14 22:05:33</dispatch_time>
-    <event_num>F21013997</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>ROEHAMPTON AVE, TT</prime_street>
+    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
+    <dispatch_time>2021-02-14 22:22:20</dispatch_time>
+    <event_num>F21014001</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-14 22:07:13</dispatch_time>
-    <event_num>F21013998</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>134</beat>
+    <units_disp> R321, P311, A125, C13, P132</units_disp>
   </event>
 </tfs_active_incidents>
