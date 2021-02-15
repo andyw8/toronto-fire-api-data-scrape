@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-15 00:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-15 00:30:02</update_from_db_time>
   <event>
     <prime_street>DUNDAS ST, TT</prime_street>
     <cross_streets>VICTORIA STREET LANE / BOND ST</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> R243, P242, A244, C24, P211</units_disp>
   </event>
   <event>
-    <prime_street>WATSON ST, SC</prime_street>
-    <cross_streets>WW S ELLESMERE W WATSON / ELLESMERE RD</cross_streets>
-    <dispatch_time>2021-02-15 00:05:05</dispatch_time>
-    <event_num>F21014023</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R213, A215, C21, P212, P234, R214</units_disp>
-  </event>
-  <event>
     <prime_street>CARRIER DR, ET</prime_street>
     <cross_streets>HUMBER COLLEGE BLVD / DANSK CRT</cross_streets>
     <dispatch_time>2021-02-15 00:06:24</dispatch_time>
@@ -40,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>412</beat>
     <units_disp> R412, R413, R441, A415, C41</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ARMOURY ST / UNIVERSITY AVE</cross_streets>
+    <dispatch_time>2021-02-15 00:22:21</dispatch_time>
+    <event_num>F21014025</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M3K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 00:22:54</dispatch_time>
+    <event_num>F21014026</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
   </event>
 </tfs_active_incidents>
