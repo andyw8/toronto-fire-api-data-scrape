@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-15 22:35:02</update_from_db_time>
+  <update_from_db_time>2021-02-15 22:50:02</update_from_db_time>
   <event>
     <prime_street>OSSINGTON AVE, TT</prime_street>
     <cross_streets>LN N BLOOR E OSSINGTON / NORTHUMBERLAND ST</cross_streets>
@@ -14,42 +14,12 @@
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-15 21:55:46</dispatch_time>
-    <event_num>F21014303</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213, R213</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
     <dispatch_time>2021-02-15 22:01:35</dispatch_time>
     <event_num>F21014304</event_num>
     <event_type>Fire - Outside Storage</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
     <units_disp> P325, P333, P334, R325, T333, C33</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>SENECA HILL DR / 404 S FINCH W RAMP</cross_streets>
-    <dispatch_time>2021-02-15 22:09:24</dispatch_time>
-    <event_num>F21014306</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113, R115, P111, A113, C11</units_disp>
-  </event>
-  <event>
-    <prime_street>EDGEWATER DR, TT</prime_street>
-    <cross_streets>MERCHANTS' WHARF / KANADARIO LANE</cross_streets>
-    <dispatch_time>2021-02-15 22:27:10</dispatch_time>
-    <event_num>F21014308</event_num>
-    <event_type>Fire Waterfront Marina/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> A325, P344</units_disp>
   </event>
   <event>
     <prime_street>M3L</prime_street>
@@ -62,26 +32,6 @@
     <units_disp> P142</units_disp>
   </event>
   <event>
-    <prime_street>MCCULLEY ST, SC</prime_street>
-    <cross_streets>LANGEVIN CRES / LANGEVIN CRES</cross_streets>
-    <dispatch_time>2021-02-15 22:22:58</dispatch_time>
-    <event_num>F21014312</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215, C21, P212, P234, R214</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>BEACONSFIELD AVE / NORTHCOTE AVE</cross_streets>
-    <dispatch_time>2021-02-15 22:24:07</dispatch_time>
-    <event_num>F21014313</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, P331, A426, C34, P315</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2021-02-15 22:31:39</dispatch_time>
@@ -90,5 +40,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>415</beat>
     <units_disp> A415, P443</units_disp>
+  </event>
+  <event>
+    <prime_street>HOLITA RD, NY</prime_street>
+    <cross_streets>CARNEY RD / BLAKE AVE</cross_streets>
+    <dispatch_time>2021-02-15 22:39:58</dispatch_time>
+    <event_num>F21014316</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 22:43:28</dispatch_time>
+    <event_num>F21014317</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M5E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 22:45:48</dispatch_time>
+    <event_num>F21014318</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
