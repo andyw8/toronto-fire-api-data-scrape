@@ -1,34 +1,84 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-15 18:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-15 19:55:02</update_from_db_time>
   <event>
-    <prime_street>MCCORMACK ST, TT</prime_street>
-    <cross_streets>LN W WESTON S NORTHLAND / MAYBANK AVE</cross_streets>
-    <dispatch_time>2021-02-15 18:15:22</dispatch_time>
-    <event_num>F21014236</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>YONGE ST, NY</prime_street>
+    <cross_streets>HORSHAM AVE / BYNG AVE</cross_streets>
+    <dispatch_time>2021-02-15 19:06:09</dispatch_time>
+    <event_num>F21014257</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423, R421, A423, C42, P422</units_disp>
+    <beat>114</beat>
+    <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
+    <prime_street>TROUTBROOKE DR, NY</prime_street>
+    <cross_streets>DOWNSVIEW DELLS PARK TRL / JANE ST</cross_streets>
+    <dispatch_time>2021-02-15 19:17:20</dispatch_time>
+    <event_num>F21014259</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>OSSINGTON AVE, TT</prime_street>
+    <cross_streets>LN N BLOOR E OSSINGTON / NORTHUMBERLAND ST</cross_streets>
+    <dispatch_time>2021-02-15 19:19:29</dispatch_time>
+    <event_num>F21014260</event_num>
+    <event_type>Fire - Subway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> P315, P343, R345, S331, A345, C34, P342, HR114, LA421, P315</units_disp>
+  </event>
+  <event>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>BATHURST ST / TECUMSETH ST</cross_streets>
+    <dispatch_time>2021-02-15 19:31:17</dispatch_time>
+    <event_num>F21014265</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331, A331, C31, P314, P344</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ALLIANCE AVE / ROCKCLIFFE BLVD</cross_streets>
+    <dispatch_time>2021-02-15 19:32:06</dispatch_time>
+    <event_num>F21014266</event_num>
+    <event_type>Vehicle Fire</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-15 18:30:47</dispatch_time>
-    <event_num>F21014244</event_num>
+    <dispatch_time>2021-02-15 19:38:37</dispatch_time>
+    <event_num>F21014267</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
   <event>
-    <prime_street>KILPATRICK PL, SC</prime_street>
-    <cross_streets>MINFORD AVE / </cross_streets>
-    <dispatch_time>2021-02-15 18:45:20</dispatch_time>
-    <event_num>F21014246</event_num>
+    <prime_street>SAULTER ST, TT</prime_street>
+    <cross_streets>JUNE CALLWOOD WAY / JUNE CALLWOOD WAY</cross_streets>
+    <dispatch_time>2021-02-15 19:41:52</dispatch_time>
+    <event_num>F21014269</event_num>
     <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222, C22, P222, P233, P245</units_disp>
+    <beat>324</beat>
+    <units_disp> P324, P325, R325, A324, C32</units_disp>
+  </event>
+  <event>
+    <prime_street>MARETTA AVE, SC</prime_street>
+    <cross_streets>KHARTOUM AVE / RUTLEDGE AVE</cross_streets>
+    <dispatch_time>2021-02-15 19:50:46</dispatch_time>
+    <event_num>F21014270</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
