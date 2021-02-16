@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-16 06:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-16 06:40:02</update_from_db_time>
   <event>
     <prime_street>M1P</prime_street>
     <cross_streets/>
@@ -10,15 +10,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>232</beat>
     <units_disp> P232</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>YORK ST / STATION ST</cross_streets>
-    <dispatch_time>2021-02-16 06:16:43</dispatch_time>
-    <event_num>F21014389</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
