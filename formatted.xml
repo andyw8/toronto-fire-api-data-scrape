@@ -1,56 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-16 10:50:02</update_from_db_time>
-  <event>
-    <prime_street>BANNERMAN ST, NY</prime_street>
-    <cross_streets>RUSTIC RD / GROVEDALE AVE</cross_streets>
-    <dispatch_time>2021-02-16 10:34:20</dispatch_time>
-    <event_num>F21014437</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A213, R133, C13, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-16 10:36:45</dispatch_time>
-    <event_num>F21014438</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>FOX GRASSWAY / SEA GRASSWAY</cross_streets>
-    <dispatch_time>2021-02-16 10:38:51</dispatch_time>
-    <event_num>F21014439</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P146, P141, A142, C14, R411</units_disp>
-  </event>
-  <event>
-    <prime_street>MERTON ST, TT</prime_street>
-    <cross_streets>PAILTON CRES / MOUNT PLEASANT RD</cross_streets>
-    <dispatch_time>2021-02-16 10:38:57</dispatch_time>
-    <event_num>F21014440</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311, R134, A135, C31, P135</units_disp>
-  </event>
-  <event>
-    <prime_street>EGLINTON AVE, SC</prime_street>
-    <cross_streets>CENTRE ST / MARKHAM RD</cross_streets>
-    <dispatch_time>2021-02-16 10:39:42</dispatch_time>
-    <event_num>F21014442</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223, P221, A231, C23, R231</units_disp>
-  </event>
+  <update_from_db_time>2021-02-16 11:40:02</update_from_db_time>
   <event>
     <prime_street>FERRAND DR, NY</prime_street>
     <cross_streets>WINDOM RD / EGLINTON E FERRAND DR RAMP</cross_streets>
@@ -62,43 +12,63 @@
     <units_disp> P125, R235, A125, P123, C32, R321</units_disp>
   </event>
   <event>
-    <prime_street>WARDEN AVE, SC</prime_street>
-    <cross_streets>FINCH AVE E / BRIDLETOWNE CRCL</cross_streets>
-    <dispatch_time>2021-02-16 10:41:38</dispatch_time>
-    <event_num>F21014444</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 11:07:58</dispatch_time>
+    <event_num>F21014454</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> A244, C24, P242, R241, R115</units_disp>
+    <beat>315</beat>
+    <units_disp> A315</units_disp>
   </event>
   <event>
-    <prime_street>MOUNT PLEASANT RD, TT</prime_street>
-    <cross_streets>HILLSDALE AVE E / SOUDAN AVE</cross_streets>
-    <dispatch_time>2021-02-16 10:41:38</dispatch_time>
-    <event_num>F21014445</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <prime_street>M1N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 11:10:42</dispatch_time>
+    <event_num>F21014455</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> P131</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
   <event>
-    <prime_street>SIBLEY AVE, EY</prime_street>
-    <cross_streets>COLEMAN AVE / DENTONIA PARK AVE</cross_streets>
-    <dispatch_time>2021-02-16 10:45:41</dispatch_time>
-    <event_num>F21014447</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 11:13:03</dispatch_time>
+    <event_num>F21014457</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> R224, R225, A226, C22, P227, P323, A222</units_disp>
+    <beat>235</beat>
+    <units_disp> P233</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-16 10:46:25</dispatch_time>
-    <event_num>F21014448</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>WINDERMERE AVE, TT</prime_street>
+    <cross_streets>WINDERMERE PL / COE HILL DR</cross_streets>
+    <dispatch_time>2021-02-16 11:14:31</dispatch_time>
+    <event_num>F21014458</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212, R213</units_disp>
+    <beat>425</beat>
+    <units_disp> P422, R425, R423</units_disp>
+  </event>
+  <event>
+    <prime_street>M4N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 11:32:21</dispatch_time>
+    <event_num>F21014462</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
+  </event>
+  <event>
+    <prime_street>LAKE SHORE BLVD, ET</prime_street>
+    <cross_streets>ROYAL YORK RD / SAND BEACH RD</cross_streets>
+    <dispatch_time>2021-02-16 11:36:51</dispatch_time>
+    <event_num>F21014463</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> R435</units_disp>
   </event>
 </tfs_active_incidents>
