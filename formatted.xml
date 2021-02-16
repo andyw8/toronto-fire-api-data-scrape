@@ -1,66 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-16 13:20:02</update_from_db_time>
-  <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-16 13:00:39</dispatch_time>
-    <event_num>F21014487</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>MARY CHAPMAN BLVD, NY</prime_street>
-    <cross_streets>BETTY NAGLE ST / LOU POMANTI ST</cross_streets>
-    <dispatch_time>2021-02-16 13:06:06</dispatch_time>
-    <event_num>F21014489</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411, P146, A411, P442, C14</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ROYAL YORK RD / KING GEORGES RD</cross_streets>
-    <dispatch_time>2021-02-16 13:06:50</dispatch_time>
-    <event_num>F21014490</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>NORTH QUEEN ST / MANSTOR RD</cross_streets>
-    <dispatch_time>2021-02-16 13:06:39</dispatch_time>
-    <event_num>F21014491</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>HALLCROWN PL, NY</prime_street>
-    <cross_streets>CONSUMERS RD / </cross_streets>
-    <dispatch_time>2021-02-16 13:08:41</dispatch_time>
-    <event_num>F21014492</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> C11, P116, R115, A244, P233, R243</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-16 13:10:23</dispatch_time>
-    <event_num>F21014493</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
+  <update_from_db_time>2021-02-16 13:50:02</update_from_db_time>
   <event>
     <prime_street>M2M</prime_street>
     <cross_streets/>
@@ -70,5 +10,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
     <units_disp> P113</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 13:17:20</dispatch_time>
+    <event_num>F21014495</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>SHERMOUNT AVE / ALLEN X N LAWRENCE RAMP</cross_streets>
+    <dispatch_time>2021-02-16 13:18:00</dispatch_time>
+    <event_num>F21014496</event_num>
+    <event_type>Vehicle Fire</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132, C13</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>MORNINGSIDE AVE / COLLINSGROVE RD</cross_streets>
+    <dispatch_time>2021-02-16 13:32:14</dispatch_time>
+    <event_num>F21014504</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> R231, R214, A215, C23, P221, P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M6G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 13:41:40</dispatch_time>
+    <event_num>F21014505</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 13:46:49</dispatch_time>
+    <event_num>F21014506</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
   </event>
 </tfs_active_incidents>
