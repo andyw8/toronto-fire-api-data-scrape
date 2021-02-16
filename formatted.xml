@@ -1,34 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-16 09:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-16 10:20:02</update_from_db_time>
   <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-16 09:07:19</dispatch_time>
-    <event_num>F21014422</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>WINDERMERE AVE, TT</prime_street>
+    <cross_streets>WINDERMERE PL / COE HILL DR</cross_streets>
+    <dispatch_time>2021-02-16 09:43:09</dispatch_time>
+    <event_num>F21014428</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>425</beat>
+    <units_disp> P431</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, NY</prime_street>
-    <cross_streets>MARLEE AVE / BLOSSOMFIELD DR</cross_streets>
-    <dispatch_time>2021-02-16 09:07:19</dispatch_time>
-    <event_num>F21014423</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-16 09:26:22</dispatch_time>
-    <event_num>F21014427</event_num>
+    <dispatch_time>2021-02-16 09:54:59</dispatch_time>
+    <event_num>F21014430</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>WAYSIDE AVE, SC</prime_street>
+    <cross_streets>FINCH AVE E / 39 WAYSIDE AVE</cross_streets>
+    <dispatch_time>2021-02-16 10:11:33</dispatch_time>
+    <event_num>F21014433</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> A244, C24, P242, P245, R241, R243</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 10:13:59</dispatch_time>
+    <event_num>F21014434</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
   </event>
 </tfs_active_incidents>
