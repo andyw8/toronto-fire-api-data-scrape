@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-15 23:15:02</update_from_db_time>
+  <update_from_db_time>2021-02-15 23:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -14,26 +14,6 @@
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-15 22:31:39</dispatch_time>
-    <event_num>F21014314</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415, P443</units_disp>
-  </event>
-  <event>
-    <prime_street>HOLITA RD, NY</prime_street>
-    <cross_streets>CARNEY RD / BLAKE AVE</cross_streets>
-    <dispatch_time>2021-02-15 22:39:58</dispatch_time>
-    <event_num>F21014316</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
     <dispatch_time>2021-02-15 22:47:15</dispatch_time>
     <event_num>F21014319</event_num>
     <event_type>Vehicle - Personal Injury Highway</event_type>
@@ -42,13 +22,33 @@
     <units_disp> P123, R115</units_disp>
   </event>
   <event>
-    <prime_street>M9L</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-15 23:22:21</dispatch_time>
+    <event_num>F21014321</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322, R224</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-15 23:08:07</dispatch_time>
-    <event_num>F21014320</event_num>
+    <dispatch_time>2021-02-15 23:40:27</dispatch_time>
+    <event_num>F21014322</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 23:46:10</dispatch_time>
+    <event_num>F21014323</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> T333</units_disp>
   </event>
 </tfs_active_incidents>
