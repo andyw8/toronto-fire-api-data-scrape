@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-16 02:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-16 02:30:02</update_from_db_time>
   <event>
     <prime_street>UNIVERSITY AVE, TT</prime_street>
     <cross_streets>ELM ST / GERRARD ST W</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P344, A331</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>HORSHAM AVE / BYNG AVE</cross_streets>
-    <dispatch_time>2021-02-16 01:53:33</dispatch_time>
-    <event_num>F21014342</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P113, P114, C14, HZ145</units_disp>
-  </event>
-  <event>
     <prime_street>M3B</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-16 02:10:37</dispatch_time>
@@ -50,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
     <units_disp> P333, P325, C31, P332, R325, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>VANDERHOOF AVE, EY</prime_street>
+    <cross_streets>GLASSWORKS DR / RESEARCH RD</cross_streets>
+    <dispatch_time>2021-02-16 02:21:47</dispatch_time>
+    <event_num>F21014346</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>321</beat>
+    <units_disp> R321</units_disp>
+  </event>
+  <event>
+    <prime_street>M1N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 02:26:58</dispatch_time>
+    <event_num>F21014347</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
 </tfs_active_incidents>
