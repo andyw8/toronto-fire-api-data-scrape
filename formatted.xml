@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-16 01:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-16 02:20:02</update_from_db_time>
   <event>
     <prime_street>UNIVERSITY AVE, TT</prime_street>
     <cross_streets>ELM ST / GERRARD ST W</cross_streets>
@@ -22,13 +22,33 @@
     <units_disp> P344, A331</units_disp>
   </event>
   <event>
-    <prime_street>M5R</prime_street>
+    <prime_street>YONGE ST, NY</prime_street>
+    <cross_streets>HORSHAM AVE / BYNG AVE</cross_streets>
+    <dispatch_time>2021-02-16 01:53:33</dispatch_time>
+    <event_num>F21014342</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P113, P114, C14, HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>M3B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-16 01:44:04</dispatch_time>
-    <event_num>F21014341</event_num>
+    <dispatch_time>2021-02-16 02:10:37</dispatch_time>
+    <event_num>F21014344</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A312</units_disp>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>BOND ST, TT</prime_street>
+    <cross_streets>QUEEN ST E / SHUTER ST</cross_streets>
+    <dispatch_time>2021-02-16 02:16:32</dispatch_time>
+    <event_num>F21014345</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, P325, C31, P332, R325, T333</units_disp>
   </event>
 </tfs_active_incidents>
