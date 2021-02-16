@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-16 18:35:02</update_from_db_time>
+  <update_from_db_time>2021-02-16 18:50:02</update_from_db_time>
   <event>
     <prime_street>WEST LODGE AVE, TT</prime_street>
     <cross_streets>LN N QUEEN E LANSDOWNE / </cross_streets>
@@ -22,36 +22,6 @@
     <units_disp> A423, C42, R423, R425, R345, A345</units_disp>
   </event>
   <event>
-    <prime_street>CHISWELL CRES, NY</prime_street>
-    <cross_streets>LEADENHALL RD / LEADENHALL RD</cross_streets>
-    <dispatch_time>2021-02-16 18:00:59</dispatch_time>
-    <event_num>F21014571</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>KENNEDY RD / ANTRIM CRES</cross_streets>
-    <dispatch_time>2021-02-16 18:20:50</dispatch_time>
-    <event_num>F21014576</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-16 18:24:42</dispatch_time>
-    <event_num>F21014577</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
     <prime_street>M4J</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-16 18:27:48</dispatch_time>
@@ -62,13 +32,73 @@
     <units_disp> A322</units_disp>
   </event>
   <event>
-    <prime_street>UNIVERSITY AVE, TT</prime_street>
-    <cross_streets>EDWARD ST / ELM ST</cross_streets>
-    <dispatch_time>2021-02-16 18:30:35</dispatch_time>
-    <event_num>F21014579</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 18:36:38</dispatch_time>
+    <event_num>F21014582</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> A315, C33, HR332, P314, P315, P332</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>PRINCE CHARLES DR, NY</prime_street>
+    <cross_streets>DREXEL RD / MANOR HAVEN RD</cross_streets>
+    <dispatch_time>2021-02-16 18:38:23</dispatch_time>
+    <event_num>F21014583</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> R133, P132, A135, C13, P131, P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 18:39:13</dispatch_time>
+    <event_num>F21014584</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>WAVERLEY RD, TT</prime_street>
+    <cross_streets>BEACHES PARK TRL / QUEEN ST E</cross_streets>
+    <dispatch_time>2021-02-16 18:40:16</dispatch_time>
+    <event_num>F21014585</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
+  </event>
+  <event>
+    <prime_street>DONEGALL DR, EY</prime_street>
+    <cross_streets>FLEMING CRES / LN S PARKHURST W DONEGALL</cross_streets>
+    <dispatch_time>2021-02-16 18:41:11</dispatch_time>
+    <event_num>F21014586</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>321</beat>
+    <units_disp> A213, C31, HZ326, R321</units_disp>
+  </event>
+  <event>
+    <prime_street>M4V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 18:40:55</dispatch_time>
+    <event_num>F21014587</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P135, P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 18:42:09</dispatch_time>
+    <event_num>F21014588</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
   </event>
 </tfs_active_incidents>
