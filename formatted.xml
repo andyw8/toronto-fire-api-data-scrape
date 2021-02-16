@@ -1,56 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-15 20:45:02</update_from_db_time>
-  <event>
-    <prime_street>TROUTBROOKE DR, NY</prime_street>
-    <cross_streets>DOWNSVIEW DELLS PARK TRL / JANE ST</cross_streets>
-    <dispatch_time>2021-02-15 19:17:20</dispatch_time>
-    <event_num>F21014259</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-15 19:52:07</dispatch_time>
-    <event_num>F21014271</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-15 20:24:17</dispatch_time>
-    <event_num>F21014284</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-15 20:36:26</dispatch_time>
-    <event_num>F21014285</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>KEELE ST, NY</prime_street>
-    <cross_streets>INGRAM DR / WW N GULLIVER W KEELE</cross_streets>
-    <dispatch_time>2021-02-15 20:37:12</dispatch_time>
-    <event_num>F21014286</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133, C13, R133, P342, R421</units_disp>
-  </event>
+  <update_from_db_time>2021-02-15 21:20:02</update_from_db_time>
   <event>
     <prime_street>OSSINGTON AVE, TT</prime_street>
     <cross_streets>LN N BLOOR E OSSINGTON / NORTHUMBERLAND ST</cross_streets>
@@ -62,13 +12,53 @@
     <units_disp> R345, S331, HR332, P315, P331, P343, A345, C34, LA421</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>SAN VAROWAY / SAN ROCCOWAY</cross_streets>
-    <dispatch_time>2021-02-15 20:40:47</dispatch_time>
-    <event_num>F21014288</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>EGLINTON AVE, SC</prime_street>
+    <cross_streets>HEPC / MIDLAND AVE</cross_streets>
+    <dispatch_time>2021-02-15 20:54:17</dispatch_time>
+    <event_num>F21014289</event_num>
+    <event_type>Fire - Subway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142, P141, C14, A411, R411</units_disp>
+    <beat>221</beat>
+    <units_disp> R225, S232, P221, P222, P223, HR114, A222, C22, LA231</units_disp>
+  </event>
+  <event>
+    <prime_street>M1G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 20:57:31</dispatch_time>
+    <event_num>F21014290</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>YONGE ST / SCOTT ST</cross_streets>
+    <dispatch_time>2021-02-15 21:06:10</dispatch_time>
+    <event_num>F21014291</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, P332, C33, HR332, R325, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M4N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 21:11:59</dispatch_time>
+    <event_num>F21014292</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-15 21:16:54</dispatch_time>
+    <event_num>F21014293</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
