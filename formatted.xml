@@ -1,44 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-16 05:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-16 06:20:03</update_from_db_time>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>M3N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-16 04:57:58</dispatch_time>
-    <event_num>F21014375</event_num>
+    <dispatch_time>2021-02-16 05:55:11</dispatch_time>
+    <event_num>F21014386</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M5E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-16 05:20:00</dispatch_time>
-    <event_num>F21014381</event_num>
+    <dispatch_time>2021-02-16 06:04:25</dispatch_time>
+    <event_num>F21014387</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
   </event>
   <event>
-    <prime_street>M1T</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-16 05:35:05</dispatch_time>
-    <event_num>F21014383</event_num>
+    <dispatch_time>2021-02-16 06:15:44</dispatch_time>
+    <event_num>F21014388</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>PHARMACY AVE / SHEPPARD AVE E</cross_streets>
-    <dispatch_time>2021-02-16 05:36:09</dispatch_time>
-    <event_num>F21014384</event_num>
+    <cross_streets>YORK ST / STATION ST</cross_streets>
+    <dispatch_time>2021-02-16 06:16:43</dispatch_time>
+    <event_num>F21014389</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
