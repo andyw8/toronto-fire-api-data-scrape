@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-17 17:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-17 17:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>POWER ST / ADELAIDE ST E</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> A312</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTON RD, NY</prime_street>
-    <cross_streets>DEE AVE / 401 C E WESTON RD RAMP</cross_streets>
-    <dispatch_time>2021-02-17 16:52:58</dispatch_time>
-    <event_num>F21014889</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442, P146, A441, C41, R441</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -52,13 +42,33 @@
     <units_disp> A244</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>M5G</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-17 17:08:13</dispatch_time>
-    <event_num>F21014895</event_num>
+    <dispatch_time>2021-02-17 17:23:55</dispatch_time>
+    <event_num>F21014896</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>HOWLAND RD / LOGAN AVE</cross_streets>
+    <dispatch_time>2021-02-17 17:23:52</dispatch_time>
+    <event_num>F21014897</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324, P325, A324, C32, P323</units_disp>
+  </event>
+  <event>
+    <prime_street>WARDEN AVE, SC</prime_street>
+    <cross_streets>HEPC / GUS HARRIS TRL</cross_streets>
+    <dispatch_time>2021-02-17 17:24:22</dispatch_time>
+    <event_num>F21014898</event_num>
+    <event_type>Fire - Subway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> R225, S232, P221, P222, P223, HR332, A222, C22, LA231, C20</units_disp>
   </event>
 </tfs_active_incidents>
