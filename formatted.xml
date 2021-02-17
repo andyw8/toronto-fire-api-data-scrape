@@ -1,24 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-17 00:45:02</update_from_db_time>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-17 00:35:27</dispatch_time>
-    <event_num>F21014659</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>SHEPPARD AVE, NY</prime_street>
-    <cross_streets>MAGELLAN DR / JANE ST</cross_streets>
-    <dispatch_time>2021-02-17 00:40:12</dispatch_time>
-    <event_num>F21014660</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P146, P141, A142, C14, P143</units_disp>
-  </event>
+  <update_from_db_time>2021-02-17 01:20:02</update_from_db_time>
 </tfs_active_incidents>
