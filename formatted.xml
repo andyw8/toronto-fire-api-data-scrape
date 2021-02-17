@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-17 16:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-17 16:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>POWER ST / ADELAIDE ST E</cross_streets>
@@ -32,36 +32,6 @@
     <units_disp> P445</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-17 16:07:49</dispatch_time>
-    <event_num>F21014870</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
-  </event>
-  <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>DUNDAS ST E / LN N DUNDAS W SHERBOURNE</cross_streets>
-    <dispatch_time>2021-02-17 16:09:51</dispatch_time>
-    <event_num>F21014871</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P313, P314, P325, T333, C31</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-17 16:11:33</dispatch_time>
-    <event_num>F21014872</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
     <prime_street>M1J</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-17 16:15:29</dispatch_time>
@@ -72,13 +42,33 @@
     <units_disp> P221</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-17 16:16:41</dispatch_time>
-    <event_num>F21014874</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>CHESTNUT PK, TT</prime_street>
+    <cross_streets>ROXBOROUGH ST E / CLUNY DR</cross_streets>
+    <dispatch_time>2021-02-17 16:20:19</dispatch_time>
+    <event_num>F21014875</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214, P212</units_disp>
+    <beat>312</beat>
+    <units_disp> A312, C31, P311, P312, P314</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>LOWER SPADINA AVE / YO-YO MA LANE</cross_streets>
+    <dispatch_time>2021-02-17 16:22:29</dispatch_time>
+    <event_num>F21014876</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334, P332, A331, C33, HR332, P344</units_disp>
+  </event>
+  <event>
+    <prime_street>LOWER SPADINA AVE, TT</prime_street>
+    <cross_streets>QUEENS QUAY W / LAKE SHORE BLVD W</cross_streets>
+    <dispatch_time>2021-02-17 16:23:47</dispatch_time>
+    <event_num>F21014877</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P331, P333, C34, P315, T333</units_disp>
   </event>
 </tfs_active_incidents>
