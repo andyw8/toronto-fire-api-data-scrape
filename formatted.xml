@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-17 08:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-17 08:45:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>POWER ST / ADELAIDE ST E</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Encampment</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
-    <units_disp> P324, R325, C33, T333, P325, T333, C7</units_disp>
+    <units_disp> P324, R325, C33, T333, P325, T333, C7, FI5</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -20,36 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
     <units_disp> P324, A325</units_disp>
-  </event>
-  <event>
-    <prime_street>CHALKFARM DR, NY</prime_street>
-    <cross_streets>MARLINGTON CRES / MARLINGTON CRES</cross_streets>
-    <dispatch_time>2021-02-17 08:02:34</dispatch_time>
-    <event_num>F21014713</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146, P142, A142, C14, P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M1H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-17 08:08:56</dispatch_time>
-    <event_num>F21014716</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231</units_disp>
-  </event>
-  <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-17 08:15:55</dispatch_time>
-    <event_num>F21014717</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> A312</units_disp>
   </event>
   <event>
     <prime_street>M4J</prime_street>
@@ -80,5 +50,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>143</beat>
     <units_disp> P143, P141, A142, C14, R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 08:27:33</dispatch_time>
+    <event_num>F21014721</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331, A331, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 08:29:58</dispatch_time>
+    <event_num>F21014722</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>VICTORIA PARK AVE / ELLESMERE RD</cross_streets>
+    <dispatch_time>2021-02-17 08:29:58</dispatch_time>
+    <event_num>F21014723</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street>BIRCHMOUNT RD, SC</prime_street>
+    <cross_streets>LAURA SECORD WALK / ELLENDALE DR</cross_streets>
+    <dispatch_time>2021-02-17 08:36:28</dispatch_time>
+    <event_num>F21014724</event_num>
+    <event_type>Vehicle Fire</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 08:41:50</dispatch_time>
+    <event_num>F21014726</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
   </event>
 </tfs_active_incidents>
