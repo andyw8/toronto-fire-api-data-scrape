@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-17 09:30:03</update_from_db_time>
+  <update_from_db_time>2021-02-17 09:55:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>POWER ST / ADELAIDE ST E</cross_streets>
@@ -9,36 +9,56 @@
     <event_type>Fire - Encampment</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
-    <units_disp> P324, R325, C33, T333, P325, T333, C7, FI5</units_disp>
-  </event>
-  <event>
-    <prime_street>WALLACE AVE, TT</prime_street>
-    <cross_streets>RUSSETT AVE / PAULINE AVE</cross_streets>
-    <dispatch_time>2021-02-17 08:23:24</dispatch_time>
-    <event_num>F21014719</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345, P342, R426, C34, A426</units_disp>
-  </event>
-  <event>
-    <prime_street>M5G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-17 09:09:58</dispatch_time>
-    <event_num>F21014734</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <units_disp> P324, R325, C33, T333, P325, T333, C7, FI5, P333</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>SHERWAY DR / HEPC</cross_streets>
+    <cross_streets>QUEENSWAY W BROWNS LINE RAMP / SHERWAY GARDENS RD</cross_streets>
     <dispatch_time>2021-02-17 09:22:37</dispatch_time>
     <event_num>F21014736</event_num>
     <event_type>Public Hazard</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>432</beat>
     <units_disp> P432</units_disp>
+  </event>
+  <event>
+    <prime_street>DUFFERIN ST, NY</prime_street>
+    <cross_streets>CORK AVE / LAWRENCE AVE W</cross_streets>
+    <dispatch_time>2021-02-17 09:39:11</dispatch_time>
+    <event_num>F21014740</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145, P132, A133, C13, R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M6B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 09:39:52</dispatch_time>
+    <event_num>F21014741</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>CHARLES ST, TT</prime_street>
+    <cross_streets>YONGE ST / ST NICHOLAS ST</cross_streets>
+    <dispatch_time>2021-02-17 09:47:47</dispatch_time>
+    <event_num>F21014742</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P314, P313, A312, C31, P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Z</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 09:48:12</dispatch_time>
+    <event_num>F21014743</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
   </event>
 </tfs_active_incidents>
