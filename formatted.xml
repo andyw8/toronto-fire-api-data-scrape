@@ -1,54 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-16 19:55:02</update_from_db_time>
+  <update_from_db_time>2021-02-16 20:45:02</update_from_db_time>
   <event>
-    <prime_street>GOSFORD BLVD, NY</prime_street>
-    <cross_streets>ELM PARK TRL / BLACKSMITH CRES</cross_streets>
-    <dispatch_time>2021-02-16 19:27:17</dispatch_time>
-    <event_num>F21014603</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>RHODES AVE, TT</prime_street>
+    <cross_streets>DUNDAS ST E / LN S GERRARD W RHODES</cross_streets>
+    <dispatch_time>2021-02-16 20:20:01</dispatch_time>
+    <event_num>F21014611</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142, C14, P141, P146, R112, R411</units_disp>
+    <beat>227</beat>
+    <units_disp> S313, P227, A226, P226, C32, P323</units_disp>
   </event>
   <event>
-    <prime_street>ISLINGTON AVE, ET</prime_street>
-    <cross_streets>BROMLEY CRES / THORNCREST RD</cross_streets>
-    <dispatch_time>2021-02-16 19:39:02</dispatch_time>
-    <event_num>F21014604</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>HOWLAND RD / LOGAN AVE</cross_streets>
+    <dispatch_time>2021-02-16 20:20:49</dispatch_time>
+    <event_num>F21014612</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443, P445, A421, C44, R444</units_disp>
+    <beat>324</beat>
+    <units_disp> P324, P313, A324, C31, P314</units_disp>
   </event>
   <event>
-    <prime_street>BROADMEAD AVE, SC</prime_street>
-    <cross_streets>BROOKLAWN AVE / HAREWOOD AVE</cross_streets>
-    <dispatch_time>2021-02-16 19:43:08</dispatch_time>
-    <event_num>F21014605</event_num>
-    <event_type>Water Problem - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> A222, P223</units_disp>
-  </event>
-  <event>
-    <prime_street>GOLDFINCH CRT, NY</prime_street>
-    <cross_streets> / FINCH AVE W</cross_streets>
-    <dispatch_time>2021-02-16 19:48:07</dispatch_time>
-    <event_num>F21014606</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> P143, P114, C13, HR114, P111, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>M4G</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-16 19:48:35</dispatch_time>
-    <event_num>F21014607</event_num>
+    <dispatch_time>2021-02-16 20:31:52</dispatch_time>
+    <event_num>F21014614</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>321</beat>
+    <units_disp> R321</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 20:33:03</dispatch_time>
+    <event_num>F21014615</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> A322</units_disp>
+  </event>
+  <event>
+    <prime_street>AVOCA AVE, TT</prime_street>
+    <cross_streets>PLEASANT BLVD / ST CLAIR AVE E</cross_streets>
+    <dispatch_time>2021-02-16 20:38:47</dispatch_time>
+    <event_num>F21014616</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311, A312, C31, P312, P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M5R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 20:40:42</dispatch_time>
+    <event_num>F21014617</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-16 20:41:48</dispatch_time>
+    <event_num>F21014618</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121, P132</units_disp>
   </event>
 </tfs_active_incidents>
