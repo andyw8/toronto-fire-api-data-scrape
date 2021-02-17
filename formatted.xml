@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-17 16:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-17 16:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>POWER ST / ADELAIDE ST E</cross_streets>
@@ -22,36 +22,6 @@
     <units_disp> A324</units_disp>
   </event>
   <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-17 16:01:42</dispatch_time>
-    <event_num>F21014867</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-17 16:15:29</dispatch_time>
-    <event_num>F21014873</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>CHESTNUT PK, TT</prime_street>
-    <cross_streets>ROXBOROUGH ST E / CLUNY DR</cross_streets>
-    <dispatch_time>2021-02-17 16:20:19</dispatch_time>
-    <event_num>F21014875</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> A312, C31, P311, P312, P314</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>LOWER SPADINA AVE / YO-YO MA LANE</cross_streets>
     <dispatch_time>2021-02-17 16:22:29</dispatch_time>
@@ -62,13 +32,33 @@
     <units_disp> P334, P332, A331, C33, HR332, P344</units_disp>
   </event>
   <event>
-    <prime_street>LOWER SPADINA AVE, TT</prime_street>
-    <cross_streets>QUEENS QUAY W / LAKE SHORE BLVD W</cross_streets>
-    <dispatch_time>2021-02-17 16:23:47</dispatch_time>
-    <event_num>F21014877</event_num>
-    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-17 16:32:53</dispatch_time>
+    <event_num>F21014878</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P331, P333, C34, P315, T333</units_disp>
+    <beat>132</beat>
+    <units_disp> P131, P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 16:34:41</dispatch_time>
+    <event_num>F21014879</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street>JAMESON AVE, TT</prime_street>
+    <cross_streets>KING ST W / LEOPOLD ST</cross_streets>
+    <dispatch_time>2021-02-17 16:34:40</dispatch_time>
+    <event_num>F21014880</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426, P331, A426, C34, P315</units_disp>
   </event>
 </tfs_active_incidents>
