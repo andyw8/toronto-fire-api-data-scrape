@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-17 14:25:02</update_from_db_time>
+  <update_from_db_time>2021-02-17 14:45:01</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>POWER ST / ADELAIDE ST E</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
     <units_disp> P324, R325, C33, T333, P325, T333, C7, FI5, P333, P324</units_disp>
-  </event>
-  <event>
-    <prime_street>MORTIMER AVE, EY</prime_street>
-    <cross_streets>DILWORTH CRES / CARLAW AVE</cross_streets>
-    <dispatch_time>2021-02-17 13:50:52</dispatch_time>
-    <event_num>F21014815</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322, C22, P234</units_disp>
-  </event>
-  <event>
-    <prime_street>AVENUE RD, NY</prime_street>
-    <cross_streets>FAIRLAWN AVE / ST GERMAIN AVE</cross_streets>
-    <dispatch_time>2021-02-17 13:54:18</dispatch_time>
-    <event_num>F21014820</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-17 13:56:22</dispatch_time>
-    <event_num>F21014822</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
   </event>
   <event>
     <prime_street>GLENGROVE AVE, NY</prime_street>
@@ -52,26 +22,6 @@
     <units_disp> P433, R341, C13, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>DUPLEX AVE, TT</prime_street>
-    <cross_streets>MONTGOMERY AVE / ROSELAWN AVE</cross_streets>
-    <dispatch_time>2021-02-17 14:06:16</dispatch_time>
-    <event_num>F21014826</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> P135, C31, R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-17 14:12:21</dispatch_time>
-    <event_num>F21014827</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
     <prime_street>M6M</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-17 14:17:02</dispatch_time>
@@ -82,13 +32,93 @@
     <units_disp> R421</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
+    <prime_street>M9L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-17 14:19:37</dispatch_time>
-    <event_num>F21014829</event_num>
+    <dispatch_time>2021-02-17 14:24:52</dispatch_time>
+    <event_num>F21014831</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> A135</units_disp>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 14:25:44</dispatch_time>
+    <event_num>F21014832</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
+  </event>
+  <event>
+    <prime_street>ROYALCREST RD, ET</prime_street>
+    <cross_streets>HIGHWAY 27 N / BAYWOOD RD</cross_streets>
+    <dispatch_time>2021-02-17 14:26:53</dispatch_time>
+    <event_num>F21014833</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412, R413, A415, C41, R441</units_disp>
+  </event>
+  <event>
+    <prime_street>M1X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 14:32:56</dispatch_time>
+    <event_num>F21014834</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 14:32:39</dispatch_time>
+    <event_num>F21014835</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 14:36:18</dispatch_time>
+    <event_num>F21014836</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 14:36:23</dispatch_time>
+    <event_num>F21014837</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 14:39:11</dispatch_time>
+    <event_num>F21014838</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> A226, P226</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>BELLAMY RD N / GREENBRAE CRCT</cross_streets>
+    <dispatch_time>2021-02-17 14:39:28</dispatch_time>
+    <event_num>F21014839</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> R231, P232, A231, C23, P221, P223</units_disp>
   </event>
 </tfs_active_incidents>
