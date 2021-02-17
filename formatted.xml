@@ -1,14 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-16 22:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-16 23:20:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>MCCOWAN RD / LAWRENCE AVE E</cross_streets>
-    <dispatch_time>2021-02-16 21:52:21</dispatch_time>
-    <event_num>F21014631</event_num>
-    <event_type>Fire - Transformer/Pole</event_type>
+    <prime_street>LOGAN AVE, TT</prime_street>
+    <cross_streets>LAKE SHORE BLVD EAST TRL / LN 2 S EASTERN E LOGAN</cross_streets>
+    <dispatch_time>2021-02-16 22:57:02</dispatch_time>
+    <event_num>F21014642</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232, A231</units_disp>
+    <beat>324</beat>
+    <units_disp> A324, P323, P324, R325, C32</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 23:03:18</dispatch_time>
+    <event_num>F21014643</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Z</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-16 23:14:50</dispatch_time>
+    <event_num>F21014644</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
   </event>
 </tfs_active_incidents>
