@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-18 10:35:02</update_from_db_time>
-  <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-18 10:19:24</dispatch_time>
-    <event_num>F21015090</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
-  </event>
+  <update_from_db_time>2021-02-18 10:50:02</update_from_db_time>
   <event>
     <prime_street>M4J</prime_street>
     <cross_streets/>
@@ -40,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>443</beat>
     <units_disp> P442, P443, R441, A415, C41, R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-18 10:31:18</dispatch_time>
-    <event_num>F21015094</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
   </event>
   <event>
     <prime_street>M4R</prime_street>
