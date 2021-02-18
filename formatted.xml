@@ -1,44 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-17 20:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-17 21:20:02</update_from_db_time>
   <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-17 19:34:22</dispatch_time>
-    <event_num>F21014935</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>O'CONNOR DR, EY</prime_street>
+    <cross_streets>GARDENS CRES / DOHME AVE</cross_streets>
+    <dispatch_time>2021-02-17 20:43:05</dispatch_time>
+    <event_num>F21014957</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street>BLUEBIRD PL, SC</prime_street>
-    <cross_streets>KIRKDENE DR / </cross_streets>
-    <dispatch_time>2021-02-17 20:34:07</dispatch_time>
-    <event_num>F21014954</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> R214, P212, P234, A215, C21</units_disp>
+    <beat>224</beat>
+    <units_disp> R224, R235, P222, A322, C32, P125</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>SPARTA RD / QUINAN DR</cross_streets>
-    <dispatch_time>2021-02-17 20:35:42</dispatch_time>
-    <event_num>F21014955</event_num>
-    <event_type>Vehicle Fire</event_type>
+    <cross_streets>MIDLAND AVE / FINCH AVE E</cross_streets>
+    <dispatch_time>2021-02-17 20:55:33</dispatch_time>
+    <event_num>F21014960</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
+    <beat>242</beat>
+    <units_disp> R243</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>M1H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-17 20:41:21</dispatch_time>
-    <event_num>F21014956</event_num>
+    <dispatch_time>2021-02-17 20:58:58</dispatch_time>
+    <event_num>F21014961</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P315</units_disp>
+    <beat>231</beat>
+    <units_disp> R231</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-17 21:00:52</dispatch_time>
+    <event_num>F21014963</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
   </event>
 </tfs_active_incidents>
