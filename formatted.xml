@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-18 17:40:02</update_from_db_time>
-  <event>
-    <prime_street>M2L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-18 17:25:52</dispatch_time>
-    <event_num>F21015222</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
-  </event>
+  <update_from_db_time>2021-02-18 17:50:02</update_from_db_time>
   <event>
     <prime_street>M3N</prime_street>
     <cross_streets/>
@@ -40,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>346</beat>
     <units_disp> P344, A426, P426, R426, C33</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>EGLINTON AVE E / FALMOUTH AVE</cross_streets>
+    <dispatch_time>2021-02-18 17:39:36</dispatch_time>
+    <event_num>F21015226</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> R231, S232, C23, P221</units_disp>
+  </event>
+  <event>
+    <prime_street>ROSLIN AVE, TT</prime_street>
+    <cross_streets>RONAN AVE / </cross_streets>
+    <dispatch_time>2021-02-18 17:42:30</dispatch_time>
+    <event_num>F21015227</event_num>
+    <event_type>Natural Gas Fire</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>131</beat>
+    <units_disp> A135, C13, P121, P131, R122, R134, HZ145</units_disp>
   </event>
 </tfs_active_incidents>
