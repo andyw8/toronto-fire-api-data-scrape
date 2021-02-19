@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-19 16:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-19 16:45:01</update_from_db_time>
   <event>
     <prime_street>PEBBLEHILL SQ, SC</prime_street>
     <cross_streets>DEEPDALE DR / HOOKWOOD DR</cross_streets>
@@ -9,17 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>242</beat>
-    <units_disp> P242, R243, A244, C24, P211, R213, A213, S232, LA111, R115, C20, P245</units_disp>
-  </event>
-  <event>
-    <prime_street>M2L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 15:37:19</dispatch_time>
-    <event_num>F21015502</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122</units_disp>
+    <units_disp> P242, R243, A244, C24, P211, R213, A213, S232, LA111, R115, C20, P245, P233</units_disp>
   </event>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
@@ -32,36 +22,6 @@
     <units_disp> A324, P323, P324, P325, C32</units_disp>
   </event>
   <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 15:58:28</dispatch_time>
-    <event_num>F21015509</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 16:10:26</dispatch_time>
-    <event_num>F21015511</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 16:10:55</dispatch_time>
-    <event_num>F21015512</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A415</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>HUMBER COLLEGE BLVD / FINCH AVE W</cross_streets>
     <dispatch_time>2021-02-19 16:17:03</dispatch_time>
@@ -72,16 +32,6 @@
     <units_disp> R412</units_disp>
   </event>
   <event>
-    <prime_street>BROOKE AVE, NY</prime_street>
-    <cross_streets>SUNSHINE ST / BATHURST ST</cross_streets>
-    <dispatch_time>2021-02-19 16:17:53</dispatch_time>
-    <event_num>F21015514</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
     <prime_street>RONCESVALLES AVE, TT</prime_street>
     <cross_streets>MARMADUKE ST / HOWARD PARK AVE</cross_streets>
     <dispatch_time>2021-02-19 16:19:08</dispatch_time>
@@ -89,46 +39,66 @@
     <event_type>Hazmat Level 2</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
-    <units_disp> R426, P145, HZ145, C42</units_disp>
+    <units_disp> R426, C42, P145, HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>M4B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-19 16:28:10</dispatch_time>
+    <event_num>F21015520</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
   <event>
     <prime_street>M4S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-19 16:21:27</dispatch_time>
-    <event_num>F21015516</event_num>
+    <dispatch_time>2021-02-19 16:29:41</dispatch_time>
+    <event_num>F21015521</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <units_disp> P135</units_disp>
   </event>
   <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>DUFFERIN ST / LN E SHERIDAN N DUNDAS</cross_streets>
-    <dispatch_time>2021-02-19 16:25:24</dispatch_time>
-    <event_num>F21015517</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>ROTARY DR, SC</prime_street>
+    <cross_streets>ROSCOE RD / LIONHEAD TRL</cross_streets>
+    <dispatch_time>2021-02-19 16:33:59</dispatch_time>
+    <event_num>F21015522</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P331, P344, A426, C34, R345</units_disp>
+    <beat>214</beat>
+    <units_disp> A213, C21, P212, R214, R243, R213</units_disp>
   </event>
   <event>
-    <prime_street>PARLIAMENT ST, TT</prime_street>
-    <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
-    <dispatch_time>2021-02-19 16:25:56</dispatch_time>
-    <event_num>F21015518</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, A325, C31, P314, P325</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M5S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-19 16:26:16</dispatch_time>
-    <event_num>F21015519</event_num>
+    <dispatch_time>2021-02-19 16:33:53</dispatch_time>
+    <event_num>F21015523</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
+    <beat>314</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>TANGREEN CRT, NY</prime_street>
+    <cross_streets>STEELES AVE W / </cross_streets>
+    <dispatch_time>2021-02-19 16:34:17</dispatch_time>
+    <event_num>F21015524</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112, C14, HR114, P111, P114, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-19 16:40:48</dispatch_time>
+    <event_num>F21015525</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
   </event>
 </tfs_active_incidents>
