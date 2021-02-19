@@ -1,34 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-18 22:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-18 22:45:02</update_from_db_time>
   <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-18 22:11:15</dispatch_time>
-    <event_num>F21015286</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BATHURST ST, NY</prime_street>
+    <cross_streets>BROOKE AVE / BANNOCKBURN AVE</cross_streets>
+    <dispatch_time>2021-02-18 22:36:31</dispatch_time>
+    <event_num>F21015290</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
+    <beat>132</beat>
+    <units_disp> P132, P131, A135, C13, P145</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M1H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-18 22:20:33</dispatch_time>
-    <event_num>F21015288</event_num>
+    <dispatch_time>2021-02-18 22:41:23</dispatch_time>
+    <event_num>F21015291</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-18 22:21:58</dispatch_time>
-    <event_num>F21015289</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
+    <beat>231</beat>
+    <units_disp> R231</units_disp>
   </event>
 </tfs_active_incidents>
