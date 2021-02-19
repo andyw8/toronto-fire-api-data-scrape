@@ -1,64 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-18 20:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-18 21:30:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-18 20:15:19</dispatch_time>
-    <event_num>F21015263</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <prime_street>MABELLE AVE, ET</prime_street>
+    <cross_streets>CORDOVA AVE / DUNDAS ST W</cross_streets>
+    <dispatch_time>2021-02-18 21:07:57</dispatch_time>
+    <event_num>F21015275</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415, P443</units_disp>
+    <beat>445</beat>
+    <units_disp> P431, P443, P445, PL432, C44</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
+    <prime_street>ST CLAIR AVE, EY</prime_street>
+    <cross_streets>WARVET CRES / PLAXTON DR</cross_streets>
+    <dispatch_time>2021-02-18 21:16:47</dispatch_time>
+    <event_num>F21015278</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-18 20:15:13</dispatch_time>
-    <event_num>F21015264</event_num>
+    <dispatch_time>2021-02-18 21:21:47</dispatch_time>
+    <event_num>F21015279</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-18 20:22:33</dispatch_time>
-    <event_num>F21015265</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-18 20:26:44</dispatch_time>
-    <event_num>F21015266</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-18 20:32:01</dispatch_time>
-    <event_num>F21015268</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>LAKE SHORE BLVD, TT</prime_street>
-    <cross_streets>FLEET ST LAKE SHORE BLVD RAMP / FORT YORK BLVD</cross_streets>
-    <dispatch_time>2021-02-18 20:31:56</dispatch_time>
-    <event_num>F21015269</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P334</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
