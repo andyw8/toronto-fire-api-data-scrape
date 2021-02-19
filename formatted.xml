@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-19 03:50:01</update_from_db_time>
+  <update_from_db_time>2021-02-19 04:20:02</update_from_db_time>
   <event>
-    <prime_street>M3B</prime_street>
+    <prime_street>M8Y</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-19 03:35:03</dispatch_time>
-    <event_num>F21015339</event_num>
+    <dispatch_time>2021-02-19 04:16:07</dispatch_time>
+    <event_num>F21015341</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> P125</units_disp>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
   </event>
   <event>
-    <prime_street>KINGSTON RD, SC</prime_street>
-    <cross_streets>TOLLGATE MEWS / WHITECAP BLVD</cross_streets>
-    <dispatch_time>2021-02-19 03:41:58</dispatch_time>
-    <event_num>F21015340</event_num>
-    <event_type>Alarm Institution</event_type>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-19 04:16:29</dispatch_time>
+    <event_num>F21015342</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223, P221, A231, C23, R231, P234</units_disp>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
   </event>
 </tfs_active_incidents>
