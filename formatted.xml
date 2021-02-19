@@ -1,34 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-18 21:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-18 21:50:01</update_from_db_time>
   <event>
-    <prime_street>MABELLE AVE, ET</prime_street>
-    <cross_streets>CORDOVA AVE / DUNDAS ST W</cross_streets>
-    <dispatch_time>2021-02-18 21:07:57</dispatch_time>
-    <event_num>F21015275</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>DORIS AVE / DORIS AVE</cross_streets>
+    <dispatch_time>2021-02-18 21:39:52</dispatch_time>
+    <event_num>F21015280</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P431, P443, P445, PL432, C44</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
   <event>
-    <prime_street>ST CLAIR AVE, EY</prime_street>
-    <cross_streets>WARVET CRES / PLAXTON DR</cross_streets>
-    <dispatch_time>2021-02-18 21:16:47</dispatch_time>
-    <event_num>F21015278</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-18 21:40:48</dispatch_time>
+    <event_num>F21015281</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-18 21:21:47</dispatch_time>
-    <event_num>F21015279</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <beat>213</beat>
+    <units_disp> R231, R213, A213, C23, P212, S232</units_disp>
   </event>
 </tfs_active_incidents>
