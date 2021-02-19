@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-19 01:25:02</update_from_db_time>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 00:54:24</dispatch_time>
-    <event_num>F21015312</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>DAWES RD, EY</prime_street>
-    <cross_streets>CAPTAIN DEMONT LANE / BETH ST</cross_streets>
-    <dispatch_time>2021-02-19 00:57:45</dispatch_time>
-    <event_num>F21015313</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
+  <update_from_db_time>2021-02-19 01:50:02</update_from_db_time>
   <event>
     <prime_street>L'AMOREAUX DR, SC</prime_street>
     <cross_streets>121 L AMOREAUX DR / 151 L AMOREAUX DR</cross_streets>
@@ -30,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>241</beat>
     <units_disp> R241, A244</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-19 01:39:12</dispatch_time>
+    <event_num>F21015316</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street>M5S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-19 01:39:19</dispatch_time>
+    <event_num>F21015317</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> P315</units_disp>
   </event>
 </tfs_active_incidents>
