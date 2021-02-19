@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-19 18:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-19 18:35:02</update_from_db_time>
   <event>
     <prime_street>PEBBLEHILL SQ, SC</prime_street>
     <cross_streets>DEEPDALE DR / HOOKWOOD DR</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>242</beat>
     <units_disp> P242, R243, A244, C24, P211, R213, A213, S232, LA111, R115, C20, P245, P233</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 18:04:19</dispatch_time>
-    <event_num>F21015548</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>ARJAY CRES, NY</prime_street>
-    <cross_streets>BAYVIEW AVE / BAYVIEW AVE</cross_streets>
-    <dispatch_time>2021-02-19 18:05:15</dispatch_time>
-    <event_num>F21015549</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> P121, P131, R122, A125, C13</units_disp>
-  </event>
-  <event>
-    <prime_street>M6B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 18:06:26</dispatch_time>
-    <event_num>F21015550</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341, R341</units_disp>
   </event>
   <event>
     <prime_street>M2M</prime_street>
@@ -72,13 +42,23 @@
     <units_disp> P242</units_disp>
   </event>
   <event>
-    <prime_street>M9L</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-19 18:16:29</dispatch_time>
-    <event_num>F21015554</event_num>
+    <dispatch_time>2021-02-19 18:26:01</dispatch_time>
+    <event_num>F21015557</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M5M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-19 18:28:33</dispatch_time>
+    <event_num>F21015558</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
   </event>
 </tfs_active_incidents>
