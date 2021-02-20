@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-20 14:45:02</update_from_db_time>
-  <event>
-    <prime_street>PEBBLEHILL SQ, SC</prime_street>
-    <cross_streets>DEEPDALE DR / HOOKWOOD DR</cross_streets>
-    <dispatch_time>2021-02-19 13:04:33</dispatch_time>
-    <event_num>F21015476</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242, R243, A244, C24, P211, R213, A213, S232, LA111, R115, C20, P245, P233, R214, P212, P232, P211, R241, R243, P242, R231, P232, R243</units_disp>
-  </event>
+  <update_from_db_time>2021-02-20 15:15:03</update_from_db_time>
   <event>
     <prime_street>LIPPINCOTT ST, TT</prime_street>
     <cross_streets>NASSAU ST / OXFORD ST</cross_streets>
@@ -32,83 +22,23 @@
     <units_disp> C14, P111, P121, R112, S143, T114, HR114, C10, A113, LA111, R115, C13, HZ145, P131, P141, P143, R122, CMD10, P114, A135, P116, P145, REHAB01, LA231</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-20 13:59:03</dispatch_time>
-    <event_num>F21015767</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411, P146</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-20 14:15:14</dispatch_time>
-    <event_num>F21015771</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> A133, A142</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
+    <prime_street>M4E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-20 14:24:57</dispatch_time>
-    <event_num>F21015775</event_num>
+    <dispatch_time>2021-02-20 14:43:55</dispatch_time>
+    <event_num>F21015781</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
-  </event>
-  <event>
-    <prime_street>OXFORD DR, YK</prime_street>
-    <cross_streets>WESTON RD / </cross_streets>
-    <dispatch_time>2021-02-20 14:30:22</dispatch_time>
-    <event_num>F21015776</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> P442, P342, A421, C42, R425, A423</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-20 14:30:45</dispatch_time>
-    <event_num>F21015777</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> R413, R412</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-20 14:31:03</dispatch_time>
-    <event_num>F21015778</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-20 14:30:57</dispatch_time>
-    <event_num>F21015779</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
-    <prime_street>FENN AVE, NY</prime_street>
-    <cross_streets>YORK RD / BEECHWOOD AVE</cross_streets>
-    <dispatch_time>2021-02-20 14:40:06</dispatch_time>
-    <event_num>F21015780</event_num>
+    <cross_streets>EGLINTON AVE E / RUMSEY RD</cross_streets>
+    <dispatch_time>2021-02-20 15:11:45</dispatch_time>
+    <event_num>F21015786</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> P233</units_disp>
+    <beat>321</beat>
+    <units_disp> R321</units_disp>
   </event>
 </tfs_active_incidents>
