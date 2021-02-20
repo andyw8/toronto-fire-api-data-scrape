@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-20 13:25:02</update_from_db_time>
+  <update_from_db_time>2021-02-20 13:55:01</update_from_db_time>
   <event>
     <prime_street>PEBBLEHILL SQ, SC</prime_street>
     <cross_streets>DEEPDALE DR / HOOKWOOD DR</cross_streets>
@@ -42,43 +42,63 @@
     <units_disp> C33, HZ326, P315, P324</units_disp>
   </event>
   <event>
-    <prime_street>M3B</prime_street>
+    <prime_street>DUNDAS ST, TT</prime_street>
+    <cross_streets>RONCESVALLES AVE / BLOOR ST W</cross_streets>
+    <dispatch_time>2021-02-20 13:23:17</dispatch_time>
+    <event_num>F21015755</event_num>
+    <event_type>Hazmat Level 2</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> C42, R423, HZ326, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-20 13:09:56</dispatch_time>
-    <event_num>F21015750</event_num>
+    <dispatch_time>2021-02-20 13:42:19</dispatch_time>
+    <event_num>F21015759</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> P125</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>BURNVIEW CRES / LAWRENCE AVE E</cross_streets>
-    <dispatch_time>2021-02-20 13:15:03</dispatch_time>
-    <event_num>F21015752</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231</units_disp>
-  </event>
-  <event>
-    <prime_street>M2L</prime_street>
+    <prime_street>M6J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-20 13:17:12</dispatch_time>
-    <event_num>F21015753</event_num>
+    <dispatch_time>2021-02-20 13:45:07</dispatch_time>
+    <event_num>F21015760</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> P123</units_disp>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
   <event>
-    <prime_street>CARLTON ST, TT</prime_street>
-    <cross_streets>REVEREND PORTER LANE / CHURCH ST</cross_streets>
-    <dispatch_time>2021-02-20 13:17:25</dispatch_time>
-    <event_num>F21015754</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>ST GEORGE ST, TT</prime_street>
+    <cross_streets>BERNARD AVE / ADMIRAL RD</cross_streets>
+    <dispatch_time>2021-02-20 13:46:27</dispatch_time>
+    <event_num>F21015761</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>344</beat>
+    <units_disp> P312, P314, A312, C31, P313</units_disp>
+  </event>
+  <event>
+    <prime_street>KEELE ST, NY</prime_street>
+    <cross_streets>GRANDRAVINE DR / ST REGIS CRES</cross_streets>
+    <dispatch_time>2021-02-20 13:50:01</dispatch_time>
+    <event_num>F21015762</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> A142, S445</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-20 13:50:49</dispatch_time>
+    <event_num>F21015763</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
