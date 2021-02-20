@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-19 22:35:01</update_from_db_time>
+  <update_from_db_time>2021-02-19 22:50:02</update_from_db_time>
   <event>
     <prime_street>PEBBLEHILL SQ, SC</prime_street>
     <cross_streets>DEEPDALE DR / HOOKWOOD DR</cross_streets>
@@ -9,36 +9,36 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>242</beat>
-    <units_disp> P242, R243, A244, C24, P211, R213, A213, S232, LA111, R115, C20, P245, P233, R214, P212</units_disp>
+    <units_disp> P242, R243, A244, C24, P211, R213, A213, S232, LA111, R115, C20, P245, P233, R214, P212, P232</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 22:18:00</dispatch_time>
-    <event_num>F21015609</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LILLIAN ST, TT</prime_street>
+    <cross_streets>SOUDAN AVE / EGLINTON AVE E</cross_streets>
+    <dispatch_time>2021-02-19 22:34:22</dispatch_time>
+    <event_num>F21015615</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>134</beat>
+    <units_disp> R134, P135, A135, C13, P131</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M6G</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-19 22:20:58</dispatch_time>
-    <event_num>F21015610</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 22:21:53</dispatch_time>
-    <event_num>F21015613</event_num>
+    <dispatch_time>2021-02-19 22:36:53</dispatch_time>
+    <event_num>F21015616</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-19 22:40:14</dispatch_time>
+    <event_num>F21015617</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R441, R444</units_disp>
   </event>
 </tfs_active_incidents>
