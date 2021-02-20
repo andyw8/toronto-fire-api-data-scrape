@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-20 10:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-20 11:40:02</update_from_db_time>
   <event>
     <prime_street>PEBBLEHILL SQ, SC</prime_street>
     <cross_streets>DEEPDALE DR / HOOKWOOD DR</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>242</beat>
-    <units_disp> P242, R243, A244, C24, P211, R213, A213, S232, LA111, R115, C20, P245, P233, R214, P212, P232, P211, R241, R243, P242, R231</units_disp>
+    <units_disp> P242, R243, A244, C24, P211, R213, A213, S232, LA111, R115, C20, P245, P233, R214, P212, P232, P211, R241, R243, P242, R231, P232</units_disp>
   </event>
   <event>
     <prime_street>LIPPINCOTT ST, TT</prime_street>
@@ -22,26 +22,6 @@
     <units_disp> A331, C33, P315, P331, P332, S331, A312, LA333, P312, R426, C30, P311, P344, FI8, P343</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>HAYDEN ST / BLOOR ST W</cross_streets>
-    <dispatch_time>2021-02-20 09:31:49</dispatch_time>
-    <event_num>F21015698</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312, P313, P314, S313, A312, C31, P311</units_disp>
-  </event>
-  <event>
-    <prime_street>ST CLAIR AVE, TT</prime_street>
-    <cross_streets>HILTON AVE / BATHURST ST</cross_streets>
-    <dispatch_time>2021-02-20 10:38:51</dispatch_time>
-    <event_num>F21015713</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> C31, P311, P312, R341, A135, C34</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>LAWRENCE AVE E / WOODCLIFF PL</cross_streets>
     <dispatch_time>2021-02-20 10:44:09</dispatch_time>
@@ -52,13 +32,93 @@
     <units_disp> P123</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-20 10:44:26</dispatch_time>
-    <event_num>F21015715</event_num>
+    <dispatch_time>2021-02-20 11:09:30</dispatch_time>
+    <event_num>F21015720</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> R426</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-20 11:20:59</dispatch_time>
+    <event_num>F21015724</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>MORTIMER AVE, EY</prime_street>
+    <cross_streets>FRANKDALE AVE / GREENWOOD AVE</cross_streets>
+    <dispatch_time>2021-02-20 11:22:18</dispatch_time>
+    <event_num>F21015725</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
+  </event>
+  <event>
+    <prime_street>AVENUE RD, TT</prime_street>
+    <cross_streets>ELGIN AVE / TRANBY AVE</cross_streets>
+    <dispatch_time>2021-02-20 11:23:11</dispatch_time>
+    <event_num>F21015726</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P311, P312, P314, A312, C31, S313</units_disp>
+  </event>
+  <event>
+    <prime_street>WATERCLIFFE RD, ET</prime_street>
+    <cross_streets>BARFORD RD / HARDWOOD GT</cross_streets>
+    <dispatch_time>2021-02-20 11:24:49</dispatch_time>
+    <event_num>F21015727</event_num>
+    <event_type>Fire - Transformer/Pole</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> R441</units_disp>
+  </event>
+  <event>
+    <prime_street>ADELAIDE ST, TT</prime_street>
+    <cross_streets>ONTARIO ST / POMPADOUR LANE</cross_streets>
+    <dispatch_time>2021-02-20 11:25:34</dispatch_time>
+    <event_num>F21015728</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, R325, A325, C33, P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M5C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-20 11:26:51</dispatch_time>
+    <event_num>F21015729</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> HR332</units_disp>
+  </event>
+  <event>
+    <prime_street>WESTON RD, YK</prime_street>
+    <cross_streets>LAWRENCE AVE W / JOHN ST</cross_streets>
+    <dispatch_time>2021-02-20 11:30:10</dispatch_time>
+    <event_num>F21015730</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> C41, P442, P443, R421, A133</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>VAUGHAN RD / WINONA DR</cross_streets>
+    <dispatch_time>2021-02-20 11:31:35</dispatch_time>
+    <event_num>F21015731</event_num>
+    <event_type>Vehicle Fire</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
 </tfs_active_incidents>
