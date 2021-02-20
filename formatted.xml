@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-20 12:10:02</update_from_db_time>
+  <update_from_db_time>2021-02-20 12:40:02</update_from_db_time>
   <event>
     <prime_street>PEBBLEHILL SQ, SC</prime_street>
     <cross_streets>DEEPDALE DR / HOOKWOOD DR</cross_streets>
@@ -22,93 +22,23 @@
     <units_disp> A331, C33, P315, P331, P332, S331, A312, LA333, P312, R426, C30, P311, P344, FI8, P343</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>LAWRENCE AVE E / WOODCLIFF PL</cross_streets>
-    <dispatch_time>2021-02-20 10:44:09</dispatch_time>
-    <event_num>F21015714</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-20 11:09:30</dispatch_time>
-    <event_num>F21015720</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-20 11:20:59</dispatch_time>
-    <event_num>F21015724</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>ADELAIDE ST, TT</prime_street>
-    <cross_streets>ONTARIO ST / POMPADOUR LANE</cross_streets>
-    <dispatch_time>2021-02-20 11:25:34</dispatch_time>
-    <event_num>F21015728</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, R325, A325, C33, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-20 11:45:02</dispatch_time>
-    <event_num>F21015734</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> S232</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DANFORTH AVE / GREENWOOD AVE</cross_streets>
-    <dispatch_time>2021-02-20 11:59:32</dispatch_time>
-    <event_num>F21015735</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-20 12:06:19</dispatch_time>
-    <event_num>F21015736</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
+    <prime_street>YONGE ST, NY</prime_street>
+    <cross_streets>CONNAUGHT AVE / PATRICIA AVE</cross_streets>
+    <dispatch_time>2021-02-20 12:08:45</dispatch_time>
+    <event_num>F21015739</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>2</alarm_lev>
     <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <units_disp> C14, P111, P121, R112, S143, T114, HR114, C10, A113, LA111, R115, C13, HZ145, P131, P141, P143, R122, CMD10, P114</units_disp>
   </event>
   <event>
-    <prime_street>BERRY RD, ET</prime_street>
-    <cross_streets>BELL MANOR DR / CLOVERHILL RD</cross_streets>
-    <dispatch_time>2021-02-20 12:06:43</dispatch_time>
-    <event_num>F21015737</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431, A433</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-20 12:06:42</dispatch_time>
-    <event_num>F21015738</event_num>
+    <dispatch_time>2021-02-20 12:33:53</dispatch_time>
+    <event_num>F21015742</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
 </tfs_active_incidents>
