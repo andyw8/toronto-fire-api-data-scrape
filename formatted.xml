@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-20 16:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-20 16:30:02</update_from_db_time>
   <event>
     <prime_street>LIPPINCOTT ST, TT</prime_street>
     <cross_streets>NASSAU ST / OXFORD ST</cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> P242</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-20 15:57:21</dispatch_time>
-    <event_num>F21015804</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M3K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-20 16:00:54</dispatch_time>
-    <event_num>F21015805</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
     <prime_street>M5S</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-20 16:05:34</dispatch_time>
@@ -70,5 +50,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>443</beat>
     <units_disp> P443, R441</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-20 16:18:05</dispatch_time>
+    <event_num>F21015808</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
+  </event>
+  <event>
+    <prime_street>LOTHERTON PTWY, NY</prime_street>
+    <cross_streets> / CALEDONIA RD</cross_streets>
+    <dispatch_time>2021-02-20 16:23:25</dispatch_time>
+    <event_num>F21015809</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> A133, S143</units_disp>
+  </event>
+  <event>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-20 16:24:07</dispatch_time>
+    <event_num>F21015811</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>326</beat>
+    <units_disp> HZ326</units_disp>
   </event>
 </tfs_active_incidents>
