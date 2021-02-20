@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-19 21:25:02</update_from_db_time>
+  <update_from_db_time>2021-02-19 21:50:02</update_from_db_time>
   <event>
     <prime_street>PEBBLEHILL SQ, SC</prime_street>
     <cross_streets>DEEPDALE DR / HOOKWOOD DR</cross_streets>
@@ -12,36 +12,6 @@
     <units_disp> P242, R243, A244, C24, P211, R213, A213, S232, LA111, R115, C20, P245, P233, R214, P212</units_disp>
   </event>
   <event>
-    <prime_street>M4H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 20:40:55</dispatch_time>
-    <event_num>F21015588</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 21:16:35</dispatch_time>
-    <event_num>F21015596</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-19 21:19:53</dispatch_time>
-    <event_num>F21015597</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
-  </event>
-  <event>
     <prime_street>WILSON AVE, NY</prime_street>
     <cross_streets>AGATE RD / JULIAN RD</cross_streets>
     <dispatch_time>2021-02-19 21:21:44</dispatch_time>
@@ -49,6 +19,26 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>146</beat>
-    <units_disp> R133, P146, A133, C14, P145, P442</units_disp>
+    <units_disp> A133, C14, P145, P146, R133, P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-19 21:30:01</dispatch_time>
+    <event_num>F21015602</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>CAMERON ST, TT</prime_street>
+    <cross_streets>LN N QUEEN W CAMERON / PAUL LANE GDNS</cross_streets>
+    <dispatch_time>2021-02-19 21:43:48</dispatch_time>
+    <event_num>F21015605</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
