@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-20 12:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-20 12:50:02</update_from_db_time>
   <event>
     <prime_street>PEBBLEHILL SQ, SC</prime_street>
     <cross_streets>DEEPDALE DR / HOOKWOOD DR</cross_streets>
@@ -29,16 +29,56 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>114</beat>
-    <units_disp> C14, P111, P121, R112, S143, T114, HR114, C10, A113, LA111, R115, C13, HZ145, P131, P141, P143, R122, CMD10, P114</units_disp>
+    <units_disp> C14, P111, P121, R112, S143, T114, HR114, C10, A113, LA111, R115, C13, HZ145, P131, P141, P143, R122, CMD10, P114, A135, P116, P145</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M2M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-20 12:33:53</dispatch_time>
-    <event_num>F21015742</event_num>
+    <dispatch_time>2021-02-20 12:38:18</dispatch_time>
+    <event_num>F21015743</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>112</beat>
+    <units_disp> P132, R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-20 12:44:08</dispatch_time>
+    <event_num>F21015744</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-20 12:45:24</dispatch_time>
+    <event_num>F21015745</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-20 12:46:06</dispatch_time>
+    <event_num>F21015746</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>ORMSBY CRES, TT</prime_street>
+    <cross_streets>FOREST HILL RD / SPADINA RD</cross_streets>
+    <dispatch_time>2021-02-20 12:46:34</dispatch_time>
+    <event_num>F21015747</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
