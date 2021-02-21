@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-21 04:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-21 04:45:02</update_from_db_time>
   <event>
     <prime_street>YONGE ST, NY</prime_street>
     <cross_streets>CONNAUGHT AVE / PATRICIA AVE</cross_streets>
@@ -12,13 +12,33 @@
     <units_disp> C14, P111, P121, R112, S143, T114, HR114, C10, A113, LA111, R115, C13, HZ145, P131, P141, P143, R122, CMD10, P114, A135, P116, P145, REHAB01, LA231, P116, P116, P123, P132, P146, R122, P121, P114</units_disp>
   </event>
   <event>
-    <prime_street>M4A</prime_street>
+    <prime_street>M6B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-21 04:21:44</dispatch_time>
-    <event_num>F21015978</event_num>
+    <dispatch_time>2021-02-21 04:28:59</dispatch_time>
+    <event_num>F21015979</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-21 04:30:07</dispatch_time>
+    <event_num>F21015980</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432</units_disp>
+  </event>
+  <event>
+    <prime_street>LAKE SHORE BLVD, TT</prime_street>
+    <cross_streets>NET DR / BUDAPEST LANE</cross_streets>
+    <dispatch_time>2021-02-21 04:41:54</dispatch_time>
+    <event_num>F21015981</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
