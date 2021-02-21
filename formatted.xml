@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-20 22:35:02</update_from_db_time>
+  <update_from_db_time>2021-02-20 22:50:02</update_from_db_time>
   <event>
     <prime_street>YONGE ST, NY</prime_street>
     <cross_streets>CONNAUGHT AVE / PATRICIA AVE</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>441</beat>
     <units_disp> R441, A415</units_disp>
-  </event>
-  <event>
-    <prime_street>DUPONT ST, TT</prime_street>
-    <cross_streets>LANSDOWNE AVE / CAMPBELL AVE</cross_streets>
-    <dispatch_time>2021-02-20 21:53:11</dispatch_time>
-    <event_num>F21015903</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> P342, R345, A423, C34, R423</units_disp>
   </event>
   <event>
     <prime_street>M1V</prime_street>
@@ -52,26 +42,6 @@
     <units_disp> P445, C44, P432, PL432, R444</units_disp>
   </event>
   <event>
-    <prime_street>LUMSDEN AVE, EY</prime_street>
-    <cross_streets>TAYLOR CREEK TRL / EASTDALE AVE</cross_streets>
-    <dispatch_time>2021-02-20 22:07:45</dispatch_time>
-    <event_num>F21015912</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224, P227, R235, A322, C32, P323</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-20 22:10:44</dispatch_time>
-    <event_num>F21015914</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
     <prime_street>YONGE ST, NY</prime_street>
     <cross_streets>HOLMES AVE / OLIVE AVE</cross_streets>
     <dispatch_time>2021-02-20 22:12:11</dispatch_time>
@@ -80,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
     <units_disp> P114, R112, C11, HR114, P111, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-20 22:18:04</dispatch_time>
-    <event_num>F21015917</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134, R134</units_disp>
   </event>
   <event>
     <prime_street>M4E</prime_street>
@@ -102,13 +62,23 @@
     <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>M9M</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-20 22:22:10</dispatch_time>
-    <event_num>F21015919</event_num>
+    <dispatch_time>2021-02-20 22:37:18</dispatch_time>
+    <event_num>F21015920</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-20 22:44:44</dispatch_time>
+    <event_num>F21015921</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
   </event>
 </tfs_active_incidents>
