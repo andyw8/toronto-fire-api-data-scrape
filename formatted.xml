@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-20 21:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-20 22:20:02</update_from_db_time>
   <event>
     <prime_street>YONGE ST, NY</prime_street>
     <cross_streets>CONNAUGHT AVE / PATRICIA AVE</cross_streets>
@@ -12,33 +12,93 @@
     <units_disp> C14, P111, P121, R112, S143, T114, HR114, C10, A113, LA111, R115, C13, HZ145, P131, P141, P143, R122, CMD10, P114, A135, P116, P145, REHAB01, LA231, P116, P116, P123, P132, P146</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-20 21:18:55</dispatch_time>
-    <event_num>F21015895</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-20 21:51:28</dispatch_time>
+    <event_num>F21015902</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
+    <beat>441</beat>
+    <units_disp> R441, A415</units_disp>
   </event>
   <event>
-    <prime_street>SUMACH ST, TT</prime_street>
-    <cross_streets>SHUTER ST / ST DAVID ST</cross_streets>
-    <dispatch_time>2021-02-20 21:22:05</dispatch_time>
-    <event_num>F21015897</event_num>
+    <prime_street>DUPONT ST, TT</prime_street>
+    <cross_streets>LANSDOWNE AVE / CAMPBELL AVE</cross_streets>
+    <dispatch_time>2021-02-20 21:53:11</dispatch_time>
+    <event_num>F21015903</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> P342, R345, A423, C34, R423</units_disp>
+  </event>
+  <event>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-20 22:03:22</dispatch_time>
+    <event_num>F21015909</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>CAPRI RD, ET</prime_street>
+    <cross_streets>THE EAST MALL / </cross_streets>
+    <dispatch_time>2021-02-20 22:07:08</dispatch_time>
+    <event_num>F21015911</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, P333, A325, C33, P313, P324</units_disp>
+    <beat>445</beat>
+    <units_disp> P445, C44, P432, PL432, R444</units_disp>
   </event>
   <event>
-    <prime_street>M4E</prime_street>
+    <prime_street>LUMSDEN AVE, EY</prime_street>
+    <cross_streets>TAYLOR CREEK TRL / EASTDALE AVE</cross_streets>
+    <dispatch_time>2021-02-20 22:07:45</dispatch_time>
+    <event_num>F21015912</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224, P227, R235, A322, C32, P323</units_disp>
+  </event>
+  <event>
+    <prime_street>CATFORD RD, NY</prime_street>
+    <cross_streets>KEELE ST / COUNCIL CRES</cross_streets>
+    <dispatch_time>2021-02-20 22:08:26</dispatch_time>
+    <event_num>F21015913</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> A142, C14, P141, P142, P143</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-20 21:40:30</dispatch_time>
-    <event_num>F21015901</event_num>
+    <dispatch_time>2021-02-20 22:10:44</dispatch_time>
+    <event_num>F21015914</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, NY</prime_street>
+    <cross_streets>HOLMES AVE / OLIVE AVE</cross_streets>
+    <dispatch_time>2021-02-20 22:12:11</dispatch_time>
+    <event_num>F21015915</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, R112, C11, HR114, P111, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-20 22:12:56</dispatch_time>
+    <event_num>F21015916</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P232</units_disp>
   </event>
 </tfs_active_incidents>
