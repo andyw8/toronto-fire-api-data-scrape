@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-21 14:10:02</update_from_db_time>
+  <update_from_db_time>2021-02-21 14:25:01</update_from_db_time>
   <event>
     <prime_street>M3N</prime_street>
     <cross_streets/>
@@ -22,43 +22,33 @@
     <units_disp> A423, R423</units_disp>
   </event>
   <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-21 13:53:32</dispatch_time>
-    <event_num>F21016081</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>EGLINTON AVE, YK</prime_street>
+    <cross_streets>PEAREN ST / JANE ST</cross_streets>
+    <dispatch_time>2021-02-21 14:08:02</dispatch_time>
+    <event_num>F21016086</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
+    <beat>421</beat>
+    <units_disp> R421, S445</units_disp>
   </event>
   <event>
-    <prime_street>M9P</prime_street>
+    <prime_street>M5J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-21 13:56:32</dispatch_time>
-    <event_num>F21016083</event_num>
+    <dispatch_time>2021-02-21 14:13:52</dispatch_time>
+    <event_num>F21016087</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M9A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-21 14:19:58</dispatch_time>
+    <event_num>F21016088</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>443</beat>
     <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>WINNIFRED AVE, TT</prime_street>
-    <cross_streets>LN N EASTERN E WINNIFRED / LN S QUEEN E WINNIFRED</cross_streets>
-    <dispatch_time>2021-02-21 13:58:37</dispatch_time>
-    <event_num>F21016084</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> P324, P325, P227, R224, A324, C32</units_disp>
-  </event>
-  <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-21 14:04:52</dispatch_time>
-    <event_num>F21016085</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
   </event>
 </tfs_active_incidents>
