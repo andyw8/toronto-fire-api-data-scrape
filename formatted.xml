@@ -1,64 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-22 12:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-22 13:25:02</update_from_db_time>
   <event>
-    <prime_street>ROSEHILL AVE, TT</prime_street>
-    <cross_streets>YONGE ST / LN 1 E YONGE S PLEASANT</cross_streets>
-    <dispatch_time>2021-02-22 12:18:46</dispatch_time>
-    <event_num>F21016406</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311, A135</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-22 12:22:12</dispatch_time>
-    <event_num>F21016407</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>SHEPPARD AVE, NY</prime_street>
-    <cross_streets>BLUE RIDGE RD / AMBROSE RD</cross_streets>
-    <dispatch_time>2021-02-22 12:27:36</dispatch_time>
-    <event_num>F21016408</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116, R115, C11, R122, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-22 12:33:51</dispatch_time>
-    <event_num>F21016409</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LAKE SHORE BLVD, ET</prime_street>
+    <cross_streets>LOUISA ST / ALEXANDER ST</cross_streets>
+    <dispatch_time>2021-02-22 13:05:32</dispatch_time>
+    <event_num>F21016421</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>433</beat>
-    <units_disp> P433</units_disp>
+    <units_disp> A433, P431, P433, R435, C43</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>HOLIDAY DR / CAMBRIAN RD</cross_streets>
-    <dispatch_time>2021-02-22 12:38:43</dispatch_time>
-    <event_num>F21016410</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444, P432, C44, PL432, R434, R441</units_disp>
-  </event>
-  <event>
-    <prime_street>M2K</prime_street>
+    <prime_street>M2M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-22 12:39:27</dispatch_time>
-    <event_num>F21016411</event_num>
+    <dispatch_time>2021-02-22 13:13:27</dispatch_time>
+    <event_num>F21016425</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> R122</units_disp>
+    <beat>114</beat>
+    <units_disp> HR114</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-22 13:15:08</dispatch_time>
+    <event_num>F21016426</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A135</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-22 13:18:21</dispatch_time>
+    <event_num>F21016427</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>CEDARVALE AVE, EY</prime_street>
+    <cross_streets>BRACEBRIDGE AVE / TRENTON AVE</cross_streets>
+    <dispatch_time>2021-02-22 13:20:54</dispatch_time>
+    <event_num>F21016428</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R325, P226, C22, P227, A322, P323</units_disp>
   </event>
 </tfs_active_incidents>
