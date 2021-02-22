@@ -1,34 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-22 00:40:01</update_from_db_time>
+  <update_from_db_time>2021-02-22 01:20:02</update_from_db_time>
   <event>
-    <prime_street>NORTHTOWN WAY, NY</prime_street>
-    <cross_streets>YONGE ST / DORIS AVE</cross_streets>
-    <dispatch_time>2021-02-21 23:32:27</dispatch_time>
-    <event_num>F21016227</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, P111, HR114, P113, P121, T114, C11</units_disp>
-  </event>
-  <event>
-    <prime_street>BRAHMS AVE, NY</prime_street>
-    <cross_streets>FINCH AVE E / RAMEAU DR</cross_streets>
-    <dispatch_time>2021-02-22 00:12:57</dispatch_time>
-    <event_num>F21016236</event_num>
+    <prime_street>PANORAMA CRT, ET</prime_street>
+    <cross_streets>KIPLING AVE / </cross_streets>
+    <dispatch_time>2021-02-22 00:42:06</dispatch_time>
+    <event_num>F21016240</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113, P111, A113, C11, R115</units_disp>
+    <beat>413</beat>
+    <units_disp> R413, R411, A415, C41, R412</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
+    <prime_street>ADELAIDE ST, TT</prime_street>
+    <cross_streets>VICTORIA ST / TORONTO ST</cross_streets>
+    <dispatch_time>2021-02-22 00:45:22</dispatch_time>
+    <event_num>F21016242</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P325, P332, P333, T333, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-22 00:17:38</dispatch_time>
-    <event_num>F21016237</event_num>
+    <dispatch_time>2021-02-22 01:03:23</dispatch_time>
+    <event_num>F21016246</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
 </tfs_active_incidents>
