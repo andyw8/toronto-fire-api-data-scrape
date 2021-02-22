@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-22 02:25:02</update_from_db_time>
-  <event>
-    <prime_street>SACKVILLE ST, TT</prime_street>
-    <cross_streets>DUNDAS ST E / COLE ST</cross_streets>
-    <dispatch_time>2021-02-22 02:04:09</dispatch_time>
-    <event_num>F21016253</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P313, P333, A325, C33, P314</units_disp>
-  </event>
+  <update_from_db_time>2021-02-22 02:45:02</update_from_db_time>
   <event>
     <prime_street>M2M</prime_street>
     <cross_streets/>
@@ -20,5 +10,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
     <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-22 02:24:30</dispatch_time>
+    <event_num>F21016255</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P222</units_disp>
   </event>
 </tfs_active_incidents>
