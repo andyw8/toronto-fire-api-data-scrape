@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-22 06:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-22 06:30:02</update_from_db_time>
   <event>
     <prime_street>M6H</prime_street>
     <cross_streets/>
@@ -12,16 +12,6 @@
     <units_disp> R345</units_disp>
   </event>
   <event>
-    <prime_street>JUTLAND RD, ET</prime_street>
-    <cross_streets>GOODRICH RD / ISLINGTON AVE</cross_streets>
-    <dispatch_time>2021-02-22 06:01:55</dispatch_time>
-    <event_num>F21016276</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, A433, C44, P431, P445</units_disp>
-  </event>
-  <event>
     <prime_street>M1K</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-22 06:13:23</dispatch_time>
@@ -30,26 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
     <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M5J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-22 06:13:31</dispatch_time>
-    <event_num>F21016278</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-22 06:14:02</dispatch_time>
-    <event_num>F21016279</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
   </event>
   <event>
     <prime_street>L3T</prime_street>
@@ -70,5 +40,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>422</beat>
     <units_disp> P422</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-22 06:19:27</dispatch_time>
+    <event_num>F21016282</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>HENRY ST, TT</prime_street>
+    <cross_streets>BALDWIN ST / SILVERSTEIN LANE</cross_streets>
+    <dispatch_time>2021-02-22 06:24:20</dispatch_time>
+    <event_num>F21016283</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> A315, C33, P314, P315, P332</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ROYAL YORK RD / MANITOBA ST</cross_streets>
+    <dispatch_time>2021-02-22 06:24:24</dispatch_time>
+    <event_num>F21016284</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
   </event>
 </tfs_active_incidents>
