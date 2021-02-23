@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-23 06:20:03</update_from_db_time>
+  <update_from_db_time>2021-02-23 06:30:02</update_from_db_time>
   <event>
     <prime_street>CHESTER LE BLVD, SC</prime_street>
     <cross_streets>260 CHESTER LE BLVD / 260 CHESTER LE BLVD</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>241</beat>
     <units_disp> P324, R241, C24, HZ145, A113, C20</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-23 05:59:57</dispatch_time>
-    <event_num>F21016643</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
   </event>
   <event>
     <prime_street>ATHERTON CRES, ET</prime_street>
