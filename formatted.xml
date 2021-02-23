@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-23 08:50:02</update_from_db_time>
-  <event>
-    <prime_street>CHESTER LE BLVD, SC</prime_street>
-    <cross_streets>260 CHESTER LE BLVD / 260 CHESTER LE BLVD</cross_streets>
-    <dispatch_time>2021-02-23 04:05:28</dispatch_time>
-    <event_num>F21016635</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> P324, R241, C24, HZ145, A113, C20, A244</units_disp>
-  </event>
+  <update_from_db_time>2021-02-23 09:35:02</update_from_db_time>
   <event>
     <prime_street>REGENT RD, NY</prime_street>
     <cross_streets>ANCASTER RD / GARRATT BLVD</cross_streets>
@@ -19,7 +9,7 @@
     <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>145</beat>
-    <units_disp> P145</units_disp>
+    <units_disp> P145, P142</units_disp>
   </event>
   <event>
     <prime_street>ELLESMERE RD, SC</prime_street>
@@ -32,33 +22,73 @@
     <units_disp> A231, P324, C23, HZ326, A213, R213, R243, LA231</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>SHERBOURNE ST, TT</prime_street>
+    <cross_streets>WELLESLEY ST E / LOURDES LANE</cross_streets>
+    <dispatch_time>2021-02-23 08:55:32</dispatch_time>
+    <event_num>F21016668</event_num>
+    <event_type>Fire - Highrise Residential - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313, P314, A325, C31, P312, C31, P312, S313, R325, P142</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-23 08:23:07</dispatch_time>
-    <event_num>F21016664</event_num>
+    <dispatch_time>2021-02-23 09:11:51</dispatch_time>
+    <event_num>F21016674</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
+    <beat>241</beat>
+    <units_disp> P244</units_disp>
   </event>
   <event>
-    <prime_street>BOND ST, TT</prime_street>
-    <cross_streets>QUEEN ST E / SHUTER ST</cross_streets>
-    <dispatch_time>2021-02-23 08:27:27</dispatch_time>
-    <event_num>F21016665</event_num>
-    <event_type>Alarms Highrise Institution Downtown</event_type>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-23 09:16:40</dispatch_time>
+    <event_num>F21016677</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P314, R325, A325, C33, P325, P433</units_disp>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
   <event>
-    <prime_street>TABER RD, ET</prime_street>
-    <cross_streets>AIRVIEW RD / HAAS RD</cross_streets>
-    <dispatch_time>2021-02-23 08:46:53</dispatch_time>
-    <event_num>F21016666</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>KENNEDY RD, SC</prime_street>
+    <cross_streets>SHEPPARD AVE E / CARDWELL AVE</cross_streets>
+    <dispatch_time>2021-02-23 09:20:47</dispatch_time>
+    <event_num>F21016678</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415, R441, A415, C41, R412</units_disp>
+    <beat>244</beat>
+    <units_disp> P242, P232, A213, C24, P245</units_disp>
+  </event>
+  <event>
+    <prime_street>LINDSEY AVE, TT</prime_street>
+    <cross_streets>HAVELOCK ST / GLADSTONE AVE</cross_streets>
+    <dispatch_time>2021-02-23 09:25:44</dispatch_time>
+    <event_num>F21016679</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> A426, P331, R345, C34, P315, P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-23 09:27:38</dispatch_time>
+    <event_num>F21016680</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>HOLLY ST, TT</prime_street>
+    <cross_streets>LN S EGLINTON E HOLLY / EGLINTON AVE E</cross_streets>
+    <dispatch_time>2021-02-23 09:29:00</dispatch_time>
+    <event_num>F21016681</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> P131, P135, R134, A125, C13</units_disp>
   </event>
 </tfs_active_incidents>
