@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-22 22:25:01</update_from_db_time>
+  <update_from_db_time>2021-02-22 22:40:02</update_from_db_time>
   <event>
     <prime_street>REGENT RD, NY</prime_street>
     <cross_streets>ANCASTER RD / GARRATT BLVD</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> A215</units_disp>
   </event>
   <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-22 22:14:25</dispatch_time>
-    <event_num>F21016587</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
-  </event>
-  <event>
     <prime_street>GOLDFINCH CRT, NY</prime_street>
     <cross_streets> / FINCH AVE W</cross_streets>
     <dispatch_time>2021-02-22 22:20:14</dispatch_time>
@@ -40,5 +30,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
     <units_disp> R112, A142</units_disp>
+  </event>
+  <event>
+    <prime_street>ST MAGNUS DR, SC</prime_street>
+    <cross_streets>LAWSON RD / </cross_streets>
+    <dispatch_time>2021-02-22 22:27:18</dispatch_time>
+    <event_num>F21016589</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> R214, P212, A231, C21, P234, R213</units_disp>
   </event>
 </tfs_active_incidents>
