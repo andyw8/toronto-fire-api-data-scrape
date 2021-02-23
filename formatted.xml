@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-23 06:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-23 07:30:02</update_from_db_time>
   <event>
     <prime_street>CHESTER LE BLVD, SC</prime_street>
     <cross_streets>260 CHESTER LE BLVD / 260 CHESTER LE BLVD</cross_streets>
@@ -9,26 +9,26 @@
     <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>241</beat>
-    <units_disp> P324, R241, C24, HZ145, A113, C20</units_disp>
+    <units_disp> P324, R241, C24, HZ145, A113, C20, A244</units_disp>
   </event>
   <event>
-    <prime_street>ANN O'REILLY RD, NY</prime_street>
-    <cross_streets>ATRIA BLVD / </cross_streets>
-    <dispatch_time>2021-02-23 06:34:49</dispatch_time>
-    <event_num>F21016646</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> S232, A244</units_disp>
-  </event>
-  <event>
-    <prime_street>M6L</prime_street>
+    <prime_street>M4K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-23 06:38:03</dispatch_time>
-    <event_num>F21016647</event_num>
+    <dispatch_time>2021-02-23 07:00:11</dispatch_time>
+    <event_num>F21016650</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
+  </event>
+  <event>
+    <prime_street>REGENT RD, NY</prime_street>
+    <cross_streets>ANCASTER RD / GARRATT BLVD</cross_streets>
+    <dispatch_time>2021-02-23 07:03:32</dispatch_time>
+    <event_num>F21016651</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
   </event>
 </tfs_active_incidents>
