@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-23 17:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-23 17:50:02</update_from_db_time>
   <event>
     <prime_street>M6P</prime_street>
     <cross_streets/>
@@ -32,23 +32,23 @@
     <units_disp> P432, P445, C44, PL432, R444</units_disp>
   </event>
   <event>
-    <prime_street>HOLLOWAY RD, ET</prime_street>
-    <cross_streets>ROYALAVON CRES / KIPLING AVE</cross_streets>
-    <dispatch_time>2021-02-23 17:22:46</dispatch_time>
-    <event_num>F21016826</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P431, A433, C43, P422, P443</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-23 17:30:19</dispatch_time>
-    <event_num>F21016827</event_num>
+    <dispatch_time>2021-02-23 17:39:43</dispatch_time>
+    <event_num>F21016828</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BATHURST ST / ST CLAIR AVE W</cross_streets>
+    <dispatch_time>2021-02-23 17:45:00</dispatch_time>
+    <event_num>F21016829</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
   </event>
 </tfs_active_incidents>
