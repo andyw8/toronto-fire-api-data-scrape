@@ -1,74 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-24 10:00:02</update_from_db_time>
+  <update_from_db_time>2021-02-24 10:40:02</update_from_db_time>
   <event>
-    <prime_street>NASHLAND AVE, ET</prime_street>
-    <cross_streets>RAVENSCREST DR / GLEN AGAR DR</cross_streets>
-    <dispatch_time>2021-02-24 09:35:30</dispatch_time>
-    <event_num>F21016973</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P324, C44, P445, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-24 09:40:12</dispatch_time>
-    <event_num>F21016974</event_num>
+    <dispatch_time>2021-02-24 10:16:48</dispatch_time>
+    <event_num>F21016984</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>M5G</prime_street>
+    <prime_street>M4J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-24 09:49:30</dispatch_time>
-    <event_num>F21016977</event_num>
+    <dispatch_time>2021-02-24 10:20:56</dispatch_time>
+    <event_num>F21016986</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-24 09:50:30</dispatch_time>
-    <event_num>F21016978</event_num>
+    <dispatch_time>2021-02-24 10:21:34</dispatch_time>
+    <event_num>F21016987</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P331</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-24 09:51:23</dispatch_time>
-    <event_num>F21016979</event_num>
+    <dispatch_time>2021-02-24 10:27:13</dispatch_time>
+    <event_num>F21016989</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
   </event>
   <event>
-    <prime_street>CRAWFORD ST, TT</prime_street>
-    <cross_streets>LOBB AVE / BELLWOODS PK</cross_streets>
-    <dispatch_time>2021-02-24 09:55:21</dispatch_time>
-    <event_num>F21016980</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>ARMEL CRT, ET</prime_street>
+    <cross_streets>HUMBER RIVER RECREATIONAL TRL / </cross_streets>
+    <dispatch_time>2021-02-24 10:28:06</dispatch_time>
+    <event_num>F21016990</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P426, P344, A331, C33, R345</units_disp>
+    <beat>415</beat>
+    <units_disp> P146, R413, A441, R411, C41</units_disp>
   </event>
   <event>
-    <prime_street>ST ANDREW ST, TT</prime_street>
-    <cross_streets>LN W SPADINA S ST ANDREW / KENSINGTON AVE</cross_streets>
-    <dispatch_time>2021-02-24 09:55:47</dispatch_time>
-    <event_num>F21016981</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>PARLIAMENT ST, TT</prime_street>
+    <cross_streets>LANCASTER AVE / PROSPECT ST</cross_streets>
+    <dispatch_time>2021-02-24 10:31:06</dispatch_time>
+    <event_num>F21016991</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P312, P313, A315, C31, P333</units_disp>
+    <beat>313</beat>
+    <units_disp> A325, C31, P313, P325, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M4W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-24 10:36:30</dispatch_time>
+    <event_num>F21016992</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> A312</units_disp>
   </event>
 </tfs_active_incidents>
