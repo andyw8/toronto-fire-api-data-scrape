@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-24 17:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-24 17:35:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MERTON ST / MOUNT PLEASANT RD</cross_streets>
@@ -10,46 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>311</beat>
     <units_disp> P311, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>COMMISSIONERS ST, TT</prime_street>
-    <cross_streets>CARLAW AVE / LESLIE ST</cross_streets>
-    <dispatch_time>2021-02-24 16:46:29</dispatch_time>
-    <event_num>F21017126</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> A324, C32, HZ326, P324, P227</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-24 17:00:47</dispatch_time>
-    <event_num>F21017132</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
-    <prime_street>TRENT AVE, TT</prime_street>
-    <cross_streets>ICE CREAM LANE / LN S DANFORTH E DAWES</cross_streets>
-    <dispatch_time>2021-02-24 17:08:02</dispatch_time>
-    <event_num>F21017134</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> S313, A226</units_disp>
-  </event>
-  <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-24 17:11:58</dispatch_time>
-    <event_num>F21017135</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
   </event>
   <event>
     <prime_street>ISLINGTON AVE, ET</prime_street>
@@ -62,23 +22,13 @@
     <units_disp> A415, P443</units_disp>
   </event>
   <event>
-    <prime_street>BULLER AVE, TT</prime_street>
-    <cross_streets> / ANDY OLVET LANE</cross_streets>
-    <dispatch_time>2021-02-24 17:15:47</dispatch_time>
-    <event_num>F21017137</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>KING ST, YK</prime_street>
+    <cross_streets>GEORGE ST / C N R / C P R</cross_streets>
+    <dispatch_time>2021-02-24 17:18:12</dispatch_time>
+    <event_num>F21017139</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P226, P227, A324, C32, P323</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-24 17:16:01</dispatch_time>
-    <event_num>F21017138</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
+    <beat>442</beat>
+    <units_disp> P442, R421, A133, R133, C41</units_disp>
   </event>
 </tfs_active_incidents>
