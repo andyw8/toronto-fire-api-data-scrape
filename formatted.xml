@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-24 10:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-24 10:50:02</update_from_db_time>
   <event>
     <prime_street>M4C</prime_street>
     <cross_streets/>
@@ -10,36 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-24 10:20:56</dispatch_time>
-    <event_num>F21016986</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-24 10:21:34</dispatch_time>
-    <event_num>F21016987</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-24 10:27:13</dispatch_time>
-    <event_num>F21016989</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
   </event>
   <event>
     <prime_street>ARMEL CRT, ET</prime_street>
@@ -52,16 +22,6 @@
     <units_disp> P146, R413, A441, R411, C41</units_disp>
   </event>
   <event>
-    <prime_street>PARLIAMENT ST, TT</prime_street>
-    <cross_streets>LANCASTER AVE / PROSPECT ST</cross_streets>
-    <dispatch_time>2021-02-24 10:31:06</dispatch_time>
-    <event_num>F21016991</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> A325, C31, P313, P325, R325</units_disp>
-  </event>
-  <event>
     <prime_street>M4W</prime_street>
     <cross_streets/>
     <dispatch_time>2021-02-24 10:36:30</dispatch_time>
@@ -70,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> A312</units_disp>
+  </event>
+  <event>
+    <prime_street>FELSTEAD AVE, TT</prime_street>
+    <cross_streets> / LAMB AVE</cross_streets>
+    <dispatch_time>2021-02-24 10:38:16</dispatch_time>
+    <event_num>F21016993</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> R325, P324, P322, A324, C32, R224, P323</units_disp>
+  </event>
+  <event>
+    <prime_street>FIRVALLEY CRT, SC</prime_street>
+    <cross_streets>CATARAQUI CRES / WARDEN AVE</cross_streets>
+    <dispatch_time>2021-02-24 10:45:39</dispatch_time>
+    <event_num>F21016994</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225, A222, C22, P222, P227</units_disp>
   </event>
 </tfs_active_incidents>
