@@ -1,64 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-24 00:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-24 01:25:02</update_from_db_time>
   <event>
-    <prime_street>SUNRISE AVE, NY</prime_street>
-    <cross_streets>VICTORIA PARK AVE / O'CONNOR DR</cross_streets>
-    <dispatch_time>2021-02-23 23:53:26</dispatch_time>
-    <event_num>F21016891</event_num>
-    <event_type>Vehicle Fire</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>BAYVIEW AVE / ROSEDALE VALLEY RD</cross_streets>
+    <dispatch_time>2021-02-24 00:55:49</dispatch_time>
+    <event_num>F21016898</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
   <event>
-    <prime_street>BAYVIEW AVE, NY</prime_street>
-    <cross_streets>CLEARCREST AVE / STEELES AVE E</cross_streets>
-    <dispatch_time>2021-02-24 00:21:32</dispatch_time>
-    <event_num>F21016892</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> A113, C11, P111, P114, R241</units_disp>
-  </event>
-  <event>
-    <prime_street>M4H</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-24 00:28:23</dispatch_time>
-    <event_num>F21016893</event_num>
+    <dispatch_time>2021-02-24 01:07:04</dispatch_time>
+    <event_num>F21016899</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
   <event>
-    <prime_street>M6S</prime_street>
+    <prime_street>M5R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-24 00:34:01</dispatch_time>
-    <event_num>F21016894</event_num>
+    <dispatch_time>2021-02-24 01:15:18</dispatch_time>
+    <event_num>F21016902</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425</units_disp>
-  </event>
-  <event>
-    <prime_street>M9L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-24 00:36:19</dispatch_time>
-    <event_num>F21016895</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>VANAULEY ST / AUGUSTA AVE</cross_streets>
-    <dispatch_time>2021-02-24 00:40:05</dispatch_time>
-    <event_num>F21016896</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> A331, C33, P315, P331, P332</units_disp>
+    <beat>344</beat>
+    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
