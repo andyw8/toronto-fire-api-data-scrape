@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-24 04:55:02</update_from_db_time>
+  <update_from_db_time>2021-02-24 05:30:02</update_from_db_time>
   <event>
     <prime_street>SPADINA AVE, TT</prime_street>
     <cross_streets>LN N COLLEGE E SPADINA / SPADINA CRES</cross_streets>
@@ -19,6 +19,26 @@
     <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>227</beat>
-    <units_disp> P227, HZ326</units_disp>
+    <units_disp> P227, HZ326, C32, A226</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-24 05:22:57</dispatch_time>
+    <event_num>F21016931</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
+  </event>
+  <event>
+    <prime_street>ORDNANCE ST, TT</prime_street>
+    <cross_streets> / STRACHAN AVE</cross_streets>
+    <dispatch_time>2021-02-24 05:23:52</dispatch_time>
+    <event_num>F21016932</event_num>
+    <event_type>Fire - Transformer/Pole</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
