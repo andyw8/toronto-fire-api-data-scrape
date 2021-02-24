@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-24 03:55:02</update_from_db_time>
-  <event>
-    <prime_street>DOVERCOURT RD, TT</prime_street>
-    <cross_streets>CHURCHILL AVE / ST ANNES RD</cross_streets>
-    <dispatch_time>2021-02-24 03:37:19</dispatch_time>
-    <event_num>F21016920</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, R345, A426, C34, P331, P344</units_disp>
-  </event>
+  <update_from_db_time>2021-02-24 04:30:02</update_from_db_time>
   <event>
     <prime_street>SPADINA AVE, TT</prime_street>
     <cross_streets>LN N COLLEGE E SPADINA / SPADINA CRES</cross_streets>
@@ -20,5 +10,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>315</beat>
     <units_disp> A315</units_disp>
+  </event>
+  <event>
+    <prime_street>GAINSBOROUGH RD, TT</prime_street>
+    <cross_streets>EASTWOOD RD / LN N EASTWOOD W GAINSBOROUGH</cross_streets>
+    <dispatch_time>2021-02-24 04:03:46</dispatch_time>
+    <event_num>F21016923</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227, HZ326</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-24 04:11:39</dispatch_time>
+    <event_num>F21016926</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M4W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-24 04:20:40</dispatch_time>
+    <event_num>F21016927</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
