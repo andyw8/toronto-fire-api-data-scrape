@@ -1,54 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-24 08:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-24 09:30:02</update_from_db_time>
   <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>M9P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-24 08:22:18</dispatch_time>
-    <event_num>F21016951</event_num>
+    <dispatch_time>2021-02-24 08:53:05</dispatch_time>
+    <event_num>F21016958</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>DUNN AVE, TT</prime_street>
+    <cross_streets>DUNN AVENUE PARKETTE TRL / QUEEN ST W</cross_streets>
+    <dispatch_time>2021-02-24 08:58:25</dispatch_time>
+    <event_num>F21016960</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> S331, P426, A426, P331, P344, C34</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-24 08:29:29</dispatch_time>
-    <event_num>F21016953</event_num>
+    <dispatch_time>2021-02-24 09:05:28</dispatch_time>
+    <event_num>F21016961</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
   </event>
   <event>
-    <prime_street>SPADINA AVE, TT</prime_street>
-    <cross_streets>LN N COLLEGE E SPADINA / SPADINA CRES</cross_streets>
-    <dispatch_time>2021-02-24 08:38:08</dispatch_time>
-    <event_num>F21016954</event_num>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>ST CLARENS AVE / LANSDOWNE AVE</cross_streets>
+    <dispatch_time>2021-02-24 09:08:33</dispatch_time>
+    <event_num>F21016964</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R345, P342, C42, A345, P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M6B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-24 09:16:14</dispatch_time>
+    <event_num>F21016967</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M1G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-24 09:20:43</dispatch_time>
+    <event_num>F21016968</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> A231</units_disp>
+  </event>
+  <event>
+    <prime_street>ST ANDREW ST, TT</prime_street>
+    <cross_streets>LN W SPADINA S ST ANDREW / KENSINGTON AVE</cross_streets>
+    <dispatch_time>2021-02-24 09:20:56</dispatch_time>
+    <event_num>F21016969</event_num>
     <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>315</beat>
-    <units_disp> P331, P332, A315, C33, P312</units_disp>
-  </event>
-  <event>
-    <prime_street>GAMBLE AVE, EY</prime_street>
-    <cross_streets>LOGAN AVE / PAPE AVE</cross_streets>
-    <dispatch_time>2021-02-24 08:38:51</dispatch_time>
-    <event_num>F21016955</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-24 08:42:24</dispatch_time>
-    <event_num>F21016956</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
+    <units_disp> P332, P331, A315, C33, P314</units_disp>
   </event>
 </tfs_active_incidents>
