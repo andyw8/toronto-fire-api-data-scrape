@@ -1,54 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-23 18:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-23 19:55:02</update_from_db_time>
   <event>
-    <prime_street>M6P</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-23 16:28:41</dispatch_time>
-    <event_num>F21016812</event_num>
+    <dispatch_time>2021-02-23 19:41:51</dispatch_time>
+    <event_num>F21016857</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423, A423, C42, HZ145, A421</units_disp>
-  </event>
-  <event>
-    <prime_street>EGLINTON AVE, EY</prime_street>
-    <cross_streets>SUTHERLAND DR / LAIRD DR</cross_streets>
-    <dispatch_time>2021-02-23 18:22:09</dispatch_time>
-    <event_num>F21016842</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> A125, C13, P125, P131, R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-23 18:22:06</dispatch_time>
-    <event_num>F21016843</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-23 18:27:58</dispatch_time>
-    <event_num>F21016844</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-23 18:44:54</dispatch_time>
-    <event_num>F21016846</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
