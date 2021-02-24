@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-24 08:40:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BISHOP TUTU BLVD / LITTLE NORWAY CRES</cross_streets>
-    <dispatch_time>2021-02-24 08:10:56</dispatch_time>
-    <event_num>F21016948</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-24 08:21:24</dispatch_time>
-    <event_num>F21016950</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> FB334</units_disp>
-  </event>
+  <update_from_db_time>2021-02-24 08:50:02</update_from_db_time>
   <event>
     <prime_street>M6G</prime_street>
     <cross_streets/>
@@ -40,5 +20,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
     <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>SPADINA AVE, TT</prime_street>
+    <cross_streets>LN N COLLEGE E SPADINA / SPADINA CRES</cross_streets>
+    <dispatch_time>2021-02-24 08:38:08</dispatch_time>
+    <event_num>F21016954</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P331, P332, A315, C33, P312</units_disp>
+  </event>
+  <event>
+    <prime_street>GAMBLE AVE, EY</prime_street>
+    <cross_streets>LOGAN AVE / PAPE AVE</cross_streets>
+    <dispatch_time>2021-02-24 08:38:51</dispatch_time>
+    <event_num>F21016955</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322, S313</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-24 08:42:24</dispatch_time>
+    <event_num>F21016956</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
