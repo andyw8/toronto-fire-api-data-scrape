@@ -1,34 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-24 15:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-24 16:20:02</update_from_db_time>
   <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-24 15:16:48</dispatch_time>
-    <event_num>F21017101</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>MERTON ST / MOUNT PLEASANT RD</cross_streets>
+    <dispatch_time>2021-02-24 15:50:46</dispatch_time>
+    <event_num>F21017109</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>311</beat>
+    <units_disp> P311, S313</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-24 15:23:25</dispatch_time>
-    <event_num>F21017102</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>SHEPPARD AVE, SC</prime_street>
+    <cross_streets>MCCOWAN RD / SHORTING RD</cross_streets>
+    <dispatch_time>2021-02-24 16:06:14</dispatch_time>
+    <event_num>F21017112</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>243</beat>
+    <units_disp> R213, R243, A213, C24, P244</units_disp>
   </event>
   <event>
-    <prime_street>ROYAL YORK RD, ET</prime_street>
-    <cross_streets>ASHLEY PARK RD / EDGEHILL RD</cross_streets>
-    <dispatch_time>2021-02-24 15:29:48</dispatch_time>
-    <event_num>F21017104</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-24 16:07:38</dispatch_time>
+    <event_num>F21017113</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P431, P422</units_disp>
+    <beat>213</beat>
+    <units_disp> P211</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-24 16:11:12</dispatch_time>
+    <event_num>F21017114</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-24 16:13:26</dispatch_time>
+    <event_num>F21017115</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
 </tfs_active_incidents>
