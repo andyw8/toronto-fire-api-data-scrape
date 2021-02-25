@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 15:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-25 16:20:02</update_from_db_time>
   <event>
     <prime_street>POTSDAM RD, NY</prime_street>
     <cross_streets>WILMONT DR / FORGE DR</cross_streets>
@@ -12,93 +12,23 @@
     <units_disp> P141, P142, R112, A142, R411, C14, T114, S143, R133, A415, LA421, R413, C10, HR114, HZ145, P143, P146, C41, P442, CMD10, FI15, A142, P145</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
+    <prime_street>JACKMAN AVE, TT</prime_street>
+    <cross_streets>FULTON AVE / NEALON AVE</cross_streets>
+    <dispatch_time>2021-02-25 16:06:58</dispatch_time>
+    <event_num>F21017411</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> S313, P323, A324, C32, P313, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-25 15:05:57</dispatch_time>
-    <event_num>F21017398</event_num>
+    <dispatch_time>2021-02-25 16:08:34</dispatch_time>
+    <event_num>F21017412</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142</units_disp>
-  </event>
-  <event>
-    <prime_street>ANN O'REILLY RD, NY</prime_street>
-    <cross_streets>ATRIA BLVD / </cross_streets>
-    <dispatch_time>2021-02-25 15:06:45</dispatch_time>
-    <event_num>F21017399</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> P113, P116, R115, A244, C11, P233</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 15:08:18</dispatch_time>
-    <event_num>F21017400</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> A231</units_disp>
-  </event>
-  <event>
-    <prime_street>M2K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 15:13:57</dispatch_time>
-    <event_num>F21017403</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> R122</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 15:21:41</dispatch_time>
-    <event_num>F21017405</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 15:26:07</dispatch_time>
-    <event_num>F21017406</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
-  </event>
-  <event>
-    <prime_street>BAYVIEW AVE, TT</prime_street>
-    <cross_streets>LAWREN HARRIS SQ / CORKTOWN COMMON TRL</cross_streets>
-    <dispatch_time>2021-02-25 15:29:51</dispatch_time>
-    <event_num>F21017408</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, R325, A325, C31, P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 15:37:21</dispatch_time>
-    <event_num>F21017409</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>SHEPPARD AVE, NY</prime_street>
-    <cross_streets>GREENBRIAR RD / ACCESS RD</cross_streets>
-    <dispatch_time>2021-02-25 15:38:06</dispatch_time>
-    <event_num>F21017410</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
