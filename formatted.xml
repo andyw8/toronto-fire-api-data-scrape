@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 16:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-25 16:30:02</update_from_db_time>
   <event>
     <prime_street>POTSDAM RD, NY</prime_street>
     <cross_streets>WILMONT DR / FORGE DR</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>142</beat>
     <units_disp> P141, P142, R112, A142, R411, C14, T114, S143, R133, A415, LA421, R413, C10, HR114, HZ145, P143, P146, C41, P442, CMD10, FI15, A142, P145</units_disp>
-  </event>
-  <event>
-    <prime_street>JACKMAN AVE, TT</prime_street>
-    <cross_streets>FULTON AVE / NEALON AVE</cross_streets>
-    <dispatch_time>2021-02-25 16:06:58</dispatch_time>
-    <event_num>F21017411</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> S313, P323, A324, C32, P313, P324</units_disp>
   </event>
   <event>
     <prime_street>M9V</prime_street>
