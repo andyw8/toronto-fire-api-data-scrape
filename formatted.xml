@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 07:30:03</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>DUFFERIN ST / HALLAM ST</cross_streets>
-    <dispatch_time>2021-02-25 06:50:30</dispatch_time>
-    <event_num>F21017285</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345, C34, R345, S331</units_disp>
-  </event>
+  <update_from_db_time>2021-02-25 08:00:02</update_from_db_time>
   <event>
     <prime_street>MABELLE AVE, ET</prime_street>
     <cross_streets>CORDOVA AVE / DUNDAS ST W</cross_streets>
@@ -22,33 +12,23 @@
     <units_disp> P443, P432, C44, P433, PL432, S445</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
+    <prime_street>M4J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-25 07:20:46</dispatch_time>
-    <event_num>F21017288</event_num>
+    <dispatch_time>2021-02-25 07:41:22</dispatch_time>
+    <event_num>F21017293</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
   </event>
   <event>
-    <prime_street>M4G</prime_street>
+    <prime_street>M4T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-25 07:25:25</dispatch_time>
-    <event_num>F21017290</event_num>
+    <dispatch_time>2021-02-25 07:56:40</dispatch_time>
+    <event_num>F21017295</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131</units_disp>
-  </event>
-  <event>
-    <prime_street>CHALKFARM DR, NY</prime_street>
-    <cross_streets>MARLINGTON CRES / MARLINGTON CRES</cross_streets>
-    <dispatch_time>2021-02-25 07:25:55</dispatch_time>
-    <event_num>F21017291</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146, P442, A142, C14, R133</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
 </tfs_active_incidents>
