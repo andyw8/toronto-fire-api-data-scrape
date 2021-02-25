@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 10:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-25 10:40:02</update_from_db_time>
   <event>
     <prime_street>POTSDAM RD, NY</prime_street>
     <cross_streets>WILMONT DR / FORGE DR</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>142</beat>
-    <units_disp> P141, P142, R112, A142, R411, C14, T114, S143, R133, A415, LA421, R413, C10, HR114, HZ145, P143, P146, C41, P442, CMD10</units_disp>
+    <units_disp> P141, P142, R112, A142, R411, C14, T114, S143, R133, A415, LA421, R413, C10, HR114, HZ145, P143, P146, C41, P442, CMD10, FI15</units_disp>
   </event>
   <event>
     <prime_street>M1S</prime_street>
@@ -32,33 +32,23 @@
     <units_disp> P331, P342, P343, P315, A345, C34</units_disp>
   </event>
   <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-25 10:31:23</dispatch_time>
+    <event_num>F21017323</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
+  </event>
+  <event>
     <prime_street> </prime_street>
-    <cross_streets>ROSEDALE VALLEY RD / BLOOR ST E</cross_streets>
-    <dispatch_time>2021-02-25 10:13:46</dispatch_time>
-    <event_num>F21017319</event_num>
-    <event_type>Fire - Encampment</event_type>
+    <cross_streets>ROSEDALE VALLEY RD / PARK RD</cross_streets>
+    <dispatch_time>2021-02-25 10:36:10</dispatch_time>
+    <event_num>F21017324</event_num>
+    <event_type>Wires Down - Hydro</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P312, A312, C31, R325, R341</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 10:18:10</dispatch_time>
-    <event_num>F21017320</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234, A231</units_disp>
-  </event>
-  <event>
-    <prime_street>M8W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 10:21:11</dispatch_time>
-    <event_num>F21017322</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
+    <beat>312</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
