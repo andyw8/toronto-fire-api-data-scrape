@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 10:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-25 10:55:02</update_from_db_time>
   <event>
     <prime_street>POTSDAM RD, NY</prime_street>
     <cross_streets>WILMONT DR / FORGE DR</cross_streets>
@@ -12,43 +12,73 @@
     <units_disp> P141, P142, R112, A142, R411, C14, T114, S143, R133, A415, LA421, R413, C10, HR114, HZ145, P143, P146, C41, P442, CMD10, FI15</units_disp>
   </event>
   <event>
-    <prime_street>M1S</prime_street>
+    <prime_street>M4V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-25 10:10:54</dispatch_time>
-    <event_num>F21017317</event_num>
+    <dispatch_time>2021-02-25 10:37:32</dispatch_time>
+    <event_num>F21017325</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
   <event>
-    <prime_street>WINONA DR, TT</prime_street>
-    <cross_streets>DAVENPORT RD / TYRREL AVE</cross_streets>
-    <dispatch_time>2021-02-25 10:11:02</dispatch_time>
-    <event_num>F21017318</event_num>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-25 10:40:17</dispatch_time>
+    <event_num>F21017327</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>CRAWFORD ST / SHAW ST</cross_streets>
+    <dispatch_time>2021-02-25 10:47:20</dispatch_time>
+    <event_num>F21017328</event_num>
+    <event_type>Rescue - Personal Entrapment</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> A345, C34, P313, S313</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-25 10:49:20</dispatch_time>
+    <event_num>F21017329</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> P116</units_disp>
+  </event>
+  <event>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>VIRGILWOOD DR / GOLDFINCH CRT</cross_streets>
+    <dispatch_time>2021-02-25 10:49:48</dispatch_time>
+    <event_num>F21017330</event_num>
     <event_type>Alarm Institution</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P331, P342, P343, P315, A345, C34</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 10:31:23</dispatch_time>
-    <event_num>F21017323</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
+    <beat>112</beat>
+    <units_disp> P143, P114, HR114, P141, P145, T114, C13, C14, P111</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>ROSEDALE VALLEY RD / PARK RD</cross_streets>
-    <dispatch_time>2021-02-25 10:36:10</dispatch_time>
-    <event_num>F21017324</event_num>
-    <event_type>Wires Down - Hydro</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-25 10:50:17</dispatch_time>
+    <event_num>F21017331</event_num>
+    <event_type>Vehicle Fire - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P314</units_disp>
+    <beat>145</beat>
+    <units_disp> A415</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-25 10:50:48</dispatch_time>
+    <event_num>F21017332</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P415</units_disp>
   </event>
 </tfs_active_incidents>
