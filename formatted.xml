@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 01:55:02</update_from_db_time>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 01:27:11</dispatch_time>
-    <event_num>F21017245</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 01:39:56</dispatch_time>
-    <event_num>F21017246</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 01:41:09</dispatch_time>
-    <event_num>F21017247</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P312</units_disp>
-  </event>
+  <update_from_db_time>2021-02-25 02:15:02</update_from_db_time>
   <event>
     <prime_street>VICTORIA PARK AVE, NY</prime_street>
     <cross_streets>SOUTHMEAD RD / O'CONNOR DR</cross_streets>
@@ -40,5 +10,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>235</beat>
     <units_disp> R235, P222, A222, P221, C32</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-25 01:58:59</dispatch_time>
+    <event_num>F21017249</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR AVE, SC</prime_street>
+    <cross_streets>BIRCHMOUNT RD / NORTH WOODROW BLVD</cross_streets>
+    <dispatch_time>2021-02-25 02:02:41</dispatch_time>
+    <event_num>F21017250</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P222, R225, A222, C22, P221</units_disp>
+  </event>
+  <event>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>LINDYLOU PARK TRL / JAYZEL DR</cross_streets>
+    <dispatch_time>2021-02-25 02:05:42</dispatch_time>
+    <event_num>F21017251</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411, S143</units_disp>
   </event>
 </tfs_active_incidents>
