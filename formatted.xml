@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 04:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-25 04:45:02</update_from_db_time>
   <event>
-    <prime_street>BRICKWORKS LANE, TT</prime_street>
-    <cross_streets>BIRDSTONE CRES / </cross_streets>
-    <dispatch_time>2021-02-25 04:13:34</dispatch_time>
-    <event_num>F21017265</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-25 04:32:30</dispatch_time>
+    <event_num>F21017266</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423</units_disp>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
   </event>
 </tfs_active_incidents>
