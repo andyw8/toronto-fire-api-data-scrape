@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 12:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-25 13:25:01</update_from_db_time>
   <event>
     <prime_street>POTSDAM RD, NY</prime_street>
     <cross_streets>WILMONT DR / FORGE DR</cross_streets>
@@ -22,36 +22,6 @@
     <units_disp> P113</units_disp>
   </event>
   <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>YONGE ST / PARK RD</cross_streets>
-    <dispatch_time>2021-02-25 12:29:41</dispatch_time>
-    <event_num>F21017358</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M9P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 12:34:17</dispatch_time>
-    <event_num>F21017360</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 12:35:16</dispatch_time>
-    <event_num>F21017361</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2021-02-25 12:36:08</dispatch_time>
@@ -60,5 +30,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>145</beat>
     <units_disp> HZ145, P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-25 13:04:08</dispatch_time>
+    <event_num>F21017367</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>326</beat>
+    <units_disp> HZ326, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>ROSEWELL AVE, TT</prime_street>
+    <cross_streets>CHERITAN AVE / LAWRENCE AVE W</cross_streets>
+    <dispatch_time>2021-02-25 13:10:12</dispatch_time>
+    <event_num>F21017368</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>131</beat>
+    <units_disp> P131, P121, A135, C13, R122</units_disp>
+  </event>
+  <event>
+    <prime_street>M6C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-25 13:21:18</dispatch_time>
+    <event_num>F21017370</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
   </event>
 </tfs_active_incidents>
