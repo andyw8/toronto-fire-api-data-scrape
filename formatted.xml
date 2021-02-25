@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 10:55:02</update_from_db_time>
+  <update_from_db_time>2021-02-25 11:50:02</update_from_db_time>
   <event>
     <prime_street>POTSDAM RD, NY</prime_street>
     <cross_streets>WILMONT DR / FORGE DR</cross_streets>
@@ -12,73 +12,33 @@
     <units_disp> P141, P142, R112, A142, R411, C14, T114, S143, R133, A415, LA421, R413, C10, HR114, HZ145, P143, P146, C41, P442, CMD10, FI15</units_disp>
   </event>
   <event>
-    <prime_street>M4V</prime_street>
+    <prime_street>M9P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-25 10:37:32</dispatch_time>
-    <event_num>F21017325</event_num>
+    <dispatch_time>2021-02-25 11:20:15</dispatch_time>
+    <event_num>F21017338</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
+    <beat>443</beat>
+    <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>M3A</prime_street>
+    <prime_street>ST PATRICK ST, TT</prime_street>
+    <cross_streets>PULLAN PL / MICHAEL SWEET AVE</cross_streets>
+    <dispatch_time>2021-02-25 11:27:39</dispatch_time>
+    <event_num>F21017344</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P323, P342, HR332, A331, C32, R423, R321, P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-25 10:40:17</dispatch_time>
-    <event_num>F21017327</event_num>
+    <dispatch_time>2021-02-25 11:44:33</dispatch_time>
+    <event_num>F21017346</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>CRAWFORD ST / SHAW ST</cross_streets>
-    <dispatch_time>2021-02-25 10:47:20</dispatch_time>
-    <event_num>F21017328</event_num>
-    <event_type>Rescue - Personal Entrapment</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A345, C34, P313, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 10:49:20</dispatch_time>
-    <event_num>F21017329</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>VIRGILWOOD DR / GOLDFINCH CRT</cross_streets>
-    <dispatch_time>2021-02-25 10:49:48</dispatch_time>
-    <event_num>F21017330</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> P143, P114, HR114, P141, P145, T114, C13, C14, P111</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-25 10:50:17</dispatch_time>
-    <event_num>F21017331</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> A415</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 10:50:48</dispatch_time>
-    <event_num>F21017332</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P415</units_disp>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
