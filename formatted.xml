@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 08:00:02</update_from_db_time>
-  <event>
-    <prime_street>MABELLE AVE, ET</prime_street>
-    <cross_streets>CORDOVA AVE / DUNDAS ST W</cross_streets>
-    <dispatch_time>2021-02-25 07:16:34</dispatch_time>
-    <event_num>F21017287</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P443, P432, C44, P433, PL432, S445</units_disp>
-  </event>
-  <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-25 07:41:22</dispatch_time>
-    <event_num>F21017293</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
+  <update_from_db_time>2021-02-25 08:20:02</update_from_db_time>
   <event>
     <prime_street>M4T</prime_street>
     <cross_streets/>
@@ -30,5 +10,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>311</beat>
     <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-25 08:06:32</dispatch_time>
+    <event_num>F21017297</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
 </tfs_active_incidents>
