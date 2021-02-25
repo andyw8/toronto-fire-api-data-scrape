@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 15:35:02</update_from_db_time>
+  <update_from_db_time>2021-02-25 15:45:02</update_from_db_time>
   <event>
     <prime_street>POTSDAM RD, NY</prime_street>
     <cross_streets>WILMONT DR / FORGE DR</cross_streets>
@@ -80,5 +80,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
     <units_disp> P333, R325, A325, C31, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-25 15:37:21</dispatch_time>
+    <event_num>F21017409</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>GREENBRIAR RD / ACCESS RD</cross_streets>
+    <dispatch_time>2021-02-25 15:38:06</dispatch_time>
+    <event_num>F21017410</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
 </tfs_active_incidents>
