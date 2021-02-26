@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-26 06:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-26 06:30:02</update_from_db_time>
   <event>
     <prime_street>KINGSTON RD, SC</prime_street>
     <cross_streets>FRED JOHNSON PARK TRL / MUIR DR</cross_streets>
@@ -40,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
     <units_disp> R426, P331, A426, C34, P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 06:24:12</dispatch_time>
+    <event_num>F21017581</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ISLINGTON AVE / DUNDAS ST W</cross_streets>
+    <dispatch_time>2021-02-26 06:26:23</dispatch_time>
+    <event_num>F21017582</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
   </event>
 </tfs_active_incidents>
