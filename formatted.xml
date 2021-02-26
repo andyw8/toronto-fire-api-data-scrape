@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-26 08:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-26 08:30:03</update_from_db_time>
   <event>
     <prime_street>YONGE ST, NY</prime_street>
     <cross_streets>HILLCREST AVE / EMPRESS AVE</cross_streets>
@@ -12,36 +12,6 @@
     <units_disp> P114, C11, HR114, P143, R112, S143, T114</units_disp>
   </event>
   <event>
-    <prime_street>M6R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 07:51:44</dispatch_time>
-    <event_num>F21017599</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 08:01:32</dispatch_time>
-    <event_num>F21017601</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 08:11:29</dispatch_time>
-    <event_num>F21017602</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341</units_disp>
-  </event>
-  <event>
     <prime_street>YONGE ST, TT</prime_street>
     <cross_streets>CHURCH ST / FRICHOT AVE</cross_streets>
     <dispatch_time>2021-02-26 08:12:02</dispatch_time>
@@ -50,5 +20,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> P312, P313, A312, C31, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 08:18:35</dispatch_time>
+    <event_num>F21017604</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>DRIFTWOOD AVE, NY</prime_street>
+    <cross_streets>DRIFTWOOD CRT / JANE ST</cross_streets>
+    <dispatch_time>2021-02-26 08:21:26</dispatch_time>
+    <event_num>F21017605</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142, P141, C14, A411, R411</units_disp>
   </event>
 </tfs_active_incidents>
