@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-26 17:40:02</update_from_db_time>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 17:15:29</dispatch_time>
-    <event_num>F21017769</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> A426</units_disp>
-  </event>
-  <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 17:17:13</dispatch_time>
-    <event_num>F21017770</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
+  <update_from_db_time>2021-02-26 17:50:03</update_from_db_time>
   <event>
     <prime_street>CHARLES ST, TT</prime_street>
     <cross_streets>GEORGE HISLOP PARK TRL / MACY DUBOIS LANE</cross_streets>
@@ -30,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> P314, P313, A315, C31, P311</units_disp>
-  </event>
-  <event>
-    <prime_street>M3A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 17:22:51</dispatch_time>
-    <event_num>F21017773</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 17:27:09</dispatch_time>
-    <event_num>F21017774</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
   </event>
   <event>
     <prime_street>BRAHMS AVE, NY</prime_street>
@@ -100,5 +60,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>125</beat>
     <units_disp> R235, P125, A125, P123, C32, P322</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 17:40:41</dispatch_time>
+    <event_num>F21017783</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-26 17:46:29</dispatch_time>
+    <event_num>F21017784</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245, P232</units_disp>
   </event>
 </tfs_active_incidents>
