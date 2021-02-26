@@ -1,54 +1,114 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-26 12:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-26 13:25:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>VICTORIA PARK AVE / STEELES AVE E</cross_streets>
-    <dispatch_time>2021-02-26 12:14:58</dispatch_time>
-    <event_num>F21017673</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
+    <prime_street>M9P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-26 12:27:09</dispatch_time>
-    <event_num>F21017676</event_num>
+    <dispatch_time>2021-02-26 13:06:46</dispatch_time>
+    <event_num>F21017689</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P422</units_disp>
+    <beat>443</beat>
+    <units_disp> R421</units_disp>
   </event>
   <event>
-    <prime_street>FALAISE RD, SC</prime_street>
-    <cross_streets>KINGSTON RD / RODDA BLVD</cross_streets>
-    <dispatch_time>2021-02-26 12:32:05</dispatch_time>
-    <event_num>F21017677</event_num>
+    <prime_street>SILVERSTONE DR, ET</prime_street>
+    <cross_streets>STEVENSON RD / HIGHFIELD PARK TRL</cross_streets>
+    <dispatch_time>2021-02-26 13:06:51</dispatch_time>
+    <event_num>F21017690</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234, R231, A231, C23, P223</units_disp>
+    <beat>413</beat>
+    <units_disp> A411, C41, P415, R411, R413</units_disp>
   </event>
   <event>
-    <prime_street>M4W</prime_street>
+    <prime_street>M9C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-26 12:33:41</dispatch_time>
-    <event_num>F21017678</event_num>
+    <dispatch_time>2021-02-26 13:07:24</dispatch_time>
+    <event_num>F21017691</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> S313</units_disp>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 13:08:14</dispatch_time>
+    <event_num>F21017692</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 13:08:39</dispatch_time>
+    <event_num>F21017693</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, ET</prime_street>
+    <cross_streets>HUMBERVALE BLVD / ROYAL YORK RD</cross_streets>
+    <dispatch_time>2021-02-26 13:10:28</dispatch_time>
+    <event_num>F21017694</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> S445, P433</units_disp>
+  </event>
+  <event>
+    <prime_street>LUMSDEN AVE, EY</prime_street>
+    <cross_streets>OAK PARK AVE / WESTLAKE AVE</cross_streets>
+    <dispatch_time>2021-02-26 13:10:37</dispatch_time>
+    <event_num>F21017695</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
+  </event>
+  <event>
+    <prime_street>CENTENNIAL RD, SC</prime_street>
+    <cross_streets> / KINGSTON RD</cross_streets>
+    <dispatch_time>2021-02-26 13:15:10</dispatch_time>
+    <event_num>F21017696</event_num>
+    <event_type>Vehicle Fire</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 13:15:32</dispatch_time>
+    <event_num>F21017697</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>LESLIE ST / FIELD SPARROWAY</cross_streets>
-    <dispatch_time>2021-02-26 12:41:30</dispatch_time>
-    <event_num>F21017680</event_num>
-    <event_type>Alarm Residential</event_type>
+    <cross_streets>BRIMLEY RD / EAGLEDANCE DR</cross_streets>
+    <dispatch_time>2021-02-26 13:19:07</dispatch_time>
+    <event_num>F21017698</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113, P116, A113, R115, C24</units_disp>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 13:21:06</dispatch_time>
+    <event_num>F21017699</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
