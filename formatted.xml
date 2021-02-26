@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-25 20:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-25 21:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>YONGE ST / BLOOR ST E</cross_streets>
@@ -12,53 +12,53 @@
     <units_disp> S313, P312, A312, C31, P313, P314</units_disp>
   </event>
   <event>
-    <prime_street>FOUNTAINHEAD RD, NY</prime_street>
-    <cross_streets>SENTINEL RD / </cross_streets>
-    <dispatch_time>2021-02-25 20:27:21</dispatch_time>
-    <event_num>F21017485</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
+    <prime_street>M1M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-25 20:30:35</dispatch_time>
-    <event_num>F21017486</event_num>
+    <dispatch_time>2021-02-25 21:09:40</dispatch_time>
+    <event_num>F21017495</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>SATTERLY RD, NY</prime_street>
-    <cross_streets>SAN ANTONIOWAY / ISLINGTON AVE</cross_streets>
-    <dispatch_time>2021-02-25 20:42:00</dispatch_time>
-    <event_num>F21017488</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411, R412, R413, A415, C41</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-25 20:43:01</dispatch_time>
-    <event_num>F21017489</event_num>
+    <dispatch_time>2021-02-25 21:12:46</dispatch_time>
+    <event_num>F21017496</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>SPADINA AVE, TT</prime_street>
+    <cross_streets>HARBORD ST / GLEN MORRIS ST</cross_streets>
+    <dispatch_time>2021-02-25 21:14:04</dispatch_time>
+    <event_num>F21017497</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M3A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-25 20:43:42</dispatch_time>
-    <event_num>F21017490</event_num>
+    <dispatch_time>2021-02-25 21:23:08</dispatch_time>
+    <event_num>F21017498</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street>GOLDWIN AVE, YK</prime_street>
+    <cross_streets>JANE ST / </cross_streets>
+    <dispatch_time>2021-02-25 21:26:13</dispatch_time>
+    <event_num>F21017499</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> S445, R421</units_disp>
   </event>
 </tfs_active_incidents>
