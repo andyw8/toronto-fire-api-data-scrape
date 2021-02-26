@@ -1,34 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-26 00:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-26 01:20:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>WILLOWDALE AVE / CUMMER AVE</cross_streets>
-    <dispatch_time>2021-02-25 23:35:08</dispatch_time>
-    <event_num>F21017528</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
-  </event>
-  <event>
-    <prime_street>HIGH PARK AVE, TT</prime_street>
-    <cross_streets>BLOOR ST W / GLENLAKE AVE</cross_streets>
-    <dispatch_time>2021-02-26 00:11:18</dispatch_time>
-    <event_num>F21017535</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-26 00:37:41</dispatch_time>
-    <event_num>F21017538</event_num>
+    <dispatch_time>2021-02-26 01:01:11</dispatch_time>
+    <event_num>F21017543</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
 </tfs_active_incidents>
