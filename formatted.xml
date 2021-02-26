@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-26 14:15:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>WILSON AVE / YONGE BLVD</cross_streets>
-    <dispatch_time>2021-02-26 13:32:25</dispatch_time>
-    <event_num>F21017702</event_num>
-    <event_type>Fire - Encampment</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> C13, P121, P131, T114, R122</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 13:55:07</dispatch_time>
-    <event_num>F21017708</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> P323</units_disp>
-  </event>
+  <update_from_db_time>2021-02-26 14:25:01</update_from_db_time>
   <event>
     <prime_street>M3J</prime_street>
     <cross_streets/>
@@ -30,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
     <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 14:05:28</dispatch_time>
-    <event_num>F21017710</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222, P222</units_disp>
-  </event>
-  <event>
-    <prime_street>M2H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 14:05:27</dispatch_time>
-    <event_num>F21017711</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113</units_disp>
   </event>
   <event>
     <prime_street>M4L</prime_street>
