@@ -1,54 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-26 14:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-26 15:20:02</update_from_db_time>
   <event>
-    <prime_street>M8V</prime_street>
+    <prime_street>M1H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-26 14:11:31</dispatch_time>
-    <event_num>F21017714</event_num>
+    <dispatch_time>2021-02-26 15:00:44</dispatch_time>
+    <event_num>F21017727</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
+    <beat>231</beat>
+    <units_disp> R231</units_disp>
   </event>
   <event>
-    <prime_street>LAKE SHORE BLVD, ET</prime_street>
-    <cross_streets>PALACE PEIR PARK TRL / PALACE PIER CRT</cross_streets>
-    <dispatch_time>2021-02-26 14:23:31</dispatch_time>
-    <event_num>F21017716</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, A433, C43, P431, R425, P433</units_disp>
-  </event>
-  <event>
-    <prime_street>ISLINGTON AVE, ET</prime_street>
-    <cross_streets>ST ANDREWS BLVD / FAIRHAVEN PARK TRL</cross_streets>
-    <dispatch_time>2021-02-26 14:26:17</dispatch_time>
-    <event_num>F21017718</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P415, R441, A421, C41, P442</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>CHURCH ST / DALHOUSIE ST</cross_streets>
-    <dispatch_time>2021-02-26 14:26:59</dispatch_time>
-    <event_num>F21017719</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, A325, C33, P314, P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
+    <prime_street>M4P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-26 14:30:25</dispatch_time>
-    <event_num>F21017720</event_num>
+    <dispatch_time>2021-02-26 15:00:47</dispatch_time>
+    <event_num>F21017728</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P343</units_disp>
+    <beat>134</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 15:09:45</dispatch_time>
+    <event_num>F21017729</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
+  </event>
+  <event>
+    <prime_street>M5P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 15:15:28</dispatch_time>
+    <event_num>F21017730</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 15:15:37</dispatch_time>
+    <event_num>F21017731</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
   </event>
 </tfs_active_incidents>
