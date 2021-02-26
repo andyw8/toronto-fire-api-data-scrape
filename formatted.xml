@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-26 16:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-26 16:30:02</update_from_db_time>
   <event>
     <prime_street>M5E</prime_street>
     <cross_streets/>
@@ -10,66 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
     <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>MOORESHEAD DR, ET</prime_street>
-    <cross_streets>SUNBERRY CRT / ROSSBURN DR</cross_streets>
-    <dispatch_time>2021-02-26 16:01:27</dispatch_time>
-    <event_num>F21017741</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> C44, P433, R444, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 16:02:33</dispatch_time>
-    <event_num>F21017742</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 16:03:57</dispatch_time>
-    <event_num>F21017743</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>BERGAMOT AVE, ET</prime_street>
-    <cross_streets>REXDALE BLVD / ISLINGTON AVE</cross_streets>
-    <dispatch_time>2021-02-26 16:08:01</dispatch_time>
-    <event_num>F21017746</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415, R441, A415, C41, R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 16:09:13</dispatch_time>
-    <event_num>F21017747</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> A426</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 16:11:04</dispatch_time>
-    <event_num>F21017748</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
   </event>
   <event>
     <prime_street>M8Y</prime_street>
@@ -90,5 +30,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>235</beat>
     <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 16:17:47</dispatch_time>
+    <event_num>F21017751</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>SOMMERSET WAY, NY</prime_street>
+    <cross_streets>DORIS AVE / DORIS AVE</cross_streets>
+    <dispatch_time>2021-02-26 16:18:14</dispatch_time>
+    <event_num>F21017752</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P111, R112, C11, HR114, P121, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 16:19:17</dispatch_time>
+    <event_num>F21017753</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> R434</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 16:21:24</dispatch_time>
+    <event_num>F21017754</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 16:23:27</dispatch_time>
+    <event_num>F21017755</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 16:25:51</dispatch_time>
+    <event_num>F21017756</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> P113</units_disp>
   </event>
 </tfs_active_incidents>
