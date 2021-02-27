@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-27 10:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-27 10:50:02</update_from_db_time>
   <event>
     <prime_street>ALBERT AVE, ET</prime_street>
     <cross_streets>LAKE SHORE BLVD W / STANLEY AVE</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>433</beat>
     <units_disp> A423, C43, P445, R425, R435</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>YORK ST / MARTIN GOODMAN TRL</cross_streets>
-    <dispatch_time>2021-02-27 10:08:03</dispatch_time>
-    <event_num>F21017980</event_num>
-    <event_type>Fire - Waterfront - Highrise</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> HR332, P333, P344, P331, A331, C33</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>LN W ALHAMBRA S BLOOR / INDIAN RD</cross_streets>
-    <dispatch_time>2021-02-27 10:15:48</dispatch_time>
-    <event_num>F21017982</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423</units_disp>
   </event>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
@@ -50,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>433</beat>
     <units_disp> R434</units_disp>
+  </event>
+  <event>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 10:37:00</dispatch_time>
+    <event_num>F21017986</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123, R115</units_disp>
+  </event>
+  <event>
+    <prime_street>YELLOWSTONE ST, NY</prime_street>
+    <cross_streets>TOPCLIFF AVE / DEMARIS AVE</cross_streets>
+    <dispatch_time>2021-02-27 10:43:32</dispatch_time>
+    <event_num>F21017987</event_num>
+    <event_type>Police Assist - Request</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P141, C14</units_disp>
   </event>
 </tfs_active_incidents>
