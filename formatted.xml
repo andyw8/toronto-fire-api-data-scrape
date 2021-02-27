@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-26 21:30:02</update_from_db_time>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 20:32:04</dispatch_time>
-    <event_num>F21017834</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 21:03:20</dispatch_time>
-    <event_num>F21017840</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>ADELAIDE ST, TT</prime_street>
-    <cross_streets>FREDERICK ST / SHERBOURNE ST</cross_streets>
-    <dispatch_time>2021-02-26 21:06:30</dispatch_time>
-    <event_num>F21017843</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> R325, P333, A325, C33, P325, P332</units_disp>
-  </event>
+  <update_from_db_time>2021-02-26 21:50:02</update_from_db_time>
   <event>
     <prime_street>M4C</prime_street>
     <cross_streets/>
@@ -40,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>VAUGHAN RD, YK</prime_street>
+    <cross_streets>LAUDER AVE / NORTHCLIFFE BLVD</cross_streets>
+    <dispatch_time>2021-02-26 21:27:40</dispatch_time>
+    <event_num>F21017846</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-26 21:36:42</dispatch_time>
+    <event_num>F21017847</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
   </event>
 </tfs_active_incidents>
