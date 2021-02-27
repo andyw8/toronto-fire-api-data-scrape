@@ -1,24 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-27 00:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-27 01:20:02</update_from_db_time>
   <event>
-    <prime_street>LANSDOWNE AVE, TT</prime_street>
-    <cross_streets>LUMBERVALE AVE / MACGREGOR PLAYGROUND TRL</cross_streets>
-    <dispatch_time>2021-02-27 00:18:32</dispatch_time>
-    <event_num>F21017887</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, P426, A426, R423, C34, R345</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>M3L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-27 00:34:13</dispatch_time>
-    <event_num>F21017891</event_num>
+    <dispatch_time>2021-02-27 00:57:33</dispatch_time>
+    <event_num>F21017893</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>WYNFORD DR, NY</prime_street>
+    <cross_streets>GARAMOND CRT / DVP S WYNFORD DR RAMP</cross_streets>
+    <dispatch_time>2021-02-27 01:10:01</dispatch_time>
+    <event_num>F21017895</event_num>
+    <event_type>Vehicle Fire</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>ISLINGTON AVE, ET</prime_street>
+    <cross_streets>ST ANDREWS BLVD / FAIRHAVEN PARK TRL</cross_streets>
+    <dispatch_time>2021-02-27 01:11:03</dispatch_time>
+    <event_num>F21017896</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> A415, C41, P415, P442, P443, R441</units_disp>
   </event>
 </tfs_active_incidents>
