@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-27 11:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-27 12:15:02</update_from_db_time>
   <event>
     <prime_street>YELLOWSTONE ST, NY</prime_street>
     <cross_streets>TOPCLIFF AVE / DEMARIS AVE</cross_streets>
@@ -12,53 +12,53 @@
     <units_disp> P141, C14</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 11:16:48</dispatch_time>
-    <event_num>F21017998</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>VICTORIA ST / BOND ST</cross_streets>
+    <dispatch_time>2021-02-27 11:53:55</dispatch_time>
+    <event_num>F21018010</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>333</beat>
+    <units_disp> A325, C33, HR332, P314, P332, P333</units_disp>
   </event>
   <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 11:28:47</dispatch_time>
-    <event_num>F21018001</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>DIXINGTON CRES, ET</prime_street>
+    <cross_streets>HUMBER CREEK TRL / HUMBER CREEK TRL</cross_streets>
+    <dispatch_time>2021-02-27 12:03:01</dispatch_time>
+    <event_num>F21018011</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>443</beat>
+    <units_disp> P443, R441, A415, C41, P442</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 11:29:43</dispatch_time>
-    <event_num>F21018002</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <prime_street>HARVARD AVE, TT</prime_street>
+    <cross_streets>LN W CALLENDER N HARVARD / TRILLER AVE</cross_streets>
+    <dispatch_time>2021-02-27 12:04:21</dispatch_time>
+    <event_num>F21018012</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>426</beat>
+    <units_disp> A426, C42, R423, R426, P331, P344, R425, A331, LA421, S331, C40, C30</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M1R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-27 11:30:19</dispatch_time>
-    <event_num>F21018003</event_num>
+    <dispatch_time>2021-02-27 12:08:32</dispatch_time>
+    <event_num>F21018013</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> A125</units_disp>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
   </event>
   <event>
-    <prime_street>M4M</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-27 11:36:59</dispatch_time>
-    <event_num>F21018004</event_num>
+    <dispatch_time>2021-02-27 12:10:50</dispatch_time>
+    <event_num>F21018014</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> A324</units_disp>
+    <beat>441</beat>
+    <units_disp> A415, P442</units_disp>
   </event>
 </tfs_active_incidents>
