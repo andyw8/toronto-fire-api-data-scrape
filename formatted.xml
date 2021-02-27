@@ -1,24 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-26 23:30:02</update_from_db_time>
+  <update_from_db_time>2021-02-26 23:55:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>DANFORTH RD / SEMINOLE AVE</cross_streets>
-    <dispatch_time>2021-02-26 22:53:44</dispatch_time>
-    <event_num>F21017866</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
+    <prime_street>SILVER SPRINGS BLVD, SC</prime_street>
+    <cross_streets>L'AMOREAUX SPORTS COMPLEX TRL / L'AMOREAUX SPORTS COMPLEX TRL</cross_streets>
+    <dispatch_time>2021-02-26 23:29:08</dispatch_time>
+    <event_num>F21017875</event_num>
+    <event_type>Fire - Other</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> R231, C23, P221, S232</units_disp>
+    <beat>241</beat>
+    <units_disp> P242, P244, R241, P113, A244, C24</units_disp>
   </event>
   <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-26 23:25:24</dispatch_time>
-    <event_num>F21017873</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>PLUMROSE PTWY, SC</prime_street>
+    <cross_streets>WHISPERING WILLOW PTWY / EMPRINGHAM DR</cross_streets>
+    <dispatch_time>2021-02-26 23:46:17</dispatch_time>
+    <event_num>F21017878</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-02-26 23:48:30</dispatch_time>
+    <event_num>F21017879</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> A244, P245</units_disp>
   </event>
 </tfs_active_incidents>
