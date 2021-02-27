@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-27 15:25:02</update_from_db_time>
+  <update_from_db_time>2021-02-27 15:30:02</update_from_db_time>
   <event>
     <prime_street>HARVARD AVE, TT</prime_street>
     <cross_streets>LN W CALLENDER N HARVARD / TRILLER AVE</cross_streets>
@@ -30,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>433</beat>
     <units_disp> P433, C43, P432, PL432, R434</units_disp>
-  </event>
-  <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 15:03:31</dispatch_time>
-    <event_num>F21018061</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
   </event>
   <event>
     <prime_street>M6K</prime_street>
