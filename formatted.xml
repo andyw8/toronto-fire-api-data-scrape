@@ -1,74 +1,94 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-27 09:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-27 10:20:01</update_from_db_time>
   <event>
-    <prime_street>M4C</prime_street>
+    <prime_street>M5S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-27 09:10:46</dispatch_time>
-    <event_num>F21017957</event_num>
+    <dispatch_time>2021-02-27 09:47:44</dispatch_time>
+    <event_num>F21017971</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> A226</units_disp>
+    <beat>344</beat>
+    <units_disp> P315</units_disp>
   </event>
   <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 09:30:08</dispatch_time>
-    <event_num>F21017963</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>THE QUEENSWAY / KIPLING AVE</cross_streets>
+    <dispatch_time>2021-02-27 09:47:57</dispatch_time>
+    <event_num>F21017972</event_num>
+    <event_type>Vehicle Accident with Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <beat>433</beat>
+    <units_disp> R434, A433, P432</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 09:31:36</dispatch_time>
-    <event_num>F21017964</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>ALBERT AVE, ET</prime_street>
+    <cross_streets>LAKE SHORE BLVD W / STANLEY AVE</cross_streets>
+    <dispatch_time>2021-02-27 09:49:35</dispatch_time>
+    <event_num>F21017975</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <beat>433</beat>
+    <units_disp> A423, C43, P445, R425, R435</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-27 09:35:28</dispatch_time>
-    <event_num>F21017965</event_num>
+    <dispatch_time>2021-02-27 10:05:47</dispatch_time>
+    <event_num>F21017978</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-27 09:38:27</dispatch_time>
-    <event_num>F21017966</event_num>
+    <dispatch_time>2021-02-27 10:05:42</dispatch_time>
+    <event_num>F21017979</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
   <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 09:39:56</dispatch_time>
-    <event_num>F21017967</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>YORK ST / MARTIN GOODMAN TRL</cross_streets>
+    <dispatch_time>2021-02-27 10:08:03</dispatch_time>
+    <event_num>F21017980</event_num>
+    <event_type>Fire - Alarm Waterfront Highrise</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>334</beat>
+    <units_disp> HR332, P333, P344, A331, P331, C33</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>M9A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-27 09:41:22</dispatch_time>
-    <event_num>F21017968</event_num>
+    <dispatch_time>2021-02-27 10:09:41</dispatch_time>
+    <event_num>F21017981</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>LN W ALHAMBRA S BLOOR / INDIAN RD</cross_streets>
+    <dispatch_time>2021-02-27 10:15:48</dispatch_time>
+    <event_num>F21017982</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> A423</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>VICTORIA ST / BOND ST</cross_streets>
+    <dispatch_time>2021-02-27 10:15:50</dispatch_time>
+    <event_num>F21017983</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P314, P313, A325, C31, P324</units_disp>
   </event>
 </tfs_active_incidents>
