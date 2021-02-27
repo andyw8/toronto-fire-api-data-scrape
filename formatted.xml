@@ -1,54 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-27 04:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-27 05:25:02</update_from_db_time>
   <event>
-    <prime_street>GERRARD ST, TT</prime_street>
-    <cross_streets>HOWLAND RD / LOGAN AVE</cross_streets>
-    <dispatch_time>2021-02-27 03:30:28</dispatch_time>
-    <event_num>F21017915</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324, R325, A324, C32, P325</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-27 04:09:33</dispatch_time>
-    <event_num>F21017919</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233, P123</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-27 04:35:09</dispatch_time>
-    <event_num>F21017924</event_num>
+    <dispatch_time>2021-02-27 05:19:20</dispatch_time>
+    <event_num>F21017929</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>JARVIS ST / GEORGE ST</cross_streets>
-    <dispatch_time>2021-02-27 04:38:22</dispatch_time>
-    <event_num>F21017925</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P332, A325, C33, P325, R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 04:45:42</dispatch_time>
-    <event_num>F21017926</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P245</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
 </tfs_active_incidents>
