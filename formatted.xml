@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-27 18:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-27 18:40:02</update_from_db_time>
   <event>
     <prime_street>HARVARD AVE, TT</prime_street>
     <cross_streets>LN W CALLENDER N HARVARD / TRILLER AVE</cross_streets>
@@ -12,36 +12,6 @@
     <units_disp> A426, C42, R423, R426, P331, P344, R425, A331, LA421, S331, C40, C30, R425, A433, P422, P443</units_disp>
   </event>
   <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 17:29:36</dispatch_time>
-    <event_num>F21018096</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>HALLCROWN PL, NY</prime_street>
-    <cross_streets>CONSUMERS RD / </cross_streets>
-    <dispatch_time>2021-02-27 18:00:50</dispatch_time>
-    <event_num>F21018108</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, P244, C11, P116, A244</units_disp>
-  </event>
-  <event>
-    <prime_street>BELGRAVIA AVE, YK</prime_street>
-    <cross_streets>TIMES RD / LOCKSLEY AVE</cross_streets>
-    <dispatch_time>2021-02-27 18:08:59</dispatch_time>
-    <event_num>F21018111</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A341, C34, P342, P343, R341, P135, HZ145</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>STEELES AVE E / LAURELEAF RD</cross_streets>
     <dispatch_time>2021-02-27 18:13:41</dispatch_time>
@@ -50,5 +20,115 @@
     <alarm_lev>0</alarm_lev>
     <beat>111</beat>
     <units_disp> R241, C11, P111, S143</units_disp>
+  </event>
+  <event>
+    <prime_street>M3B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 18:19:36</dispatch_time>
+    <event_num>F21018118</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 18:22:24</dispatch_time>
+    <event_num>F21018119</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 18:26:27</dispatch_time>
+    <event_num>F21018120</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> A415</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNDAS ST, TT</prime_street>
+    <cross_streets>LN W AUGUSTA N DUNDAS / DENISON AVE</cross_streets>
+    <dispatch_time>2021-02-27 18:26:41</dispatch_time>
+    <event_num>F21018121</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>TRUE DAVIDSON DR, EY</prime_street>
+    <cross_streets>HAMPTON PARK CRES / HAMPTON PARK CRES</cross_streets>
+    <dispatch_time>2021-02-27 18:27:19</dispatch_time>
+    <event_num>F21018122</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>321</beat>
+    <units_disp> A322, C32, P311, P313, P322, R321</units_disp>
+  </event>
+  <event>
+    <prime_street>PROVOST DR, NY</prime_street>
+    <cross_streets>ESTHER SHINER BLVD / </cross_streets>
+    <dispatch_time>2021-02-27 18:31:41</dispatch_time>
+    <event_num>F21018123</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116, R115, P114, A113, C11, P123</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 18:33:31</dispatch_time>
+    <event_num>F21018124</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>EGLINTON AVE E / MCCOWAN RD</cross_streets>
+    <dispatch_time>2021-02-27 18:33:44</dispatch_time>
+    <event_num>F21018125</event_num>
+    <event_type>Fire - Transformer/Pole</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>COLBORNE ST, TT</prime_street>
+    <cross_streets>LEADER LANE / COLBORNE LANE</cross_streets>
+    <dispatch_time>2021-02-27 18:34:17</dispatch_time>
+    <event_num>F21018126</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, A325, C33, HR332, P332, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 18:34:43</dispatch_time>
+    <event_num>F21018127</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BRAMPTON RD / CALLOWHILL DR</cross_streets>
+    <dispatch_time>2021-02-27 18:35:43</dispatch_time>
+    <event_num>F21018129</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441, R441</units_disp>
   </event>
 </tfs_active_incidents>
