@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-27 16:40:02</update_from_db_time>
+  <update_from_db_time>2021-02-27 17:25:02</update_from_db_time>
   <event>
     <prime_street>HARVARD AVE, TT</prime_street>
     <cross_streets>LN W CALLENDER N HARVARD / TRILLER AVE</cross_streets>
@@ -12,33 +12,33 @@
     <units_disp> A426, C42, R423, R426, P331, P344, R425, A331, LA421, S331, C40, C30, R425, A433, P422</units_disp>
   </event>
   <event>
-    <prime_street>RUDDELL PL, SC</prime_street>
-    <cross_streets>RAMBLEWOOD DR / </cross_streets>
-    <dispatch_time>2021-02-27 15:50:58</dispatch_time>
-    <event_num>F21018071</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> P234, R214, A215, C21, P212, R213</units_disp>
-  </event>
-  <event>
-    <prime_street>PAPE AVE, TT</prime_street>
-    <cross_streets>RENWICK CRES / RENWICK CRES</cross_streets>
-    <dispatch_time>2021-02-27 16:14:07</dispatch_time>
-    <event_num>F21018080</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street>OAK ST, TT</prime_street>
-    <cross_streets>RIVER ST / TUBMAN AVE</cross_streets>
-    <dispatch_time>2021-02-27 16:23:28</dispatch_time>
-    <event_num>F21018083</event_num>
-    <event_type>Water Problem</event_type>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 17:03:56</dispatch_time>
+    <event_num>F21018093</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
-    <units_disp> A325, R325</units_disp>
+    <units_disp> R325, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M1N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 17:13:59</dispatch_time>
+    <event_num>F21018094</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 17:21:14</dispatch_time>
+    <event_num>F21018095</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
   </event>
 </tfs_active_incidents>
