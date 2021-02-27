@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-27 08:00:02</update_from_db_time>
-  <event>
-    <prime_street>BARTLETT AVE, TT</prime_street>
-    <cross_streets>HALLAM ST / CRAFTSMAN LANE</cross_streets>
-    <dispatch_time>2021-02-27 07:28:42</dispatch_time>
-    <event_num>F21017938</event_num>
-    <event_type>Fire - Transformer/Pole</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>COMMANDER BLVD, SC</prime_street>
-    <cross_streets>NORTH WIND PL / HUNTINGWOOD DR</cross_streets>
-    <dispatch_time>2021-02-27 07:31:30</dispatch_time>
-    <event_num>F21017941</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243, P244, A244, C24, P245</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 07:54:39</dispatch_time>
-    <event_num>F21017944</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A441</units_disp>
-  </event>
+  <update_from_db_time>2021-02-27 08:15:01</update_from_db_time>
   <event>
     <prime_street>LINDYLOU RD, NY</prime_street>
     <cross_streets>DAYSTROM DR / JAYZEL DR</cross_streets>
