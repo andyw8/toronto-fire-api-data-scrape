@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-27 10:20:01</update_from_db_time>
-  <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 09:47:44</dispatch_time>
-    <event_num>F21017971</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>THE QUEENSWAY / KIPLING AVE</cross_streets>
-    <dispatch_time>2021-02-27 09:47:57</dispatch_time>
-    <event_num>F21017972</event_num>
-    <event_type>Vehicle Accident with Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> R434, A433, P432</units_disp>
-  </event>
+  <update_from_db_time>2021-02-27 10:30:02</update_from_db_time>
   <event>
     <prime_street>ALBERT AVE, ET</prime_street>
     <cross_streets>LAKE SHORE BLVD W / STANLEY AVE</cross_streets>
@@ -32,44 +12,14 @@
     <units_disp> A423, C43, P445, R425, R435</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 10:05:47</dispatch_time>
-    <event_num>F21017978</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 10:05:42</dispatch_time>
-    <event_num>F21017979</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>YORK ST / MARTIN GOODMAN TRL</cross_streets>
     <dispatch_time>2021-02-27 10:08:03</dispatch_time>
     <event_num>F21017980</event_num>
-    <event_type>Fire - Alarm Waterfront Highrise</event_type>
+    <event_type>Fire - Waterfront - Highrise</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>334</beat>
-    <units_disp> HR332, P333, P344, A331, P331, C33</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 10:09:41</dispatch_time>
-    <event_num>F21017981</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <units_disp> HR332, P333, P344, P331, A331, C33</units_disp>
   </event>
   <event>
     <prime_street>BLOOR ST, TT</prime_street>
@@ -90,5 +40,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
     <units_disp> P314, P313, A325, C31, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 10:17:35</dispatch_time>
+    <event_num>F21017984</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> R434</units_disp>
   </event>
 </tfs_active_incidents>
