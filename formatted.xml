@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-27 13:55:02</update_from_db_time>
+  <update_from_db_time>2021-02-27 14:15:02</update_from_db_time>
   <event>
     <prime_street>HARVARD AVE, TT</prime_street>
     <cross_streets>LN W CALLENDER N HARVARD / TRILLER AVE</cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> A426, C42, R423, R426, P331, P344, R425, A331, LA421, S331, C40, C30</units_disp>
   </event>
   <event>
-    <prime_street>AVENUE RD, TT</prime_street>
-    <cross_streets>LYTTON BLVD / LYTTON BLVD</cross_streets>
-    <dispatch_time>2021-02-27 13:06:42</dispatch_time>
-    <event_num>F21018026</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P135</units_disp>
-  </event>
-  <event>
     <prime_street>AVONWICK GT, NY</prime_street>
     <cross_streets>BEVERIDGE DR / RANCHDALE CRES</cross_streets>
     <dispatch_time>2021-02-27 13:07:32</dispatch_time>
@@ -30,26 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>233</beat>
     <units_disp> P233</units_disp>
-  </event>
-  <event>
-    <prime_street>WARDEN AVE, SC</prime_street>
-    <cross_streets>HEPC / GUS HARRIS TRL</cross_streets>
-    <dispatch_time>2021-02-27 13:21:50</dispatch_time>
-    <event_num>F21018034</event_num>
-    <event_type>Fire - Subway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P221, P223, R225, R235, A222, HR332, LA231, S331, C22</units_disp>
-  </event>
-  <event>
-    <prime_street>JAMESON AVE, TT</prime_street>
-    <cross_streets>SPRINGHURST AVE / KING ST W</cross_streets>
-    <dispatch_time>2021-02-27 13:35:53</dispatch_time>
-    <event_num>F21018037</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344, S331</units_disp>
   </event>
   <event>
     <prime_street>M1T</prime_street>
@@ -72,33 +42,63 @@
     <units_disp> P232, R321</units_disp>
   </event>
   <event>
-    <prime_street>M3A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 13:42:21</dispatch_time>
-    <event_num>F21018040</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 13:46:12</dispatch_time>
-    <event_num>F21018041</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
     <prime_street>ROYWOOD DR, NY</prime_street>
     <cross_streets>MARBURY CRES / UNDERPASS GT</cross_streets>
     <dispatch_time>2021-02-27 13:51:57</dispatch_time>
     <event_num>F21018042</event_num>
-    <event_type>Alarm Residential</event_type>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>123</beat>
-    <units_disp> R115, P116, A244, C11, P245</units_disp>
+    <units_disp> R115, P116, A244, C11, P245, P123, R122</units_disp>
+  </event>
+  <event>
+    <prime_street>M9L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 13:57:37</dispatch_time>
+    <event_num>F21018043</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
+  </event>
+  <event>
+    <prime_street>M1G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-27 14:00:10</dispatch_time>
+    <event_num>F21018044</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>ROBERT HICKS PARK TRL / ROBERT HICKS PARK TRL</cross_streets>
+    <dispatch_time>2021-02-27 14:01:50</dispatch_time>
+    <event_num>F21018045</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112, S143</units_disp>
+  </event>
+  <event>
+    <prime_street>GREENBRAE CRCT, SC</prime_street>
+    <cross_streets>SEDGEMOUNT DR / WW W ABBEVILLE S SIX NATIONS</cross_streets>
+    <dispatch_time>2021-02-27 14:05:23</dispatch_time>
+    <event_num>F21018046</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> P221, S232</units_disp>
+  </event>
+  <event>
+    <prime_street>LEITH HILL RD, NY</prime_street>
+    <cross_streets>SHAUGHNESSY BLVD / DON MILLS RD</cross_streets>
+    <dispatch_time>2021-02-27 14:06:24</dispatch_time>
+    <event_num>F21018047</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> A113, P111, P114, P121, C24, R241, C24, HZ145, T114, P116</units_disp>
   </event>
 </tfs_active_incidents>
