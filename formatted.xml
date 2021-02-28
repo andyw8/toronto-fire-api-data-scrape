@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-28 00:25:02</update_from_db_time>
+  <update_from_db_time>2021-02-28 00:40:02</update_from_db_time>
   <event>
     <prime_street>HARVARD AVE, TT</prime_street>
     <cross_streets>LN W CALLENDER N HARVARD / TRILLER AVE</cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> P145, C22, P221, HZ145, HZ326, P324</units_disp>
   </event>
   <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-27 23:37:59</dispatch_time>
-    <event_num>F21018214</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>AVENAL DR, YK</prime_street>
-    <cross_streets>BATHURST ST / PEVERIL HILL S</cross_streets>
-    <dispatch_time>2021-02-27 23:57:11</dispatch_time>
-    <event_num>F21018216</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P135, A135, C13, P343, R341</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2021-02-28 00:03:31</dispatch_time>
@@ -62,43 +42,13 @@
     <units_disp> R426, P344</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-28 00:08:43</dispatch_time>
-    <event_num>F21018220</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>JANE ST, NY</prime_street>
+    <cross_streets>EDGELEY PARK TRL / DRIFTWOOD AVE</cross_streets>
+    <dispatch_time>2021-02-28 00:22:51</dispatch_time>
+    <event_num>F21018224</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-28 00:13:35</dispatch_time>
-    <event_num>F21018221</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-28 00:16:09</dispatch_time>
-    <event_num>F21018222</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> A331</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-28 00:20:37</dispatch_time>
-    <event_num>F21018223</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423</units_disp>
+    <beat>142</beat>
+    <units_disp> R411, P141, A441, C14, P146, R112, A133</units_disp>
   </event>
 </tfs_active_incidents>
