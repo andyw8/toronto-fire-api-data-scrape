@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-28 10:20:02</update_from_db_time>
+  <update_from_db_time>2021-02-28 10:35:02</update_from_db_time>
   <event>
     <prime_street>GRENADIER RD, TT</prime_street>
     <cross_streets>LN W RONCESVALLES N GRENADIER / LN E SUNNYSIDE N GRENADIER</cross_streets>
@@ -12,26 +12,6 @@
     <units_disp> R426, A426, C42, R423, R425, R345, A423, LA421, P315, S331, C40, R426, P331, R435, R444, R425, R426, FI16, R425</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-28 09:38:11</dispatch_time>
-    <event_num>F21018306</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
-  </event>
-  <event>
-    <prime_street>TORRENS AVE, EY</prime_street>
-    <cross_streets>BROADVIEW AVE / LN W PAPE N TORRENS</cross_streets>
-    <dispatch_time>2021-02-28 10:00:12</dispatch_time>
-    <event_num>F21018309</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322, C32, P323, P324, R321, R224</units_disp>
-  </event>
-  <event>
     <prime_street>DENARDA ST, YK</prime_street>
     <cross_streets>WESTON RD / </cross_streets>
     <dispatch_time>2021-02-28 10:15:22</dispatch_time>
@@ -39,6 +19,16 @@
     <event_type>Alarm Highrise Commercial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>421</beat>
-    <units_disp> P442, P422, A421, C42, P146</units_disp>
+    <units_disp> P442, P422, A421, C42, P146, A133</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-28 10:26:56</dispatch_time>
+    <event_num>F21018315</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
   </event>
 </tfs_active_incidents>
