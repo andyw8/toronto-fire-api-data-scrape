@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-28 08:45:02</update_from_db_time>
+  <update_from_db_time>2021-02-28 09:15:02</update_from_db_time>
   <event>
     <prime_street>GRENADIER RD, TT</prime_street>
     <cross_streets>LN W RONCESVALLES N GRENADIER / LN E SUNNYSIDE N GRENADIER</cross_streets>
@@ -12,63 +12,33 @@
     <units_disp> R426, A426, C42, R423, R425, R345, A423, LA421, P315, S331, C40, R426, P331, R435, R444, R425, R426, FI16</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-02-28 08:22:27</dispatch_time>
-    <event_num>F21018290</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213, P212</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M1N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-28 08:26:24</dispatch_time>
-    <event_num>F21018291</event_num>
+    <dispatch_time>2021-02-28 08:58:44</dispatch_time>
+    <event_num>F21018298</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>MCNAIRN AVE / DONWOODS DR</cross_streets>
-    <dispatch_time>2021-02-28 08:27:25</dispatch_time>
-    <event_num>F21018292</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131, P121, A135, C13, R122</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-28 08:28:55</dispatch_time>
-    <event_num>F21018293</event_num>
+    <dispatch_time>2021-02-28 09:00:37</dispatch_time>
+    <event_num>F21018300</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421</units_disp>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
   </event>
   <event>
-    <prime_street>M6B</prime_street>
+    <prime_street>M1R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-02-28 08:31:53</dispatch_time>
-    <event_num>F21018294</event_num>
+    <dispatch_time>2021-02-28 09:02:20</dispatch_time>
+    <event_num>F21018302</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-28 08:33:03</dispatch_time>
-    <event_num>F21018295</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
 </tfs_active_incidents>
