@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-28 14:10:02</update_from_db_time>
-  <event>
-    <prime_street>GRENADIER RD, TT</prime_street>
-    <cross_streets>LN W RONCESVALLES N GRENADIER / LN E SUNNYSIDE N GRENADIER</cross_streets>
-    <dispatch_time>2021-02-27 21:28:30</dispatch_time>
-    <event_num>F21018180</event_num>
-    <event_type>Fire - Outside Storage</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, A426, C42, R423, R425, R345, A423, LA421, P315, S331, C40, R426, P331, R435, R444, R425, R426, FI16, R425</units_disp>
-  </event>
-  <event>
-    <prime_street>M2L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-28 13:09:09</dispatch_time>
-    <event_num>F21018359</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122</units_disp>
-  </event>
+  <update_from_db_time>2021-02-28 14:25:02</update_from_db_time>
   <event>
     <prime_street>SHAW ST, TT</prime_street>
     <cross_streets>DOURO ST / KING ST W</cross_streets>
