@@ -1,34 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-02-28 20:50:02</update_from_db_time>
+  <update_from_db_time>2021-02-28 21:30:02</update_from_db_time>
   <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-28 20:40:30</dispatch_time>
-    <event_num>F21018459</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>SUBWAY CRES, ET</prime_street>
+    <cross_streets>HEPC / DUNDAS ST W</cross_streets>
+    <dispatch_time>2021-02-28 20:53:28</dispatch_time>
+    <event_num>F21018464</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <beat>445</beat>
+    <units_disp> P431, P432, P445, PL432, C44</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-02-28 20:42:05</dispatch_time>
-    <event_num>F21018460</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>PITT AVE, SC</prime_street>
+    <cross_streets>CONROY AVE / ST BEDES RD</cross_streets>
+    <dispatch_time>2021-02-28 21:00:48</dispatch_time>
+    <event_num>F21018466</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> A222, C22, R235, S232</units_disp>
+  </event>
+  <event>
+    <prime_street>BERGAMOT AVE, ET</prime_street>
+    <cross_streets>REXDALE BLVD / ISLINGTON AVE</cross_streets>
+    <dispatch_time>2021-02-28 21:13:19</dispatch_time>
+    <event_num>F21018467</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>415</beat>
-    <units_disp> A415</units_disp>
+    <units_disp> R441, R413, A415, C41, P443</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>REES ST / LOWER SPADINA AVE</cross_streets>
-    <dispatch_time>2021-02-28 20:46:55</dispatch_time>
-    <event_num>F21018461</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-28 21:14:34</dispatch_time>
+    <event_num>F21018468</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334, P332, A331, C33, HR332, P344</units_disp>
+    <beat>235</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>BIRCHMOUNT RD, SC</prime_street>
+    <cross_streets>ZENITH DR / ST CLAIR AVE E</cross_streets>
+    <dispatch_time>2021-02-28 21:19:23</dispatch_time>
+    <event_num>F21018469</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> R225, P221, A226, P223, C32, R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-02-28 21:25:30</dispatch_time>
+    <event_num>F21018470</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
 </tfs_active_incidents>
