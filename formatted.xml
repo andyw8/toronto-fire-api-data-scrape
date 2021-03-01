@@ -1,44 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-01 01:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-01 02:20:02</update_from_db_time>
   <event>
-    <prime_street>M1C</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-01 01:20:47</dispatch_time>
-    <event_num>F21018522</event_num>
+    <dispatch_time>2021-03-01 02:08:55</dispatch_time>
+    <event_num>F21018532</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>ANTRIM CRES, SC</prime_street>
-    <cross_streets>KENNEDY RD / DUNDALK DR</cross_streets>
-    <dispatch_time>2021-03-01 01:28:41</dispatch_time>
-    <event_num>F21018525</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245, P244, A244, C24, P232</units_disp>
-  </event>
-  <event>
-    <prime_street>BAYVIEW AVE, NY</prime_street>
-    <cross_streets>STRATFORD PARK TRL / STRATFORD PARK TRL</cross_streets>
-    <dispatch_time>2021-03-01 01:34:00</dispatch_time>
-    <event_num>F21018526</event_num>
-    <event_type>Fire - Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131, R321, A125, C13, R122, R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-01 01:38:59</dispatch_time>
-    <event_num>F21018528</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>326</beat>
+    <units_disp> HZ326</units_disp>
   </event>
 </tfs_active_incidents>
