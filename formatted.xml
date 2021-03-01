@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-01 15:20:03</update_from_db_time>
+  <update_from_db_time>2021-03-01 15:40:02</update_from_db_time>
   <event>
     <prime_street>COLLEGE ST, TT</prime_street>
     <cross_streets>GLADSTONE AVE / MACKLEM AVE</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> R224, P322, P226, A322, C32, R235, A222, R321, P221, C31, HR332, HZ326, LA333, P323, P324, S313, C30, CMD30, CMD30C</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-01 14:32:21</dispatch_time>
-    <event_num>F21018678</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-01 14:33:09</dispatch_time>
-    <event_num>F21018679</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> A331</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2021-03-01 14:51:54</dispatch_time>
@@ -50,26 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>116</beat>
     <units_disp> P116, R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-01 14:58:09</dispatch_time>
-    <event_num>F21018687</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>SPADINA AVE / FRONT ST W</cross_streets>
-    <dispatch_time>2021-03-01 14:58:34</dispatch_time>
-    <event_num>F21018688</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> HR332, HR332</units_disp>
   </event>
   <event>
     <prime_street>M4X</prime_street>
@@ -82,36 +42,6 @@
     <units_disp> R325</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>TREFANN ST / TRACY ST</cross_streets>
-    <dispatch_time>2021-03-01 15:06:27</dispatch_time>
-    <event_num>F21018690</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P333, P324, A324, C33, P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-01 15:08:14</dispatch_time>
-    <event_num>F21018691</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>WARDEN AVE / AINSDALE RD</cross_streets>
-    <dispatch_time>2021-03-01 15:12:51</dispatch_time>
-    <event_num>F21018692</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> A222, P222, P233, P245, C11</units_disp>
-  </event>
-  <event>
     <prime_street>M1S</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-01 15:14:29</dispatch_time>
@@ -122,13 +52,43 @@
     <units_disp> P244</units_disp>
   </event>
   <event>
-    <prime_street>M5G</prime_street>
+    <prime_street>SOUTHLAWN DR, SC</prime_street>
+    <cross_streets>BUENA VISTA AVE / BELGREEN AVE</cross_streets>
+    <dispatch_time>2021-03-01 15:19:46</dispatch_time>
+    <event_num>F21018696</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> A244, P242, R241, R243, C11, P113, C24</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-01 15:15:31</dispatch_time>
-    <event_num>F21018694</event_num>
+    <dispatch_time>2021-03-01 15:24:25</dispatch_time>
+    <event_num>F21018697</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-01 15:24:53</dispatch_time>
+    <event_num>F21018698</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-01 15:35:37</dispatch_time>
+    <event_num>F21018699</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> S232</units_disp>
   </event>
 </tfs_active_incidents>
