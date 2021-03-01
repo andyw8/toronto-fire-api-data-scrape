@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-01 16:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-01 17:25:02</update_from_db_time>
   <event>
     <prime_street>COLLEGE ST, TT</prime_street>
     <cross_streets>GLADSTONE AVE / MACKLEM AVE</cross_streets>
@@ -12,36 +12,6 @@
     <units_disp> R426, A426, C42, P426, P331, R345, C31, A345, LA333, P315, S331, C40, C43, P422, P431, R421</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>DIRECTOR CRT / STEELES AVE W</cross_streets>
-    <dispatch_time>2021-03-01 16:14:11</dispatch_time>
-    <event_num>F21018710</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-01 16:15:18</dispatch_time>
-    <event_num>F21018711</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435, P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-01 16:27:59</dispatch_time>
-    <event_num>F21018713</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
     <prime_street>M5J</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-01 16:36:26</dispatch_time>
@@ -49,7 +19,7 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>334</beat>
-    <units_disp> P333, P332, A331, C33, P344</units_disp>
+    <units_disp> P333, P332, A331, C33, P344, HZ326, C33</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -62,13 +32,33 @@
     <units_disp> P313</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, NY</prime_street>
-    <cross_streets>KEELE ST / PIMLICO RD</cross_streets>
-    <dispatch_time>2021-03-01 16:42:00</dispatch_time>
-    <event_num>F21018718</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>YONGE ST / JORDAN ST</cross_streets>
+    <dispatch_time>2021-03-01 17:05:31</dispatch_time>
+    <event_num>F21018726</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133, P442, A133, C13, P146</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>WARDEN AVE, SC</prime_street>
+    <cross_streets>HEPC / GUS HARRIS TRL</cross_streets>
+    <dispatch_time>2021-03-01 17:12:41</dispatch_time>
+    <event_num>F21018727</event_num>
+    <event_type>Fire - Subway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> R235, S232, P221, P222, R225, HR332, A222, C22, LA231</units_disp>
+  </event>
+  <event>
+    <prime_street>M5S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-01 17:13:53</dispatch_time>
+    <event_num>F21018728</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
   </event>
 </tfs_active_incidents>
