@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-01 13:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-01 13:50:02</update_from_db_time>
   <event>
     <prime_street>COLLEGE ST, TT</prime_street>
     <cross_streets>GLADSTONE AVE / MACKLEM AVE</cross_streets>
@@ -12,53 +12,83 @@
     <units_disp> R426, A426, C42, P426, P331, R345, C31, A345, LA333, P315, S331, C40, C43, P422</units_disp>
   </event>
   <event>
-    <prime_street>KEELE ST, NY</prime_street>
-    <cross_streets>FINCH AVE W / FOUR WINDS DR</cross_streets>
-    <dispatch_time>2021-03-01 12:31:18</dispatch_time>
-    <event_num>F21018639</event_num>
-    <event_type>Rescue - Subway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141, HR114, P143, S143, A411, R411, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>M4P</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-01 12:56:38</dispatch_time>
-    <event_num>F21018647</event_num>
+    <dispatch_time>2021-03-01 13:26:57</dispatch_time>
+    <event_num>F21018655</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
   <event>
-    <prime_street>ACARA CRT, SC</prime_street>
-    <cross_streets>BRIDLEWOOD BLVD / BRIDLEWOOD PARK TRL</cross_streets>
-    <dispatch_time>2021-03-01 13:04:27</dispatch_time>
-    <event_num>F21018648</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-01 13:35:41</dispatch_time>
+    <event_num>F21018658</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-01 13:36:20</dispatch_time>
+    <event_num>F21018659</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-01 13:37:38</dispatch_time>
+    <event_num>F21018660</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
-    <units_disp> A244, P244, P245, R241, R115, C11</units_disp>
+    <units_disp> P244</units_disp>
   </event>
   <event>
-    <prime_street>BRIDLEGROVE DR, SC</prime_street>
-    <cross_streets>CASTLETHORPE DR / CASTLETHORPE DR</cross_streets>
-    <dispatch_time>2021-03-01 13:11:02</dispatch_time>
-    <event_num>F21018650</event_num>
-    <event_type>Police Assist - Bomb</event_type>
+    <prime_street>CHISHOLM AVE, EY</prime_street>
+    <cross_streets>HAMSTEAD AVE / </cross_streets>
+    <dispatch_time>2021-03-01 13:43:09</dispatch_time>
+    <event_num>F21018662</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223, C23, HZ145, P324</units_disp>
+    <beat>224</beat>
+    <units_disp> R224, P322, P226, A322, C32, R235</units_disp>
   </event>
   <event>
-    <prime_street>M1P</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-01 13:15:26</dispatch_time>
-    <event_num>F21018651</event_num>
+    <dispatch_time>2021-03-01 13:43:56</dispatch_time>
+    <event_num>F21018663</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Z</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-01 13:45:01</dispatch_time>
+    <event_num>F21018664</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> R435</units_disp>
+  </event>
+  <event>
+    <prime_street>M9P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-01 13:44:51</dispatch_time>
+    <event_num>F21018665</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> R421</units_disp>
   </event>
 </tfs_active_incidents>
