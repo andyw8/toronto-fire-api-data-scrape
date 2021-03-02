@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-02 15:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-02 15:45:01</update_from_db_time>
   <event>
     <prime_street>CARIBOU RD, NY</prime_street>
     <cross_streets>AVENUE RD / EDGECOMBE AVE</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> R423, R425, A423, C42, P422</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-02 15:15:39</dispatch_time>
-    <event_num>F21019032</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
     <prime_street>M3C</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-02 15:22:50</dispatch_time>
@@ -47,18 +37,38 @@
     <dispatch_time>2021-03-02 15:24:23</dispatch_time>
     <event_num>F21019034</event_num>
     <event_type>Fire - Waterfront - Highrise</event_type>
-    <alarm_lev>0</alarm_lev>
+    <alarm_lev>2</alarm_lev>
     <beat>334</beat>
-    <units_disp> P334, P344, S331, A331, C33, P331, HR332</units_disp>
+    <units_disp> P334, P344, S331, A331, C33, P331, HR332, A315, C31, LA333, P314, P332, R325, R426, HZ145, C30, CMD30, CMD30C, C34</units_disp>
   </event>
   <event>
-    <prime_street>M1N</prime_street>
+    <prime_street>M2J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-02 15:26:08</dispatch_time>
-    <event_num>F21019035</event_num>
+    <dispatch_time>2021-03-02 15:29:19</dispatch_time>
+    <event_num>F21019036</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>113</beat>
+    <units_disp> P113</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-02 15:37:46</dispatch_time>
+    <event_num>F21019038</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>AVONWICK GT / BEVERIDGE DR</cross_streets>
+    <dispatch_time>2021-03-02 15:41:52</dispatch_time>
+    <event_num>F21019039</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
   </event>
 </tfs_active_incidents>
