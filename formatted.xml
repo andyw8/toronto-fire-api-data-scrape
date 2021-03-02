@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-02 10:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-02 11:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>ROSEDALE VALLEY RD / BLOOR ST E</cross_streets>
@@ -9,36 +9,46 @@
     <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>313</beat>
-    <units_disp> R325, FI21, FI8</units_disp>
+    <units_disp> R325, FI21, FI8, P324</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M4Y</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-02 10:21:07</dispatch_time>
-    <event_num>F21018949</event_num>
+    <dispatch_time>2021-03-02 11:17:43</dispatch_time>
+    <event_num>F21018964</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> T114, P141</units_disp>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>YORKVILLE AVE, TT</prime_street>
+    <cross_streets>YONGE ST / LN W YONGE S YORKVILLE</cross_streets>
+    <dispatch_time>2021-03-02 11:32:19</dispatch_time>
+    <event_num>F21018966</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P313, P314, P311, A325, C31</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-02 10:29:35</dispatch_time>
-    <event_num>F21018953</event_num>
+    <dispatch_time>2021-03-02 11:33:50</dispatch_time>
+    <event_num>F21018967</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
   <event>
-    <prime_street>BAYVIEW AVE, NY</prime_street>
-    <cross_streets>STRATFORD PARK TRL / STRATFORD PARK TRL</cross_streets>
-    <dispatch_time>2021-03-02 10:30:00</dispatch_time>
-    <event_num>F21018954</event_num>
-    <event_type>Fire - Institution</event_type>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-02 11:34:25</dispatch_time>
+    <event_num>F21018968</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> R321, P131, A125, C13, P125, R134</units_disp>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
   </event>
 </tfs_active_incidents>
