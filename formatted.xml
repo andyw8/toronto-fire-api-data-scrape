@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-02 12:25:02</update_from_db_time>
+  <update_from_db_time>2021-03-02 12:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>ROSEDALE VALLEY RD / BLOOR ST E</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> P312</units_disp>
   </event>
   <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-02 12:08:35</dispatch_time>
-    <event_num>F21018980</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-02 12:15:59</dispatch_time>
-    <event_num>F21018981</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
     <prime_street>M1X</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-02 12:21:47</dispatch_time>
@@ -50,5 +30,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>211</beat>
     <units_disp> R213</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-02 12:24:41</dispatch_time>
+    <event_num>F21018983</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-02 12:24:54</dispatch_time>
+    <event_num>F21018984</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-02 12:26:50</dispatch_time>
+    <event_num>F21018985</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SHEPPARD AVE W / LAURA RD</cross_streets>
+    <dispatch_time>2021-03-02 12:36:52</dispatch_time>
+    <event_num>F21018986</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
   </event>
 </tfs_active_incidents>
