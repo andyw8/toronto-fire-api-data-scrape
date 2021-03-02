@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-02 05:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-02 05:45:02</update_from_db_time>
   <event>
     <prime_street>COLLEGE ST, TT</prime_street>
     <cross_streets>GLADSTONE AVE / MACKLEM AVE</cross_streets>
@@ -32,33 +32,13 @@
     <units_disp> P314, P312, A312, C31, P313, S331, A331, HZ326, LA333, P323, P334, P344, R345, C42, HR114, R426, C30, CMD30, CMD30C</units_disp>
   </event>
   <event>
-    <prime_street>ROGERS RD, YK</prime_street>
-    <cross_streets>BICKNELL AVE / FORBES AVE</cross_streets>
-    <dispatch_time>2021-03-02 04:51:05</dispatch_time>
-    <event_num>F21018881</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421, R421, R423, C13, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-02 05:19:05</dispatch_time>
-    <event_num>F21018884</event_num>
+    <dispatch_time>2021-03-02 05:37:02</dispatch_time>
+    <event_num>F21018886</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M4X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-02 05:21:04</dispatch_time>
-    <event_num>F21018885</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
