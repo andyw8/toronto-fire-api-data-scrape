@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-02 11:40:02</update_from_db_time>
+  <update_from_db_time>2021-03-02 12:15:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>ROSEDALE VALLEY RD / BLOOR ST E</cross_streets>
@@ -22,33 +22,43 @@
     <units_disp> P312</units_disp>
   </event>
   <event>
-    <prime_street>YORKVILLE AVE, TT</prime_street>
-    <cross_streets>YONGE ST / LN W YONGE S YORKVILLE</cross_streets>
-    <dispatch_time>2021-03-02 11:32:19</dispatch_time>
-    <event_num>F21018966</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P313, P314, P311, A325, C31</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-02 11:33:50</dispatch_time>
-    <event_num>F21018967</event_num>
+    <dispatch_time>2021-03-02 11:48:58</dispatch_time>
+    <event_num>F21018975</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
+    <beat>413</beat>
+    <units_disp> P415</units_disp>
   </event>
   <event>
-    <prime_street>M6J</prime_street>
+    <prime_street>M2K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-02 11:34:25</dispatch_time>
-    <event_num>F21018968</event_num>
+    <dispatch_time>2021-03-02 11:57:12</dispatch_time>
+    <event_num>F21018976</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
+  </event>
+  <event>
+    <prime_street>DELISLE AVE, TT</prime_street>
+    <cross_streets>YONGE ST / DEER PARK CRES</cross_streets>
+    <dispatch_time>2021-03-02 12:04:28</dispatch_time>
+    <event_num>F21018979</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311, P135, C31, A135, R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-02 12:08:35</dispatch_time>
+    <event_num>F21018980</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
   </event>
 </tfs_active_incidents>
