@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-02 16:30:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BISHOP TUTU BLVD / LITTLE NORWAY CRES</cross_streets>
-    <dispatch_time>2021-03-02 15:24:23</dispatch_time>
-    <event_num>F21019034</event_num>
-    <event_type>Fire - Waterfront - Highrise</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334, P344, S331, A331, C33, P331, HR332, A315, C31, LA333, P314, P332, R325, R426, HZ145, C30, CMD30, CMD30C, C34</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>WAULRON ST / PAXMAN RD</cross_streets>
-    <dispatch_time>2021-03-02 16:07:10</dispatch_time>
-    <event_num>F21019046</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432, P445, C44, PL432, R434</units_disp>
-  </event>
+  <update_from_db_time>2021-03-02 16:45:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -32,23 +12,23 @@
     <units_disp> P415, R412</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-02 16:18:20</dispatch_time>
-    <event_num>F21019050</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>WALMER RD, YK</prime_street>
+    <cross_streets>ST CLAIR AVE W / HEATH ST W</cross_streets>
+    <dispatch_time>2021-03-02 16:32:31</dispatch_time>
+    <event_num>F21019053</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> P114</units_disp>
+    <beat>343</beat>
+    <units_disp> P311, P135, C31, R341, A135</units_disp>
   </event>
   <event>
-    <prime_street>WILLOWDALE AVE, NY</prime_street>
-    <cross_streets>CHURCH AVE / BYNG AVE</cross_streets>
-    <dispatch_time>2021-03-02 16:20:56</dispatch_time>
-    <event_num>F21019051</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>SPADINA AVE / BRANT ST</cross_streets>
+    <dispatch_time>2021-03-02 16:37:58</dispatch_time>
+    <event_num>F21019054</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P111, P121, C11, P113, T114</units_disp>
+    <beat>332</beat>
+    <units_disp> P332, P331</units_disp>
   </event>
 </tfs_active_incidents>
