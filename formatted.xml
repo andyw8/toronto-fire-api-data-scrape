@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-01 20:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-01 21:25:02</update_from_db_time>
   <event>
     <prime_street>COLLEGE ST, TT</prime_street>
     <cross_streets>GLADSTONE AVE / MACKLEM AVE</cross_streets>
@@ -9,17 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>426</beat>
-    <units_disp> R426, A426, C42, P426, P331, R345, C31, A345, LA333, P315, S331, C40, C43, P422, P431, R421, P433</units_disp>
-  </event>
-  <event>
-    <prime_street>FALSTAFF AVE, NY</prime_street>
-    <cross_streets>MAIDSTONE ST / SPRINGVIEW AVE</cross_streets>
-    <dispatch_time>2021-03-01 19:57:36</dispatch_time>
-    <event_num>F21018782</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146, HZ145</units_disp>
+    <units_disp> R426, A426, C42, P426, P331, R345, C31, A345, LA333, P315, S331, C40, C43, P422, P431, R421, P433, P343</units_disp>
   </event>
   <event>
     <prime_street>BENSON AVE, TT</prime_street>
@@ -32,16 +22,6 @@
     <units_disp> S331, P342, A345, C34, P312, R345</units_disp>
   </event>
   <event>
-    <prime_street>M4H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-01 20:26:05</dispatch_time>
-    <event_num>F21018795</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> R321</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>SHEPPARD AVE E / GRAND MARSHALL DR</cross_streets>
     <dispatch_time>2021-03-01 20:26:50</dispatch_time>
@@ -52,13 +32,23 @@
     <units_disp> P212</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
+    <prime_street>M4A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-01 20:35:52</dispatch_time>
-    <event_num>F21018801</event_num>
+    <dispatch_time>2021-03-01 21:01:58</dispatch_time>
+    <event_num>F21018805</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>235</beat>
+    <units_disp> A125, P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M4A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-01 21:16:21</dispatch_time>
+    <event_num>F21018807</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
 </tfs_active_incidents>
