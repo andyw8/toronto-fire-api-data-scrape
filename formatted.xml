@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-03 16:25:02</update_from_db_time>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>HAMILTON ST / BROADVIEW AVE</cross_streets>
-    <dispatch_time>2021-03-03 15:40:10</dispatch_time>
-    <event_num>F21019356</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324, A324</units_disp>
-  </event>
+  <update_from_db_time>2021-03-03 16:30:02</update_from_db_time>
   <event>
     <prime_street>WINEVA AVE, TT</prime_street>
     <cross_streets>QUEEN ST E / LN N QUEEN E WINEVA</cross_streets>
@@ -40,5 +30,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>222</beat>
     <units_disp> A222</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-03 16:25:12</dispatch_time>
+    <event_num>F21019367</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324, A324, A324</units_disp>
   </event>
 </tfs_active_incidents>
