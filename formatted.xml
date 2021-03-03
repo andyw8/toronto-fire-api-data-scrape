@@ -1,34 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-03 05:50:02</update_from_db_time>
-  <event>
-    <prime_street>ST DENNIS DR, NY</prime_street>
-    <cross_streets>DON MILLS RD / DEAUVILLE LANE</cross_streets>
-    <dispatch_time>2021-03-03 05:30:01</dispatch_time>
-    <event_num>F21019219</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
-  </event>
-  <event>
-    <prime_street>ESANDAR DR, EY</prime_street>
-    <cross_streets>LAIRD DR / INDUSTRIAL ST</cross_streets>
-    <dispatch_time>2021-03-03 05:31:08</dispatch_time>
-    <event_num>F21019220</event_num>
-    <event_type>Fire - Other</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> C32, R321, A125, R134, R224, R235</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNINGTON DR, SC</prime_street>
-    <cross_streets>FREEMAN ST / HOLLIS AVE</cross_streets>
-    <dispatch_time>2021-03-03 05:40:16</dispatch_time>
-    <event_num>F21019221</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225, P223, A226, C22, P226</units_disp>
-  </event>
+  <update_from_db_time>2021-03-03 06:15:02</update_from_db_time>
 </tfs_active_incidents>
