@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-03 18:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-03 18:55:02</update_from_db_time>
   <event>
     <prime_street>DORIS AVE, NY</prime_street>
     <cross_streets>ELMWOOD AVE / HILLCREST AVE</cross_streets>
@@ -22,33 +22,23 @@
     <units_disp> R426, P426, A426, C34, P331, S331</units_disp>
   </event>
   <event>
-    <prime_street>KINGSTON RD, SC</prime_street>
-    <cross_streets>GALLOWAY RD / 4315 KINGSTON RD</cross_streets>
-    <dispatch_time>2021-03-03 18:23:13</dispatch_time>
-    <event_num>F21019403</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234, R231, A215, C23, R214, R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-03 18:26:18</dispatch_time>
-    <event_num>F21019405</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> A331</units_disp>
-  </event>
-  <event>
-    <prime_street>ELMBROOK CRES, ET</prime_street>
-    <cross_streets>BIGHAM CRES / BIGHAM CRES</cross_streets>
-    <dispatch_time>2021-03-03 18:30:02</dispatch_time>
-    <event_num>F21019409</event_num>
+    <prime_street> </prime_street>
+    <cross_streets>ANGLESEY BLVD / HARTFIELD RD</cross_streets>
+    <dispatch_time>2021-03-03 18:47:21</dispatch_time>
+    <event_num>F21019410</event_num>
     <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> C44, P432, P443, P445, PL432, R444</units_disp>
+    <beat>443</beat>
+    <units_disp> P443, P431, P445, A433, C44</units_disp>
+  </event>
+  <event>
+    <prime_street>MACEY AVE, SC</prime_street>
+    <cross_streets>LN N DANFORTH E VICTORIA PARK / DENTON AVE</cross_streets>
+    <dispatch_time>2021-03-03 18:48:06</dispatch_time>
+    <event_num>F21019411</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> P222, P226, R224, R225, A226, C22</units_disp>
   </event>
 </tfs_active_incidents>
