@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-04 14:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-04 14:50:02</update_from_db_time>
   <event>
     <prime_street>MAYBERRY RD, NY</prime_street>
     <cross_streets>TONON DR / STANLEY RD</cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-04 14:04:15</dispatch_time>
-    <event_num>F21019661</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
-  </event>
-  <event>
-    <prime_street>AVENUE RD, TT</prime_street>
-    <cross_streets>ELGIN AVE / TRANBY AVE</cross_streets>
-    <dispatch_time>2021-03-04 14:06:36</dispatch_time>
-    <event_num>F21019662</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P313, P311, A312, C31, P315</units_disp>
-  </event>
-  <event>
     <prime_street>WELLESLEY ST, TT</prime_street>
     <cross_streets>HOMEWOOD AVE / SHERBOURNE ST</cross_streets>
     <dispatch_time>2021-03-04 14:09:38</dispatch_time>
@@ -60,56 +40,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>313</beat>
     <units_disp> P113, R325, C33, HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street>M9L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-04 14:14:12</dispatch_time>
-    <event_num>F21019664</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>CARLTON ST, TT</prime_street>
-    <cross_streets>REVEREND PORTER LANE / CHURCH ST</cross_streets>
-    <dispatch_time>2021-03-04 14:14:35</dispatch_time>
-    <event_num>F21019665</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P333, A325, C32, P332, P334, S313, A315</units_disp>
-  </event>
-  <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-04 14:23:05</dispatch_time>
-    <event_num>F21019667</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-04 14:23:08</dispatch_time>
-    <event_num>F21019668</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-04 14:23:21</dispatch_time>
-    <event_num>F21019669</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -122,13 +52,43 @@
     <units_disp> R426, R425, C34, A426</units_disp>
   </event>
   <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-04 14:23:52</dispatch_time>
-    <event_num>F21019671</event_num>
+    <dispatch_time>2021-03-04 14:30:25</dispatch_time>
+    <event_num>F21019672</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> T333</units_disp>
+    <beat>114</beat>
+    <units_disp> HR114</units_disp>
+  </event>
+  <event>
+    <prime_street>LAKE SHORE DR, ET</prime_street>
+    <cross_streets>CLIFF LUMSDON PARK TRL / SEVENTH ST</cross_streets>
+    <dispatch_time>2021-03-04 14:40:08</dispatch_time>
+    <event_num>F21019674</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> R435</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-04 14:40:47</dispatch_time>
+    <event_num>F21019675</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-04 14:44:14</dispatch_time>
+    <event_num>F21019676</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P315</units_disp>
   </event>
 </tfs_active_incidents>
