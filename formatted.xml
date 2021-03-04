@@ -1,24 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-04 01:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-04 02:00:02</update_from_db_time>
+  <event>
+    <prime_street>DOWLING AVE, TT</prime_street>
+    <cross_streets>LAXTON AVE / LN S QUEEN E BEATY</cross_streets>
+    <dispatch_time>2021-03-04 01:35:40</dispatch_time>
+    <event_num>F21019505</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426, P426, A426, C42, P331, R425</units_disp>
+  </event>
   <event>
     <prime_street>M3A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-04 00:49:20</dispatch_time>
-    <event_num>F21019496</event_num>
+    <dispatch_time>2021-03-04 01:37:19</dispatch_time>
+    <event_num>F21019506</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, C11</units_disp>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
   </event>
   <event>
-    <prime_street>OAK ST, TT</prime_street>
-    <cross_streets>PARLIAMENT ST / REGENT ST</cross_streets>
-    <dispatch_time>2021-03-04 00:55:59</dispatch_time>
-    <event_num>F21019499</event_num>
+    <prime_street>WYNFORD DR, NY</prime_street>
+    <cross_streets>WYNFORD HEIGHTS CRES / EGLINTON W WYNFORD DR RAMP</cross_streets>
+    <dispatch_time>2021-03-04 01:48:50</dispatch_time>
+    <event_num>F21019509</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> S232, R235</units_disp>
+  </event>
+  <event>
+    <prime_street>CARTHAGE AVE, SC</prime_street>
+    <cross_streets>CROCUS DR / CROCUS DR</cross_streets>
+    <dispatch_time>2021-03-04 01:52:40</dispatch_time>
+    <event_num>F21019510</event_num>
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, P333, A325, C33, P314, P324</units_disp>
+    <beat>245</beat>
+    <units_disp> R115, P245, A244, P233, P244, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>BRIMLEY RD, SC</prime_street>
+    <cross_streets>BRIMORTON DR / BERNADINE ST</cross_streets>
+    <dispatch_time>2021-03-04 01:54:25</dispatch_time>
+    <event_num>F21019511</event_num>
+    <event_type>Hazmat Level 2</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> A213, P232, C23, HZ326</units_disp>
   </event>
 </tfs_active_incidents>
