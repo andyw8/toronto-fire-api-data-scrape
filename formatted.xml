@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-04 02:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-04 03:30:02</update_from_db_time>
   <event>
-    <prime_street>DOWLING AVE, TT</prime_street>
-    <cross_streets>LAXTON AVE / LN S QUEEN E BEATY</cross_streets>
-    <dispatch_time>2021-03-04 01:35:40</dispatch_time>
-    <event_num>F21019505</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-04 03:25:28</dispatch_time>
+    <event_num>F21019523</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, P426, A426, C42, P331, R425, LA333</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
