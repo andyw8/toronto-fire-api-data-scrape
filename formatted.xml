@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-04 00:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-04 01:30:02</update_from_db_time>
   <event>
-    <prime_street>M4L</prime_street>
+    <prime_street>M3A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-04 00:28:32</dispatch_time>
-    <event_num>F21019493</event_num>
+    <dispatch_time>2021-03-04 00:49:20</dispatch_time>
+    <event_num>F21019496</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>115</beat>
+    <units_disp> R115, C11</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-04 00:44:30</dispatch_time>
-    <event_num>F21019495</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>OAK ST, TT</prime_street>
+    <cross_streets>PARLIAMENT ST / REGENT ST</cross_streets>
+    <dispatch_time>2021-03-04 00:55:59</dispatch_time>
+    <event_num>F21019499</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>325</beat>
+    <units_disp> R325, P333, A325, C33, P314, P324</units_disp>
   </event>
 </tfs_active_incidents>
