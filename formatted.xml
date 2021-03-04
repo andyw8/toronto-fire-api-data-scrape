@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-04 05:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-04 06:25:02</update_from_db_time>
   <event>
     <prime_street>MAYBERRY RD, NY</prime_street>
     <cross_streets>TONON DR / STANLEY RD</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>142</beat>
     <units_disp> P141, P142, P146, R411, A142, C14, R133, S143, A411, LA421, C10, P143, R413, C41</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-04 05:48:54</dispatch_time>
-    <event_num>F21019535</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
   </event>
   <event>
     <prime_street>LAKE SHORE BLVD, ET</prime_street>
@@ -32,13 +22,33 @@
     <units_disp> R435, P433, A433, C43, P431</units_disp>
   </event>
   <event>
-    <prime_street>BATHURST ST, TT</prime_street>
-    <cross_streets>ADELAIDE ST W / ADELAIDE ST W</cross_streets>
-    <dispatch_time>2021-03-04 05:51:19</dispatch_time>
-    <event_num>F21019537</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <prime_street>ELLENDALE DR, SC</prime_street>
+    <cross_streets>CANLISH RD / PORTSDOWN RD</cross_streets>
+    <dispatch_time>2021-03-04 05:58:37</dispatch_time>
+    <event_num>F21019538</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331, P332, A331, HR332, P334, C33</units_disp>
+    <beat>245</beat>
+    <units_disp> P232, P244, P245, S232, A244, C23, A244</units_disp>
+  </event>
+  <event>
+    <prime_street>M5J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-04 06:15:07</dispatch_time>
+    <event_num>F21019539</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>335</beat>
+    <units_disp> FB334, P335</units_disp>
+  </event>
+  <event>
+    <prime_street>CHARLES ST, TT</prime_street>
+    <cross_streets>BALMUTO ST / LA SCALA LANE</cross_streets>
+    <dispatch_time>2021-03-04 06:16:07</dispatch_time>
+    <event_num>F21019540</event_num>
+    <event_type>Hazmat Level 2</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> C31, HZ326, P312, P324</units_disp>
   </event>
 </tfs_active_incidents>
