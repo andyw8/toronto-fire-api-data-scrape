@@ -1,44 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-04 00:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-04 00:50:02</update_from_db_time>
   <event>
-    <prime_street>M1N</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-03 23:56:14</dispatch_time>
-    <event_num>F21019486</event_num>
+    <dispatch_time>2021-03-04 00:28:32</dispatch_time>
+    <event_num>F21019493</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>GREENBRAE CRCT, SC</prime_street>
-    <cross_streets>SEDGEMOUNT DR / WW W ABBEVILLE S SIX NATIONS</cross_streets>
-    <dispatch_time>2021-03-04 00:01:44</dispatch_time>
-    <event_num>F21019488</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231, P232, A231, C23, P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M3M</prime_street>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-04 00:21:36</dispatch_time>
-    <event_num>F21019491</event_num>
+    <dispatch_time>2021-03-04 00:44:30</dispatch_time>
+    <event_num>F21019495</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-04 00:25:12</dispatch_time>
-    <event_num>F21019492</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435, C43</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
 </tfs_active_incidents>
