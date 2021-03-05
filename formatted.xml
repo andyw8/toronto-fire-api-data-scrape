@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-05 00:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-05 01:30:03</update_from_db_time>
   <event>
     <prime_street>COLLEGE ST, TT</prime_street>
     <cross_streets>CLINTON ST / GRACE ST</cross_streets>
@@ -10,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>315</beat>
     <units_disp> P315, P331, A315, C33, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M4T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-05 01:17:56</dispatch_time>
+    <event_num>F21019833</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>FINCH AVE W / HIGHWAY 27 N</cross_streets>
+    <dispatch_time>2021-03-05 01:25:18</dispatch_time>
+    <event_num>F21019834</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
