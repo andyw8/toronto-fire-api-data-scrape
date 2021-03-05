@@ -1,24 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-05 12:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-05 13:30:02</update_from_db_time>
   <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-05 12:25:06</dispatch_time>
-    <event_num>F21019954</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BIRKDALE RD, SC</prime_street>
+    <cross_streets>MEDWAY CRES / MEDWAY CRES</cross_streets>
+    <dispatch_time>2021-03-05 12:53:54</dispatch_time>
+    <event_num>F21019961</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>232</beat>
+    <units_disp> P232, S232, A231, C23, P221, R231</units_disp>
   </event>
   <event>
-    <prime_street>ST CLAIR AVE, TT</prime_street>
-    <cross_streets>HUMEWOOD DR / RUSHTON RD</cross_streets>
-    <dispatch_time>2021-03-05 12:36:54</dispatch_time>
-    <event_num>F21019957</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
+    <prime_street>CLUNY DR, TT</prime_street>
+    <cross_streets>ROSEDALE RD / CLUNY AVE</cross_streets>
+    <dispatch_time>2021-03-05 13:15:18</dispatch_time>
+    <event_num>F21019965</event_num>
+    <event_type>Water Problem</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> R341</units_disp>
+    <beat>312</beat>
+    <units_disp> A312, P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-05 13:23:11</dispatch_time>
+    <event_num>F21019966</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
