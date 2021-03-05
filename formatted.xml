@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-05 15:40:02</update_from_db_time>
+  <update_from_db_time>2021-03-05 15:50:02</update_from_db_time>
   <event>
     <prime_street>M5R</prime_street>
     <cross_streets/>
@@ -42,16 +42,6 @@
     <units_disp> FI16</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-05 15:22:01</dispatch_time>
-    <event_num>F21020008</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113</units_disp>
-  </event>
-  <event>
     <prime_street>MASSEY SQ, EY</prime_street>
     <cross_streets>CRESCENT TOWN RD / CRESCENT TOWN RD</cross_streets>
     <dispatch_time>2021-03-05 15:22:32</dispatch_time>
@@ -60,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> R225, P226, A226, C22, P227, R224</units_disp>
-  </event>
-  <event>
-    <prime_street>GERRY FITZGERALD DR, NY</prime_street>
-    <cross_streets>DUFFERIN ST / STEELES AVE W</cross_streets>
-    <dispatch_time>2021-03-05 15:27:22</dispatch_time>
-    <event_num>F21020010</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> A142, C14, P142, P143, R112</units_disp>
   </event>
   <event>
     <prime_street>M6N</prime_street>
@@ -92,13 +72,53 @@
     <units_disp> A345</units_disp>
   </event>
   <event>
-    <prime_street>M4R</prime_street>
+    <prime_street>M4M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-05 15:35:33</dispatch_time>
-    <event_num>F21020013</event_num>
+    <dispatch_time>2021-03-05 15:39:53</dispatch_time>
+    <event_num>F21020014</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131</units_disp>
+    <beat>324</beat>
+    <units_disp> A324</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-05 15:41:05</dispatch_time>
+    <event_num>F21020015</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>FORDWICH CRES, ET</prime_street>
+    <cross_streets>ELMHURST DR / TAYROW RD</cross_streets>
+    <dispatch_time>2021-03-05 15:41:50</dispatch_time>
+    <event_num>F21020016</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415, R441, A415, C41, P146, R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-05 15:42:17</dispatch_time>
+    <event_num>F21020017</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-05 15:43:47</dispatch_time>
+    <event_num>F21020018</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> R224</units_disp>
   </event>
 </tfs_active_incidents>
