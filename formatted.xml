@@ -1,14 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-05 05:30:02</update_from_db_time>
-  <event>
-    <prime_street>HUXLEY RD, NY</prime_street>
-    <cross_streets>CLAYSON RD / </cross_streets>
-    <dispatch_time>2021-03-05 05:25:30</dispatch_time>
-    <event_num>F21019864</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146, P442, A142, C14, R411</units_disp>
-  </event>
+  <update_from_db_time>2021-03-05 05:50:02</update_from_db_time>
 </tfs_active_incidents>
