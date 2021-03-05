@@ -1,74 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-04 18:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-04 20:00:02</update_from_db_time>
   <event>
-    <prime_street>LAWRENCE AVE, NY</prime_street>
-    <cross_streets>SHERMOUNT AVE / ALLEN X N LAWRENCE RAMP</cross_streets>
-    <dispatch_time>2021-03-04 17:53:10</dispatch_time>
-    <event_num>F21019736</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>GOSFORD BLVD, NY</prime_street>
+    <cross_streets>ARTECH CRT / SECROFT CRES</cross_streets>
+    <dispatch_time>2021-03-04 19:36:17</dispatch_time>
+    <event_num>F21019767</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132, P135, A135, C13, P131</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-04 18:37:12</dispatch_time>
-    <event_num>F21019746</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-04 18:38:29</dispatch_time>
-    <event_num>F21019747</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>BOUSTEAD AVE, TT</prime_street>
-    <cross_streets>ALHAMBRA AVE / INDIAN RD</cross_streets>
-    <dispatch_time>2021-03-04 18:39:13</dispatch_time>
-    <event_num>F21019748</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P324, R426, C42, HZ326</units_disp>
+    <beat>142</beat>
+    <units_disp> R411</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-04 18:40:30</dispatch_time>
-    <event_num>F21019749</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <cross_streets>FINCH AVE W / PEARLDALE AVE</cross_streets>
+    <dispatch_time>2021-03-04 19:42:02</dispatch_time>
+    <event_num>F21019769</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P143, P145</units_disp>
+    <beat>411</beat>
+    <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>VICTORIA PARK AVE, NY</prime_street>
-    <cross_streets>JANET BLVD / LAWRENCE AVE E</cross_streets>
-    <dispatch_time>2021-03-04 18:40:34</dispatch_time>
-    <event_num>F21019750</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-04 19:45:15</dispatch_time>
+    <event_num>F21019771</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233, R235, A125, C11, P123</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
   <event>
-    <prime_street>BAMBURGH CRCL, SC</prime_street>
-    <cross_streets>FABRAY CRT / HUNTSMILL BLVD</cross_streets>
-    <dispatch_time>2021-03-04 18:41:54</dispatch_time>
-    <event_num>F21019751</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M2M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-04 19:48:03</dispatch_time>
+    <event_num>F21019772</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> A244, C24, P242, R241, P113</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
 </tfs_active_incidents>
