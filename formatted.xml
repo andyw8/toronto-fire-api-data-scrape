@@ -1,84 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-05 16:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-05 17:30:03</update_from_db_time>
   <event>
-    <prime_street>ANTLER ST, TT</prime_street>
-    <cross_streets> / CAMPBELL AVE</cross_streets>
-    <dispatch_time>2021-03-05 15:17:23</dispatch_time>
-    <event_num>F21020006</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> FI16</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M4Y</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-05 15:41:05</dispatch_time>
-    <event_num>F21020015</event_num>
+    <dispatch_time>2021-03-05 17:05:17</dispatch_time>
+    <event_num>F21020040</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P333, T333</units_disp>
+    <beat>313</beat>
+    <units_disp> S313</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>MORNINGSIDE AVE / FINCH AVE E</cross_streets>
-    <dispatch_time>2021-03-05 16:17:01</dispatch_time>
-    <event_num>F21020024</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
+    <prime_street>RIDLEY BLVD, NY</prime_street>
+    <cross_streets>WILSON AVE / </cross_streets>
+    <dispatch_time>2021-03-05 17:24:57</dispatch_time>
+    <event_num>F21020043</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> R243, C21, P212, S232</units_disp>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
   </event>
   <event>
-    <prime_street>M4J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-05 16:38:44</dispatch_time>
-    <event_num>F21020033</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BRANDY CRT, NY</prime_street>
+    <cross_streets>WW W BANBURY N BRANDY / </cross_streets>
+    <dispatch_time>2021-03-05 17:26:30</dispatch_time>
+    <event_num>F21020044</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-05 16:39:09</dispatch_time>
-    <event_num>F21020034</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>EGLINTON AVE W / HARVIE AVE</cross_streets>
-    <dispatch_time>2021-03-05 16:39:18</dispatch_time>
-    <event_num>F21020035</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>KINGSTON RD / MARKHAM RD</cross_streets>
-    <dispatch_time>2021-03-05 16:41:16</dispatch_time>
-    <event_num>F21020036</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Z</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-05 16:44:27</dispatch_time>
-    <event_num>F21020038</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> C43, P433, HZ145, P324</units_disp>
+    <beat>122</beat>
+    <units_disp> R122, P123, A125, C11, P116, P125</units_disp>
   </event>
 </tfs_active_incidents>
