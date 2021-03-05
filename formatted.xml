@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-05 17:30:03</update_from_db_time>
+  <update_from_db_time>2021-03-05 17:50:02</update_from_db_time>
   <event>
     <prime_street>M4Y</prime_street>
     <cross_streets/>
@@ -30,5 +30,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>122</beat>
     <units_disp> R122, P123, A125, C11, P116, P125</units_disp>
+  </event>
+  <event>
+    <prime_street>COLLEGE ST, TT</prime_street>
+    <cross_streets>CLINTON ST / GRACE ST</cross_streets>
+    <dispatch_time>2021-03-05 17:27:25</dispatch_time>
+    <event_num>F21020045</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> A315, P315, P331, R345, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-05 17:33:57</dispatch_time>
+    <event_num>F21020046</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-03-05 17:34:40</dispatch_time>
+    <event_num>F21020047</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145, R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-05 17:40:42</dispatch_time>
+    <event_num>F21020048</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>SPADINA AVE / BRANT ST</cross_streets>
+    <dispatch_time>2021-03-05 17:40:49</dispatch_time>
+    <event_num>F21020049</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> A331, C33, HR332, P331, P332, P334</units_disp>
   </event>
 </tfs_active_incidents>
