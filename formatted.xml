@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-06 08:25:02</update_from_db_time>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-06 08:07:32</dispatch_time>
-    <event_num>F21020201</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
+  <update_from_db_time>2021-03-06 08:40:02</update_from_db_time>
   <event>
     <prime_street>M2J</prime_street>
     <cross_streets/>
@@ -29,6 +19,66 @@
     <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>214</beat>
-    <units_disp> A215, C21, P212, P234, R214</units_disp>
+    <units_disp> A215, C21, P212, P234, R214, C21</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-06 08:22:19</dispatch_time>
+    <event_num>F21020204</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>243</beat>
+    <units_disp> R243</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>LAKE SHORE BLVD W / PARKSIDE DR</cross_streets>
+    <dispatch_time>2021-03-06 08:26:50</dispatch_time>
+    <event_num>F21020206</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>FRONT ST W / WELLINGTON ST W</cross_streets>
+    <dispatch_time>2021-03-06 08:31:45</dispatch_time>
+    <event_num>F21020207</event_num>
+    <event_type>Fire - Highrise Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> HR332, P333, P334, T333, C33, P344, S331</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>PHARMACY AVE / ELLESMERE RD</cross_streets>
+    <dispatch_time>2021-03-06 08:32:27</dispatch_time>
+    <event_num>F21020208</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M9B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-06 08:34:05</dispatch_time>
+    <event_num>F21020210</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>HORNER AVE / GOLDTHORNE AVE</cross_streets>
+    <dispatch_time>2021-03-06 08:36:18</dispatch_time>
+    <event_num>F21020211</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> R434, R435, A433, C43, P431, P445</units_disp>
   </event>
 </tfs_active_incidents>
