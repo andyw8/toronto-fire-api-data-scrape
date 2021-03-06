@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-06 13:55:02</update_from_db_time>
-  <event>
-    <prime_street>SHORE BREEZE DR, ET</prime_street>
-    <cross_streets>MARINE PARADE DR / ANNIE CRAIG DR</cross_streets>
-    <dispatch_time>2021-03-06 12:51:06</dispatch_time>
-    <event_num>F21020260</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> R425, P433, A433, C43, P431, R435, S445</units_disp>
-  </event>
-  <event>
-    <prime_street>COLONEL SAMUEL SMITH PARK DR, ET</prime_street>
-    <cross_streets>LAKE SHORE BLVD W / COLONEL SAM SMITH PARK TRL</cross_streets>
-    <dispatch_time>2021-03-06 13:37:25</dispatch_time>
-    <event_num>F21020271</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435</units_disp>
-  </event>
+  <update_from_db_time>2021-03-06 14:20:02</update_from_db_time>
   <event>
     <prime_street>M1L</prime_street>
     <cross_streets/>
@@ -32,26 +12,6 @@
     <units_disp> R225</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-06 13:48:52</dispatch_time>
-    <event_num>F21020273</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>HUMBER BAY PARK RD, ET</prime_street>
-    <cross_streets>HUMBER BAY PARK WEST TRL / HUMBER BAY PARK WEST TRL</cross_streets>
-    <dispatch_time>2021-03-06 13:49:35</dispatch_time>
-    <event_num>F21020274</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
     <prime_street>RIDGEWOOD RD, SC</prime_street>
     <cross_streets>BORNHOLM DR / WW S CLARK SECOR E BROADBRIDGE</cross_streets>
     <dispatch_time>2021-03-06 13:51:47</dispatch_time>
@@ -59,6 +19,46 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>215</beat>
-    <units_disp> R214, P212, A215, C21, P234, R213</units_disp>
+    <units_disp> R214, P212, A215, C21, P234, R213, A231, A231</units_disp>
+  </event>
+  <event>
+    <prime_street>HOME SMITH PARK RD, ET</prime_street>
+    <cross_streets>HOME SMITH PARK TRL / HOME SMITH PARK TRL</cross_streets>
+    <dispatch_time>2021-03-06 13:56:56</dispatch_time>
+    <event_num>F21020277</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P422</units_disp>
+  </event>
+  <event>
+    <prime_street>BOWERBANK DR, NY</prime_street>
+    <cross_streets>SILVERVIEW PARK TRL / SILVERVIEW PARK TRL</cross_streets>
+    <dispatch_time>2021-03-06 13:58:09</dispatch_time>
+    <event_num>F21020279</event_num>
+    <event_type>Public Hazard</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
+  </event>
+  <event>
+    <prime_street>LAKE SHORE BLVD, ET</prime_street>
+    <cross_streets>WW W FORTIETH S LAKE SHORE / BROW DR</cross_streets>
+    <dispatch_time>2021-03-06 14:09:30</dispatch_time>
+    <event_num>F21020283</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434, R435, C43, P432, PL432</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-06 14:14:30</dispatch_time>
+    <event_num>F21020284</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
