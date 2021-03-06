@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-06 02:30:02</update_from_db_time>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-06 02:02:43</dispatch_time>
-    <event_num>F21020164</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M3A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-06 02:18:44</dispatch_time>
-    <event_num>F21020167</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
+  <update_from_db_time>2021-03-06 02:45:02</update_from_db_time>
   <event>
     <prime_street>SARANAC BLVD, NY</prime_street>
     <cross_streets>LN W BATHURST N SARANAC / BATHURST ST</cross_streets>
@@ -30,5 +10,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
     <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-06 02:40:10</dispatch_time>
+    <event_num>F21020169</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
   </event>
 </tfs_active_incidents>
