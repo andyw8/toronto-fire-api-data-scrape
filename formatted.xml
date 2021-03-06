@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-06 14:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-06 15:20:02</update_from_db_time>
   <event>
     <prime_street>RIDGEWOOD RD, SC</prime_street>
     <cross_streets>BORNHOLM DR / WW S CLARK SECOR E BROADBRIDGE</cross_streets>
@@ -9,86 +9,86 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>215</beat>
-    <units_disp> R214, P212, A215, C21, P234, R213, A231, A231, LA231</units_disp>
-  </event>
-  <event>
-    <prime_street>BOWERBANK DR, NY</prime_street>
-    <cross_streets>SILVERVIEW PARK TRL / SILVERVIEW PARK TRL</cross_streets>
-    <dispatch_time>2021-03-06 13:58:09</dispatch_time>
-    <event_num>F21020279</event_num>
-    <event_type>Public Hazard</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
-  </event>
-  <event>
-    <prime_street>LAKE SHORE BLVD, ET</prime_street>
-    <cross_streets>WW W FORTIETH S LAKE SHORE / BROW DR</cross_streets>
-    <dispatch_time>2021-03-06 14:09:30</dispatch_time>
-    <event_num>F21020283</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434, R435, C43, P432, PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>KEELE ST, NY</prime_street>
-    <cross_streets>WILSON AVE / VICTORY DR</cross_streets>
-    <dispatch_time>2021-03-06 14:19:38</dispatch_time>
-    <event_num>F21020286</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146, P145, A133, C14, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>LAKE SHORE BLVD, ET</prime_street>
-    <cross_streets>PARK LAWN RD / HUMBER BAY PARK EAST TRL</cross_streets>
-    <dispatch_time>2021-03-06 14:20:36</dispatch_time>
-    <event_num>F21020287</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>NEILSON RD / BERNER TRL</cross_streets>
-    <dispatch_time>2021-03-06 14:30:14</dispatch_time>
-    <event_num>F21020289</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R243, A213, C23, P211, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>KIMBERCROFT CRT, SC</prime_street>
-    <cross_streets>20 KIMBERCROFT CRT / </cross_streets>
-    <dispatch_time>2021-03-06 14:36:20</dispatch_time>
-    <event_num>F21020290</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R243, S232</units_disp>
+    <units_disp> R214, P212, A215, C21, P234, R213, A231, A231, LA231, C20</units_disp>
   </event>
   <event>
     <prime_street>GERRARD ST, TT</prime_street>
     <cross_streets>HOWLAND RD / LOGAN AVE</cross_streets>
     <dispatch_time>2021-03-06 14:40:23</dispatch_time>
     <event_num>F21020291</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>324</beat>
-    <units_disp> P324, A324, C32, P323, P325</units_disp>
+    <units_disp> P324, A324, C32, P323, P325, R321</units_disp>
   </event>
   <event>
-    <prime_street>WELLESLEY ST, TT</prime_street>
-    <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
-    <dispatch_time>2021-03-06 14:41:28</dispatch_time>
-    <event_num>F21020292</event_num>
+    <prime_street>TUXEDO CRT, SC</prime_street>
+    <cross_streets>MARKHAM RD / </cross_streets>
+    <dispatch_time>2021-03-06 14:58:16</dispatch_time>
+    <event_num>F21020294</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> R243, P232, A213, C23, P245, S232, S232</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-06 15:02:14</dispatch_time>
+    <event_num>F21020295</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
+  </event>
+  <event>
+    <prime_street>ADELAIDE ST, TT</prime_street>
+    <cross_streets>FREDERICK ST / SHERBOURNE ST</cross_streets>
+    <dispatch_time>2021-03-06 15:07:46</dispatch_time>
+    <event_num>F21020296</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> R426, P333, C33, P325, P332, T333, A325</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>CHAPLIN CRES / MILLWOOD RD</cross_streets>
+    <dispatch_time>2021-03-06 15:09:51</dispatch_time>
+    <event_num>F21020297</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KEELE ST / STEELES AVE W</cross_streets>
+    <dispatch_time>2021-03-06 15:11:54</dispatch_time>
+    <event_num>F21020298</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-06 15:11:41</dispatch_time>
+    <event_num>F21020299</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
     <beat>313</beat>
-    <units_disp> A325, P312, P313, P314, C31, S313</units_disp>
+    <units_disp> P313, HR332</units_disp>
+  </event>
+  <event>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>PETER ST / CHARLOTTE ST</cross_streets>
+    <dispatch_time>2021-03-06 15:14:53</dispatch_time>
+    <event_num>F21020300</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P334, P331, A331, C31, P344</units_disp>
   </event>
 </tfs_active_incidents>
