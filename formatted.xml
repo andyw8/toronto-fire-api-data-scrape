@@ -1,94 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-05 18:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-05 20:00:02</update_from_db_time>
   <event>
-    <prime_street>KIPLING AVE, ET</prime_street>
-    <cross_streets>HUMBER RIVER RECREATIONAL TRL / KIPLING AVE BICYCLE TRL</cross_streets>
-    <dispatch_time>2021-03-05 17:55:26</dispatch_time>
-    <event_num>F21020053</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-05 18:24:09</dispatch_time>
-    <event_num>F21020065</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-05 18:30:34</dispatch_time>
-    <event_num>F21020067</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-05 18:31:20</dispatch_time>
-    <event_num>F21020068</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-05 18:32:52</dispatch_time>
-    <event_num>F21020069</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
-  </event>
-  <event>
-    <prime_street>ROYAL YORK RD, ET</prime_street>
-    <cross_streets>ASHLEY PARK RD / EDGEHILL RD</cross_streets>
-    <dispatch_time>2021-03-05 18:37:14</dispatch_time>
-    <event_num>F21020071</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-05 18:40:12</dispatch_time>
-    <event_num>F21020072</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>M9P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-05 18:41:16</dispatch_time>
-    <event_num>F21020073</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> A441, P443</units_disp>
-  </event>
-  <event>
-    <prime_street>BASTION ST, TT</prime_street>
-    <cross_streets>SLOPING SKY MEWS / FORT YORK BLVD</cross_streets>
+    <prime_street>GRAND MAGAZINE ST, TT</prime_street>
+    <cross_streets>SLOPING SKY MEWS / BRUYERES MEWS</cross_streets>
     <dispatch_time>2021-03-05 18:42:05</dispatch_time>
     <event_num>F21020074</event_num>
     <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
+    <alarm_lev>2</alarm_lev>
     <beat>346</beat>
-    <units_disp> S331, P334, A331, C33, P331, P332, P315</units_disp>
+    <units_disp> S331, P334, A331, C33, P331, P332, P315, CMD30, CMD30C, A315, LA333, P314, P333, P344, C34, HR332, HZ326, R426, C30</units_disp>
+  </event>
+  <event>
+    <prime_street>M8W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-05 19:55:03</dispatch_time>
+    <event_num>F21020089</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434</units_disp>
   </event>
 </tfs_active_incidents>
