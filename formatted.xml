@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-06 15:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-06 15:30:02</update_from_db_time>
   <event>
     <prime_street>RIDGEWOOD RD, SC</prime_street>
     <cross_streets>BORNHOLM DR / WW S CLARK SECOR E BROADBRIDGE</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>215</beat>
     <units_disp> R214, P212, A215, C21, P234, R213, A231, A231, LA231, C20</units_disp>
-  </event>
-  <event>
-    <prime_street>GERRARD ST, TT</prime_street>
-    <cross_streets>HOWLAND RD / LOGAN AVE</cross_streets>
-    <dispatch_time>2021-03-06 14:40:23</dispatch_time>
-    <event_num>F21020291</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324, A324, C32, P323, P325, R321</units_disp>
   </event>
   <event>
     <prime_street>TUXEDO CRT, SC</prime_street>
@@ -52,16 +42,6 @@
     <units_disp> R426, P333, C33, P325, P332, T333, A325</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>CHAPLIN CRES / MILLWOOD RD</cross_streets>
-    <dispatch_time>2021-03-06 15:09:51</dispatch_time>
-    <event_num>F21020297</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>KEELE ST / STEELES AVE W</cross_streets>
     <dispatch_time>2021-03-06 15:11:54</dispatch_time>
@@ -82,13 +62,13 @@
     <units_disp> P313, HR332</units_disp>
   </event>
   <event>
-    <prime_street>KING ST, TT</prime_street>
-    <cross_streets>PETER ST / CHARLOTTE ST</cross_streets>
-    <dispatch_time>2021-03-06 15:14:53</dispatch_time>
-    <event_num>F21020300</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>LAKE SHORE BLVD W / PARK LAWN RD</cross_streets>
+    <dispatch_time>2021-03-06 15:24:58</dispatch_time>
+    <event_num>F21020301</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P334, P331, A331, C31, P344</units_disp>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
   </event>
 </tfs_active_incidents>
