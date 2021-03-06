@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-06 01:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-06 01:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>OLD FINCH AVE / SEWELL'S RD</cross_streets>
@@ -10,25 +10,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>212</beat>
     <units_disp> P212, R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M4X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-06 01:08:38</dispatch_time>
-    <event_num>F21020161</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-06 01:11:54</dispatch_time>
-    <event_num>F21020162</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
