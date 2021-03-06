@@ -1,4 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-05 23:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-05 23:55:02</update_from_db_time>
+  <event>
+    <prime_street>M4P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-05 23:40:40</dispatch_time>
+    <event_num>F21020144</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-05 23:42:23</dispatch_time>
+    <event_num>F21020145</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-05 23:44:06</dispatch_time>
+    <event_num>F21020146</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> A226</units_disp>
+  </event>
+  <event>
+    <prime_street>HARDING AVE, NY</prime_street>
+    <cross_streets>JANE ST / TEDDER ST</cross_streets>
+    <dispatch_time>2021-03-05 23:48:34</dispatch_time>
+    <event_num>F21020147</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
 </tfs_active_incidents>
