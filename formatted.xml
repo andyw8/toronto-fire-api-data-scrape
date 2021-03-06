@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-06 10:35:02</update_from_db_time>
+  <update_from_db_time>2021-03-06 10:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>GEORGE ST S / FREDERICK ST</cross_streets>
@@ -12,23 +12,13 @@
     <units_disp> P324, P333, C33, HZ326, P324</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-06 10:24:58</dispatch_time>
-    <event_num>F21020234</event_num>
+    <dispatch_time>2021-03-06 10:45:38</dispatch_time>
+    <event_num>F21020237</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-06 10:26:39</dispatch_time>
-    <event_num>F21020235</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P431</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
 </tfs_active_incidents>
