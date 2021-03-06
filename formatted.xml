@@ -1,14 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-06 06:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-06 07:30:02</update_from_db_time>
   <event>
     <prime_street>CAWTHRA AVE, TT</prime_street>
     <cross_streets>JUNCTION RD / HIRONS ST</cross_streets>
     <dispatch_time>2021-03-06 06:39:12</dispatch_time>
     <event_num>F21020192</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
     <units_disp> R423, P342, A423, C42, R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M8X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-06 07:18:29</dispatch_time>
+    <event_num>F21020195</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
   </event>
 </tfs_active_incidents>
