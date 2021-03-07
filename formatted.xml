@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-07 01:25:02</update_from_db_time>
+  <update_from_db_time>2021-03-07 01:50:02</update_from_db_time>
   <event>
     <prime_street>RIDGEWOOD RD, SC</prime_street>
     <cross_streets>BORNHOLM DR / WW S CLARK SECOR E BROADBRIDGE</cross_streets>
@@ -12,46 +12,6 @@
     <units_disp> R214, P212, A215, C21, P234, R213, A231, A231, LA231, C20, R213, P221, P242, P232, R243</units_disp>
   </event>
   <event>
-    <prime_street>LESMILL RD, NY</prime_street>
-    <cross_streets>DUNCAN MILL RD / LESLIE ST</cross_streets>
-    <dispatch_time>2021-03-07 00:40:21</dispatch_time>
-    <event_num>F21020445</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
-  </event>
-  <event>
-    <prime_street>NAIRN AVE, TT</prime_street>
-    <cross_streets>LN N ASCOT W NAIRN / AVELLINO LANE</cross_streets>
-    <dispatch_time>2021-03-07 01:08:11</dispatch_time>
-    <event_num>F21020449</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M4X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-07 01:14:01</dispatch_time>
-    <event_num>F21020451</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M9M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-07 01:15:17</dispatch_time>
-    <event_num>F21020452</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
-  </event>
-  <event>
     <prime_street>ORCHID PLACE DR, SC</prime_street>
     <cross_streets>PARKBOROUGH BLVD / PROGRESS AVE</cross_streets>
     <dispatch_time>2021-03-07 01:20:47</dispatch_time>
@@ -60,5 +20,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>213</beat>
     <units_disp> R213, R231, A213, C23, P212</units_disp>
+  </event>
+  <event>
+    <prime_street>CHINE DR, SC</prime_street>
+    <cross_streets>HAGLEY RD / BASILDON CRES</cross_streets>
+    <dispatch_time>2021-03-07 01:40:15</dispatch_time>
+    <event_num>F21020454</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P234, P223, C23, HZ326</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 01:42:32</dispatch_time>
+    <event_num>F21020455</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
 </tfs_active_incidents>
