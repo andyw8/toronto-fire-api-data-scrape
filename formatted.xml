@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-07 16:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-07 16:30:02</update_from_db_time>
   <event>
     <prime_street>M1B</prime_street>
     <cross_streets/>
@@ -12,23 +12,13 @@
     <units_disp> P212</units_disp>
   </event>
   <event>
-    <prime_street>M5C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-07 16:12:23</dispatch_time>
-    <event_num>F21020633</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
     <prime_street>M4S</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-07 16:15:33</dispatch_time>
     <event_num>F21020634</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
+    <beat>311</beat>
     <units_disp> R321</units_disp>
   </event>
   <event>
