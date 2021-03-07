@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-07 00:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-07 00:45:02</update_from_db_time>
   <event>
     <prime_street>RIDGEWOOD RD, SC</prime_street>
     <cross_streets>BORNHOLM DR / WW S CLARK SECOR E BROADBRIDGE</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P311</units_disp>
   </event>
   <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-07 00:18:17</dispatch_time>
-    <event_num>F21020443</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
     <prime_street>EGLINTON AVE, TT</prime_street>
     <cross_streets>YONGE ST / COWBELL LANE</cross_streets>
     <dispatch_time>2021-03-07 00:22:12</dispatch_time>
@@ -40,5 +30,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
     <units_disp> P131, P135, R134, A135, C13</units_disp>
+  </event>
+  <event>
+    <prime_street>LESMILL RD, NY</prime_street>
+    <cross_streets>DUNCAN MILL RD / LESLIE ST</cross_streets>
+    <dispatch_time>2021-03-07 00:40:21</dispatch_time>
+    <event_num>F21020445</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
 </tfs_active_incidents>
