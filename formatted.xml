@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-07 06:25:02</update_from_db_time>
+  <update_from_db_time>2021-03-07 06:30:02</update_from_db_time>
   <event>
     <prime_street>BOGERT AVE, NY</prime_street>
     <cross_streets>EASTON RD / </cross_streets>
@@ -40,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>444</beat>
     <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 06:24:07</dispatch_time>
+    <event_num>F21020481</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 06:24:50</dispatch_time>
+    <event_num>F21020482</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
 </tfs_active_incidents>
