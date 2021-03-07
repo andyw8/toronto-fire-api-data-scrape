@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-07 02:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-07 02:30:03</update_from_db_time>
   <event>
     <prime_street>RIDGEWOOD RD, SC</prime_street>
     <cross_streets>BORNHOLM DR / WW S CLARK SECOR E BROADBRIDGE</cross_streets>
@@ -12,13 +12,13 @@
     <units_disp> R214, P212, A215, C21, P234, R213, A231, A231, LA231, C20, R213, P221, P242, P232, R243</units_disp>
   </event>
   <event>
-    <prime_street>M9M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-07 02:13:42</dispatch_time>
-    <event_num>F21020457</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>YONGE ST / BAY ST</cross_streets>
+    <dispatch_time>2021-03-07 02:26:57</dispatch_time>
+    <event_num>F21020458</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
+    <beat>314</beat>
+    <units_disp> P314, P312, A312, C31, P332</units_disp>
   </event>
 </tfs_active_incidents>
