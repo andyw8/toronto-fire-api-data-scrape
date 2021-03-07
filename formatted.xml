@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-07 14:20:02</update_from_db_time>
-  <event>
-    <prime_street>HILL CRES, SC</prime_street>
-    <cross_streets>BRINLOOR BLVD / DUNCOMBE BLVD</cross_streets>
-    <dispatch_time>2021-03-07 13:05:01</dispatch_time>
-    <event_num>F21020585</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
+  <update_from_db_time>2021-03-07 14:30:02</update_from_db_time>
   <event>
     <prime_street>DANFORTH AVE, TT</prime_street>
     <cross_streets>JACKMAN AVE / HAMPTON AVE</cross_streets>
@@ -30,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
     <units_disp> A222</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-07 14:04:14</dispatch_time>
-    <event_num>F21020608</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
   </event>
   <event>
     <prime_street>HOWLAND AVE, TT</prime_street>
@@ -70,5 +50,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>444</beat>
     <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 14:18:58</dispatch_time>
+    <event_num>F21020612</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 14:26:45</dispatch_time>
+    <event_num>F21020613</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
 </tfs_active_incidents>
