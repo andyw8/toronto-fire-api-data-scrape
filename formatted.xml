@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-06 23:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-07 00:25:02</update_from_db_time>
   <event>
     <prime_street>RIDGEWOOD RD, SC</prime_street>
     <cross_streets>BORNHOLM DR / WW S CLARK SECOR E BROADBRIDGE</cross_streets>
@@ -9,36 +9,36 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>215</beat>
-    <units_disp> R214, P212, A215, C21, P234, R213, A231, A231, LA231, C20, R213, P221, P242, P232</units_disp>
+    <units_disp> R214, P212, A215, C21, P234, R213, A231, A231, LA231, C20, R213, P221, P242, P232, R243</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-06 23:03:21</dispatch_time>
-    <event_num>F21020432</event_num>
-    <event_type>Vehicle Accident - Trapped - Highway</event_type>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 00:10:03</dispatch_time>
+    <event_num>F21020441</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244, P244, R243, C23, P245, S232</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>EGLINTON AVE, TT</prime_street>
-    <cross_streets>YONGE ST / COWBELL LANE</cross_streets>
-    <dispatch_time>2021-03-06 23:35:31</dispatch_time>
-    <event_num>F21020438</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 00:17:30</dispatch_time>
+    <event_num>F21020442</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134, P135, A135, C13, P131</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
   <event>
-    <prime_street>ROYAL YORK RD, ET</prime_street>
-    <cross_streets>SUSSEX DR / LAKE SHORE BLVD W</cross_streets>
-    <dispatch_time>2021-03-06 23:45:58</dispatch_time>
-    <event_num>F21020439</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>M8Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 00:18:17</dispatch_time>
+    <event_num>F21020443</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R434, R435, A433, C43, P431, P433</units_disp>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
   </event>
 </tfs_active_incidents>
