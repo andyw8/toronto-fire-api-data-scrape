@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-07 14:00:02</update_from_db_time>
+  <update_from_db_time>2021-03-07 14:20:02</update_from_db_time>
   <event>
     <prime_street>HILL CRES, SC</prime_street>
     <cross_streets>BRINLOOR BLVD / DUNCOMBE BLVD</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>223</beat>
     <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>KENDAL AVE, TT</prime_street>
-    <cross_streets>BRIDGMAN AVE / DAVENPORT RD</cross_streets>
-    <dispatch_time>2021-03-07 13:41:27</dispatch_time>
-    <event_num>F21020601</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A312, P311, P312, P343, R341</units_disp>
   </event>
   <event>
     <prime_street>DANFORTH AVE, TT</prime_street>
@@ -32,23 +22,53 @@
     <units_disp> P323, P313, A324, R325</units_disp>
   </event>
   <event>
-    <prime_street>COXWELL AVE, TT</prime_street>
-    <cross_streets>GERRARD ST E / FAIRFORD AVE</cross_streets>
-    <dispatch_time>2021-03-07 13:46:06</dispatch_time>
-    <event_num>F21020603</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> A226, P226, P227, R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M5M</prime_street>
+    <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-07 13:46:59</dispatch_time>
-    <event_num>F21020604</event_num>
+    <dispatch_time>2021-03-07 14:03:17</dispatch_time>
+    <event_num>F21020606</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
+    <beat>225</beat>
+    <units_disp> A222</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 14:04:14</dispatch_time>
+    <event_num>F21020608</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>HOWLAND AVE, TT</prime_street>
+    <cross_streets>LN N BLOOR E ALBANY / BARTON AVE</cross_streets>
+    <dispatch_time>2021-03-07 14:09:19</dispatch_time>
+    <event_num>F21020609</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> P315, P312, A315, P331</units_disp>
+  </event>
+  <event>
+    <prime_street>M9P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 14:15:48</dispatch_time>
+    <event_num>F21020610</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 14:15:57</dispatch_time>
+    <event_num>F21020611</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
   </event>
 </tfs_active_incidents>
