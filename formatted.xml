@@ -1,34 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-08 00:00:02</update_from_db_time>
+  <update_from_db_time>2021-03-08 00:30:02</update_from_db_time>
   <event>
-    <prime_street>DISCO RD, ET</prime_street>
-    <cross_streets>CARLINGVIEW DR / ATTWELL DR</cross_streets>
-    <dispatch_time>2021-03-07 23:08:06</dispatch_time>
-    <event_num>F21020758</event_num>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>COXWELL AVE / EASTERN AVE</cross_streets>
+    <dispatch_time>2021-03-08 00:02:01</dispatch_time>
+    <event_num>F21020768</event_num>
     <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441, P415, A441, R412, C41</units_disp>
+    <beat>227</beat>
+    <units_disp> P227, P226, A226, C32, P323</units_disp>
   </event>
   <event>
-    <prime_street>WILLOWRIDGE RD, ET</prime_street>
-    <cross_streets>RICHGROVE DR / EARLDOWN DR</cross_streets>
-    <dispatch_time>2021-03-07 23:40:40</dispatch_time>
-    <event_num>F21020766</event_num>
+    <prime_street>DANFORTH AVE, SC</prime_street>
+    <cross_streets>ROBINSON AVE / LEYTON AVE</cross_streets>
+    <dispatch_time>2021-03-08 00:17:38</dispatch_time>
+    <event_num>F21020770</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225, P226, A222, C22, R224, R235</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, SC</prime_street>
+    <cross_streets>CEDAR DR / </cross_streets>
+    <dispatch_time>2021-03-08 00:24:35</dispatch_time>
+    <event_num>F21020771</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> P443, R444, A441, C44, P445</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-07 23:48:22</dispatch_time>
-    <event_num>F21020767</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>234</beat>
+    <units_disp> P234, P223, A231, C23, R231</units_disp>
   </event>
 </tfs_active_incidents>
