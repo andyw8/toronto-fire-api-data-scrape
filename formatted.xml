@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-08 17:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-08 18:20:02</update_from_db_time>
   <event>
     <prime_street>CHAMBERS AVE, TT</prime_street>
     <cross_streets>ROCKWELL AVE / TURNBERRY AVE</cross_streets>
@@ -12,23 +12,33 @@
     <units_disp> P342, R345, A423, C42, R421, R423, R341, S331, A421, LA421, C30, C34, P343, FI16, P342, R345, P426, R133</units_disp>
   </event>
   <event>
-    <prime_street>BATHURST ST, NY</prime_street>
-    <cross_streets>BAYCREST AVE / BROOKE AVE</cross_streets>
-    <dispatch_time>2021-03-08 17:15:36</dispatch_time>
-    <event_num>F21020984</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-08 17:49:15</dispatch_time>
+    <event_num>F21020989</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132, P131, A135, C13, P145</units_disp>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>JANE ST / WESTON RD</cross_streets>
-    <dispatch_time>2021-03-08 17:45:04</dispatch_time>
-    <event_num>F21020988</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-08 18:02:39</dispatch_time>
+    <event_num>F21020994</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421</units_disp>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-08 18:03:53</dispatch_time>
+    <event_num>F21020996</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
 </tfs_active_incidents>
