@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-08 11:00:03</update_from_db_time>
+  <update_from_db_time>2021-03-08 11:40:02</update_from_db_time>
   <event>
     <prime_street>CHAMBERS AVE, TT</prime_street>
     <cross_streets>ROCKWELL AVE / TURNBERRY AVE</cross_streets>
@@ -12,73 +12,53 @@
     <units_disp> P342, R345, A423, C42, R421, R423, R341, S331, A421, LA421, C30, C34, P343, FI16, P342, R345</units_disp>
   </event>
   <event>
-    <prime_street>DANFORTH AVE, SC</prime_street>
-    <cross_streets>PHARMACY AVE / WANSTEAD AVE</cross_streets>
-    <dispatch_time>2021-03-08 10:17:45</dispatch_time>
-    <event_num>F21020868</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>KIMBERCROFT CRT, SC</prime_street>
+    <cross_streets>20 KIMBERCROFT CRT / </cross_streets>
+    <dispatch_time>2021-03-08 11:20:20</dispatch_time>
+    <event_num>F21020885</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
   </event>
   <event>
-    <prime_street>M6E</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-08 10:27:43</dispatch_time>
-    <event_num>F21020871</event_num>
+    <dispatch_time>2021-03-08 11:22:33</dispatch_time>
+    <event_num>F21020887</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
+    <beat>227</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>M1T</prime_street>
+    <prime_street>M1S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-08 10:38:25</dispatch_time>
-    <event_num>F21020873</event_num>
+    <dispatch_time>2021-03-08 11:29:11</dispatch_time>
+    <event_num>F21020888</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>243</beat>
+    <units_disp> R243</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>FINCH AVE W / BATHURST ST</cross_streets>
-    <dispatch_time>2021-03-08 10:43:56</dispatch_time>
-    <event_num>F21020875</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
+    <prime_street>M4A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-08 10:45:07</dispatch_time>
-    <event_num>F21020876</event_num>
+    <dispatch_time>2021-03-08 11:29:41</dispatch_time>
+    <event_num>F21020889</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
   <event>
-    <prime_street>M8W</prime_street>
+    <prime_street>M5R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-08 10:49:48</dispatch_time>
-    <event_num>F21020878</event_num>
+    <dispatch_time>2021-03-08 11:35:16</dispatch_time>
+    <event_num>F21020890</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>DURIE ST / DURIE ST</cross_streets>
-    <dispatch_time>2021-03-08 10:54:47</dispatch_time>
-    <event_num>F21020879</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> P431, R421, R423, A423, C42, C34</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
 </tfs_active_incidents>
