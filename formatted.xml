@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-08 12:40:02</update_from_db_time>
+  <update_from_db_time>2021-03-08 13:30:03</update_from_db_time>
   <event>
     <prime_street>CHAMBERS AVE, TT</prime_street>
     <cross_streets>ROCKWELL AVE / TURNBERRY AVE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>342</beat>
-    <units_disp> P342, R345, A423, C42, R421, R423, R341, S331, A421, LA421, C30, C34, P343, FI16, P342, R345</units_disp>
+    <units_disp> P342, R345, A423, C42, R421, R423, R341, S331, A421, LA421, C30, C34, P343, FI16, P342, R345, P426</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -22,43 +22,73 @@
     <units_disp> R425, S331, C42, P433</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>LAWRENCE AVE E / PHARMACY AVE</cross_streets>
-    <dispatch_time>2021-03-08 12:19:00</dispatch_time>
-    <event_num>F21020902</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>COXWELL AVE, TT</prime_street>
+    <cross_streets>DUNDAS ST E / ROBBINS AVE</cross_streets>
+    <dispatch_time>2021-03-08 13:10:29</dispatch_time>
+    <event_num>F21020914</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <beat>227</beat>
+    <units_disp> P227, P226, A324, C32, P323</units_disp>
   </event>
   <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-08 12:20:19</dispatch_time>
-    <event_num>F21020903</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>GLEN EVEREST RD, SC</prime_street>
+    <cross_streets>ROSETTA MCCLAIN GARDENS TRL / WYNNVIEW CRT</cross_streets>
+    <dispatch_time>2021-03-08 13:11:58</dispatch_time>
+    <event_num>F21020915</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
+    <beat>225</beat>
+    <units_disp> R225, A222, C22, P221, P234</units_disp>
   </event>
   <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-08 12:34:42</dispatch_time>
-    <event_num>F21020905</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>WEST LODGE AVE, TT</prime_street>
+    <cross_streets>LN N QUEEN E LANSDOWNE / </cross_streets>
+    <dispatch_time>2021-03-08 13:13:27</dispatch_time>
+    <event_num>F21020916</event_num>
+    <event_type>Alarm Institution</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
+    <beat>426</beat>
+    <units_disp> R426, P331, A331, C34, P344</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>DISCO RD, ET</prime_street>
+    <cross_streets>ATTWELL DR / CARLINGVIEW DR</cross_streets>
+    <dispatch_time>2021-03-08 13:18:57</dispatch_time>
+    <event_num>F21020917</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441, R412, A415, C41, R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-08 12:35:17</dispatch_time>
-    <event_num>F21020906</event_num>
+    <dispatch_time>2021-03-08 13:20:48</dispatch_time>
+    <event_num>F21020918</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A345</units_disp>
+    <beat>113</beat>
+    <units_disp> P113</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-08 13:22:53</dispatch_time>
+    <event_num>F21020919</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>ST PATRICK ST, TT</prime_street>
+    <cross_streets>PULLAN PL / MICHAEL SWEET AVE</cross_streets>
+    <dispatch_time>2021-03-08 13:25:22</dispatch_time>
+    <event_num>F21020920</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P315, A315, C33, HR332, P314, P334</units_disp>
   </event>
 </tfs_active_incidents>
