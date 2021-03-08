@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-08 10:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-08 10:40:02</update_from_db_time>
   <event>
     <prime_street>CHAMBERS AVE, TT</prime_street>
     <cross_streets>ROCKWELL AVE / TURNBERRY AVE</cross_streets>
@@ -32,13 +32,23 @@
     <units_disp> P141</units_disp>
   </event>
   <event>
-    <prime_street>M1S</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-08 10:23:30</dispatch_time>
-    <event_num>F21020870</event_num>
+    <dispatch_time>2021-03-08 10:27:43</dispatch_time>
+    <event_num>F21020871</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> R243</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>CRITCHLEY LANE / CUMBERLAND ST</cross_streets>
+    <dispatch_time>2021-03-08 10:29:12</dispatch_time>
+    <event_num>F21020872</event_num>
+    <event_type>Alarm Subway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> A312, C31, HR332, P312, P313, P314, S313</units_disp>
   </event>
 </tfs_active_incidents>
