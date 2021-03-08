@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-08 14:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-08 14:30:02</update_from_db_time>
   <event>
     <prime_street>CHAMBERS AVE, TT</prime_street>
     <cross_streets>ROCKWELL AVE / TURNBERRY AVE</cross_streets>
@@ -60,5 +60,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>223</beat>
     <units_disp> R225, C22, P221, S232</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-08 14:20:09</dispatch_time>
+    <event_num>F21020935</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325</units_disp>
   </event>
 </tfs_active_incidents>
