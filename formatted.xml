@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-07 20:05:02</update_from_db_time>
-  <event>
-    <prime_street>BIRCHMOUNT RD, SC</prime_street>
-    <cross_streets>ZENITH DR / ST CLAIR AVE E</cross_streets>
-    <dispatch_time>2021-03-07 18:01:08</dispatch_time>
-    <event_num>F21020666</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> C22, R225, HZ326, P324, C20</units_disp>
-  </event>
+  <update_from_db_time>2021-03-07 21:00:02</update_from_db_time>
   <event>
     <prime_street>M9R</prime_street>
     <cross_streets/>
@@ -19,46 +9,76 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>443</beat>
-    <units_disp> P443, C41, LA421, T333, C40, S445</units_disp>
+    <units_disp> P443, C41, LA421, T333, C40, S445, A426</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>HARLTON CRES, YK</prime_street>
+    <cross_streets>HAVERSON BLVD / SILVERTHORN AVE</cross_streets>
+    <dispatch_time>2021-03-07 20:25:59</dispatch_time>
+    <event_num>F21020724</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421, R133, A421, C42, R423, P342</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-07 19:44:23</dispatch_time>
-    <event_num>F21020710</event_num>
+    <dispatch_time>2021-03-07 20:38:20</dispatch_time>
+    <event_num>F21020726</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> A125</units_disp>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
   </event>
   <event>
-    <prime_street>RIVERWOOD PKWY, ET</prime_street>
-    <cross_streets>STEPHEN DR / CROWN HILL PL</cross_streets>
-    <dispatch_time>2021-03-07 19:50:20</dispatch_time>
-    <event_num>F21020712</event_num>
-    <event_type>Natural Gas Leak</event_type>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-07 20:42:02</dispatch_time>
+    <event_num>F21020727</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P324, P431, C44, HZ145</units_disp>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street>HUNTLEY ST, TT</prime_street>
+    <cross_streets>SELBY ST / BLOOR ST E</cross_streets>
+    <dispatch_time>2021-03-07 20:44:57</dispatch_time>
+    <event_num>F21020728</event_num>
+    <event_type>Police Assist - Request</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-07 19:53:46</dispatch_time>
-    <event_num>F21020714</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <cross_streets>REXDALE BLVD / HUMBERWOOD BLVD</cross_streets>
+    <dispatch_time>2021-03-07 20:45:26</dispatch_time>
+    <event_num>F21020729</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> A433, R425</units_disp>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>LANSDOWNE AVE, TT</prime_street>
+    <cross_streets>DUPONT ST / BRANDON AVE</cross_streets>
+    <dispatch_time>2021-03-07 20:51:55</dispatch_time>
+    <event_num>F21020730</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> A345, C34, P342, R345, R423</units_disp>
+  </event>
+  <event>
+    <prime_street>M3L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-07 19:53:25</dispatch_time>
-    <event_num>F21020715</event_num>
+    <dispatch_time>2021-03-07 20:52:11</dispatch_time>
+    <event_num>F21020731</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
 </tfs_active_incidents>
