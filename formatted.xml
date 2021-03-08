@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-08 08:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-08 08:50:02</update_from_db_time>
   <event>
     <prime_street>CHAMBERS AVE, TT</prime_street>
     <cross_streets>ROCKWELL AVE / TURNBERRY AVE</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> P221, P223, R225, R224, A222, C22, A231, R235, LA231, S232</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-08 08:00:40</dispatch_time>
-    <event_num>F21020843</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> R231</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-08 08:06:43</dispatch_time>
-    <event_num>F21020845</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
     <prime_street>TRINNELL BLVD, SC</prime_street>
     <cross_streets>SANTAMONICA BLVD / FLAGSTAFF RD</cross_streets>
     <dispatch_time>2021-03-08 08:19:01</dispatch_time>
@@ -52,23 +32,13 @@
     <units_disp> R235, R224, A226, P226, P233, C32, A222, C22</units_disp>
   </event>
   <event>
-    <prime_street>KIPLING AVE, ET</prime_street>
-    <cross_streets>HEPC / NORSEMAN ST</cross_streets>
-    <dispatch_time>2021-03-08 08:20:16</dispatch_time>
-    <event_num>F21020847</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> C44, P432, P433, P445, PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-08 08:21:23</dispatch_time>
-    <event_num>F21020848</event_num>
+    <dispatch_time>2021-03-08 08:31:05</dispatch_time>
+    <event_num>F21020849</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
