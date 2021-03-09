@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-09 03:35:02</update_from_db_time>
+  <update_from_db_time>2021-03-09 03:55:02</update_from_db_time>
   <event>
     <prime_street>CHAMBERS AVE, TT</prime_street>
     <cross_streets>ROCKWELL AVE / TURNBERRY AVE</cross_streets>
@@ -9,26 +9,46 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>342</beat>
-    <units_disp> P342, R345, A423, C42, R421, R423, R341, S331, A421, LA421, C30, C34, P343, FI16, P342, R345, P426, R133, P311, R434, P125, A341</units_disp>
+    <units_disp> P342, R345, A423, C42, R421, R423, R341, S331, A421, LA421, C30, C34, P343, FI16, P342, R345, P426, R133, P311, R434, P125, A341, P343</units_disp>
   </event>
   <event>
-    <prime_street>DUFFERIN ST, NY</prime_street>
-    <cross_streets>JANE OSLER BLVD / YORKDALE RD</cross_streets>
-    <dispatch_time>2021-03-09 03:29:27</dispatch_time>
-    <event_num>F21021085</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>KEELE ST / ROMFIELD LANE</cross_streets>
+    <dispatch_time>2021-03-09 03:42:55</dispatch_time>
+    <event_num>F21021088</event_num>
+    <event_type>Alarm - Institution - School</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145, P132, A133, C13, R133</units_disp>
+    <beat>141</beat>
+    <units_disp> R411, A142, P141, P143, R112, C14</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
+    <prime_street>ELIZABETH ST, TT</prime_street>
+    <cross_streets>ELM ST / WALTON ST</cross_streets>
+    <dispatch_time>2021-03-09 03:46:34</dispatch_time>
+    <event_num>F21021089</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314, P332, A315, HR332, P312, P315, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>DANFORTH RD, SC</prime_street>
+    <cross_streets>MCDONALD AVE / WARDEN AVE</cross_streets>
+    <dispatch_time>2021-03-09 03:46:25</dispatch_time>
+    <event_num>F21021090</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 03:31:22</dispatch_time>
-    <event_num>F21021086</event_num>
+    <dispatch_time>2021-03-09 03:49:10</dispatch_time>
+    <event_num>F21021091</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
   </event>
 </tfs_active_incidents>
