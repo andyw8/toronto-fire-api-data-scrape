@@ -1,44 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-09 18:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-09 18:50:02</update_from_db_time>
   <event>
-    <prime_street>M4X</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-03-09 18:24:14</dispatch_time>
+    <event_num>F21021316</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145, P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M6B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 17:54:56</dispatch_time>
-    <event_num>F21021310</event_num>
+    <dispatch_time>2021-03-09 18:36:16</dispatch_time>
+    <event_num>F21021317</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DANFORTH AVE / WOODBINE AVE</cross_streets>
+    <dispatch_time>2021-03-09 18:36:54</dispatch_time>
+    <event_num>F21021318</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-09 17:55:13</dispatch_time>
-    <event_num>F21021311</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
+    <dispatch_time>2021-03-09 18:44:13</dispatch_time>
+    <event_num>F21021320</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121, C13, P114</units_disp>
+    <beat>213</beat>
+    <units_disp> A213, R213</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>LAWRENCE AVE E / DON VALLEY PKWY N</cross_streets>
-    <dispatch_time>2021-03-09 18:07:15</dispatch_time>
-    <event_num>F21021314</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-09 18:46:10</dispatch_time>
+    <event_num>F21021321</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, SC</prime_street>
-    <cross_streets>NEILSON RD / BLACKBIRD GT</cross_streets>
-    <dispatch_time>2021-03-09 18:10:33</dispatch_time>
-    <event_num>F21021315</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211, P212, A213, C21, P242</units_disp>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
   </event>
 </tfs_active_incidents>
