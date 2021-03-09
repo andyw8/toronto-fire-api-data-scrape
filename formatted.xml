@@ -1,84 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-09 17:20:03</update_from_db_time>
+  <update_from_db_time>2021-03-09 17:50:02</update_from_db_time>
   <event>
-    <prime_street>M9B</prime_street>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 16:57:33</dispatch_time>
-    <event_num>F21021292</event_num>
+    <dispatch_time>2021-03-09 17:28:07</dispatch_time>
+    <event_num>F21021305</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 17:03:56</dispatch_time>
-    <event_num>F21021293</event_num>
+    <dispatch_time>2021-03-09 17:35:52</dispatch_time>
+    <event_num>F21021307</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>WILGAR RD, ET</prime_street>
-    <cross_streets>ROYAL YORK RD / BRENTWOOD RD N</cross_streets>
-    <dispatch_time>2021-03-09 17:05:51</dispatch_time>
-    <event_num>F21021295</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431, P433, A433, C44, P445</units_disp>
-  </event>
-  <event>
-    <prime_street>BAYVIEW AVE, NY</prime_street>
-    <cross_streets>STRATFORD PARK TRL / STRATFORD PARK TRL</cross_streets>
-    <dispatch_time>2021-03-09 17:12:30</dispatch_time>
-    <event_num>F21021296</event_num>
-    <event_type>TEMS TRANSFERRED - READ REMARKS</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> C13, R134, P131</units_disp>
-  </event>
-  <event>
-    <prime_street>M1G</prime_street>
+    <prime_street>M6R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 17:13:02</dispatch_time>
-    <event_num>F21021297</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234, R214, A231</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-09 17:14:54</dispatch_time>
-    <event_num>F21021298</event_num>
+    <dispatch_time>2021-03-09 17:41:01</dispatch_time>
+    <event_num>F21021308</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
     <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M2H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-09 17:15:02</dispatch_time>
-    <event_num>F21021299</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113</units_disp>
-  </event>
-  <event>
-    <prime_street>LAKE SHORE BLVD, TT</prime_street>
-    <cross_streets>SIR CASIMIR GZOWSKI PARK TRL / ELLIS AVE</cross_streets>
-    <dispatch_time>2021-03-09 17:16:06</dispatch_time>
-    <event_num>F21021300</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425</units_disp>
   </event>
 </tfs_active_incidents>
