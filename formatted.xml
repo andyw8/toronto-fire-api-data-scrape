@@ -1,14 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-09 07:35:02</update_from_db_time>
+  <update_from_db_time>2021-03-09 08:05:02</update_from_db_time>
   <event>
-    <prime_street>M4A</prime_street>
+    <prime_street>BATHURST ST, NY</prime_street>
+    <cross_streets>TERRACE AVE / HORSHAM AVE</cross_streets>
+    <dispatch_time>2021-03-09 07:40:36</dispatch_time>
+    <event_num>F21021122</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112, P143, C14, P114, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 07:11:36</dispatch_time>
-    <event_num>F21021118</event_num>
+    <dispatch_time>2021-03-09 07:54:16</dispatch_time>
+    <event_num>F21021123</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
   </event>
 </tfs_active_incidents>
