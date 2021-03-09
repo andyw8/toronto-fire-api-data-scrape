@@ -1,64 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-09 09:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-09 11:50:02</update_from_db_time>
   <event>
-    <prime_street>M4J</prime_street>
+    <prime_street>M9M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 09:13:00</dispatch_time>
-    <event_num>F21021149</event_num>
+    <dispatch_time>2021-03-09 11:07:38</dispatch_time>
+    <event_num>F21021181</event_num>
     <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
-  </event>
-  <event>
-    <prime_street>NICHOLAS AVE, TT</prime_street>
-    <cross_streets>SHUTER ST / WYATT AVE</cross_streets>
-    <dispatch_time>2021-03-09 09:23:04</dispatch_time>
-    <event_num>F21021150</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> C33, HZ326, P333, P145, C32</units_disp>
-  </event>
-  <event>
-    <prime_street>GRACEDALE BLVD, NY</prime_street>
-    <cross_streets>CRIMSCOTT RD / GOLDSBORO RD</cross_streets>
-    <dispatch_time>2021-03-09 09:34:46</dispatch_time>
-    <event_num>F21021152</event_num>
-    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>411</beat>
-    <units_disp> P415, P142, A415, C41, R412</units_disp>
+    <units_disp> R411</units_disp>
   </event>
   <event>
-    <prime_street>M4S</prime_street>
+    <prime_street>HIGH PARK AVE, TT</prime_street>
+    <cross_streets>BLOOR ST W / GLENLAKE AVE</cross_streets>
+    <dispatch_time>2021-03-09 11:22:37</dispatch_time>
+    <event_num>F21021186</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423, P422, C42, A345, R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 09:40:22</dispatch_time>
-    <event_num>F21021153</event_num>
+    <dispatch_time>2021-03-09 11:26:49</dispatch_time>
+    <event_num>F21021189</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
+    <beat>442</beat>
+    <units_disp> P442, R133</units_disp>
   </event>
   <event>
-    <prime_street>TURNVALE RD, ET</prime_street>
-    <cross_streets>MILKWOOD AVE / WEST HUMBER TRL</cross_streets>
-    <dispatch_time>2021-03-09 09:42:53</dispatch_time>
-    <event_num>F21021154</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>MILNER AVE, SC</prime_street>
+    <cross_streets>MCCOWAN RD / MID-DOMINION ACRES</cross_streets>
+    <dispatch_time>2021-03-09 11:35:54</dispatch_time>
+    <event_num>F21021191</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> A441, R412</units_disp>
+    <beat>243</beat>
+    <units_disp> R243, R213, A213, C23, R231</units_disp>
   </event>
   <event>
-    <prime_street>ST CLAIR AVE, TT</prime_street>
-    <cross_streets>DUNVEGAN RD / WARREN RD</cross_streets>
-    <dispatch_time>2021-03-09 09:45:32</dispatch_time>
-    <event_num>F21021155</event_num>
-    <event_type>Alarm Institution</event_type>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-09 11:41:38</dispatch_time>
+    <event_num>F21021192</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P312, P343, C31, R341, A135, R134</units_disp>
+    <beat>313</beat>
+    <units_disp> S313</units_disp>
+  </event>
+  <event>
+    <prime_street>TIAGO AVE, EY</prime_street>
+    <cross_streets>TOPHAM PARK TRL / TOPHAM RD</cross_streets>
+    <dispatch_time>2021-03-09 11:42:46</dispatch_time>
+    <event_num>F21021193</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
 </tfs_active_incidents>
