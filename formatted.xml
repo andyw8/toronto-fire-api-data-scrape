@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-09 04:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-09 04:55:02</update_from_db_time>
   <event>
     <prime_street>CHAMBERS AVE, TT</prime_street>
     <cross_streets>ROCKWELL AVE / TURNBERRY AVE</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>342</beat>
     <units_disp> P342, R345, A423, C42, R421, R423, R341, S331, A421, LA421, C30, C34, P343, FI16, P342, R345, P426, R133, P311, R434, P125, A341, P343</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>KEELE ST / ROMFIELD LANE</cross_streets>
-    <dispatch_time>2021-03-09 03:42:55</dispatch_time>
-    <event_num>F21021088</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> R411, A142, P141, P143, R112, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-09 04:07:28</dispatch_time>
-    <event_num>F21021095</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-09 04:17:31</dispatch_time>
-    <event_num>F21021096</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
   </event>
   <event>
     <prime_street>DUNDAS ST, TT</prime_street>
@@ -52,13 +22,13 @@
     <units_disp> R423, A423, C42, P342, R345</units_disp>
   </event>
   <event>
-    <prime_street>M1T</prime_street>
+    <prime_street>M3H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 04:22:13</dispatch_time>
-    <event_num>F21021098</event_num>
+    <dispatch_time>2021-03-09 04:39:08</dispatch_time>
+    <event_num>F21021100</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
   </event>
 </tfs_active_incidents>
