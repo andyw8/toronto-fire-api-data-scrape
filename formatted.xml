@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-09 00:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-09 01:25:02</update_from_db_time>
   <event>
     <prime_street>CHAMBERS AVE, TT</prime_street>
     <cross_streets>ROCKWELL AVE / TURNBERRY AVE</cross_streets>
@@ -20,36 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
     <units_disp> R423, A423, HZ145, C42, LA421</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-09 00:13:01</dispatch_time>
-    <event_num>F21021065</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-09 00:43:49</dispatch_time>
-    <event_num>F21021070</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>UPPER MADISON AVE / HOLLYWOOD AVE</cross_streets>
-    <dispatch_time>2021-03-09 00:44:10</dispatch_time>
-    <event_num>F21021071</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> C11, HR114, P114, P121, R112, T114</units_disp>
   </event>
   <event>
     <prime_street>M1W</prime_street>
