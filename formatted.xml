@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-10 09:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-10 09:40:02</update_from_db_time>
   <event>
     <prime_street>WILSON AVE, NY</prime_street>
     <cross_streets>AGATE RD / JULIAN RD</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> A133, C13, P113CA, P145, R133, R112, R134, A341, LA421, S313, C10, C14, P131, P135, HR332, HZ326, P342, CMD10</units_disp>
   </event>
   <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 09:04:32</dispatch_time>
-    <event_num>F21021485</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
     <prime_street>M9M</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-10 09:08:50</dispatch_time>
@@ -40,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>146</beat>
     <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 09:10:13</dispatch_time>
-    <event_num>F21021487</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -72,16 +52,6 @@
     <units_disp> P344, P334, A331, C33, P331</units_disp>
   </event>
   <event>
-    <prime_street>BERKELEY ST, TT</prime_street>
-    <cross_streets>ADELAIDE ST E / RICHMOND ST E</cross_streets>
-    <dispatch_time>2021-03-10 09:25:39</dispatch_time>
-    <event_num>F21021490</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P325, A324, R325, C31, C34</units_disp>
-  </event>
-  <event>
     <prime_street>M9W</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-10 09:26:25</dispatch_time>
@@ -90,5 +60,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>415</beat>
     <units_disp> P415</units_disp>
+  </event>
+  <event>
+    <prime_street>M4A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 09:27:36</dispatch_time>
+    <event_num>F21021492</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 09:33:11</dispatch_time>
+    <event_num>F21021493</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 09:34:49</dispatch_time>
+    <event_num>F21021494</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
