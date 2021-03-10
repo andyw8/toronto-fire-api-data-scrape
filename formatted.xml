@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-10 15:20:03</update_from_db_time>
+  <update_from_db_time>2021-03-10 15:40:02</update_from_db_time>
   <event>
     <prime_street>DUFFERIN ST, NY</prime_street>
     <cross_streets>PLAYFAIR AVE / CLAVER AVE</cross_streets>
@@ -9,66 +9,96 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>145</beat>
-    <units_disp> A133, C13, P113CA, P145, R133, R112, R134, A341, LA421, S313, C10, C14, P131, P135, HR332, HZ326, P342, CMD10, C30, P142, P135, FI8</units_disp>
+    <units_disp> A133, C13, P113CA, P145, R133, R112, R134, A341, LA421, S313, C10, C14, P131, P135, HR332, HZ326, P342, CMD10, C30, P142, P135, FI8, P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M8W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 15:18:39</dispatch_time>
+    <event_num>F21021608</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>434</beat>
+    <units_disp> R434</units_disp>
+  </event>
+  <event>
+    <prime_street>M4V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 15:23:47</dispatch_time>
+    <event_num>F21021611</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> A312</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-10 14:56:42</dispatch_time>
-    <event_num>F21021599</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <cross_streets>SHERBOURNE ST / BLOOR ST E</cross_streets>
+    <dispatch_time>2021-03-10 15:26:14</dispatch_time>
+    <event_num>F21021612</event_num>
+    <event_type>Vehicle Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244, P244</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
   <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>SIMCOE ST / ST PATRICK ST</cross_streets>
-    <dispatch_time>2021-03-10 15:05:05</dispatch_time>
-    <event_num>F21021602</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>YONGE ST / FLORENCE AVE</cross_streets>
+    <dispatch_time>2021-03-10 15:27:18</dispatch_time>
+    <event_num>F21021614</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>121</beat>
+    <units_disp> P121, C11, HZ145, P145, C14, T114</units_disp>
   </event>
   <event>
-    <prime_street>M1G</prime_street>
+    <prime_street>M4X</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-10 15:09:14</dispatch_time>
-    <event_num>F21021603</event_num>
+    <dispatch_time>2021-03-10 15:27:13</dispatch_time>
+    <event_num>F21021615</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> A231</units_disp>
+    <beat>313</beat>
+    <units_disp> S313</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-10 15:11:09</dispatch_time>
-    <event_num>F21021605</event_num>
+    <dispatch_time>2021-03-10 15:32:44</dispatch_time>
+    <event_num>F21021618</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>PHARMACY AVE / NEWPORT AVE</cross_streets>
+    <dispatch_time>2021-03-10 15:33:43</dispatch_time>
+    <event_num>F21021620</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 15:33:58</dispatch_time>
+    <event_num>F21021621</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>223</beat>
     <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>CALLENDER ST, TT</prime_street>
-    <cross_streets>LN N QUEEN E TRILLER / HARVARD AVE</cross_streets>
-    <dispatch_time>2021-03-10 15:13:59</dispatch_time>
-    <event_num>F21021606</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, P324, HZ326, C42</units_disp>
-  </event>
-  <event>
-    <prime_street>M2P</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-10 15:15:59</dispatch_time>
-    <event_num>F21021607</event_num>
+    <dispatch_time>2021-03-10 15:36:38</dispatch_time>
+    <event_num>F21021622</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122</units_disp>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
 </tfs_active_incidents>
