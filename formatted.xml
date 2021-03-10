@@ -1,64 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-09 20:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-09 21:35:02</update_from_db_time>
   <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-09 20:28:05</dispatch_time>
-    <event_num>F21021352</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <prime_street>BECKETT AVE, NY</prime_street>
+    <cross_streets>MAIDSTONE ST / FLEETWOOD AVE</cross_streets>
+    <dispatch_time>2021-03-09 21:10:55</dispatch_time>
+    <event_num>F21021365</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>146</beat>
+    <units_disp> R133, P146, A133, C14, P142, P442, A142, S143, LA421, R421</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-09 20:35:04</dispatch_time>
-    <event_num>F21021354</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-03-09 21:21:30</dispatch_time>
+    <event_num>F21021368</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>145</beat>
+    <units_disp> P143, P145, C13, R341, S313, S143</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>CAMERON ST / MC DOUGALL LANE</cross_streets>
-    <dispatch_time>2021-03-09 20:36:20</dispatch_time>
-    <event_num>F21021355</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P331, A331, C33, P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M5M</prime_street>
+    <prime_street>M4N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 20:42:50</dispatch_time>
-    <event_num>F21021356</event_num>
+    <dispatch_time>2021-03-09 21:25:35</dispatch_time>
+    <event_num>F21021369</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P113CA</units_disp>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M6R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 20:45:25</dispatch_time>
-    <event_num>F21021357</event_num>
+    <dispatch_time>2021-03-09 21:26:52</dispatch_time>
+    <event_num>F21021370</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
   <event>
-    <prime_street>M4M</prime_street>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-09 20:48:10</dispatch_time>
-    <event_num>F21021358</event_num>
+    <dispatch_time>2021-03-09 21:28:30</dispatch_time>
+    <event_num>F21021371</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>421</beat>
+    <units_disp> A421</units_disp>
+  </event>
+  <event>
+    <prime_street>HEARST CRCL, NY</prime_street>
+    <cross_streets>CHISWICK AVE / STEWART SMITH DR</cross_streets>
+    <dispatch_time>2021-03-09 21:29:58</dispatch_time>
+    <event_num>F21021372</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-09 21:30:54</dispatch_time>
+    <event_num>F21021373</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
