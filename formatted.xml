@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-10 13:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-10 14:00:02</update_from_db_time>
   <event>
     <prime_street>DUFFERIN ST, NY</prime_street>
     <cross_streets>PLAYFAIR AVE / CLAVER AVE</cross_streets>
@@ -9,67 +9,7 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>145</beat>
-    <units_disp> A133, C13, P113CA, P145, R133, R112, R134, A341, LA421, S313, C10, C14, P131, P135, HR332, HZ326, P342, CMD10, C30, P142</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 12:13:37</dispatch_time>
-    <event_num>F21021538</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 12:56:25</dispatch_time>
-    <event_num>F21021554</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M9P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 13:10:33</dispatch_time>
-    <event_num>F21021559</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>VANSCO RD, ET</prime_street>
-    <cross_streets>WICKMAN RD / NORTH QUEEN ST</cross_streets>
-    <dispatch_time>2021-03-10 13:12:07</dispatch_time>
-    <event_num>F21021560</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P433, R434, C44, P445, PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>PRINCESS ANNE CRES, ET</prime_street>
-    <cross_streets>BENEDICT RD / TWYFORD RD</cross_streets>
-    <dispatch_time>2021-03-10 13:16:50</dispatch_time>
-    <event_num>F21021562</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> R421, R444, A441, C41, P422</units_disp>
-  </event>
-  <event>
-    <prime_street>M5J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 13:18:13</dispatch_time>
-    <event_num>F21021563</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
+    <units_disp> A133, C13, P113CA, P145, R133, R112, R134, A341, LA421, S313, C10, C14, P131, P135, HR332, HZ326, P342, CMD10, C30, P142, P135, FI8</units_disp>
   </event>
   <event>
     <prime_street>BATHURST ST, TT</prime_street>
@@ -79,7 +19,7 @@
     <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>331</beat>
-    <units_disp> S331</units_disp>
+    <units_disp> S331, C33, A331</units_disp>
   </event>
   <event>
     <prime_street>WILSON AVE, NY</prime_street>
@@ -89,6 +29,86 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>146</beat>
-    <units_disp> P145, R133, S143, A142, C14, P141, P143</units_disp>
+    <units_disp> A142, C14, P141, P145, R133, S143, P143, P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 13:28:56</dispatch_time>
+    <event_num>F21021566</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P311, P113, P113CA</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-03-10 13:34:51</dispatch_time>
+    <event_num>F21021568</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116, R122</units_disp>
+  </event>
+  <event>
+    <prime_street>EASTWOOD RD, TT</prime_street>
+    <cross_streets>LN E COXWELL S EASTWOOD / GAINSBOROUGH RD</cross_streets>
+    <dispatch_time>2021-03-10 13:34:43</dispatch_time>
+    <event_num>F21021569</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P226, P227, S313, A226, C32, P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M4E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 13:36:34</dispatch_time>
+    <event_num>F21021570</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> HZ326</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 13:42:51</dispatch_time>
+    <event_num>F21021572</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>ROLLSCOURT DR, NY</prime_street>
+    <cross_streets>HARRISON RD / HEATHCOTE AVE</cross_streets>
+    <dispatch_time>2021-03-10 13:53:18</dispatch_time>
+    <event_num>F21021573</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> P116, P121, P123, T114, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>M4R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 13:53:50</dispatch_time>
+    <event_num>F21021574</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134, A135</units_disp>
+  </event>
+  <event>
+    <prime_street>M4A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 13:56:54</dispatch_time>
+    <event_num>F21021575</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
   </event>
 </tfs_active_incidents>
