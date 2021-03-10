@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-10 10:25:01</update_from_db_time>
+  <update_from_db_time>2021-03-10 10:45:02</update_from_db_time>
   <event>
     <prime_street>DUFFERIN ST, NY</prime_street>
     <cross_streets>PLAYFAIR AVE / CLAVER AVE</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>145</beat>
     <units_disp> A133, C13, P113CA, P145, R133, R112, R134, A341, LA421, S313, C10, C14, P131, P135, HR332, HZ326, P342, CMD10, C30</units_disp>
-  </event>
-  <event>
-    <prime_street>M4W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 09:53:12</dispatch_time>
-    <event_num>F21021501</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 10:01:22</dispatch_time>
-    <event_num>F21021504</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> HR332</units_disp>
   </event>
   <event>
     <prime_street>VAUGHAN RD, YK</prime_street>
@@ -42,26 +22,6 @@
     <units_disp> P343, R423, C34, P311, P314, A135, R345, P332</units_disp>
   </event>
   <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 10:13:31</dispatch_time>
-    <event_num>F21021507</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 10:13:56</dispatch_time>
-    <event_num>F21021508</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
     <prime_street>M6M</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-10 10:15:24</dispatch_time>
@@ -70,5 +30,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>421</beat>
     <units_disp> A421</units_disp>
+  </event>
+  <event>
+    <prime_street>M2K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 10:22:19</dispatch_time>
+    <event_num>F21021510</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116, P111</units_disp>
+  </event>
+  <event>
+    <prime_street>SCARSDALE RD, NY</prime_street>
+    <cross_streets>PREAKNESS DR / DON MILLS TRAIL</cross_streets>
+    <dispatch_time>2021-03-10 10:27:03</dispatch_time>
+    <event_num>F21021511</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> R122, P123, C11, P116, P125, T114</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>LAKE SHORE BLVD W / PARK LAWN RD</cross_streets>
+    <dispatch_time>2021-03-10 10:31:24</dispatch_time>
+    <event_num>F21021513</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 10:34:20</dispatch_time>
+    <event_num>F21021514</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> P113</units_disp>
+  </event>
+  <event>
+    <prime_street>NIAGARA ST, TT</prime_street>
+    <cross_streets>VICTORIA MEMORIAL SQUARE PARK TRL / VICTORIA MEMORIAL SQUARE PARK TRL</cross_streets>
+    <dispatch_time>2021-03-10 10:35:22</dispatch_time>
+    <event_num>F21021515</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> R426, P331, A331, C33, P332, P334, S445</units_disp>
+  </event>
+  <event>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 10:40:09</dispatch_time>
+    <event_num>F21021516</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> P422</units_disp>
   </event>
 </tfs_active_incidents>
