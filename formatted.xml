@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-10 16:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-10 16:50:02</update_from_db_time>
   <event>
     <prime_street>DUFFERIN ST, NY</prime_street>
     <cross_streets>PLAYFAIR AVE / CLAVER AVE</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> P121, C11, HZ145, P145, C14, T114</units_disp>
   </event>
   <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 15:52:16</dispatch_time>
-    <event_num>F21021629</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 15:55:26</dispatch_time>
-    <event_num>F21021631</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>ST CLAIR AVE W / MONDOVI GT</cross_streets>
     <dispatch_time>2021-03-10 16:13:47</dispatch_time>
@@ -52,23 +32,23 @@
     <units_disp> R423</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-10 16:16:57</dispatch_time>
-    <event_num>F21021639</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>TRETHEWEY DR, NY</prime_street>
+    <cross_streets>MARTHA EATON WAY / BROOKHAVEN DR</cross_streets>
+    <dispatch_time>2021-03-10 16:33:13</dispatch_time>
+    <event_num>F21021641</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>TREEVIEW DR, ET</prime_street>
-    <cross_streets>RIMILTON AVE / VALERMO DR</cross_streets>
-    <dispatch_time>2021-03-10 16:17:58</dispatch_time>
-    <event_num>F21021640</event_num>
-    <event_type>Wires Down - Hydro</event_type>
+    <prime_street>RYKERT CRES, EY</prime_street>
+    <cross_streets>BROADWAY AVE / RICHLEA CRCL</cross_streets>
+    <dispatch_time>2021-03-10 16:45:40</dispatch_time>
+    <event_num>F21021642</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
+    <beat>321</beat>
+    <units_disp> R321</units_disp>
   </event>
 </tfs_active_incidents>
