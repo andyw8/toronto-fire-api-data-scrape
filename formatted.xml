@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-10 10:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-10 10:50:02</update_from_db_time>
   <event>
     <prime_street>DUFFERIN ST, NY</prime_street>
     <cross_streets>PLAYFAIR AVE / CLAVER AVE</cross_streets>
@@ -89,6 +89,26 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>425</beat>
-    <units_disp> P422</units_disp>
+    <units_disp> P422, R425</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-10 10:43:40</dispatch_time>
+    <event_num>F21021517</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> A324</units_disp>
+  </event>
+  <event>
+    <prime_street>KIMBERCROFT CRT, SC</prime_street>
+    <cross_streets>20 KIMBERCROFT CRT / </cross_streets>
+    <dispatch_time>2021-03-10 10:46:32</dispatch_time>
+    <event_num>F21021518</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> R243</units_disp>
   </event>
 </tfs_active_incidents>
