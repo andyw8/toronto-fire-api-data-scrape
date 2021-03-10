@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-10 09:50:02</update_from_db_time>
-  <event>
-    <prime_street>WILSON AVE, NY</prime_street>
-    <cross_streets>AGATE RD / JULIAN RD</cross_streets>
-    <dispatch_time>2021-03-10 08:38:30</dispatch_time>
-    <event_num>F21021475</event_num>
-    <event_type>Rescue - Personal Entrapment</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P143, S143, C14, P146</units_disp>
-  </event>
+  <update_from_db_time>2021-03-10 10:25:01</update_from_db_time>
   <event>
     <prime_street>DUFFERIN ST, NY</prime_street>
     <cross_streets>PLAYFAIR AVE / CLAVER AVE</cross_streets>
@@ -19,66 +9,66 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>145</beat>
-    <units_disp> A133, C13, P113CA, P145, R133, R112, R134, A341, LA421, S313, C10, C14, P131, P135, HR332, HZ326, P342, CMD10</units_disp>
+    <units_disp> A133, C13, P113CA, P145, R133, R112, R134, A341, LA421, S313, C10, C14, P131, P135, HR332, HZ326, P342, CMD10, C30</units_disp>
   </event>
   <event>
-    <prime_street>M4A</prime_street>
+    <prime_street>M4W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-10 09:27:36</dispatch_time>
-    <event_num>F21021492</event_num>
+    <dispatch_time>2021-03-10 09:53:12</dispatch_time>
+    <event_num>F21021501</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>313</beat>
+    <units_disp> S313</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-10 09:33:11</dispatch_time>
-    <event_num>F21021493</event_num>
+    <dispatch_time>2021-03-10 10:01:22</dispatch_time>
+    <event_num>F21021504</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425</units_disp>
+    <beat>332</beat>
+    <units_disp> HR332</units_disp>
   </event>
   <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>VAUGHAN RD, YK</prime_street>
+    <cross_streets>LOUISE AVE / MAPLEWOOD AVE</cross_streets>
+    <dispatch_time>2021-03-10 10:11:03</dispatch_time>
+    <event_num>F21021506</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343, R423, C34, P311, P314, A135, R345, P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-10 09:34:49</dispatch_time>
-    <event_num>F21021494</event_num>
+    <dispatch_time>2021-03-10 10:13:31</dispatch_time>
+    <event_num>F21021507</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-10 09:38:47</dispatch_time>
-    <event_num>F21021496</event_num>
+    <dispatch_time>2021-03-10 10:13:56</dispatch_time>
+    <event_num>F21021508</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P222</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>M2N</prime_street>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-10 09:46:03</dispatch_time>
-    <event_num>F21021498</event_num>
+    <dispatch_time>2021-03-10 10:15:24</dispatch_time>
+    <event_num>F21021509</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>ANTIBES DR, NY</prime_street>
-    <cross_streets>TORRESDALE AVE / ANTIBES DR TORRESDALE AVE RAMP</cross_streets>
-    <dispatch_time>2021-03-10 09:46:42</dispatch_time>
-    <event_num>F21021499</event_num>
-    <event_type>Alarms Highrise Residential North</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> P141, P111, C11, T114, P311</units_disp>
+    <beat>421</beat>
+    <units_disp> A421</units_disp>
   </event>
 </tfs_active_incidents>
