@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-09 21:35:02</update_from_db_time>
+  <update_from_db_time>2021-03-09 21:50:02</update_from_db_time>
   <event>
     <prime_street>BECKETT AVE, NY</prime_street>
     <cross_streets>MAIDSTONE ST / FLEETWOOD AVE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>146</beat>
-    <units_disp> R133, P146, A133, C14, P142, P442, A142, S143, LA421, R421</units_disp>
+    <units_disp> R133, P146, A133, C14, P142, P442, A142, S143, LA421, R421, C14</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -30,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>121</beat>
     <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>M6R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-09 21:26:52</dispatch_time>
-    <event_num>F21021370</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
   </event>
   <event>
     <prime_street>M6M</prime_street>
@@ -70,5 +60,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
     <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-09 21:32:46</dispatch_time>
+    <event_num>F21021374</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-09 21:33:54</dispatch_time>
+    <event_num>F21021377</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> A426</units_disp>
+  </event>
+  <event>
+    <prime_street>DAVENPORT RD, TT</prime_street>
+    <cross_streets>HAZELTON AVE / AVENUE RD</cross_streets>
+    <dispatch_time>2021-03-09 21:42:17</dispatch_time>
+    <event_num>F21021378</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312, P311, A312, C31, P313</units_disp>
   </event>
 </tfs_active_incidents>
