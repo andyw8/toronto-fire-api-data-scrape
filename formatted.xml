@@ -1,64 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-11 13:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-11 14:00:04</update_from_db_time>
   <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>HUNTLEY ST, TT</prime_street>
+    <cross_streets>SELBY ST / BLOOR ST E</cross_streets>
+    <dispatch_time>2021-03-11 13:27:17</dispatch_time>
+    <event_num>F21021944</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> S313, A325, C31, P312, P313, P325</units_disp>
+  </event>
+  <event>
+    <prime_street>PATRICIA AVE, NY</prime_street>
+    <cross_streets>CANDY COURTWAY / BATHURST ST</cross_streets>
+    <dispatch_time>2021-03-11 13:41:01</dispatch_time>
+    <event_num>F21021948</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> S143, R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-11 12:33:16</dispatch_time>
-    <event_num>F21021925</event_num>
+    <dispatch_time>2021-03-11 13:52:29</dispatch_time>
+    <event_num>F21021949</event_num>
     <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415</units_disp>
-  </event>
-  <event>
-    <prime_street>KINGSWOOD RD, TT</prime_street>
-    <cross_streets>LN N KINGSTON W BINGHAM / WOODALE AVE</cross_streets>
-    <dispatch_time>2021-03-11 12:52:32</dispatch_time>
-    <event_num>F21021932</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P233, HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street>COLLINGWOOD ST, SC</prime_street>
-    <cross_streets>GORDON AVE / COLLINGWOOD PARK TRL</cross_streets>
-    <dispatch_time>2021-03-11 13:12:20</dispatch_time>
-    <event_num>F21021938</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> A244</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-11 13:17:21</dispatch_time>
-    <event_num>F21021941</event_num>
+    <dispatch_time>2021-03-11 13:54:10</dispatch_time>
+    <event_num>F21021950</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P141</units_disp>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-11 13:25:43</dispatch_time>
-    <event_num>F21021942</event_num>
+    <dispatch_time>2021-03-11 13:54:51</dispatch_time>
+    <event_num>F21021951</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-11 13:25:51</dispatch_time>
-    <event_num>F21021943</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P242</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
