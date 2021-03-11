@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-11 03:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-11 03:50:02</update_from_db_time>
   <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-11 03:25:11</dispatch_time>
-    <event_num>F21021797</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>SEWELL'S RD, SC</prime_street>
+    <cross_streets>WICKSON TRAIL PARK TRL / BRENYON WAY</cross_streets>
+    <dispatch_time>2021-03-11 03:36:36</dispatch_time>
+    <event_num>F21021798</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
   </event>
 </tfs_active_incidents>
