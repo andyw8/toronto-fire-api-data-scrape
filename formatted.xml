@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-11 15:35:02</update_from_db_time>
+  <update_from_db_time>2021-03-11 15:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>PLAXTON DR / ST CLAIR AVE E</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> A135, P132</units_disp>
   </event>
   <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-11 15:11:20</dispatch_time>
-    <event_num>F21021984</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
     <prime_street>M4C</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-11 15:25:18</dispatch_time>
@@ -60,5 +50,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>133</beat>
     <units_disp> A133</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-03-11 15:34:06</dispatch_time>
+    <event_num>F21021987</event_num>
+    <event_type>Vehicle Fire - Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> C22, P125, R321</units_disp>
   </event>
 </tfs_active_incidents>
