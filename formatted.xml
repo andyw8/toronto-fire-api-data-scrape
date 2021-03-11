@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-11 16:20:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>PLAXTON DR / ST CLAIR AVE E</cross_streets>
-    <dispatch_time>2021-03-11 14:43:40</dispatch_time>
-    <event_num>F21021976</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
+  <update_from_db_time>2021-03-11 16:35:02</update_from_db_time>
   <event>
     <prime_street>FALSTAFF AVE, NY</prime_street>
     <cross_streets>MAIDSTONE ST / SPRINGVIEW AVE</cross_streets>
@@ -20,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>146</beat>
     <units_disp> S143, A133</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTOVER HILL RD, YK</prime_street>
-    <cross_streets>DEWBOURNE AVE / LN S EGLINTON W WESTOVER HILL</cross_streets>
-    <dispatch_time>2021-03-11 15:59:01</dispatch_time>
-    <event_num>F21021993</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341, A341, P342, C13, P132, R134</units_disp>
   </event>
   <event>
     <prime_street>LAWRENCE AVE, NY</prime_street>
@@ -42,26 +22,6 @@
     <units_disp> P143, R133, P132</units_disp>
   </event>
   <event>
-    <prime_street>M4X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-11 16:08:41</dispatch_time>
-    <event_num>F21021995</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-11 16:11:06</dispatch_time>
-    <event_num>F21021996</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> A421</units_disp>
-  </event>
-  <event>
     <prime_street>PARKSIDE DR, TT</prime_street>
     <cross_streets>ALGONQUIN AVE / WRIGHT AVE</cross_streets>
     <dispatch_time>2021-03-11 16:15:07</dispatch_time>
@@ -69,6 +29,16 @@
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <units_disp> R426, A426</units_disp>
+  </event>
+  <event>
+    <prime_street>DAWES RD, EY</prime_street>
+    <cross_streets>CRESCENT TOWN RD / TAYLOR CREEK TRL</cross_streets>
+    <dispatch_time>2021-03-11 16:25:22</dispatch_time>
+    <event_num>F21022000</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
 </tfs_active_incidents>
