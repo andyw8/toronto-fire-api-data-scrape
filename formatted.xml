@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-11 15:40:02</update_from_db_time>
+  <update_from_db_time>2021-03-11 16:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>PLAXTON DR / ST CLAIR AVE E</cross_streets>
@@ -12,53 +12,63 @@
     <units_disp> R235</units_disp>
   </event>
   <event>
-    <prime_street>LYTTON BLVD, TT</prime_street>
-    <cross_streets>SNIDER PARKETTE TRL / DUPLEX AVE</cross_streets>
-    <dispatch_time>2021-03-11 14:44:14</dispatch_time>
-    <event_num>F21021978</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>FALSTAFF AVE, NY</prime_street>
+    <cross_streets>MAIDSTONE ST / SPRINGVIEW AVE</cross_streets>
+    <dispatch_time>2021-03-11 15:55:04</dispatch_time>
+    <event_num>F21021992</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134, P131</units_disp>
+    <beat>146</beat>
+    <units_disp> S143, A133</units_disp>
   </event>
   <event>
-    <prime_street>LATIMER AVE, TT</prime_street>
-    <cross_streets>LN N EGLINTON W LATIMER / CRESTVIEW RD</cross_streets>
-    <dispatch_time>2021-03-11 14:49:54</dispatch_time>
-    <event_num>F21021981</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>WESTOVER HILL RD, YK</prime_street>
+    <cross_streets>DEWBOURNE AVE / LN S EGLINTON W WESTOVER HILL</cross_streets>
+    <dispatch_time>2021-03-11 15:59:01</dispatch_time>
+    <event_num>F21021993</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135, P132</units_disp>
+    <beat>341</beat>
+    <units_disp> R341, A341, P342, C13, P132, R134</units_disp>
   </event>
   <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-11 15:25:18</dispatch_time>
-    <event_num>F21021985</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-11 15:30:52</dispatch_time>
-    <event_num>F21021986</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>KEELE ST / PIMLICO RD</cross_streets>
+    <dispatch_time>2021-03-11 16:03:32</dispatch_time>
+    <event_num>F21021994</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>133</beat>
-    <units_disp> A133</units_disp>
+    <units_disp> P143, R133, P132</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-11 15:34:06</dispatch_time>
-    <event_num>F21021987</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-11 16:08:41</dispatch_time>
+    <event_num>F21021995</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> C22, P125, R321</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-11 16:11:06</dispatch_time>
+    <event_num>F21021996</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> A421</units_disp>
+  </event>
+  <event>
+    <prime_street>PARKSIDE DR, TT</prime_street>
+    <cross_streets>ALGONQUIN AVE / WRIGHT AVE</cross_streets>
+    <dispatch_time>2021-03-11 16:15:07</dispatch_time>
+    <event_num>F21021997</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
