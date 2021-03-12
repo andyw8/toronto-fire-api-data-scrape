@@ -1,74 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-12 12:15:02</update_from_db_time>
+  <update_from_db_time>2021-03-12 12:50:02</update_from_db_time>
   <event>
-    <prime_street>M5S</prime_street>
+    <prime_street>M6J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-12 11:57:13</dispatch_time>
-    <event_num>F21022256</event_num>
+    <dispatch_time>2021-03-12 12:31:08</dispatch_time>
+    <event_num>F21022270</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> A312</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>GRENOBLE DR / GRENOBLE DR</cross_streets>
-    <dispatch_time>2021-03-12 12:00:28</dispatch_time>
-    <event_num>F21022257</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125, R235, A125, C11, P322</units_disp>
-  </event>
-  <event>
-    <prime_street>KEELE ST, NY</prime_street>
-    <cross_streets>COLVILLE RD / LAWRENCE AVE W</cross_streets>
-    <dispatch_time>2021-03-12 12:01:03</dispatch_time>
-    <event_num>F21022258</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
-  </event>
-  <event>
-    <prime_street>KINGSTON RD, TT</prime_street>
-    <cross_streets>MALVERN AVE / HANNAFORD ST</cross_streets>
-    <dispatch_time>2021-03-12 12:05:35</dispatch_time>
-    <event_num>F21022259</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226, P227, A226, C22, R224</units_disp>
+    <beat>331</beat>
+    <units_disp> S331, P331</units_disp>
   </event>
   <event>
     <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-12 12:08:06</dispatch_time>
-    <event_num>F21022260</event_num>
+    <dispatch_time>2021-03-12 12:36:32</dispatch_time>
+    <event_num>F21022272</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
   </event>
   <event>
-    <prime_street>M6J</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets>KING ST / GEORGE ST</cross_streets>
+    <dispatch_time>2021-03-12 12:42:06</dispatch_time>
+    <event_num>F21022273</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M1X</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-12 12:09:49</dispatch_time>
-    <event_num>F21022261</event_num>
+    <dispatch_time>2021-03-12 12:46:29</dispatch_time>
+    <event_num>F21022274</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
-    <prime_street>GILDER DR, SC</prime_street>
-    <cross_streets>MIDLAND AVE / EGLINTON AVE E</cross_streets>
-    <dispatch_time>2021-03-12 12:10:11</dispatch_time>
-    <event_num>F21022262</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> A231, C23, P221, P223, P232</units_disp>
+    <beat>211</beat>
+    <units_disp> P211</units_disp>
   </event>
 </tfs_active_incidents>
