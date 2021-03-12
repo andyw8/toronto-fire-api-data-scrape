@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-12 14:50:02</update_from_db_time>
-  <event>
-    <prime_street>YONGE ST, NY</prime_street>
-    <cross_streets>SHEPPARD AVE W / HARLANDALE AVE</cross_streets>
-    <dispatch_time>2021-03-12 14:12:04</dispatch_time>
-    <event_num>F21022304</event_num>
-    <event_type>Public Hazard</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
+  <update_from_db_time>2021-03-12 15:25:01</update_from_db_time>
   <event>
     <prime_street>WIDDICOMBE HILL BLVD, ET</prime_street>
     <cross_streets>KIPLING AVE / DENFIELD ST</cross_streets>
@@ -32,26 +22,6 @@
     <units_disp> A312</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-12 14:44:43</dispatch_time>
-    <event_num>F21022308</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-12 14:46:01</dispatch_time>
-    <event_num>F21022309</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>WESTON RD / GAYDON AVE</cross_streets>
     <dispatch_time>2021-03-12 14:46:34</dispatch_time>
@@ -60,5 +30,85 @@
     <alarm_lev>0</alarm_lev>
     <beat>146</beat>
     <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>PRINCES' BLVD, TT</prime_street>
+    <cross_streets>NEWFOUNDLAND RD / NUNAVUT RD</cross_streets>
+    <dispatch_time>2021-03-12 15:02:08</dispatch_time>
+    <event_num>F21022313</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344, P426, A331, C33, P332</units_disp>
+  </event>
+  <event>
+    <prime_street>RAKELY CRT, ET</prime_street>
+    <cross_streets>EGLINTON AVE W / LONE OAK CRT</cross_streets>
+    <dispatch_time>2021-03-12 15:05:11</dispatch_time>
+    <event_num>F21022314</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444, R413, A426, C43, P422, C43</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>THE WEST MALL / THE QUEENSWAY</cross_streets>
+    <dispatch_time>2021-03-12 15:05:27</dispatch_time>
+    <event_num>F21022315</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>CALEDONIA RD / LESWYN RD</cross_streets>
+    <dispatch_time>2021-03-12 15:14:01</dispatch_time>
+    <event_num>F21022317</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-12 15:14:59</dispatch_time>
+    <event_num>F21022318</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
+  </event>
+  <event>
+    <prime_street>MARSHLYNN AVE, NY</prime_street>
+    <cross_streets>SONNET CRT / BLACKSTONE ST</cross_streets>
+    <dispatch_time>2021-03-12 15:18:41</dispatch_time>
+    <event_num>F21022319</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> A421</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>MEDFORD AVE / DANFORTH RD</cross_streets>
+    <dispatch_time>2021-03-12 15:20:00</dispatch_time>
+    <event_num>F21022320</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> A222</units_disp>
+  </event>
+  <event>
+    <prime_street>SILVER SPRINGS BLVD, SC</prime_street>
+    <cross_streets>RAKEWOOD CRES / DANCY AVE</cross_streets>
+    <dispatch_time>2021-03-12 15:20:13</dispatch_time>
+    <event_num>F21022321</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
 </tfs_active_incidents>
