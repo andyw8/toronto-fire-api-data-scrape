@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-12 15:25:01</update_from_db_time>
+  <update_from_db_time>2021-03-12 15:45:02</update_from_db_time>
   <event>
     <prime_street>WIDDICOMBE HILL BLVD, ET</prime_street>
     <cross_streets>KIPLING AVE / DENFIELD ST</cross_streets>
@@ -10,86 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>443</beat>
     <units_disp> P443, R441, A415, C44, P445, P442, R441, C41, LA421, P415, P431, P432, PL432, S445, HR114, HZ145, R133, C34, CMD10, R444, C40, C43</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-12 14:40:33</dispatch_time>
-    <event_num>F21022307</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> A312</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>WESTON RD / GAYDON AVE</cross_streets>
-    <dispatch_time>2021-03-12 14:46:34</dispatch_time>
-    <event_num>F21022310</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>PRINCES' BLVD, TT</prime_street>
-    <cross_streets>NEWFOUNDLAND RD / NUNAVUT RD</cross_streets>
-    <dispatch_time>2021-03-12 15:02:08</dispatch_time>
-    <event_num>F21022313</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344, P426, A331, C33, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>RAKELY CRT, ET</prime_street>
-    <cross_streets>EGLINTON AVE W / LONE OAK CRT</cross_streets>
-    <dispatch_time>2021-03-12 15:05:11</dispatch_time>
-    <event_num>F21022314</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444, R413, A426, C43, P422, C43</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>THE WEST MALL / THE QUEENSWAY</cross_streets>
-    <dispatch_time>2021-03-12 15:05:27</dispatch_time>
-    <event_num>F21022315</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>CALEDONIA RD / LESWYN RD</cross_streets>
-    <dispatch_time>2021-03-12 15:14:01</dispatch_time>
-    <event_num>F21022317</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-12 15:14:59</dispatch_time>
-    <event_num>F21022318</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
-  </event>
-  <event>
-    <prime_street>MARSHLYNN AVE, NY</prime_street>
-    <cross_streets>SONNET CRT / BLACKSTONE ST</cross_streets>
-    <dispatch_time>2021-03-12 15:18:41</dispatch_time>
-    <event_num>F21022319</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> A421</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -102,13 +22,73 @@
     <units_disp> A222</units_disp>
   </event>
   <event>
-    <prime_street>SILVER SPRINGS BLVD, SC</prime_street>
-    <cross_streets>RAKEWOOD CRES / DANCY AVE</cross_streets>
-    <dispatch_time>2021-03-12 15:20:13</dispatch_time>
-    <event_num>F21022321</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-12 15:29:11</dispatch_time>
+    <event_num>F21022326</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>THE QUEENSWAY / GLENDALE AVE</cross_streets>
+    <dispatch_time>2021-03-12 15:30:19</dispatch_time>
+    <event_num>F21022327</event_num>
+    <event_type>Vehicle - Spill Clean Up - Non Emergency</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street>M2L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-12 15:31:48</dispatch_time>
+    <event_num>F21022329</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-12 15:33:58</dispatch_time>
+    <event_num>F21022330</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>CLONMORE DR, SC</prime_street>
+    <cross_streets>FALLINGBROOK RD / PARKLAND RD</cross_streets>
+    <dispatch_time>2021-03-12 15:38:21</dispatch_time>
+    <event_num>F21022331</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> P226, P227, R235, C22, R224, A322</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-12 15:40:36</dispatch_time>
+    <event_num>F21022332</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-12 15:41:38</dispatch_time>
+    <event_num>F21022333</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
