@@ -1,84 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-12 10:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-12 11:40:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>THE EAST MALL / NORTH QUEEN ST</cross_streets>
-    <dispatch_time>2021-03-12 10:13:39</dispatch_time>
-    <event_num>F21022228</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
-  </event>
-  <event>
-    <prime_street>MARLBANK RD, SC</prime_street>
-    <cross_streets>MINNOWBURN ST / BIRCHARD ST</cross_streets>
-    <dispatch_time>2021-03-12 10:20:52</dispatch_time>
-    <event_num>F21022230</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
+    <prime_street>M6S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-12 10:24:42</dispatch_time>
-    <event_num>F21022232</event_num>
+    <dispatch_time>2021-03-12 11:19:54</dispatch_time>
+    <event_num>F21022246</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132, P135</units_disp>
+    <beat>422</beat>
+    <units_disp> R423</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M4X</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-12 10:35:36</dispatch_time>
-    <event_num>F21022233</event_num>
+    <dispatch_time>2021-03-12 11:27:00</dispatch_time>
+    <event_num>F21022247</event_num>
     <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-12 10:36:49</dispatch_time>
-    <event_num>F21022234</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
-    <prime_street>M9M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-12 10:40:26</dispatch_time>
-    <event_num>F21022235</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-12 10:41:44</dispatch_time>
-    <event_num>F21022237</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
-  <event>
-    <prime_street>CHURCH ST, TT</prime_street>
-    <cross_streets>ISABELLA ST / CHARLES ST E</cross_streets>
-    <dispatch_time>2021-03-12 10:45:30</dispatch_time>
-    <event_num>F21022238</event_num>
-    <event_type>Fire - Highrise Commercial - Downtown</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>313</beat>
-    <units_disp> P313, R325, A312, C33, P333</units_disp>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>LAURELCREST AVE, NY</prime_street>
+    <cross_streets>CORWIN CRES / REDMOUNT RD</cross_streets>
+    <dispatch_time>2021-03-12 11:30:28</dispatch_time>
+    <event_num>F21022248</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145, P135, C13, P121, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-12 11:30:54</dispatch_time>
+    <event_num>F21022249</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-12 11:31:02</dispatch_time>
+    <event_num>F21022250</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
   </event>
 </tfs_active_incidents>
