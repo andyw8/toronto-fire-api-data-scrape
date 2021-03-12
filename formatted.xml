@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-12 05:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-12 05:50:02</update_from_db_time>
   <event>
     <prime_street>KIMBARK BLVD, NY</prime_street>
     <cross_streets>CARIBOU RD / LAWRENCE AVE W</cross_streets>
@@ -10,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
     <units_disp> A135, P132</units_disp>
+  </event>
+  <event>
+    <prime_street>COLE ST, TT</prime_street>
+    <cross_streets>PARLIAMENT ST / REGENT ST</cross_streets>
+    <dispatch_time>2021-03-12 05:37:15</dispatch_time>
+    <event_num>F21022168</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P325, A325, C33, P313, P333</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNN AVE, TT</prime_street>
+    <cross_streets>DUNN AVENUE PARKETTE TRL / QUEEN ST W</cross_streets>
+    <dispatch_time>2021-03-12 05:38:44</dispatch_time>
+    <event_num>F21022169</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426, A426, P315, P331, P344, C34</units_disp>
   </event>
 </tfs_active_incidents>
