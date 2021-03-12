@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-12 02:30:02</update_from_db_time>
-  <event>
-    <prime_street>MOUNTSTEPHEN ST, TT</prime_street>
-    <cross_streets>HAMILTON ST / BROADVIEW AVE</cross_streets>
-    <dispatch_time>2021-03-12 01:32:42</dispatch_time>
-    <event_num>F21022144</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> S313, P324, A324, C32, P323, P325</units_disp>
-  </event>
+  <update_from_db_time>2021-03-12 02:45:02</update_from_db_time>
   <event>
     <prime_street>M4W</prime_street>
     <cross_streets/>
@@ -20,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> A312</units_disp>
-  </event>
-  <event>
-    <prime_street>MCCORMACK ST, TT</prime_street>
-    <cross_streets>LN W WESTON S NORTHLAND / MAYBANK AVE</cross_streets>
-    <dispatch_time>2021-03-12 02:05:29</dispatch_time>
-    <event_num>F21022147</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> S445, R423</units_disp>
   </event>
   <event>
     <prime_street>M1J</prime_street>
@@ -50,5 +30,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
     <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-12 02:30:50</dispatch_time>
+    <event_num>F21022151</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
 </tfs_active_incidents>
