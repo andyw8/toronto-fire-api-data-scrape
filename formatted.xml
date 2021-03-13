@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-13 08:00:02</update_from_db_time>
+  <update_from_db_time>2021-03-13 08:25:02</update_from_db_time>
   <event>
     <prime_street>SHAFTESBURY AVE, TT</prime_street>
     <cross_streets>OTTAWA ST / LN W SUMMERHILL AVE N SHAFTESB</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>311</beat>
     <units_disp> A312, C31, P311, P312, S313, R134, LA333, R321, A135, C34, HZ326, P314, R325, P131, P135, C30, CMD30, CMD30C, P342, P324, P343, P311</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, YK</prime_street>
-    <cross_streets>GOOCH AVE / SCARLETT RD</cross_streets>
-    <dispatch_time>2021-03-13 07:25:15</dispatch_time>
-    <event_num>F21022543</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422, P431, R423, A421, C42, S445</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-13 07:31:26</dispatch_time>
-    <event_num>F21022545</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
   </event>
   <event>
     <prime_street>TANDRIDGE CRES, ET</prime_street>
@@ -49,6 +29,36 @@
     <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>146</beat>
-    <units_disp> P324, A142, C14, HZ145</units_disp>
+    <units_disp> A142, HZ145, P324, C14</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 08:08:19</dispatch_time>
+    <event_num>F21022554</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>243</beat>
+    <units_disp> R243</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 08:12:46</dispatch_time>
+    <event_num>F21022555</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M4B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 08:18:35</dispatch_time>
+    <event_num>F21022556</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
 </tfs_active_incidents>
