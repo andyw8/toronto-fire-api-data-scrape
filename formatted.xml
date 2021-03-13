@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-13 12:15:02</update_from_db_time>
+  <update_from_db_time>2021-03-13 12:40:02</update_from_db_time>
   <event>
     <prime_street>CANYON AVE, NY</prime_street>
     <cross_streets>SHEPPARD AVE W / BATHURST ST</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> R423, R425, A345, C42, P422, S445, R426</units_disp>
   </event>
   <event>
-    <prime_street>M3M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-13 11:57:36</dispatch_time>
-    <event_num>F21022607</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>VAUGHAN RD, YK</prime_street>
-    <cross_streets>LOUISE AVE / MAPLEWOOD AVE</cross_streets>
-    <dispatch_time>2021-03-13 11:58:47</dispatch_time>
-    <event_num>F21022610</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343, S331</units_disp>
-  </event>
-  <event>
     <prime_street>MEADOWVALE RD, SC</prime_street>
     <cross_streets>ZOO RD / OLD FINCH AVE</cross_streets>
     <dispatch_time>2021-03-13 12:02:57</dispatch_time>
@@ -52,23 +32,33 @@
     <units_disp> P211, WT211, P212, R214</units_disp>
   </event>
   <event>
-    <prime_street>LE PAGE CRT, NY</prime_street>
-    <cross_streets>CERAMIC RD / </cross_streets>
-    <dispatch_time>2021-03-13 12:11:46</dispatch_time>
-    <event_num>F21022612</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 12:22:46</dispatch_time>
+    <event_num>F21022615</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> S143</units_disp>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>PHARMACY AVE / MCNICOLL AVE</cross_streets>
-    <dispatch_time>2021-03-13 12:11:59</dispatch_time>
-    <event_num>F21022613</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>JANE ST, NY</prime_street>
+    <cross_streets>CANE GRASSWAY / YEWTREE BLVD</cross_streets>
+    <dispatch_time>2021-03-13 12:30:09</dispatch_time>
+    <event_num>F21022617</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>142</beat>
+    <units_disp> P146</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>SIMCOE ST / ST PATRICK ST</cross_streets>
+    <dispatch_time>2021-03-13 12:36:35</dispatch_time>
+    <event_num>F21022619</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P331, A315, C33, P333</units_disp>
   </event>
 </tfs_active_incidents>
