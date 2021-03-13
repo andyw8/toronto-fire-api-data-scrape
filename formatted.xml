@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-13 15:25:02</update_from_db_time>
+  <update_from_db_time>2021-03-13 15:45:02</update_from_db_time>
   <event>
     <prime_street>SYMINGTON AVE, TT</prime_street>
     <cross_streets>PATON RD / ERNEST AVE</cross_streets>
@@ -22,76 +22,6 @@
     <units_disp> A142, P141, C14</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-13 14:46:41</dispatch_time>
-    <event_num>F21022652</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-13 15:09:12</dispatch_time>
-    <event_num>F21022662</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>SUNDERLAND CRES, SC</prime_street>
-    <cross_streets>LYNNBROOK DR / LYNNBROOK DR</cross_streets>
-    <dispatch_time>2021-03-13 15:11:44</dispatch_time>
-    <event_num>F21022663</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231</units_disp>
-  </event>
-  <event>
-    <prime_street>GARROW AVE, YK</prime_street>
-    <cross_streets> / HILLDALE RD</cross_streets>
-    <dispatch_time>2021-03-13 15:13:11</dispatch_time>
-    <event_num>F21022664</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
-  <event>
-    <prime_street>DEVERELL CRES, NY</prime_street>
-    <cross_streets>WINSTON PARK BLVD / WINSTON PARK BLVD</cross_streets>
-    <dispatch_time>2021-03-13 15:15:27</dispatch_time>
-    <event_num>F21022665</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>SHUTER ST / DUNDAS ST E</cross_streets>
-    <dispatch_time>2021-03-13 15:15:54</dispatch_time>
-    <event_num>F21022666</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, A325, C33, P314, P333</units_disp>
-  </event>
-  <event>
-    <prime_street>GREENCREST CRCT, SC</prime_street>
-    <cross_streets>HOLMFIRTH TER / LAWRENCE AVE E</cross_streets>
-    <dispatch_time>2021-03-13 15:17:32</dispatch_time>
-    <event_num>F21022667</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> A231, S232</units_disp>
-  </event>
-  <event>
     <prime_street>M3C</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-13 15:17:25</dispatch_time>
@@ -102,33 +32,63 @@
     <units_disp> R235</units_disp>
   </event>
   <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-13 15:17:39</dispatch_time>
-    <event_num>F21022669</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>JAMESON AVE, TT</prime_street>
+    <cross_streets>LAXTON AVE / QUEEN ST W</cross_streets>
+    <dispatch_time>2021-03-13 15:28:28</dispatch_time>
+    <event_num>F21022673</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> A222</units_disp>
+    <beat>426</beat>
+    <units_disp> R426, A426, R425, P331, P344, C42</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-13 15:17:46</dispatch_time>
-    <event_num>F21022670</event_num>
+    <dispatch_time>2021-03-13 15:32:32</dispatch_time>
+    <event_num>F21022674</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M2M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 15:35:41</dispatch_time>
+    <event_num>F21022675</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Z</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 15:36:22</dispatch_time>
+    <event_num>F21022676</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>435</beat>
     <units_disp> R435</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>WILSON AVE, NY</prime_street>
+    <cross_streets>PLEASANT HOME BLVD / AGATE RD</cross_streets>
+    <dispatch_time>2021-03-13 15:37:29</dispatch_time>
+    <event_num>F21022677</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146, P145, A133, C13, R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-13 15:21:06</dispatch_time>
-    <event_num>F21022671</event_num>
+    <dispatch_time>2021-03-13 15:39:47</dispatch_time>
+    <event_num>F21022678</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P332</units_disp>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
 </tfs_active_incidents>
