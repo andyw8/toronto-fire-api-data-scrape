@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-13 08:40:02</update_from_db_time>
+  <update_from_db_time>2021-03-13 09:20:02</update_from_db_time>
   <event>
     <prime_street>SHAFTESBURY AVE, TT</prime_street>
     <cross_streets>OTTAWA ST / LN W SUMMERHILL AVE N SHAFTESB</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>311</beat>
     <units_disp> A312, C31, P311, P312, S313, R134, LA333, R321, A135, C34, HZ326, P314, R325, P131, P135, C30, CMD30, CMD30C, P342, P324, P343, P311</units_disp>
-  </event>
-  <event>
-    <prime_street>MELODY RD, NY</prime_street>
-    <cross_streets>ANN ARBOUR RD / STRATHBURN BLVD</cross_streets>
-    <dispatch_time>2021-03-13 07:54:04</dispatch_time>
-    <event_num>F21022552</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> A142, HZ145, P324, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-13 08:08:19</dispatch_time>
-    <event_num>F21022554</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-13 08:18:35</dispatch_time>
-    <event_num>F21022556</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
   </event>
   <event>
     <prime_street>M6J</prime_street>
@@ -52,13 +22,73 @@
     <units_disp> P331</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>ELLESMERE RD, SC</prime_street>
+    <cross_streets>MARKHAM RD / GANDER DR</cross_streets>
+    <dispatch_time>2021-03-13 08:59:13</dispatch_time>
+    <event_num>F21022563</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> R213, R231, A231, P234, R243, C23</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-13 08:33:33</dispatch_time>
-    <event_num>F21022559</event_num>
+    <dispatch_time>2021-03-13 09:02:34</dispatch_time>
+    <event_num>F21022564</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>331</beat>
+    <units_disp> A331, S331</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 09:04:29</dispatch_time>
+    <event_num>F21022565</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>MARKHAM RD, SC</prime_street>
+    <cross_streets>MILNER AVE / ROSEBANK DR</cross_streets>
+    <dispatch_time>2021-03-13 09:09:37</dispatch_time>
+    <event_num>F21022566</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> R213, P212, A213, C21, P211, C23, R243</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNLOE RD, TT</prime_street>
+    <cross_streets>KILBARRY RD / HAWARDEN CRES</cross_streets>
+    <dispatch_time>2021-03-13 09:11:01</dispatch_time>
+    <event_num>F21022567</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> C13, P135, R134, A341, P342, P343</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>GORE VALE AVE / STRACHAN AVE</cross_streets>
+    <dispatch_time>2021-03-13 09:11:48</dispatch_time>
+    <event_num>F21022569</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> R426, P332, C33, P315, P344, A426</units_disp>
+  </event>
+  <event>
+    <prime_street>M4G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 09:15:27</dispatch_time>
+    <event_num>F21022570</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>131</beat>
+    <units_disp> P131</units_disp>
   </event>
 </tfs_active_incidents>
