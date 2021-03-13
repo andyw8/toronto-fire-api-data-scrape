@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-13 01:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-13 01:55:01</update_from_db_time>
   <event>
     <prime_street>FINCH AVE, SC</prime_street>
     <cross_streets>BEARE RD / PICKERING TOWN LINE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>212</beat>
-    <units_disp> P211, R213, R214, WT211, P212, R243, P242, C21, C20, LA231, REHAB01, C24, P234, R241</units_disp>
+    <units_disp> P211, R213, R214, WT211, P212, R243, P242, C21, C20, LA231, REHAB01, C24, P234, R241, A215, P232</units_disp>
   </event>
   <event>
     <prime_street>SHAFTESBURY AVE, TT</prime_street>
@@ -19,56 +19,46 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>311</beat>
-    <units_disp> A312, C31, P311, P312, S313, R134, LA333, R321, A135, C34, HZ326, P314, R325, P131, P135, C30, CMD30, CMD30C</units_disp>
+    <units_disp> A312, C31, P311, P312, S313, R134, LA333, R321, A135, C34, HZ326, P314, R325, P131, P135, C30, CMD30, CMD30C, P342</units_disp>
   </event>
   <event>
-    <prime_street>DAWES RD, EY</prime_street>
-    <cross_streets>CAPTAIN DEMONT LANE / BETH ST</cross_streets>
-    <dispatch_time>2021-03-13 01:02:33</dispatch_time>
-    <event_num>F21022502</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R225, A222, C22, P226, R224, R235, A222</units_disp>
-  </event>
-  <event>
-    <prime_street>LILLIAN ST, TT</prime_street>
-    <cross_streets>SOUDAN AVE / EGLINTON AVE E</cross_streets>
-    <dispatch_time>2021-03-13 01:02:33</dispatch_time>
-    <event_num>F21022503</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> P135, P322, A125, P132, C34, A135</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-13 01:07:39</dispatch_time>
-    <event_num>F21022505</event_num>
+    <dispatch_time>2021-03-13 01:38:24</dispatch_time>
+    <event_num>F21022510</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> A331</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
   <event>
-    <prime_street>WELSFORD GDNS, NY</prime_street>
-    <cross_streets>ROWENA DR / CASSANDRA BLVD</cross_streets>
-    <dispatch_time>2021-03-13 01:09:20</dispatch_time>
-    <event_num>F21022506</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>YORKVILLE AVE, TT</prime_street>
+    <cross_streets>YONGE ST / LN W YONGE S YORKVILLE</cross_streets>
+    <dispatch_time>2021-03-13 01:45:10</dispatch_time>
+    <event_num>F21022511</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233, P245, A244, C11, P123</units_disp>
+    <beat>312</beat>
+    <units_disp> P313</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-13 01:12:32</dispatch_time>
-    <event_num>F21022507</event_num>
+    <dispatch_time>2021-03-13 01:50:30</dispatch_time>
+    <event_num>F21022512</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P113</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 01:50:37</dispatch_time>
+    <event_num>F21022513</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> R435</units_disp>
   </event>
 </tfs_active_incidents>
