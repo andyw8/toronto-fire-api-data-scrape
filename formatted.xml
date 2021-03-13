@@ -1,94 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-12 20:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-12 21:35:02</update_from_db_time>
   <event>
-    <prime_street>CHALKFARM DR, NY</prime_street>
-    <cross_streets>MARLINGTON CRES / MARLINGTON CRES</cross_streets>
-    <dispatch_time>2021-03-12 20:24:22</dispatch_time>
-    <event_num>F21022429</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-03-12 20:58:35</dispatch_time>
+    <event_num>F21022443</event_num>
+    <event_type>Vehicle Fire - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146, S143</units_disp>
+    <beat>116</beat>
+    <units_disp> P116, R115, C11</units_disp>
   </event>
   <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>PARKCREST DR, SC</prime_street>
+    <cross_streets>ANNIS RD / KINGSTON RD</cross_streets>
+    <dispatch_time>2021-03-12 21:12:16</dispatch_time>
+    <event_num>F21022448</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223, P234, A231, C23, P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-12 20:32:42</dispatch_time>
-    <event_num>F21022431</event_num>
+    <dispatch_time>2021-03-12 21:23:43</dispatch_time>
+    <event_num>F21022451</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
   <event>
     <prime_street>M1N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-12 20:34:28</dispatch_time>
-    <event_num>F21022432</event_num>
+    <dispatch_time>2021-03-12 21:23:55</dispatch_time>
+    <event_num>F21022452</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
   <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-12 20:41:23</dispatch_time>
-    <event_num>F21022435</event_num>
+    <dispatch_time>2021-03-12 21:28:04</dispatch_time>
+    <event_num>F21022453</event_num>
     <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>PAPE AVE, EY</prime_street>
+    <cross_streets>GAMBLE AVE / TORRENS AVE</cross_streets>
+    <dispatch_time>2021-03-12 21:28:36</dispatch_time>
+    <event_num>F21022454</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>322</beat>
     <units_disp> P322</units_disp>
   </event>
   <event>
-    <prime_street>CHESTNUT PK, TT</prime_street>
-    <cross_streets>ROXBOROUGH ST E / CLUNY DR</cross_streets>
-    <dispatch_time>2021-03-12 20:45:43</dispatch_time>
-    <event_num>F21022436</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>ST GEORGE ST / HURON ST</cross_streets>
+    <dispatch_time>2021-03-12 21:31:45</dispatch_time>
+    <event_num>F21022455</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
-    <units_disp> A312, C31, P311, P312, P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-12 20:49:17</dispatch_time>
-    <event_num>F21022437</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-12 20:49:58</dispatch_time>
-    <event_num>F21022438</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-12 20:51:18</dispatch_time>
-    <event_num>F21022439</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-12 20:51:33</dispatch_time>
-    <event_num>F21022440</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
+    <units_disp> P312, P315, A312, C31, P332</units_disp>
   </event>
 </tfs_active_incidents>
