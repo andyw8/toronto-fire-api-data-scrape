@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-13 02:20:03</update_from_db_time>
+  <update_from_db_time>2021-03-13 02:30:03</update_from_db_time>
   <event>
     <prime_street>FINCH AVE, SC</prime_street>
     <cross_streets>BEARE RD / PICKERING TOWN LINE</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> A312, C31, P311, P312, S313, R134, LA333, R321, A135, C34, HZ326, P314, R325, P131, P135, C30, CMD30, CMD30C, P342</units_disp>
   </event>
   <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-13 01:54:18</dispatch_time>
-    <event_num>F21022515</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
-  </event>
-  <event>
     <prime_street>DUNDAS ST, ET</prime_street>
     <cross_streets>ACORN AVE / POPLAR AVE</cross_streets>
     <dispatch_time>2021-03-13 02:12:23</dispatch_time>
@@ -40,15 +30,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
     <units_disp> P445, P432, C44, P431, PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-13 02:14:32</dispatch_time>
-    <event_num>F21022517</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
   </event>
 </tfs_active_incidents>
