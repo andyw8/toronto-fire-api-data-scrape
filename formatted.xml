@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-13 09:35:02</update_from_db_time>
-  <event>
-    <prime_street>SHAFTESBURY AVE, TT</prime_street>
-    <cross_streets>OTTAWA ST / LN W SUMMERHILL AVE N SHAFTESB</cross_streets>
-    <dispatch_time>2021-03-12 23:09:58</dispatch_time>
-    <event_num>F21022476</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>311</beat>
-    <units_disp> A312, C31, P311, P312, S313, R134, LA333, R321, A135, C34, HZ326, P314, R325, P131, P135, C30, CMD30, CMD30C, P342, P324, P343, P311</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-13 09:02:34</dispatch_time>
-    <event_num>F21022564</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> A331, S331</units_disp>
-  </event>
+  <update_from_db_time>2021-03-13 09:45:02</update_from_db_time>
   <event>
     <prime_street>MARKHAM RD, SC</prime_street>
     <cross_streets>MILNER AVE / ROSEBANK DR</cross_streets>
@@ -80,5 +60,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>241</beat>
     <units_disp> R241</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 09:35:49</dispatch_time>
+    <event_num>F21022575</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 09:37:01</dispatch_time>
+    <event_num>F21022576</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M5N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 09:38:27</dispatch_time>
+    <event_num>F21022577</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 09:41:40</dispatch_time>
+    <event_num>F21022578</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
 </tfs_active_incidents>
