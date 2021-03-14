@@ -1,34 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-13 23:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-13 23:55:02</update_from_db_time>
   <event>
-    <prime_street>SYMINGTON AVE, TT</prime_street>
-    <cross_streets>PATON RD / ERNEST AVE</cross_streets>
-    <dispatch_time>2021-03-13 11:48:59</dispatch_time>
-    <event_num>F21022604</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 23:44:32</dispatch_time>
+    <event_num>F21022829</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R423, R425, A345, C42, P422, S445, R426, P342, FI8, FI21</units_disp>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
   </event>
   <event>
-    <prime_street>ROSELAWN AVE, TT</prime_street>
-    <cross_streets>CASTLEWOOD RD / LATIMER AVE</cross_streets>
-    <dispatch_time>2021-03-13 23:23:38</dispatch_time>
-    <event_num>F21022824</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-13 23:51:05</dispatch_time>
+    <event_num>F21022830</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135</units_disp>
-  </event>
-  <event>
-    <prime_street>THURODALE AVE, NY</prime_street>
-    <cross_streets>BROOKHAVEN DR / CHISWICK AVE</cross_streets>
-    <dispatch_time>2021-03-13 23:26:36</dispatch_time>
-    <event_num>F21022825</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R341, S143, C13, R133</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
 </tfs_active_incidents>
