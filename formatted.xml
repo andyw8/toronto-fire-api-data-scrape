@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-14 10:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-14 11:25:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>WESTON RD / ALBION RD</cross_streets>
@@ -9,86 +9,36 @@
     <event_type>Fire - Encampment</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>146</beat>
-    <units_disp> P146, P442, C41, P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-14 10:12:08</dispatch_time>
-    <event_num>F21022922</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-14 10:28:42</dispatch_time>
-    <event_num>F21022927</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <units_disp> P146, P442, C41, P442, P142</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-14 10:33:49</dispatch_time>
-    <event_num>F21022928</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> P244, P245</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-14 10:33:59</dispatch_time>
-    <event_num>F21022929</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-14 10:34:53</dispatch_time>
-    <event_num>F21022930</event_num>
-    <event_type>MEDICAL</event_type>
+    <cross_streets>BRIDLETOWNE CRCL / FINCH AVE E</cross_streets>
+    <dispatch_time>2021-03-14 11:11:54</dispatch_time>
+    <event_num>F21022938</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>241</beat>
     <units_disp> R241</units_disp>
   </event>
   <event>
-    <prime_street>M3M</prime_street>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-14 10:36:46</dispatch_time>
-    <event_num>F21022931</event_num>
+    <dispatch_time>2021-03-14 11:19:55</dispatch_time>
+    <event_num>F21022939</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P142</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
   <event>
-    <prime_street>BAYHAMPTON CRT, NY</prime_street>
-    <cross_streets>CEDAR SPRINGS GRV / CEDAR SPRINGS GRV</cross_streets>
-    <dispatch_time>2021-03-14 10:37:03</dispatch_time>
-    <event_num>F21022932</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P113, C14, HZ145, P143</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
+    <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-14 10:37:45</dispatch_time>
-    <event_num>F21022933</event_num>
+    <dispatch_time>2021-03-14 11:21:48</dispatch_time>
+    <event_num>F21022940</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
