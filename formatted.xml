@@ -1,44 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-14 21:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-14 22:30:02</update_from_db_time>
   <event>
-    <prime_street>SEWELL'S RD, SC</prime_street>
-    <cross_streets>OLD FINCH AVE / HEPC</cross_streets>
-    <dispatch_time>2021-03-14 21:01:10</dispatch_time>
-    <event_num>F21023105</event_num>
-    <event_type>Vehicle Fire</event_type>
+    <prime_street>MARKHAM RD, SC</prime_street>
+    <cross_streets>DUNELM ST / BLAKEMANOR BLVD</cross_streets>
+    <dispatch_time>2021-03-14 22:05:15</dispatch_time>
+    <event_num>F21023119</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> S232, A231</units_disp>
+  </event>
+  <event>
+    <prime_street>CRITTENDEN SQ, SC</prime_street>
+    <cross_streets>CROW TRL / CROW TRL</cross_streets>
+    <dispatch_time>2021-03-14 22:08:11</dispatch_time>
+    <event_num>F21023120</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>211</beat>
-    <units_disp> P211, P212</units_disp>
+    <units_disp> P211</units_disp>
   </event>
   <event>
-    <prime_street>PELHAM PARK GDNS, TT</prime_street>
-    <cross_streets>OSLER ST / OSLER ST</cross_streets>
-    <dispatch_time>2021-03-14 21:17:59</dispatch_time>
-    <event_num>F21023109</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423, C42, P422, R425, P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M6C</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-14 21:47:55</dispatch_time>
-    <event_num>F21023113</event_num>
+    <dispatch_time>2021-03-14 22:17:59</dispatch_time>
+    <event_num>F21023122</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
   </event>
   <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-14 21:48:31</dispatch_time>
-    <event_num>F21023114</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>BARTLETT AVE N / GEARY AVE</cross_streets>
+    <dispatch_time>2021-03-14 22:19:58</dispatch_time>
+    <event_num>F21023123</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
   </event>
 </tfs_active_incidents>
