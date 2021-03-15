@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-15 09:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-15 09:50:02</update_from_db_time>
   <event>
     <prime_street>MELROSE AVE, TT</prime_street>
     <cross_streets>GREER RD / ELM RD</cross_streets>
@@ -20,26 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>121</beat>
     <units_disp> A135, C11, P116, P121, R122</units_disp>
-  </event>
-  <event>
-    <prime_street>KINGSTON RD, SC</prime_street>
-    <cross_streets>MIDLAND AVE / CHINE DR</cross_streets>
-    <dispatch_time>2021-03-15 09:12:34</dispatch_time>
-    <event_num>F21023210</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223, P221, A222, C22, R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M5S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-15 09:18:19</dispatch_time>
-    <event_num>F21023212</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
   </event>
   <event>
     <prime_street>M9A</prime_street>
@@ -62,13 +42,43 @@
     <units_disp> P116</units_disp>
   </event>
   <event>
-    <prime_street>GERRARD ST, TT</prime_street>
-    <cross_streets>YONGE ST / BAY ST</cross_streets>
-    <dispatch_time>2021-03-15 09:25:58</dispatch_time>
-    <event_num>F21023215</event_num>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-15 09:35:09</dispatch_time>
+    <event_num>F21023218</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-15 09:44:21</dispatch_time>
+    <event_num>F21023219</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>JANE ST, NY</prime_street>
+    <cross_streets>EDDYSTONE AVE / FIRGROVE CRES</cross_streets>
+    <dispatch_time>2021-03-15 09:46:28</dispatch_time>
+    <event_num>F21023220</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, A312, C31, P332, R325</units_disp>
+    <beat>142</beat>
+    <units_disp> P142, P146, A142, C14, P141</units_disp>
+  </event>
+  <event>
+    <prime_street>DAVENPORT RD, TT</prime_street>
+    <cross_streets>WESTMORELAND AVE N / SALEM AVE N</cross_streets>
+    <dispatch_time>2021-03-15 09:46:32</dispatch_time>
+    <event_num>F21023221</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343, R341, A345, C34, P342, R426</units_disp>
   </event>
 </tfs_active_incidents>
