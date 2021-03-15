@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-15 19:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-15 19:55:02</update_from_db_time>
   <event>
     <prime_street>M9P</prime_street>
     <cross_streets/>
@@ -22,26 +22,6 @@
     <units_disp> A215</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-15 19:08:57</dispatch_time>
-    <event_num>F21023392</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
-  </event>
-  <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-15 19:15:06</dispatch_time>
-    <event_num>F21023393</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
-  <event>
     <prime_street>ROWENA DR, NY</prime_street>
     <cross_streets>WELSFORD GDNS / VICTORIA PARK AVE</cross_streets>
     <dispatch_time>2021-03-15 19:15:12</dispatch_time>
@@ -50,5 +30,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>233</beat>
     <units_disp> R235, P245, A125, C11, P123, P125</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN'S PLATE DR, ET</prime_street>
+    <cross_streets>TRIPLE CROWN AVE / REXDALE BLVD</cross_streets>
+    <dispatch_time>2021-03-15 19:23:50</dispatch_time>
+    <event_num>F21023396</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
+  </event>
+  <event>
+    <prime_street>ENDERBY RD, TT</prime_street>
+    <cross_streets>GERRARD ST E / NORWOOD TER</cross_streets>
+    <dispatch_time>2021-03-15 19:24:16</dispatch_time>
+    <event_num>F21023397</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> R325, P226, R224, A226, C32, P323, P227</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-15 19:39:34</dispatch_time>
+    <event_num>F21023400</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>SARANAC BLVD, NY</prime_street>
+    <cross_streets>LN W BATHURST N SARANAC / BATHURST ST</cross_streets>
+    <dispatch_time>2021-03-15 19:40:54</dispatch_time>
+    <event_num>F21023401</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> S143, P132</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>WHEELER AVE / LEE AVE</cross_streets>
+    <dispatch_time>2021-03-15 19:47:51</dispatch_time>
+    <event_num>F21023403</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>2</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227, P323, A324, C32, P324, R225, A322, LA333, P322, R325, S313, C22, R235, HZ326, P333</units_disp>
   </event>
 </tfs_active_incidents>
