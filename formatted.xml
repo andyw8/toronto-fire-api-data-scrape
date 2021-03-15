@@ -1,74 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-15 11:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-15 11:55:02</update_from_db_time>
   <event>
-    <prime_street>M9B</prime_street>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-15 10:59:56</dispatch_time>
-    <event_num>F21023245</event_num>
+    <dispatch_time>2021-03-15 11:35:23</dispatch_time>
+    <event_num>F21023257</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
   </event>
   <event>
-    <prime_street>CRESCENT PL, EY</prime_street>
-    <cross_streets>CRESCENT TOWN RD / CRESCENT TOWN RD</cross_streets>
-    <dispatch_time>2021-03-15 11:01:40</dispatch_time>
-    <event_num>F21023246</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> R235, P226, A226, P227, R224, C32, R224, P221, A222</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-15 11:20:30</dispatch_time>
-    <event_num>F21023249</event_num>
+    <dispatch_time>2021-03-15 11:44:45</dispatch_time>
+    <event_num>F21023258</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
   </event>
   <event>
-    <prime_street>M9A</prime_street>
+    <prime_street>M5V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-15 11:20:43</dispatch_time>
-    <event_num>F21023250</event_num>
+    <dispatch_time>2021-03-15 11:47:39</dispatch_time>
+    <event_num>F21023259</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> S445</units_disp>
+    <beat>334</beat>
+    <units_disp> P344</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>BLUE JAYS WAY, TT</prime_street>
+    <cross_streets>NORTHERN LINEAR PARK TRL / FRONT ST W</cross_streets>
+    <dispatch_time>2021-03-15 11:48:34</dispatch_time>
+    <event_num>F21023260</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P332, P331, A325, C33, HR332, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-15 11:24:27</dispatch_time>
-    <event_num>F21023251</event_num>
+    <dispatch_time>2021-03-15 11:49:34</dispatch_time>
+    <event_num>F21023261</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-15 11:25:14</dispatch_time>
-    <event_num>F21023252</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
-  </event>
-  <event>
-    <prime_street>LANSDOWNE AVE, TT</prime_street>
-    <cross_streets>DUPONT ST / BRANDON AVE</cross_streets>
-    <dispatch_time>2021-03-15 11:26:09</dispatch_time>
-    <event_num>F21023253</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R423, R426, P343, A423, C42</units_disp>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
 </tfs_active_incidents>
