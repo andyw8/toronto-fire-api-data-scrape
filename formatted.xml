@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-16 01:15:02</update_from_db_time>
+  <update_from_db_time>2021-03-16 01:40:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>WHEELER AVE / LEE AVE</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>227</beat>
     <units_disp> P227, P323, A324, C32, P324, R225, C22, R235, A322, HZ326, LA333, P322, P333, R325, S313, CMD30, CMD30C, C20, R224, P221, P233</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTON RD, YK</prime_street>
-    <cross_streets>DENNIS AVE / BARR AVE</cross_streets>
-    <dispatch_time>2021-03-16 01:00:10</dispatch_time>
-    <event_num>F21023474</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 01:01:54</dispatch_time>
-    <event_num>F21023476</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 01:02:17</dispatch_time>
-    <event_num>F21023477</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
   </event>
   <event>
     <prime_street>M8Y</prime_street>
@@ -52,13 +22,13 @@
     <units_disp> P433</units_disp>
   </event>
   <event>
-    <prime_street>MARGUERETTA ST, TT</prime_street>
-    <cross_streets>SUSAN TIBALDI PARKETTE TRL / WALLACE AVE</cross_streets>
-    <dispatch_time>2021-03-16 01:06:39</dispatch_time>
-    <event_num>F21023479</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-16 01:34:51</dispatch_time>
+    <event_num>F21023481</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
   </event>
 </tfs_active_incidents>
