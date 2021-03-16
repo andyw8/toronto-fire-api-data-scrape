@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-16 05:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-16 06:20:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>WHEELER AVE / LEE AVE</cross_streets>
@@ -22,43 +22,23 @@
     <units_disp> A315, C33, P331, P332, P334, S331, R426, C34, HZ326, LA333, P315, P344, R341, A426, P426, C30, CMD30, CMD30C, HR332</units_disp>
   </event>
   <event>
-    <prime_street>ARBORETUM LANE, NY</prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-16 05:30:58</dispatch_time>
-    <event_num>F21023507</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> R411, P141, A142, C14, P142, P143</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
+    <prime_street>M5J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-16 05:33:07</dispatch_time>
-    <event_num>F21023508</event_num>
+    <dispatch_time>2021-03-16 06:11:44</dispatch_time>
+    <event_num>F21023512</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
+    <beat>326</beat>
+    <units_disp> HZ326</units_disp>
   </event>
   <event>
-    <prime_street>M6J</prime_street>
+    <prime_street>M6H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-16 05:43:27</dispatch_time>
-    <event_num>F21023509</event_num>
+    <dispatch_time>2021-03-16 06:13:43</dispatch_time>
+    <event_num>F21023513</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M4N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 05:43:56</dispatch_time>
-    <event_num>F21023510</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
   </event>
 </tfs_active_incidents>
