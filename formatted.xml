@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-16 10:25:02</update_from_db_time>
+  <update_from_db_time>2021-03-16 10:40:02</update_from_db_time>
   <event>
     <prime_street>STRACHAN AVE, TT</prime_street>
     <cross_streets>KING ST W / ADELAIDE ST W</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>331</beat>
-    <units_disp> A315, C33, P331, P332, P334, S331, R426, C34, HZ326, LA333, P315, P344, R341, A426, P426, C30, CMD30, CMD30C, HR332, C33, P332, P334</units_disp>
+    <units_disp> A315, C33, P331, P332, P334, S331, R426, C34, HZ326, LA333, P315, P344, R341, A426, P426, C30, CMD30, CMD30C, HR332, C33, P332, P334, FI16</units_disp>
   </event>
   <event>
     <prime_street>SHIER DR, SC</prime_street>
@@ -42,16 +42,6 @@
     <units_disp> P141</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 10:00:14</dispatch_time>
-    <event_num>F21023567</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
     <prime_street>QUEEN'S PLATE DR, ET</prime_street>
     <cross_streets>TRIPLE CROWN AVE / REXDALE BLVD</cross_streets>
     <dispatch_time>2021-03-16 10:08:22</dispatch_time>
@@ -62,16 +52,6 @@
     <units_disp> R412, P415, A415, C41, R413</units_disp>
   </event>
   <event>
-    <prime_street>M5G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 10:18:47</dispatch_time>
-    <event_num>F21023571</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
     <prime_street>M3A</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-16 10:19:36</dispatch_time>
@@ -80,5 +60,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>123</beat>
     <units_disp> P123</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-16 10:36:38</dispatch_time>
+    <event_num>F21023576</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
   </event>
 </tfs_active_incidents>
