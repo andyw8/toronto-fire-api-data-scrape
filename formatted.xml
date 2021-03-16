@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-16 09:00:02</update_from_db_time>
+  <update_from_db_time>2021-03-16 09:30:02</update_from_db_time>
   <event>
     <prime_street>STRACHAN AVE, TT</prime_street>
     <cross_streets>KING ST W / ADELAIDE ST W</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>331</beat>
-    <units_disp> A315, C33, P331, P332, P334, S331, R426, C34, HZ326, LA333, P315, P344, R341, A426, P426, C30, CMD30, CMD30C, HR332, C33</units_disp>
+    <units_disp> A315, C33, P331, P332, P334, S331, R426, C34, HZ326, LA333, P315, P344, R341, A426, P426, C30, CMD30, CMD30C, HR332, C33, P332, P334</units_disp>
   </event>
   <event>
     <prime_street>SHIER DR, SC</prime_street>
@@ -22,83 +22,53 @@
     <units_disp> A231, P221, P223, P232, R231, C23, A215, S232, A222, C22, LA231, P212, P245, R214, R225, R243, HZ145, CMD10, LA111, LA231</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-16 08:13:37</dispatch_time>
-    <event_num>F21023535</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> P431, R425</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-16 08:27:04</dispatch_time>
-    <event_num>F21023538</event_num>
+    <dispatch_time>2021-03-16 08:58:22</dispatch_time>
+    <event_num>F21023547</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
   <event>
-    <prime_street>WAYNE AVE, SC</prime_street>
-    <cross_streets>WARDEN AVE / LANCEFIELD AVE</cross_streets>
-    <dispatch_time>2021-03-16 08:35:51</dispatch_time>
-    <event_num>F21023540</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <prime_street>ROYAL YORK RD, ET</prime_street>
+    <cross_streets>LA ROSE AVE / RENAULT CRES</cross_streets>
+    <dispatch_time>2021-03-16 09:10:11</dispatch_time>
+    <event_num>F21023551</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222, P125, P324, A213</units_disp>
+    <beat>443</beat>
+    <units_disp> P443, S143</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
+    <prime_street>KENNEDY RD, SC</prime_street>
+    <cross_streets>DANCY AVE / PERTHSHIRE ST</cross_streets>
+    <dispatch_time>2021-03-16 09:12:02</dispatch_time>
+    <event_num>F21023552</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242, R241</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-16 08:40:01</dispatch_time>
-    <event_num>F21023541</event_num>
+    <dispatch_time>2021-03-16 09:21:09</dispatch_time>
+    <event_num>F21023553</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 08:45:52</dispatch_time>
-    <event_num>F21023543</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> S331</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, YK</prime_street>
-    <cross_streets>GOOCH AVE / SCARLETT RD</cross_streets>
-    <dispatch_time>2021-03-16 08:48:26</dispatch_time>
-    <event_num>F21023544</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> A421, C42, P422, R421, R423</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>LAWRENCE AVE W / LEDBURY ST</cross_streets>
-    <dispatch_time>2021-03-16 08:50:53</dispatch_time>
-    <event_num>F21023545</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P131</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
   <event>
     <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-16 08:51:03</dispatch_time>
-    <event_num>F21023546</event_num>
+    <dispatch_time>2021-03-16 09:21:32</dispatch_time>
+    <event_num>F21023554</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> R225</units_disp>
+    <beat>222</beat>
+    <units_disp> P222</units_disp>
   </event>
 </tfs_active_incidents>
