@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-16 16:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-16 16:35:02</update_from_db_time>
   <event>
     <prime_street>SHIER DR, SC</prime_street>
     <cross_streets>PORCHESTER DR / PORCHESTER DR</cross_streets>
@@ -12,43 +12,13 @@
     <units_disp> A231, P221, P223, P232, R231, C23, A215, S232, A222, C22, LA231, P212, P245, R214, R225, R243, HZ145, CMD10, LA111, LA231, P242, R241, P226, FI5, R243</units_disp>
   </event>
   <event>
-    <prime_street>WELLINGTON ST, TT</prime_street>
-    <cross_streets>BATHURST ST / TECUMSETH ST</cross_streets>
-    <dispatch_time>2021-03-16 16:03:41</dispatch_time>
-    <event_num>F21023671</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331, S331, A315, C33, P332, P334, P315</units_disp>
-  </event>
-  <event>
-    <prime_street>BLEECKER ST, TT</prime_street>
-    <cross_streets>ST. JAMES TOWN WEST PARK TRL / ST. JAMES TOWN WEST PARK TRL</cross_streets>
-    <dispatch_time>2021-03-16 16:14:29</dispatch_time>
-    <event_num>F21023672</event_num>
+    <prime_street>WAKUNDA PL, NY</prime_street>
+    <cross_streets>O'CONNOR DR / </cross_streets>
+    <dispatch_time>2021-03-16 16:24:56</dispatch_time>
+    <event_num>F21023676</event_num>
     <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M5C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 16:15:11</dispatch_time>
-    <event_num>F21023673</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M2P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 16:16:40</dispatch_time>
-    <event_num>F21023674</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122</units_disp>
+    <beat>235</beat>
+    <units_disp> S232, R235</units_disp>
   </event>
 </tfs_active_incidents>
