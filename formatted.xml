@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-16 08:35:02</update_from_db_time>
+  <update_from_db_time>2021-03-16 09:00:02</update_from_db_time>
   <event>
     <prime_street>STRACHAN AVE, TT</prime_street>
     <cross_streets>KING ST W / ADELAIDE ST W</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> A231, P221, P223, P232, R231, C23, A215, S232, A222, C22, LA231, P212, P245, R214, R225, R243, HZ145, CMD10, LA111, LA231</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 07:51:53</dispatch_time>
-    <event_num>F21023532</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 08:04:12</dispatch_time>
-    <event_num>F21023533</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2021-03-16 08:13:37</dispatch_time>
@@ -52,26 +32,6 @@
     <units_disp> P431, R425</units_disp>
   </event>
   <event>
-    <prime_street>MILL ST, TT</prime_street>
-    <cross_streets>PARLIAMENT ST / TRINITY ST</cross_streets>
-    <dispatch_time>2021-03-16 08:24:41</dispatch_time>
-    <event_num>F21023536</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P324, P332, C31, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>PAPE AVE, TT</prime_street>
-    <cross_streets>GERTRUDE PL / SELKIRK ST</cross_streets>
-    <dispatch_time>2021-03-16 08:25:40</dispatch_time>
-    <event_num>F21023537</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, P322, A322, C32, P313, R224</units_disp>
-  </event>
-  <event>
     <prime_street>M6E</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-16 08:27:04</dispatch_time>
@@ -80,5 +40,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>341</beat>
     <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street>WAYNE AVE, SC</prime_street>
+    <cross_streets>WARDEN AVE / LANCEFIELD AVE</cross_streets>
+    <dispatch_time>2021-03-16 08:35:51</dispatch_time>
+    <event_num>F21023540</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P222, P125, P324, A213</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-16 08:40:01</dispatch_time>
+    <event_num>F21023541</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-16 08:45:52</dispatch_time>
+    <event_num>F21023543</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> S331</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNDAS ST, YK</prime_street>
+    <cross_streets>GOOCH AVE / SCARLETT RD</cross_streets>
+    <dispatch_time>2021-03-16 08:48:26</dispatch_time>
+    <event_num>F21023544</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> A421, C42, P422, R421, R423</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>LAWRENCE AVE W / LEDBURY ST</cross_streets>
+    <dispatch_time>2021-03-16 08:50:53</dispatch_time>
+    <event_num>F21023545</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P131</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-16 08:51:03</dispatch_time>
+    <event_num>F21023546</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> R225</units_disp>
   </event>
 </tfs_active_incidents>
