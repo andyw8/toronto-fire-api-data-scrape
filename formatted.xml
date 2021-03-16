@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-16 12:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-16 13:15:02</update_from_db_time>
   <event>
     <prime_street>STRACHAN AVE, TT</prime_street>
     <cross_streets>KING ST W / ADELAIDE ST W</cross_streets>
@@ -22,33 +22,53 @@
     <units_disp> A231, P221, P223, P232, R231, C23, A215, S232, A222, C22, LA231, P212, P245, R214, R225, R243, HZ145, CMD10, LA111, LA231, P242, R241</units_disp>
   </event>
   <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>BLOOR ST W / CRITCHLEY LANE</cross_streets>
-    <dispatch_time>2021-03-16 12:14:09</dispatch_time>
-    <event_num>F21023606</event_num>
-    <event_type>Rescue - Subway</event_type>
+    <prime_street>ELMHURST AVE, NY</prime_street>
+    <cross_streets>QUILTER RD / WELBECK RD</cross_streets>
+    <dispatch_time>2021-03-16 12:46:27</dispatch_time>
+    <event_num>F21023610</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312, R325, S331, A315, C31, HR332, P143, P313</units_disp>
+    <beat>114</beat>
+    <units_disp> P114, HZ145</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>SOUDAN AVE / EGLINTON AVE W</cross_streets>
-    <dispatch_time>2021-03-16 12:32:14</dispatch_time>
-    <event_num>F21023607</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
+    <prime_street>SHEPPARD AVE, SC</prime_street>
+    <cross_streets>SILVER MAPLE GT / WARDEN AVE</cross_streets>
+    <dispatch_time>2021-03-16 12:54:14</dispatch_time>
+    <event_num>F21023614</event_num>
+    <event_type>Rescue - Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> A135, C13, P131, P135, R134, P311</units_disp>
+    <beat>244</beat>
+    <units_disp> A213, A244, P232, R243, S232, C11</units_disp>
   </event>
   <event>
-    <prime_street>DUNDAS ST, ET</prime_street>
-    <cross_streets>MABELLE AVE / AVONHURST RD</cross_streets>
-    <dispatch_time>2021-03-16 12:41:37</dispatch_time>
-    <event_num>F21023608</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>M9A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-16 12:55:15</dispatch_time>
+    <event_num>F21023615</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> S445, P431, C44, P433, P443, PL432</units_disp>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-16 13:09:54</dispatch_time>
+    <event_num>F21023616</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-16 13:10:22</dispatch_time>
+    <event_num>F21023617</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> R115</units_disp>
   </event>
 </tfs_active_incidents>
