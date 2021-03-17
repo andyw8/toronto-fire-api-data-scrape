@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-17 17:35:02</update_from_db_time>
+  <update_from_db_time>2021-03-17 17:50:02</update_from_db_time>
   <event>
     <prime_street>MAPLE LEAF DR, NY</prime_street>
     <cross_streets>CORNELIUS PKWY / MACLEOD ST</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>133</beat>
     <units_disp> S143, A133, C13, P141, P145, P442, A421, A142, P142, C14, HZ145, LA421, P342, R341, R423, P422, C10, R425, C42, P135</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-17 17:15:53</dispatch_time>
-    <event_num>F21024026</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -32,23 +22,23 @@
     <units_disp> R213, R243</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-17 17:24:21</dispatch_time>
-    <event_num>F21024031</event_num>
+    <dispatch_time>2021-03-17 17:34:13</dispatch_time>
+    <event_num>F21024033</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-17 17:28:02</dispatch_time>
-    <event_num>F21024032</event_num>
+    <dispatch_time>2021-03-17 17:45:31</dispatch_time>
+    <event_num>F21024034</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
 </tfs_active_incidents>
