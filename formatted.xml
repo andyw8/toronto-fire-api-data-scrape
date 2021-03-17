@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-16 22:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-16 23:25:02</update_from_db_time>
   <event>
     <prime_street>SHIER DR, SC</prime_street>
     <cross_streets>PORCHESTER DR / PORCHESTER DR</cross_streets>
@@ -12,53 +12,33 @@
     <units_disp> A231, P221, P223, P232, R231, C23, A215, S232, A222, C22, LA231, P212, P245, R214, R225, R243, HZ145, CMD10, LA111, LA231, P242, R241, P226, FI5, R243, R213, A231, A244</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>3950 LAWRENCE AVE E / 3967 LAWRENCE AVE E</cross_streets>
-    <dispatch_time>2021-03-16 22:26:37</dispatch_time>
-    <event_num>F21023774</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234, R231, A231, C23, P221, R214</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>M9L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-16 22:43:52</dispatch_time>
-    <event_num>F21023778</event_num>
+    <dispatch_time>2021-03-16 23:02:51</dispatch_time>
+    <event_num>F21023784</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-16 22:44:09</dispatch_time>
-    <event_num>F21023779</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
+    <prime_street>SCHOLARS WALK, NY</prime_street>
+    <cross_streets>THE POND RD / LIBRARY LANE</cross_streets>
+    <dispatch_time>2021-03-16 23:05:54</dispatch_time>
+    <event_num>F21023785</event_num>
+    <event_type>Alarm - Institution - School</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445, C44, R434</units_disp>
+    <beat>141</beat>
+    <units_disp> R112, P141, A142, C14, P143, P146</units_disp>
   </event>
   <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 22:49:56</dispatch_time>
-    <event_num>F21023780</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BATHURST ST, TT</prime_street>
+    <cross_streets>STEWART ST / KING ST W</cross_streets>
+    <dispatch_time>2021-03-16 23:17:24</dispatch_time>
+    <event_num>F21023786</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-16 22:51:42</dispatch_time>
-    <event_num>F21023781</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
+    <beat>331</beat>
+    <units_disp> P331, A331, C33, P332, P334</units_disp>
   </event>
 </tfs_active_incidents>
