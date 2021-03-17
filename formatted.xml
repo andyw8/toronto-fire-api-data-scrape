@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-17 16:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-17 16:40:02</update_from_db_time>
   <event>
     <prime_street>MAPLE LEAF DR, NY</prime_street>
     <cross_streets>CORNELIUS PKWY / MACLEOD ST</cross_streets>
@@ -12,63 +12,63 @@
     <units_disp> S143, A133, C13, P141, P145, P442, A421, A142, P142, C14, HZ145, LA421, P342, R341, R423, P422, C10, R425, C42</units_disp>
   </event>
   <event>
-    <prime_street>M4E</prime_street>
+    <prime_street>M3C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-17 15:46:22</dispatch_time>
-    <event_num>F21023994</event_num>
+    <dispatch_time>2021-03-17 16:19:03</dispatch_time>
+    <event_num>F21024005</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
   </event>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>WRIGHT AVE / BELLEVUE CRES</cross_streets>
-    <dispatch_time>2021-03-17 15:53:30</dispatch_time>
-    <event_num>F21023999</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <dispatch_time>2021-03-17 16:19:10</dispatch_time>
+    <event_num>F21024006</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
-    <units_disp> P415, S445</units_disp>
+    <units_disp> P415, S445, A421, C42, P443, P146</units_disp>
   </event>
   <event>
-    <prime_street>M4Y</prime_street>
+    <prime_street>YONGE ST, NY</prime_street>
+    <cross_streets>HOLMES AVE / OLIVE AVE</cross_streets>
+    <dispatch_time>2021-03-17 16:27:19</dispatch_time>
+    <event_num>F21024007</event_num>
+    <event_type>Alarms Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> C14, HR114, P111, P114, R112, T114, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, YK</prime_street>
+    <cross_streets>PEAREN ST / JANE ST</cross_streets>
+    <dispatch_time>2021-03-17 16:32:13</dispatch_time>
+    <event_num>F21024008</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> P422, P431, P442, R423, A423, C34</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-17 16:08:00</dispatch_time>
-    <event_num>F21024001</event_num>
+    <dispatch_time>2021-03-17 16:33:26</dispatch_time>
+    <event_num>F21024009</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-17 16:12:04</dispatch_time>
-    <event_num>F21024002</event_num>
+    <dispatch_time>2021-03-17 16:35:18</dispatch_time>
+    <event_num>F21024010</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
-    <prime_street>METCALFE ST, TT</prime_street>
-    <cross_streets>MILLINGTON ST / WINCHESTER ST</cross_streets>
-    <dispatch_time>2021-03-17 16:12:06</dispatch_time>
-    <event_num>F21024003</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, P312, P313, P333, C31</units_disp>
-  </event>
-  <event>
-    <prime_street>ORCHARD VIEW BLVD, TT</prime_street>
-    <cross_streets>YONGE ST / DUPLEX AVE</cross_streets>
-    <dispatch_time>2021-03-17 16:14:19</dispatch_time>
-    <event_num>F21024004</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134, A135, P131, P135, C34</units_disp>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
   </event>
 </tfs_active_incidents>
