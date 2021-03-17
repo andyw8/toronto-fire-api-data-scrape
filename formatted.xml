@@ -1,34 +1,64 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-17 09:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-17 09:50:02</update_from_db_time>
   <event>
-    <prime_street>SHIER DR, SC</prime_street>
-    <cross_streets>PORCHESTER DR / PORCHESTER DR</cross_streets>
-    <dispatch_time>2021-03-17 06:53:35</dispatch_time>
-    <event_num>F21023850</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231, A231, P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-17 09:17:08</dispatch_time>
-    <event_num>F21023874</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>YONGE ST / ST JOSEPH ST</cross_streets>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>ST JOSEPH ST / GLOUCESTER ST</cross_streets>
     <dispatch_time>2021-03-17 09:22:31</dispatch_time>
     <event_num>F21023875</event_num>
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
     <units_disp> P313, P314, S313, A312, C31, R325, P312</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-17 09:33:31</dispatch_time>
+    <event_num>F21023876</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-17 09:34:32</dispatch_time>
+    <event_num>F21023877</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-17 09:37:33</dispatch_time>
+    <event_num>F21023878</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> P415</units_disp>
+  </event>
+  <event>
+    <prime_street>KIPLING AVE, ET</prime_street>
+    <cross_streets>COOLHURST DR / REDCLIFF BLVD</cross_streets>
+    <dispatch_time>2021-03-17 09:38:18</dispatch_time>
+    <event_num>F21023879</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> A415</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ADELAIDE ST E / POWER ST</cross_streets>
+    <dispatch_time>2021-03-17 09:46:49</dispatch_time>
+    <event_num>F21023880</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
 </tfs_active_incidents>
