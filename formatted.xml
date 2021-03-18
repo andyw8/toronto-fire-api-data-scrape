@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-18 17:50:02</update_from_db_time>
-  <event>
-    <prime_street>AVONMORE SQ, SC</prime_street>
-    <cross_streets>PRINCE PHILIP BLVD / PRINCE PHILIP BLVD</cross_streets>
-    <dispatch_time>2021-03-18 16:58:19</dispatch_time>
-    <event_num>F21024324</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> A213, P234, HZ326, C23, P223, P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-18 17:09:48</dispatch_time>
-    <event_num>F21024327</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
+  <update_from_db_time>2021-03-18 18:20:02</update_from_db_time>
   <event>
     <prime_street>FINCH AVE, NY</prime_street>
     <cross_streets>CARNEY RD / SENLAC RD</cross_streets>
@@ -29,46 +9,66 @@
     <event_type>Fire - Outside Storage</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
-    <units_disp> R112, P111, P114, P121, T114, C14, P143</units_disp>
+    <units_disp> R112, P111, P114, P121, T114, C14, P143, LA111</units_disp>
   </event>
   <event>
-    <prime_street>RYDING AVE, TT</prime_street>
-    <cross_streets> / GOURLAY CRES</cross_streets>
-    <dispatch_time>2021-03-18 17:26:20</dispatch_time>
-    <event_num>F21024334</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>AUGUSTA AVE, TT</prime_street>
+    <cross_streets>LN N DUNDAS W AUGUSTA / WALES AVE</cross_streets>
+    <dispatch_time>2021-03-18 17:53:09</dispatch_time>
+    <event_num>F21024342</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423, P422, A423, C42, R421</units_disp>
+    <beat>315</beat>
+    <units_disp> S331, P315, A315, C33, P331, P332</units_disp>
   </event>
   <event>
-    <prime_street>M3J</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-03-18 18:00:35</dispatch_time>
+    <event_num>F21024344</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445, R444</units_disp>
+  </event>
+  <event>
+    <prime_street>NAVY WHARF CRT, TT</prime_street>
+    <cross_streets>BREMNER BLVD / MARINER TER</cross_streets>
+    <dispatch_time>2021-03-18 18:02:18</dispatch_time>
+    <event_num>F21024345</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> C33, HZ326, P334, P433</units_disp>
+  </event>
+  <event>
+    <prime_street>M1V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-18 17:33:38</dispatch_time>
-    <event_num>F21024337</event_num>
+    <dispatch_time>2021-03-18 18:02:02</dispatch_time>
+    <event_num>F21024346</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>3950 LAWRENCE AVE E / 3967 LAWRENCE AVE E</cross_streets>
-    <dispatch_time>2021-03-18 17:39:41</dispatch_time>
-    <event_num>F21024338</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>WELLESLEY ST, TT</prime_street>
+    <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
+    <dispatch_time>2021-03-18 18:13:39</dispatch_time>
+    <event_num>F21024347</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> R231, A231, C23, P221, P223</units_disp>
+    <beat>313</beat>
+    <units_disp> P313, P314, A325, C31, R325</units_disp>
   </event>
   <event>
-    <prime_street>TABER RD, ET</prime_street>
-    <cross_streets>AIRVIEW RD / HAAS RD</cross_streets>
-    <dispatch_time>2021-03-18 17:40:37</dispatch_time>
-    <event_num>F21024339</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M5J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-18 18:14:44</dispatch_time>
+    <event_num>F21024348</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415, R441, A415, C41, R413</units_disp>
+    <beat>335</beat>
+    <units_disp> P335, FB334</units_disp>
   </event>
 </tfs_active_incidents>
