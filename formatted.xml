@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-18 13:50:02</update_from_db_time>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-18 13:23:30</dispatch_time>
-    <event_num>F21024263</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
+  <update_from_db_time>2021-03-18 14:25:02</update_from_db_time>
   <event>
     <prime_street>MIDLAND AVE, SC</prime_street>
     <cross_streets>PITFIELD RD / SALOME DR</cross_streets>
@@ -22,43 +12,33 @@
     <units_disp> A244, P232, R213, R243, S232, C24</units_disp>
   </event>
   <event>
-    <prime_street>GODSTONE RD, NY</prime_street>
-    <cross_streets>FAIRVIEW MALL DR / KINGSLAKE RD</cross_streets>
-    <dispatch_time>2021-03-18 13:35:59</dispatch_time>
-    <event_num>F21024267</event_num>
+    <prime_street> </prime_street>
+    <cross_streets>DUFFERIN ST / GLEN BELLE CRES</cross_streets>
+    <dispatch_time>2021-03-18 14:02:32</dispatch_time>
+    <event_num>F21024272</event_num>
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
   </event>
   <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>YONGE ST / BAY ST</cross_streets>
-    <dispatch_time>2021-03-18 13:39:08</dispatch_time>
-    <event_num>F21024268</event_num>
-    <event_type>Alarm - Institution - School</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> R426, P332, C33, P315, P333, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M2H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-18 13:39:19</dispatch_time>
-    <event_num>F21024269</event_num>
+    <dispatch_time>2021-03-18 14:11:31</dispatch_time>
+    <event_num>F21024276</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
   </event>
   <event>
-    <prime_street>PARLIAMENT ST, TT</prime_street>
-    <cross_streets>LN N WELLESLEY W PARLIAMENT / ST JAMES AVE</cross_streets>
-    <dispatch_time>2021-03-18 13:43:22</dispatch_time>
-    <event_num>F21024270</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-18 14:12:58</dispatch_time>
+    <event_num>F21024277</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P312, P313, R325, S313, A325, C31</units_disp>
+    <beat>223</beat>
+    <units_disp> R225</units_disp>
   </event>
 </tfs_active_incidents>
