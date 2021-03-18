@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-18 07:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-18 07:30:02</update_from_db_time>
   <event>
     <prime_street>M1P</prime_street>
     <cross_streets/>
@@ -12,16 +12,6 @@
     <units_disp> S232</units_disp>
   </event>
   <event>
-    <prime_street>M5J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-18 07:12:41</dispatch_time>
-    <event_num>F21024170</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P334</units_disp>
-  </event>
-  <event>
     <prime_street>ELLERSLIE AVE, NY</prime_street>
     <cross_streets>CANTERBURY PL / BEECROFT RD</cross_streets>
     <dispatch_time>2021-03-18 07:12:46</dispatch_time>
@@ -30,5 +20,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
     <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>CHESSWOOD DR / FINCH AVE W</cross_streets>
+    <dispatch_time>2021-03-18 07:17:17</dispatch_time>
+    <event_num>F21024172</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>ADELAIDE ST E / POWER ST</cross_streets>
+    <dispatch_time>2021-03-18 07:18:40</dispatch_time>
+    <event_num>F21024174</event_num>
+    <event_type>Fire - Encampment</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> R325, P324, A325, C33</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>YONGE ST / ALEXANDER ST</cross_streets>
+    <dispatch_time>2021-03-18 07:18:45</dispatch_time>
+    <event_num>F21024175</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
