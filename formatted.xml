@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-17 23:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-18 00:30:02</update_from_db_time>
   <event>
     <prime_street>MAPLE LEAF DR, NY</prime_street>
     <cross_streets>CORNELIUS PKWY / MACLEOD ST</cross_streets>
@@ -12,23 +12,43 @@
     <units_disp> S143, A133, C13, P141, P145, P442, A421, A142, P142, C14, HZ145, LA421, P342, R341, R423, P422, C10, R425, C42, P135, R134, P132, P131</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-17 23:10:23</dispatch_time>
-    <event_num>F21024106</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>GRADWELL DR, SC</prime_street>
+    <cross_streets>EASTVILLE AVE / BARKDENE HILLS</cross_streets>
+    <dispatch_time>2021-03-17 23:53:40</dispatch_time>
+    <event_num>F21024118</event_num>
+    <event_type>Vehicle Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
+    <prime_street>M4K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-17 23:38:36</dispatch_time>
-    <event_num>F21024115</event_num>
+    <dispatch_time>2021-03-18 00:23:13</dispatch_time>
+    <event_num>F21024121</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BURNHAMTHORPE RD / SATURN RD</cross_streets>
+    <dispatch_time>2021-03-18 00:24:35</dispatch_time>
+    <event_num>F21024122</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> C44, P445, R444, S445</units_disp>
+  </event>
+  <event>
+    <prime_street>FAIRVIEW MALL DR, NY</prime_street>
+    <cross_streets>404 S FAIRVIEW MALL RAMP / </cross_streets>
+    <dispatch_time>2021-03-18 00:24:36</dispatch_time>
+    <event_num>F21024123</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> P113, R115, C11, HZ145</units_disp>
   </event>
 </tfs_active_incidents>
