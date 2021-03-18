@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-18 01:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-18 01:50:03</update_from_db_time>
   <event>
     <prime_street>MAPLE LEAF DR, NY</prime_street>
     <cross_streets>CORNELIUS PKWY / MACLEOD ST</cross_streets>
@@ -12,43 +12,13 @@
     <units_disp> S143, A133, C13, P141, P145, P442, A421, A142, P142, C14, HZ145, LA421, P342, R341, R423, P422, C10, R425, C42, P135, R134, P132, P131, P121</units_disp>
   </event>
   <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>MUTUAL ST / JARVIS ST</cross_streets>
-    <dispatch_time>2021-03-18 00:37:09</dispatch_time>
-    <event_num>F21024128</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street>FRONT ST, TT</prime_street>
+    <cross_streets>BLUE JAYS WAY / SPADINA AVE</cross_streets>
+    <dispatch_time>2021-03-18 01:41:10</dispatch_time>
+    <event_num>F21024139</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, C33, P314, P332, P333, R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-18 00:53:56</dispatch_time>
-    <event_num>F21024133</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-18 01:11:34</dispatch_time>
-    <event_num>F21024136</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M2H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-18 01:11:53</dispatch_time>
-    <event_num>F21024137</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> P113</units_disp>
+    <beat>332</beat>
+    <units_disp> P324, P332, C33, HZ326</units_disp>
   </event>
 </tfs_active_incidents>
