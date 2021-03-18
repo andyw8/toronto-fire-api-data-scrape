@@ -1,24 +1,34 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-18 06:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-18 07:20:02</update_from_db_time>
   <event>
-    <prime_street>MAPLE LEAF DR, NY</prime_street>
-    <cross_streets>CORNELIUS PKWY / MACLEOD ST</cross_streets>
-    <dispatch_time>2021-03-17 14:58:14</dispatch_time>
-    <event_num>F21023967</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>133</beat>
-    <units_disp> S143, A133, C13, P141, P145, P442, A421, A142, P142, C14, HZ145, LA421, P342, R341, R423, P422, C10, R425, C42, P135, R134, P132, P131, P121, R122, P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-18 06:48:28</dispatch_time>
-    <event_num>F21024168</event_num>
+    <dispatch_time>2021-03-18 07:07:22</dispatch_time>
+    <event_num>F21024169</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
+    <beat>232</beat>
+    <units_disp> S232</units_disp>
+  </event>
+  <event>
+    <prime_street>M5J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-18 07:12:41</dispatch_time>
+    <event_num>F21024170</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, P334</units_disp>
+  </event>
+  <event>
+    <prime_street>ELLERSLIE AVE, NY</prime_street>
+    <cross_streets>CANTERBURY PL / BEECROFT RD</cross_streets>
+    <dispatch_time>2021-03-18 07:12:46</dispatch_time>
+    <event_num>F21024171</event_num>
+    <event_type>Police Assist - Request</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
 </tfs_active_incidents>
