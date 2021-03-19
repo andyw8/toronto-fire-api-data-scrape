@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-19 14:00:04</update_from_db_time>
+  <update_from_db_time>2021-03-19 14:25:02</update_from_db_time>
   <event>
     <prime_street>SUNNYSIDE AVE, TT</prime_street>
     <cross_streets>MARMADUKE ST / HOWARD PARK AVE</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>426</beat>
     <units_disp> A426, C42, R423, R425, R426, A423, LA421, P315, S331, R341, C40, P422, C34, HR332, HZ145, P331, P344, CMD30, CMD30C, C33, C6, LA333, P426, R345, A331, A315, C43, A341, C41, A331, P431, C44, FI3, C40, P443, A433, C41</units_disp>
-  </event>
-  <event>
-    <prime_street>M1R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-19 12:46:38</dispatch_time>
-    <event_num>F21024577</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-19 13:49:21</dispatch_time>
-    <event_num>F21024592</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>EVERINGHAM CRT, NY</prime_street>
-    <cross_streets>TOBRUK CRES / CENTRE PARK TRL</cross_streets>
-    <dispatch_time>2021-03-19 13:52:09</dispatch_time>
-    <event_num>F21024593</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -62,13 +32,33 @@
     <units_disp> P132</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>MILITARY TRL, SC</prime_street>
+    <cross_streets>331 MILITARY TRL / 341 MILITARY TRL</cross_streets>
+    <dispatch_time>2021-03-19 14:04:15</dispatch_time>
+    <event_num>F21024598</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-19 13:54:40</dispatch_time>
-    <event_num>F21024596</event_num>
+    <dispatch_time>2021-03-19 14:08:43</dispatch_time>
+    <event_num>F21024600</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> A426</units_disp>
+    <beat>331</beat>
+    <units_disp> A426, HR332</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-19 14:20:13</dispatch_time>
+    <event_num>F21024601</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
