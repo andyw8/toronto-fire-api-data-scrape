@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-19 23:25:02</update_from_db_time>
+  <update_from_db_time>2021-03-19 23:55:02</update_from_db_time>
   <event>
     <prime_street>SUNNYSIDE AVE, TT</prime_street>
     <cross_streets>MARMADUKE ST / HOWARD PARK AVE</cross_streets>
@@ -12,93 +12,93 @@
     <units_disp> A426, C42, R423, R425, R426, A423, LA421, P315, S331, R341, C40, P422, C34, HR332, HZ145, P331, P344, CMD30, CMD30C, C33, C6, LA333, P426, R345, A331, A315, C43, A341, C41, A331, P431, C44, FI3, C40, P443, A433, C41, R421, P442, R411</units_disp>
   </event>
   <event>
-    <prime_street>SOUTHPORT ST, TT</prime_street>
-    <cross_streets>WINDERMERE PL / ORMSKIRK AVE</cross_streets>
-    <dispatch_time>2021-03-19 22:44:14</dispatch_time>
-    <event_num>F21024745</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>EGLINTON AVE W / SCARLETT RD</cross_streets>
+    <dispatch_time>2021-03-19 23:28:30</dispatch_time>
+    <event_num>F21024764</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> P422, R425, A426, C42, P431, R423</units_disp>
+    <beat>443</beat>
+    <units_disp> P443, R444, S445, C44</units_disp>
   </event>
   <event>
-    <prime_street>VAUGHAN RD, YK</prime_street>
-    <cross_streets>NORTHCLIFFE BLVD / </cross_streets>
-    <dispatch_time>2021-03-19 22:45:24</dispatch_time>
-    <event_num>F21024747</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-03-19 23:35:42</dispatch_time>
+    <event_num>F21024768</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> P342, R341, C34</units_disp>
+    <beat>433</beat>
+    <units_disp> P433, R435</units_disp>
   </event>
   <event>
-    <prime_street>FALLINGBROOK CRES, SC</prime_street>
-    <cross_streets>FALLINGBROOK RD / FALLINGBROOK DR</cross_streets>
-    <dispatch_time>2021-03-19 22:54:20</dispatch_time>
-    <event_num>F21024750</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-19 23:01:02</dispatch_time>
-    <event_num>F21024753</event_num>
+    <dispatch_time>2021-03-19 23:37:46</dispatch_time>
+    <event_num>F21024769</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-19 23:07:33</dispatch_time>
-    <event_num>F21024756</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>DUFFERIN ST, YK</prime_street>
+    <cross_streets>BLOEM AVE / LN S EVERSFIELD W DUFFERIN</cross_streets>
+    <dispatch_time>2021-03-19 23:41:13</dispatch_time>
+    <event_num>F21024770</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>342</beat>
+    <units_disp> P342, A345, C34, P343, R421</units_disp>
   </event>
   <event>
-    <prime_street>DAVENPORT RD, TT</prime_street>
-    <cross_streets>AVENUE RD / LN W AVENUE S DAVENPORT</cross_streets>
-    <dispatch_time>2021-03-19 23:09:28</dispatch_time>
-    <event_num>F21024758</event_num>
-    <event_type>Hazmat Level 2</event_type>
+    <prime_street>MORRISH RD, SC</prime_street>
+    <cross_streets>WILLOWLEA DR / </cross_streets>
+    <dispatch_time>2021-03-19 23:41:28</dispatch_time>
+    <event_num>F21024771</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> C31, HZ326, P312, P145</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-19 23:12:40</dispatch_time>
-    <event_num>F21024760</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
   </event>
   <event>
     <prime_street>YARDLEY AVE, EY</prime_street>
     <cross_streets>GLENBURN AVE / VICTORIA PARK AVE</cross_streets>
-    <dispatch_time>2021-03-19 23:19:33</dispatch_time>
-    <event_num>F21024761</event_num>
-    <event_type>Alarm Residential</event_type>
+    <dispatch_time>2021-03-19 23:42:26</dispatch_time>
+    <event_num>F21024772</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>235</beat>
-    <units_disp> R235, R224, A222, C22, P221</units_disp>
+    <units_disp> R235</units_disp>
   </event>
   <event>
-    <prime_street>M1K</prime_street>
+    <prime_street>M4S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-19 23:20:04</dispatch_time>
-    <event_num>F21024762</event_num>
+    <dispatch_time>2021-03-19 23:48:42</dispatch_time>
+    <event_num>F21024773</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P245</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M4A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-19 23:49:57</dispatch_time>
+    <event_num>F21024774</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> A222</units_disp>
+  </event>
+  <event>
+    <prime_street>M5M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-19 23:51:30</dispatch_time>
+    <event_num>F21024775</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
   </event>
 </tfs_active_incidents>
