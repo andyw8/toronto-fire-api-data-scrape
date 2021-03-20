@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-20 09:00:02</update_from_db_time>
+  <update_from_db_time>2021-03-20 09:25:02</update_from_db_time>
   <event>
     <prime_street>SUNNYSIDE AVE, TT</prime_street>
     <cross_streets>MARMADUKE ST / HOWARD PARK AVE</cross_streets>
@@ -12,43 +12,33 @@
     <units_disp> A426, C42, R423, R425, R426, A423, LA421, P315, S331, R341, C40, P422, C34, HR332, HZ145, P331, P344, CMD30, CMD30C, C33, C6, LA333, P426, R345, A331, A315, C43, A341, C41, A331, P431, C44, FI3, C40, P443, A433, C41, R421, P442, R411, R444, R434, P426, R426, C42</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>OLD FOREST HILL RD / EGLINTON AVE W</cross_streets>
-    <dispatch_time>2021-03-20 07:28:07</dispatch_time>
-    <event_num>F21024831</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>REXDALE BLVD, ET</prime_street>
+    <cross_streets>BERGAMOT AVE / HEPC</cross_streets>
+    <dispatch_time>2021-03-20 08:59:31</dispatch_time>
+    <event_num>F21024847</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135</units_disp>
+    <beat>415</beat>
+    <units_disp> R441, R413, A415, C41, P443</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>SPADINA RD / DUPONT ST</cross_streets>
-    <dispatch_time>2021-03-20 08:47:16</dispatch_time>
-    <event_num>F21024843</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Z</prime_street>
+    <prime_street>M4E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-20 08:55:55</dispatch_time>
-    <event_num>F21024844</event_num>
+    <dispatch_time>2021-03-20 08:59:52</dispatch_time>
+    <event_num>F21024848</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
+    <beat>227</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>M8Z</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-20 08:56:31</dispatch_time>
-    <event_num>F21024845</event_num>
+    <dispatch_time>2021-03-20 09:18:07</dispatch_time>
+    <event_num>F21024850</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
