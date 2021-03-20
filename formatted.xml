@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-20 11:20:02</update_from_db_time>
-  <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>CORVETTE AVE / MERRIAN RD</cross_streets>
-    <dispatch_time>2021-03-20 10:40:33</dispatch_time>
-    <event_num>F21024860</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-20 11:12:54</dispatch_time>
-    <event_num>F21024869</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
-  </event>
+  <update_from_db_time>2021-03-20 11:50:02</update_from_db_time>
   <event>
     <prime_street>M6C</prime_street>
     <cross_streets/>
@@ -30,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>343</beat>
     <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street>BERWICK AVE, TT</prime_street>
+    <cross_streets>LN W YONGE N HILLSDALE / DUPLEX AVE</cross_streets>
+    <dispatch_time>2021-03-20 11:36:37</dispatch_time>
+    <event_num>F21024873</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>AVIEMORE DR, NY</prime_street>
+    <cross_streets>FRANEL CRES / FRANEL CRES</cross_streets>
+    <dispatch_time>2021-03-20 11:45:54</dispatch_time>
+    <event_num>F21024874</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> A415, P443, C14, P141, P146, R341</units_disp>
   </event>
 </tfs_active_incidents>
