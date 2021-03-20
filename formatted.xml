@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-19 23:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-20 00:30:02</update_from_db_time>
   <event>
     <prime_street>SUNNYSIDE AVE, TT</prime_street>
     <cross_streets>MARMADUKE ST / HOWARD PARK AVE</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> P443, R444, S445, C44</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-19 23:35:42</dispatch_time>
-    <event_num>F21024768</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, R435</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-19 23:37:46</dispatch_time>
-    <event_num>F21024769</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
     <prime_street>DUFFERIN ST, YK</prime_street>
     <cross_streets>BLOEM AVE / LN S EVERSFIELD W DUFFERIN</cross_streets>
     <dispatch_time>2021-03-19 23:41:13</dispatch_time>
@@ -52,53 +32,33 @@
     <units_disp> P342, A345, C34, P343, R421</units_disp>
   </event>
   <event>
-    <prime_street>MORRISH RD, SC</prime_street>
-    <cross_streets>WILLOWLEA DR / </cross_streets>
-    <dispatch_time>2021-03-19 23:41:28</dispatch_time>
-    <event_num>F21024771</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>SENECA HILL DR / 404 S FINCH W RAMP</cross_streets>
+    <dispatch_time>2021-03-20 00:11:01</dispatch_time>
+    <event_num>F21024778</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
+    <beat>113</beat>
+    <units_disp> R115, P111, A113, C11, P116</units_disp>
   </event>
   <event>
-    <prime_street>YARDLEY AVE, EY</prime_street>
-    <cross_streets>GLENBURN AVE / VICTORIA PARK AVE</cross_streets>
-    <dispatch_time>2021-03-19 23:42:26</dispatch_time>
-    <event_num>F21024772</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
-  <event>
-    <prime_street>M4S</prime_street>
+    <prime_street>M9A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-19 23:48:42</dispatch_time>
-    <event_num>F21024773</event_num>
+    <dispatch_time>2021-03-20 00:11:58</dispatch_time>
+    <event_num>F21024780</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
+    <beat>443</beat>
+    <units_disp> P431</units_disp>
   </event>
   <event>
-    <prime_street>M4A</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-19 23:49:57</dispatch_time>
-    <event_num>F21024774</event_num>
+    <dispatch_time>2021-03-20 00:22:52</dispatch_time>
+    <event_num>F21024781</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> A222</units_disp>
-  </event>
-  <event>
-    <prime_street>M5M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-19 23:51:30</dispatch_time>
-    <event_num>F21024775</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
   </event>
 </tfs_active_incidents>
