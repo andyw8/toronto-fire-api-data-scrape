@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-21 03:35:02</update_from_db_time>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 03:09:14</dispatch_time>
-    <event_num>F21025158</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 03:09:48</dispatch_time>
-    <event_num>F21025159</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
+  <update_from_db_time>2021-03-21 03:40:02</update_from_db_time>
   <event>
     <prime_street>M6N</prime_street>
     <cross_streets/>
@@ -39,7 +19,7 @@
     <event_type>Vehicle Accident - Trapped - Highway</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>133</beat>
-    <units_disp> C14, P145, P146, R133, S143</units_disp>
+    <units_disp> P145, P146, R133, C14, S143</units_disp>
   </event>
   <event>
     <prime_street>M4Y</prime_street>
