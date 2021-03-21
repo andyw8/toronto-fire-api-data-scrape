@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-21 14:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-21 15:00:02</update_from_db_time>
   <event>
     <prime_street>LAKE SHORE BLVD, ET</prime_street>
     <cross_streets>TWENTY SIXTH ST / TWENTY SEVENTH ST</cross_streets>
@@ -22,53 +22,53 @@
     <units_disp> R413, R412, A415, C41, R411, R441, R441</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 14:14:45</dispatch_time>
-    <event_num>F21025280</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>WICKSTEED AVE / BETH NEALSON DR</cross_streets>
+    <dispatch_time>2021-03-21 14:37:25</dispatch_time>
+    <event_num>F21025288</event_num>
+    <event_type>Rescue - Subway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>321</beat>
+    <units_disp> P125, P313, R235, S313, A125, C11, HR114</units_disp>
+  </event>
+  <event>
+    <prime_street>LOTHERTON PTWY, NY</prime_street>
+    <cross_streets> / CALEDONIA RD</cross_streets>
+    <dispatch_time>2021-03-21 14:37:38</dispatch_time>
+    <event_num>F21025289</event_num>
+    <event_type>Vehicle Fire - Underground</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> P132, P145, R133, S143, R341, A133, C13, HR332</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, NY</prime_street>
+    <cross_streets>HORSHAM AVE / BYNG AVE</cross_streets>
+    <dispatch_time>2021-03-21 14:38:34</dispatch_time>
+    <event_num>F21025290</event_num>
+    <event_type>Water Problem</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>SCARLETT RD, ET</prime_street>
+    <cross_streets>BRAEBURN AVE / RIVERVIEW HTS</cross_streets>
+    <dispatch_time>2021-03-21 14:55:36</dispatch_time>
+    <event_num>F21025292</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442, C41, P443, R441, A133</units_disp>
   </event>
   <event>
     <prime_street>M5A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-21 14:17:05</dispatch_time>
-    <event_num>F21025282</event_num>
+    <dispatch_time>2021-03-21 14:56:52</dispatch_time>
+    <event_num>F21025293</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 14:21:59</dispatch_time>
-    <event_num>F21025283</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BANFF RD / EGLINTON AVE E</cross_streets>
-    <dispatch_time>2021-03-21 14:24:24</dispatch_time>
-    <event_num>F21025284</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 14:24:34</dispatch_time>
-    <event_num>F21025285</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
+    <beat>325</beat>
+    <units_disp> P325</units_disp>
   </event>
 </tfs_active_incidents>
