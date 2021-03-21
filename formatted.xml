@@ -1,34 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-20 23:25:02</update_from_db_time>
+  <update_from_db_time>2021-03-20 23:50:02</update_from_db_time>
   <event>
-    <prime_street>WELLESLEY ST, TT</prime_street>
-    <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
-    <dispatch_time>2021-03-20 22:26:10</dispatch_time>
-    <event_num>F21025098</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street>ANTIOCH DR, ET</prime_street>
+    <cross_streets>COTMAN CRES / SABINE RD</cross_streets>
+    <dispatch_time>2021-03-20 23:34:19</dispatch_time>
+    <event_num>F21025110</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313, P314</units_disp>
+    <beat>445</beat>
+    <units_disp> S445, A421, P443, P445, R441, C44</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-20 22:59:08</dispatch_time>
-    <event_num>F21025106</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>ST MARK'S RD / VARSITY RD</cross_streets>
+    <dispatch_time>2021-03-20 23:42:23</dispatch_time>
+    <event_num>F21025111</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M2K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-20 23:14:35</dispatch_time>
-    <event_num>F21025108</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116</units_disp>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
   </event>
 </tfs_active_incidents>
