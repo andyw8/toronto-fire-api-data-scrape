@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-21 19:25:02</update_from_db_time>
+  <update_from_db_time>2021-03-21 19:50:02</update_from_db_time>
   <event>
     <prime_street>SHERBOURNE ST, TT</prime_street>
     <cross_streets>LN N DUNDAS W SHERBOURNE / GLENHOLME PL</cross_streets>
@@ -10,36 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
     <units_disp> S313, P325, C33, P314, P333, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 19:01:12</dispatch_time>
-    <event_num>F21025362</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 19:05:10</dispatch_time>
-    <event_num>F21025364</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
-  </event>
-  <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 19:09:26</dispatch_time>
-    <event_num>F21025365</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
   </event>
   <event>
     <prime_street>HENRY LANE TER, TT</prime_street>
@@ -52,16 +22,6 @@
     <units_disp> P332, P314, C33, P334, T333, S313, A312</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 19:14:18</dispatch_time>
-    <event_num>F21025367</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
     <prime_street>M2M</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-21 19:18:45</dispatch_time>
@@ -72,13 +32,53 @@
     <units_disp> P114</units_disp>
   </event>
   <event>
-    <prime_street>OAKMOUNT RD, TT</prime_street>
-    <cross_streets>GLENLAKE AVE / LITHUANIA PARK TRL</cross_streets>
-    <dispatch_time>2021-03-21 19:21:23</dispatch_time>
-    <event_num>F21025369</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>DUNSMORE GDNS, NY</prime_street>
+    <cross_streets>MCALLISTER RD / NORCROSS RD</cross_streets>
+    <dispatch_time>2021-03-21 19:38:17</dispatch_time>
+    <event_num>F21025375</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
+  </event>
+  <event>
+    <prime_street>ROYWOOD DR, NY</prime_street>
+    <cross_streets>MARBURY CRES / UNDERPASS GT</cross_streets>
+    <dispatch_time>2021-03-21 19:40:47</dispatch_time>
+    <event_num>F21025376</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-21 19:43:13</dispatch_time>
+    <event_num>F21025378</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>NORFINCH DR, NY</prime_street>
+    <cross_streets>FINCH CORRIDOR TRL / STEELES AVE W</cross_streets>
+    <dispatch_time>2021-03-21 19:45:24</dispatch_time>
+    <event_num>F21025379</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> R411, P141, A142, C14, P146</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWSON RD, SC</prime_street>
+    <cross_streets>CLOSSON DR / CENTENNIAL RD</cross_streets>
+    <dispatch_time>2021-03-21 19:46:47</dispatch_time>
+    <event_num>F21025380</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> R214, P212, A215, C21, P234, R213</units_disp>
   </event>
 </tfs_active_incidents>
