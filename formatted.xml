@@ -1,44 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-22 03:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-22 04:35:02</update_from_db_time>
   <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 03:28:40</dispatch_time>
-    <event_num>F21025481</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>WHARFSIDE LANE / BRIDGEND ST</cross_streets>
+    <dispatch_time>2021-03-22 04:19:15</dispatch_time>
+    <event_num>F21025487</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
   </event>
   <event>
-    <prime_street>M9P</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-22 03:31:49</dispatch_time>
-    <event_num>F21025483</event_num>
+    <dispatch_time>2021-03-22 04:24:35</dispatch_time>
+    <event_num>F21025489</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>SUSSEX MEWS / ROBERT ST</cross_streets>
-    <dispatch_time>2021-03-22 03:33:53</dispatch_time>
-    <event_num>F21025484</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P315, P312, A312, C31, P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M3M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 03:45:02</dispatch_time>
-    <event_num>F21025485</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
