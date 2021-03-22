@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-22 16:45:02</update_from_db_time>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 16:02:48</dispatch_time>
-    <event_num>F21025657</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BAY ST / EDWARD ST</cross_streets>
-    <dispatch_time>2021-03-22 16:11:18</dispatch_time>
-    <event_num>F21025661</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, A325</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 16:14:02</dispatch_time>
-    <event_num>F21025662</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
+  <update_from_db_time>2021-03-22 17:20:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>SHEPPARD AVE W / RIVALDA RD</cross_streets>
@@ -42,26 +12,6 @@
     <units_disp> R411, A142, P442</units_disp>
   </event>
   <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>CARLTON ST / WELLESLEY ST E</cross_streets>
-    <dispatch_time>2021-03-22 16:33:47</dispatch_time>
-    <event_num>F21025672</event_num>
-    <event_type>Hazmat Level 2</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P324, C31, HZ326, P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 16:39:04</dispatch_time>
-    <event_num>F21025674</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
     <prime_street>M3A</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-22 16:41:34</dispatch_time>
@@ -70,5 +20,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>115</beat>
     <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-22 16:54:01</dispatch_time>
+    <event_num>F21025678</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>HIGH ST, ET</prime_street>
+    <cross_streets>LN N THE QUEENSWAY W HIGH / WHITWORTH AVE</cross_streets>
+    <dispatch_time>2021-03-22 16:55:39</dispatch_time>
+    <event_num>F21025679</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> C43, P431, HZ145, P145, HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-22 16:59:41</dispatch_time>
+    <event_num>F21025680</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> S445</units_disp>
+  </event>
+  <event>
+    <prime_street>M6C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-22 17:01:40</dispatch_time>
+    <event_num>F21025683</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street>SHERBOURNE ST, TT</prime_street>
+    <cross_streets>EARL ST / ISABELLA ST</cross_streets>
+    <dispatch_time>2021-03-22 17:08:32</dispatch_time>
+    <event_num>F21025684</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
 </tfs_active_incidents>
