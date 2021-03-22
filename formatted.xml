@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-22 01:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-22 01:50:02</update_from_db_time>
   <event>
     <prime_street>SHERBOURNE ST, TT</prime_street>
     <cross_streets>LN N DUNDAS W SHERBOURNE / GLENHOLME PL</cross_streets>
@@ -10,5 +10,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
     <units_disp> S313, P325, C33, P314, P333, T333, P332, FI19</units_disp>
+  </event>
+  <event>
+    <prime_street>M4W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-22 01:31:12</dispatch_time>
+    <event_num>F21025470</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
   </event>
 </tfs_active_incidents>
