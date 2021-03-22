@@ -1,54 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-22 17:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-22 18:20:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>SHEPPARD AVE W / RIVALDA RD</cross_streets>
-    <dispatch_time>2021-03-22 16:28:25</dispatch_time>
-    <event_num>F21025670</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411, A142, P442</units_disp>
-  </event>
-  <event>
-    <prime_street>SHEPPARD AVE, NY</prime_street>
-    <cross_streets>SEELEY DR / DOWNSVIEW DELLS PARK TRL</cross_streets>
-    <dispatch_time>2021-03-22 17:22:53</dispatch_time>
-    <event_num>F21025686</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M5S</prime_street>
+    <prime_street>M3N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-22 17:25:58</dispatch_time>
-    <event_num>F21025688</event_num>
+    <dispatch_time>2021-03-22 17:47:12</dispatch_time>
+    <event_num>F21025692</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> HR332</units_disp>
+    <beat>142</beat>
+    <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>CHURCH ST, TT</prime_street>
-    <cross_streets>CONGER COAL LANE / THE ESPLANADE</cross_streets>
-    <dispatch_time>2021-03-22 17:38:58</dispatch_time>
-    <event_num>F21025690</event_num>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-22 18:08:43</dispatch_time>
+    <event_num>F21025695</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-22 18:10:21</dispatch_time>
+    <event_num>F21025696</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> A315</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-22 18:11:43</dispatch_time>
+    <event_num>F21025697</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-22 18:13:09</dispatch_time>
+    <event_num>F21025698</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>AUGUSTA AVE, TT</prime_street>
+    <cross_streets>AUGUSTA SQ / ARTHUR KING LANE</cross_streets>
+    <dispatch_time>2021-03-22 18:14:42</dispatch_time>
+    <event_num>F21025699</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P325, C33, R325, T333</units_disp>
+    <beat>331</beat>
+    <units_disp> P331, P315, A331, C33, P325</units_disp>
   </event>
   <event>
-    <prime_street>HULLMAR DR, NY</prime_street>
-    <cross_streets>HISEY CRES / WHEELWRIGHT CRES</cross_streets>
-    <dispatch_time>2021-03-22 17:41:05</dispatch_time>
-    <event_num>F21025691</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>ST CLAIR AVE, EY</prime_street>
+    <cross_streets>SQUIRES AVE / GLENBURN AVE</cross_streets>
+    <dispatch_time>2021-03-22 18:15:38</dispatch_time>
+    <event_num>F21025700</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A133, C14, P141, R112, R411</units_disp>
+    <beat>235</beat>
+    <units_disp> R235, A222, C22, P221, R224, R225</units_disp>
   </event>
 </tfs_active_incidents>
