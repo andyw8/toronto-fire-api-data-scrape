@@ -1,24 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-22 04:35:02</update_from_db_time>
+  <update_from_db_time>2021-03-22 05:00:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>WHARFSIDE LANE / BRIDGEND ST</cross_streets>
-    <dispatch_time>2021-03-22 04:19:15</dispatch_time>
-    <event_num>F21025487</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>LANSDOWNE AVE, TT</prime_street>
+    <cross_streets>DUPONT ST / BRANDON AVE</cross_streets>
+    <dispatch_time>2021-03-22 04:47:22</dispatch_time>
+    <event_num>F21025492</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 04:24:35</dispatch_time>
-    <event_num>F21025489</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>345</beat>
+    <units_disp> R423, P342, A345, C34, R426</units_disp>
   </event>
 </tfs_active_incidents>
