@@ -1,34 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-22 05:30:01</update_from_db_time>
-  <event>
-    <prime_street>ISABELLA ST, TT</prime_street>
-    <cross_streets>JARVIS ST / HUNTLEY ST</cross_streets>
-    <dispatch_time>2021-03-22 05:12:14</dispatch_time>
-    <event_num>F21025493</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 05:22:15</dispatch_time>
-    <event_num>F21025494</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>WELLESLEY ST E / JARVIS ST</cross_streets>
-    <dispatch_time>2021-03-22 05:25:40</dispatch_time>
-    <event_num>F21025495</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P314</units_disp>
-  </event>
+  <update_from_db_time>2021-03-22 06:00:02</update_from_db_time>
 </tfs_active_incidents>
