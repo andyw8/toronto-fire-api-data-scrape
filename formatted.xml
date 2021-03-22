@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-21 22:00:02</update_from_db_time>
+  <update_from_db_time>2021-03-21 22:45:02</update_from_db_time>
   <event>
     <prime_street>SHERBOURNE ST, TT</prime_street>
     <cross_streets>LN N DUNDAS W SHERBOURNE / GLENHOLME PL</cross_streets>
@@ -12,103 +12,23 @@
     <units_disp> S313, P325, C33, P314, P333, T333, P332, FI19</units_disp>
   </event>
   <event>
-    <prime_street>KEELE ST, TT</prime_street>
-    <cross_streets>HILLSVIEW AVE / LN S HUMBERSIDE E KEELE</cross_streets>
-    <dispatch_time>2021-03-21 20:45:37</dispatch_time>
-    <event_num>F21025407</event_num>
-    <event_type>Vehicle Accident with Fire</event_type>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>KINGSTON RD / FLORIST LANE</cross_streets>
+    <dispatch_time>2021-03-21 22:30:12</dispatch_time>
+    <event_num>F21025446</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423, A423</units_disp>
+    <beat>234</beat>
+    <units_disp> P234, A215, C23, P223, R214</units_disp>
   </event>
   <event>
-    <prime_street>ERSKINE AVE, TT</prime_street>
-    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
-    <dispatch_time>2021-03-21 21:41:21</dispatch_time>
-    <event_num>F21025425</event_num>
-    <event_type>Hazmat Level 2</event_type>
+    <prime_street>WELLESLEY ST, TT</prime_street>
+    <cross_streets>ROSE AVE / DARLING LANE</cross_streets>
+    <dispatch_time>2021-03-21 22:35:32</dispatch_time>
+    <event_num>F21025447</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> HZ145, R134, C13</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 21:41:17</dispatch_time>
-    <event_num>F21025426</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P431, PL432</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 21:43:03</dispatch_time>
-    <event_num>F21025429</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
-  </event>
-  <event>
-    <prime_street>KEELE ST, TT</prime_street>
-    <cross_streets>JACKSON PL / VINE AVE</cross_streets>
-    <dispatch_time>2021-03-21 21:49:08</dispatch_time>
-    <event_num>F21025432</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 21:49:19</dispatch_time>
-    <event_num>F21025433</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
-  </event>
-  <event>
-    <prime_street>M4H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-21 21:49:49</dispatch_time>
-    <event_num>F21025434</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>CANYON AVE, NY</prime_street>
-    <cross_streets>SHEPPARD AVE W / BATHURST ST</cross_streets>
-    <dispatch_time>2021-03-21 21:50:30</dispatch_time>
-    <event_num>F21025435</event_num>
-    <event_type>Fire - Other</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143, HR114, P114, R112, S143, C13, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>GARTHDALE CRT, NY</prime_street>
-    <cross_streets>OVERBROOK PL / STANSTEAD DR</cross_streets>
-    <dispatch_time>2021-03-21 21:52:23</dispatch_time>
-    <event_num>F21025436</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>MAJOR ST, TT</prime_street>
-    <cross_streets>LN N SUSSEX E MAJOR / LEAH COHEN LANE</cross_streets>
-    <dispatch_time>2021-03-21 21:52:55</dispatch_time>
-    <event_num>F21025437</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P315</units_disp>
+    <beat>313</beat>
+    <units_disp> A312, C31, P313, P314, P325</units_disp>
   </event>
 </tfs_active_incidents>
