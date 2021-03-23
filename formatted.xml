@@ -1,55 +1,15 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-23 18:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-23 19:25:02</update_from_db_time>
   <event>
     <prime_street>MOUNT PLEASANT RD, TT</prime_street>
     <cross_streets>EGLINTON AVE E / ROEHAMPTON AVE</cross_streets>
     <dispatch_time>2021-03-23 17:38:29</dispatch_time>
     <event_num>F21026060</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
+    <event_type>Fire - Highrise Commercial</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>134</beat>
-    <units_disp> R134, R321, A135, C13, P131, P135, HR114, A125, LA333, P311, P312, S313, HZ145, P132, C31, P313, CMD10, C10</units_disp>
-  </event>
-  <event>
-    <prime_street>M4T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-23 18:17:17</dispatch_time>
-    <event_num>F21026077</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-23 18:39:33</dispatch_time>
-    <event_num>F21026081</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
-  </event>
-  <event>
-    <prime_street>L3R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-23 18:41:22</dispatch_time>
-    <event_num>F21026082</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
-  </event>
-  <event>
-    <prime_street>CUMMER AVE, NY</prime_street>
-    <cross_streets>MAXOME AVE / CONACHER DR</cross_streets>
-    <dispatch_time>2021-03-23 18:41:17</dispatch_time>
-    <event_num>F21026083</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
+    <units_disp> R134, R321, A135, C13, P131, P135, HR114, A125, LA333, P311, P312, S313, HZ145, P132, C31, P313, CMD10, C10, P123</units_disp>
   </event>
   <event>
     <prime_street>M6H</prime_street>
@@ -60,5 +20,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>345</beat>
     <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M9A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-23 18:52:45</dispatch_time>
+    <event_num>F21026088</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-23 19:02:37</dispatch_time>
+    <event_num>F21026091</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M4T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-23 19:09:40</dispatch_time>
+    <event_num>F21026092</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-23 19:13:46</dispatch_time>
+    <event_num>F21026093</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
 </tfs_active_incidents>
