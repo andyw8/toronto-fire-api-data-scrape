@@ -1,114 +1,74 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-22 21:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-22 22:35:01</update_from_db_time>
   <event>
-    <prime_street>M6P</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-22 20:58:32</dispatch_time>
-    <event_num>F21025742</event_num>
+    <dispatch_time>2021-03-22 22:00:00</dispatch_time>
+    <event_num>F21025767</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
+    <beat>341</beat>
+    <units_disp> A341</units_disp>
   </event>
   <event>
-    <prime_street>M8X</prime_street>
+    <prime_street>M4W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-22 21:26:33</dispatch_time>
-    <event_num>F21025752</event_num>
+    <dispatch_time>2021-03-22 22:15:56</dispatch_time>
+    <event_num>F21025771</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> R425</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
   <event>
-    <prime_street>MIDLAND AVE, SC</prime_street>
-    <cross_streets> / LEISURE LANE</cross_streets>
-    <dispatch_time>2021-03-22 21:28:27</dispatch_time>
-    <event_num>F21025754</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> A226, C22, P221, P223, P226, R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M6C</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-22 21:29:34</dispatch_time>
-    <event_num>F21025756</event_num>
+    <dispatch_time>2021-03-22 22:16:03</dispatch_time>
+    <event_num>F21025772</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P135</units_disp>
+    <beat>331</beat>
+    <units_disp> S331, P331</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-22 22:19:31</dispatch_time>
+    <event_num>F21025773</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-22 22:22:24</dispatch_time>
+    <event_num>F21025774</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-22 22:27:41</dispatch_time>
+    <event_num>F21025775</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
   <event>
     <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-22 21:40:20</dispatch_time>
-    <event_num>F21025758</event_num>
+    <dispatch_time>2021-03-22 22:29:53</dispatch_time>
+    <event_num>F21025776</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>421</beat>
     <units_disp> R421</units_disp>
-  </event>
-  <event>
-    <prime_street>M3A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 21:42:28</dispatch_time>
-    <event_num>F21025759</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 21:42:16</dispatch_time>
-    <event_num>F21025760</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 21:42:49</dispatch_time>
-    <event_num>F21025761</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 21:44:08</dispatch_time>
-    <event_num>F21025762</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 21:50:50</dispatch_time>
-    <event_num>F21025763</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>STEELES AVE, SC</prime_street>
-    <cross_streets>MCCOWAN RD / MILLIKEN PARK TRL</cross_streets>
-    <dispatch_time>2021-03-22 21:50:54</dispatch_time>
-    <event_num>F21025764</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
   </event>
 </tfs_active_incidents>
