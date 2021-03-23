@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-22 23:25:02</update_from_db_time>
+  <update_from_db_time>2021-03-22 23:55:01</update_from_db_time>
   <event>
     <prime_street>M2M</prime_street>
     <cross_streets/>
@@ -22,33 +22,43 @@
     <units_disp> R425</units_disp>
   </event>
   <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-22 23:05:31</dispatch_time>
-    <event_num>F21025785</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BEECROFT RD, NY</prime_street>
+    <cross_streets>FINCH AVE W / LORRAINE DR</cross_streets>
+    <dispatch_time>2021-03-22 23:33:42</dispatch_time>
+    <event_num>F21025789</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>114</beat>
+    <units_disp> C14, HZ145, P145, R112</units_disp>
   </event>
   <event>
     <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-22 23:06:05</dispatch_time>
-    <event_num>F21025786</event_num>
+    <dispatch_time>2021-03-22 23:39:34</dispatch_time>
+    <event_num>F21025790</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
   </event>
   <event>
-    <prime_street>M4B</prime_street>
+    <prime_street>M5P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-22 23:17:38</dispatch_time>
-    <event_num>F21025788</event_num>
+    <dispatch_time>2021-03-22 23:48:22</dispatch_time>
+    <event_num>F21025792</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>2190 LAWRENCE AVE E / 10 CANLISH RD</cross_streets>
+    <dispatch_time>2021-03-22 23:49:13</dispatch_time>
+    <event_num>F21025793</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245, A222, P232, P233, S232, C23</units_disp>
   </event>
 </tfs_active_incidents>
