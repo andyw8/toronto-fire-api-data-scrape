@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-23 13:40:02</update_from_db_time>
+  <update_from_db_time>2021-03-23 14:00:02</update_from_db_time>
   <event>
     <prime_street>HORSHAM AVE, NY</prime_street>
     <cross_streets>STAFFORD RD / BATHURST ST</cross_streets>
@@ -22,63 +22,53 @@
     <units_disp> R241</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M4S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-23 13:16:03</dispatch_time>
-    <event_num>F21025970</event_num>
+    <dispatch_time>2021-03-23 13:40:30</dispatch_time>
+    <event_num>F21025981</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>134</beat>
+    <units_disp> P135</units_disp>
   </event>
   <event>
-    <prime_street>BLACKTHORN AVE, TT</prime_street>
-    <cross_streets>ROCKWELL AVE / ROWNTREE AVE</cross_streets>
-    <dispatch_time>2021-03-23 13:18:37</dispatch_time>
-    <event_num>F21025971</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> R423</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>M3H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-23 13:27:25</dispatch_time>
-    <event_num>F21025973</event_num>
+    <dispatch_time>2021-03-23 13:47:48</dispatch_time>
+    <event_num>F21025983</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P323</units_disp>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
+    <prime_street>M3H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-23 13:28:56</dispatch_time>
-    <event_num>F21025974</event_num>
+    <dispatch_time>2021-03-23 13:53:04</dispatch_time>
+    <event_num>F21025984</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> P227</units_disp>
+    <beat>143</beat>
+    <units_disp> S143</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-23 13:29:05</dispatch_time>
-    <event_num>F21025975</event_num>
+    <dispatch_time>2021-03-23 13:54:05</dispatch_time>
+    <event_num>F21025986</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-23 13:33:16</dispatch_time>
-    <event_num>F21025978</event_num>
+    <dispatch_time>2021-03-23 13:56:17</dispatch_time>
+    <event_num>F21025987</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>232</beat>
+    <units_disp> S232</units_disp>
   </event>
 </tfs_active_incidents>
