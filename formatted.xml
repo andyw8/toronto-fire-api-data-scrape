@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-23 12:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-23 13:40:02</update_from_db_time>
   <event>
     <prime_street>HORSHAM AVE, NY</prime_street>
     <cross_streets>STAFFORD RD / BATHURST ST</cross_streets>
@@ -9,46 +9,76 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
-    <units_disp> S143, R112, P114, P143, C14, T114, LA111, P141, P132, P121, P111, P114, P111, P132</units_disp>
+    <units_disp> S143, R112, P114, P143, C14, T114, LA111, P141, P132, P121, P111, P114, P111, P132, R112</units_disp>
   </event>
   <event>
-    <prime_street>M1S</prime_street>
+    <prime_street>M1W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-23 11:50:38</dispatch_time>
-    <event_num>F21025947</event_num>
+    <dispatch_time>2021-03-23 13:06:57</dispatch_time>
+    <event_num>F21025967</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
   </event>
   <event>
-    <prime_street>M8Y</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-23 12:03:37</dispatch_time>
-    <event_num>F21025949</event_num>
+    <dispatch_time>2021-03-23 13:16:03</dispatch_time>
+    <event_num>F21025970</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>BLACKTHORN AVE, TT</prime_street>
+    <cross_streets>ROCKWELL AVE / ROWNTREE AVE</cross_streets>
+    <dispatch_time>2021-03-23 13:18:37</dispatch_time>
+    <event_num>F21025971</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-23 12:31:13</dispatch_time>
-    <event_num>F21025954</event_num>
+    <dispatch_time>2021-03-23 13:27:25</dispatch_time>
+    <event_num>F21025973</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415</units_disp>
+    <beat>322</beat>
+    <units_disp> P323</units_disp>
   </event>
   <event>
-    <prime_street>ROCKFORD RD, NY</prime_street>
-    <cross_streets>TORRESDALE AVE / ROBINGROVE RD</cross_streets>
-    <dispatch_time>2021-03-23 12:40:04</dispatch_time>
-    <event_num>F21025956</event_num>
-    <event_type>Alarm - Institution - School</event_type>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-23 13:28:56</dispatch_time>
+    <event_num>F21025974</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112, P143, C14, P111, P114, T114</units_disp>
+    <beat>326</beat>
+    <units_disp> P227</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-23 13:29:05</dispatch_time>
+    <event_num>F21025975</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-23 13:33:16</dispatch_time>
+    <event_num>F21025978</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
   </event>
 </tfs_active_incidents>
