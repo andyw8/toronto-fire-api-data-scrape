@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 00:25:02</update_from_db_time>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-23 23:54:07</dispatch_time>
-    <event_num>F21026169</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> P116</units_disp>
-  </event>
+  <update_from_db_time>2021-03-24 00:45:02</update_from_db_time>
   <event>
     <prime_street>AVENUE RD, TT</prime_street>
     <cross_streets>TRANMER AVE / COLLEGE VIEW AVE</cross_streets>
@@ -20,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>135</beat>
     <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>EUCLID AVE, TT</prime_street>
+    <cross_streets>HARBORD ST / HERRICK ST</cross_streets>
+    <dispatch_time>2021-03-24 00:24:34</dispatch_time>
+    <event_num>F21026171</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315, P331, A315, C31, P312</units_disp>
+  </event>
+  <event>
+    <prime_street>BROADWAY AVE, TT</prime_street>
+    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
+    <dispatch_time>2021-03-24 00:29:09</dispatch_time>
+    <event_num>F21026172</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
