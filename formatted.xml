@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 09:45:02</update_from_db_time>
-  <event>
-    <prime_street>M4N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 09:25:53</dispatch_time>
-    <event_num>F21026273</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131</units_disp>
-  </event>
-  <event>
-    <prime_street>WILLOWDALE AVE, NY</prime_street>
-    <cross_streets>CHURCH AVE / BYNG AVE</cross_streets>
-    <dispatch_time>2021-03-24 09:34:22</dispatch_time>
-    <event_num>F21026274</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, P111, C11, R112, T114</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>LOWER JARVIS ST / GEORGE ST S</cross_streets>
-    <dispatch_time>2021-03-24 09:36:49</dispatch_time>
-    <event_num>F21026276</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> C33, HR332, P332, P333, R325, T333, C33</units_disp>
-  </event>
+  <update_from_db_time>2021-03-24 10:00:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>SCOTT ST / CHURCH ST</cross_streets>
@@ -39,6 +9,36 @@
     <event_type>Alarm Highrise Residential Downtown</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
-    <units_disp> A325, C31, P312, P314, P334</units_disp>
+    <units_disp> A325, C31, P312, P314, P334, HR332</units_disp>
+  </event>
+  <event>
+    <prime_street>HAWKSDALE RD, NY</prime_street>
+    <cross_streets>TILBURY DR / PAXTONIA BLVD</cross_streets>
+    <dispatch_time>2021-03-24 09:49:40</dispatch_time>
+    <event_num>F21026278</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> R133, P145, A133, C14, P141, P146, P143, C13</units_disp>
+  </event>
+  <event>
+    <prime_street>M3A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 09:51:17</dispatch_time>
+    <event_num>F21026279</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
+  </event>
+  <event>
+    <prime_street>DENTON AVE, SC</prime_street>
+    <cross_streets>VICTORIA PARK AVE / MACEY AVE</cross_streets>
+    <dispatch_time>2021-03-24 09:56:41</dispatch_time>
+    <event_num>F21026280</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> A226, P222, P226, R225, C22</units_disp>
   </event>
 </tfs_active_incidents>
