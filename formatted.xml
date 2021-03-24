@@ -1,74 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 17:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-24 18:05:02</update_from_db_time>
   <event>
-    <prime_street>SOUTHWELL DR, NY</prime_street>
-    <cross_streets>TORRYBURN PL / BALLYRONAN RD</cross_streets>
-    <dispatch_time>2021-03-24 17:21:23</dispatch_time>
-    <event_num>F21026436</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>DUFFERIN ST / ALNESS ST</cross_streets>
+    <dispatch_time>2021-03-24 17:42:20</dispatch_time>
+    <event_num>F21026445</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122</units_disp>
+    <beat>141</beat>
+    <units_disp> P145, C14, HZ145, P141</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
+    <prime_street>M4Y</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-24 17:27:35</dispatch_time>
-    <event_num>F21026437</event_num>
+    <dispatch_time>2021-03-24 17:49:30</dispatch_time>
+    <event_num>F21026446</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A423</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>KENNEDY RD / STEELES AVE E</cross_streets>
-    <dispatch_time>2021-03-24 17:37:56</dispatch_time>
-    <event_num>F21026439</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
+    <cross_streets>R. V. BURGESS PARK TRL / WEST DON RIVER TRL</cross_streets>
+    <dispatch_time>2021-03-24 17:56:14</dispatch_time>
+    <event_num>F21026447</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>322</beat>
+    <units_disp> A322, S313</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
+    <prime_street>M4P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-24 17:38:20</dispatch_time>
-    <event_num>F21026440</event_num>
+    <dispatch_time>2021-03-24 17:57:57</dispatch_time>
+    <event_num>F21026448</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
   <event>
-    <prime_street>BURNHAMTHORPE PARK BLVD, ET</prime_street>
-    <cross_streets>WEMBLEY AVE / </cross_streets>
-    <dispatch_time>2021-03-24 17:39:58</dispatch_time>
-    <event_num>F21026441</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
+    <prime_street>M4Y</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-24 17:40:16</dispatch_time>
-    <event_num>F21026442</event_num>
+    <dispatch_time>2021-03-24 17:59:21</dispatch_time>
+    <event_num>F21026449</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
-  </event>
-  <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 17:40:34</dispatch_time>
-    <event_num>F21026443</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
 </tfs_active_incidents>
