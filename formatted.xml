@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 00:00:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ISLINGTON AVE / THE WESTWAY</cross_streets>
-    <dispatch_time>2021-03-23 23:20:58</dispatch_time>
-    <event_num>F21026160</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-23 23:42:26</dispatch_time>
-    <event_num>F21026166</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
-  </event>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-23 23:48:41</dispatch_time>
-    <event_num>F21026167</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
-  </event>
-  <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-23 23:51:14</dispatch_time>
-    <event_num>F21026168</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
+  <update_from_db_time>2021-03-24 00:25:02</update_from_db_time>
   <event>
     <prime_street>M2J</prime_street>
     <cross_streets/>
@@ -50,5 +10,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>115</beat>
     <units_disp> P116</units_disp>
+  </event>
+  <event>
+    <prime_street>AVENUE RD, TT</prime_street>
+    <cross_streets>TRANMER AVE / COLLEGE VIEW AVE</cross_streets>
+    <dispatch_time>2021-03-24 00:19:23</dispatch_time>
+    <event_num>F21026170</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P135</units_disp>
   </event>
 </tfs_active_incidents>
