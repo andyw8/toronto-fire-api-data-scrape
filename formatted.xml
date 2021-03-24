@@ -1,86 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 19:20:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ALBION RD / MARTIN GROVE RD</cross_streets>
-    <dispatch_time>2021-03-24 18:23:17</dispatch_time>
-    <event_num>F21026457</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 18:44:30</dispatch_time>
-    <event_num>F21026465</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>CHESSWOOD DR / ALEXDON RD</cross_streets>
-    <dispatch_time>2021-03-24 18:54:17</dispatch_time>
-    <event_num>F21026468</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> A142, P141</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>VANSCO RD / ALGIE AVE</cross_streets>
-    <dispatch_time>2021-03-24 18:57:58</dispatch_time>
-    <event_num>F21026469</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 19:03:08</dispatch_time>
-    <event_num>F21026471</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> A411</units_disp>
-  </event>
-  <event>
-    <prime_street>M5E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 19:09:24</dispatch_time>
-    <event_num>F21026472</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>KILPATRICK DR, SC</prime_street>
-    <cross_streets>MINFORD AVE / HUGHES PL</cross_streets>
-    <dispatch_time>2021-03-24 19:13:25</dispatch_time>
-    <event_num>F21026473</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
-  </event>
-  <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 19:14:06</dispatch_time>
-    <event_num>F21026474</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> HZ326</units_disp>
-  </event>
+  <update_from_db_time>2021-03-24 19:40:02</update_from_db_time>
   <event>
     <prime_street>RIVER ST, TT</prime_street>
     <cross_streets>WYATT AVE / DUNDAS ST E</cross_streets>
@@ -90,5 +10,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>325</beat>
     <units_disp> A325, P313, P314, P324, C33, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 19:20:25</dispatch_time>
+    <event_num>F21026476</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> R435</units_disp>
+  </event>
+  <event>
+    <prime_street>ROYAL YORK RD, ET</prime_street>
+    <cross_streets>LN S BLOOR W ROYAL YORK / BLOOR ST W</cross_streets>
+    <dispatch_time>2021-03-24 19:22:14</dispatch_time>
+    <event_num>F21026477</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> A432, C44, P431, P433, R425</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR AVE, TT</prime_street>
+    <cross_streets>WELLAND AVE / HUDSON DR</cross_streets>
+    <dispatch_time>2021-03-24 19:26:55</dispatch_time>
+    <event_num>F21026479</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M5P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 19:28:25</dispatch_time>
+    <event_num>F21026480</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, SC</prime_street>
+    <cross_streets>MORNINGSIDE AVE / WATER TOWER GT</cross_streets>
+    <dispatch_time>2021-03-24 19:31:13</dispatch_time>
+    <event_num>F21026481</event_num>
+    <event_type>Fire - Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>212</beat>
+    <units_disp> R213, P212, A213, C21, P234, R214</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 19:33:46</dispatch_time>
+    <event_num>F21026482</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
   </event>
 </tfs_active_incidents>
