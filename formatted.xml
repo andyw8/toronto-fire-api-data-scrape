@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 05:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-24 05:50:02</update_from_db_time>
   <event>
     <prime_street>RICHMOND ST, TT</prime_street>
     <cross_streets>TWILIGHT LANE / DUNCAN ST</cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> P114, P111, C14, P143, T114</units_disp>
   </event>
   <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 05:21:22</dispatch_time>
-    <event_num>F21026214</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 05:24:46</dispatch_time>
-    <event_num>F21026215</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
     <prime_street>M1W</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-24 05:25:11</dispatch_time>
@@ -69,6 +49,46 @@
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
-    <units_disp> C33, P314, P333, R325, T333</units_disp>
+    <units_disp> P314, P333, R325, T333, C33</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SCOTT ST / CHURCH ST</cross_streets>
+    <dispatch_time>2021-03-24 05:33:55</dispatch_time>
+    <event_num>F21026218</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P334, P312, A325, C31, P313, P314, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>WILSON AVE, NY</prime_street>
+    <cross_streets>JANE ST / DALLNER RD</cross_streets>
+    <dispatch_time>2021-03-24 05:36:58</dispatch_time>
+    <event_num>F21026219</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146, P142, A142, C14, P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 05:40:46</dispatch_time>
+    <event_num>F21026220</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>CORONA ST / DUFFERIN ST</cross_streets>
+    <dispatch_time>2021-03-24 05:41:37</dispatch_time>
+    <event_num>F21026221</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132, P145, A133, C13, R133</units_disp>
   </event>
 </tfs_active_incidents>
