@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 03:50:01</update_from_db_time>
+  <update_from_db_time>2021-03-24 04:10:02</update_from_db_time>
   <event>
     <prime_street>LOTHERTON PTWY, NY</prime_street>
     <cross_streets>CALEDONIA RD / </cross_streets>
@@ -20,5 +20,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>433</beat>
     <units_disp> P433, R435, A433, C43, P431</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 03:57:28</dispatch_time>
+    <event_num>F21026196</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 04:01:49</dispatch_time>
+    <event_num>F21026197</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Z</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 04:04:14</dispatch_time>
+    <event_num>F21026198</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> R435</units_disp>
   </event>
 </tfs_active_incidents>
