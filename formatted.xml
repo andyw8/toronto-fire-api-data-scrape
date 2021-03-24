@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 15:25:02</update_from_db_time>
-  <event>
-    <prime_street>ROSEBANK DR, SC</prime_street>
-    <cross_streets>MARKHAM RD / PARKBOROUGH BLVD</cross_streets>
-    <dispatch_time>2021-03-24 13:53:29</dispatch_time>
-    <event_num>F21026359</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213, P234, C23, HZ326</units_disp>
-  </event>
+  <update_from_db_time>2021-03-24 15:40:02</update_from_db_time>
   <event>
     <prime_street>M4E</prime_street>
     <cross_streets/>
@@ -20,46 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>227</beat>
     <units_disp> P227</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 14:55:28</dispatch_time>
-    <event_num>F21026376</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>SEDGEMOUNT DR, SC</prime_street>
-    <cross_streets>PANDORA CRCL / DAVENTRY RD</cross_streets>
-    <dispatch_time>2021-03-24 14:58:16</dispatch_time>
-    <event_num>F21026378</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> R231</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-24 14:59:38</dispatch_time>
-    <event_num>F21026379</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> P142, R411</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 15:09:11</dispatch_time>
-    <event_num>F21026383</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> HR332</units_disp>
   </event>
   <event>
     <prime_street>M4S</prime_street>
@@ -82,16 +32,6 @@
     <units_disp> P334, P331, A331, C33, P333, C33</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 15:17:56</dispatch_time>
-    <event_num>F21026386</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
     <prime_street>LUVERNE AVE, NY</prime_street>
     <cross_streets>LAURENTIA CRES / DELAHAYE ST</cross_streets>
     <dispatch_time>2021-03-24 15:21:44</dispatch_time>
@@ -100,5 +40,85 @@
     <alarm_lev>0</alarm_lev>
     <beat>145</beat>
     <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M5R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 15:25:14</dispatch_time>
+    <event_num>F21026388</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>KEELE ST / PIMLICO RD</cross_streets>
+    <dispatch_time>2021-03-24 15:25:13</dispatch_time>
+    <event_num>F21026389</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> R133, S143</units_disp>
+  </event>
+  <event>
+    <prime_street>ROWANWOOD AVE, TT</prime_street>
+    <cross_streets>YONGE ST / CLUNY DR</cross_streets>
+    <dispatch_time>2021-03-24 15:25:21</dispatch_time>
+    <event_num>F21026390</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P234, C31, HZ326, P311</units_disp>
+  </event>
+  <event>
+    <prime_street>VANSCO RD, ET</prime_street>
+    <cross_streets>WICKMAN RD / NORTH QUEEN ST</cross_streets>
+    <dispatch_time>2021-03-24 15:26:50</dispatch_time>
+    <event_num>F21026392</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P432, A433, C44, P445, R434</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 15:31:18</dispatch_time>
+    <event_num>F21026393</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 15:32:17</dispatch_time>
+    <event_num>F21026394</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 15:34:56</dispatch_time>
+    <event_num>F21026395</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
+  </event>
+  <event>
+    <prime_street>M3K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 15:35:58</dispatch_time>
+    <event_num>F21026396</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P146</units_disp>
   </event>
 </tfs_active_incidents>
