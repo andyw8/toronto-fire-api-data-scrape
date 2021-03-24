@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 16:05:02</update_from_db_time>
+  <update_from_db_time>2021-03-24 16:25:02</update_from_db_time>
   <event>
     <prime_street>ROWANWOOD AVE, TT</prime_street>
     <cross_streets>YONGE ST / CLUNY DR</cross_streets>
@@ -12,36 +12,6 @@
     <units_disp> P234, C31, HZ326, P311</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 15:46:28</dispatch_time>
-    <event_num>F21026398</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-24 15:50:21</dispatch_time>
-    <event_num>F21026399</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115, P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 15:50:39</dispatch_time>
-    <event_num>F21026400</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
-  </event>
-  <event>
     <prime_street>DUPLEX AVE, TT</prime_street>
     <cross_streets>EGLINTON AVE W / ORCHARD VIEW BLVD</cross_streets>
     <dispatch_time>2021-03-24 15:51:12</dispatch_time>
@@ -50,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
     <units_disp> P135, P131, A135, C13, P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M4G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 15:52:45</dispatch_time>
-    <event_num>F21026402</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R321</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -80,5 +40,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>341</beat>
     <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 16:10:22</dispatch_time>
+    <event_num>F21026407</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>BLOOR ST W / EVA RD</cross_streets>
+    <dispatch_time>2021-03-24 16:12:51</dispatch_time>
+    <event_num>F21026408</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P445, R444, A441, C44, R434</units_disp>
+  </event>
+  <event>
+    <prime_street>SOUTH WOODROW BLVD, SC</prime_street>
+    <cross_streets>HIGHVIEW AVE / HADDON AVE</cross_streets>
+    <dispatch_time>2021-03-24 16:13:29</dispatch_time>
+    <event_num>F21026410</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> A222, C22, P222, P223, P226, R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M9R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 16:14:17</dispatch_time>
+    <event_num>F21026411</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 16:18:27</dispatch_time>
+    <event_num>F21026412</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>GERRARD ST E / JARVIS ST</cross_streets>
+    <dispatch_time>2021-03-24 16:20:26</dispatch_time>
+    <event_num>F21026413</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
