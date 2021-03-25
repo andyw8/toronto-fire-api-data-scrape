@@ -1,44 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-25 06:45:02</update_from_db_time>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-25 06:13:01</dispatch_time>
-    <event_num>F21026602</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-25 06:13:52</dispatch_time>
-    <event_num>F21026603</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>GRAYDON HALL DR, NY</prime_street>
-    <cross_streets>GRAYDON HALL PL / GRAYDON HALL PARK TRL</cross_streets>
-    <dispatch_time>2021-03-25 06:29:35</dispatch_time>
-    <event_num>F21026606</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> S232, R115</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-25 06:30:12</dispatch_time>
-    <event_num>F21026607</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
+  <update_from_db_time>2021-03-25 07:00:02</update_from_db_time>
 </tfs_active_incidents>
