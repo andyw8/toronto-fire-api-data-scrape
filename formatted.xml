@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 20:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-24 21:10:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>RATHBURN RD / ISLINGTON AVE</cross_streets>
@@ -12,83 +12,33 @@
     <units_disp> P426, P445</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>WARDEN AVE / CLEANSIDE RD</cross_streets>
-    <dispatch_time>2021-03-24 20:18:37</dispatch_time>
-    <event_num>F21026499</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
-  </event>
-  <event>
-    <prime_street>PAPE AVE, EY</prime_street>
-    <cross_streets>CANNING AVE / BROWNING AVE</cross_streets>
-    <dispatch_time>2021-03-24 20:27:57</dispatch_time>
-    <event_num>F21026503</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> A324</units_disp>
-  </event>
-  <event>
-    <prime_street>M3N</prime_street>
+    <prime_street>M5R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-24 20:32:22</dispatch_time>
-    <event_num>F21026505</event_num>
+    <dispatch_time>2021-03-24 20:54:14</dispatch_time>
+    <event_num>F21026511</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
+    <beat>344</beat>
+    <units_disp> P312</units_disp>
   </event>
   <event>
-    <prime_street>M3H</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-24 20:33:00</dispatch_time>
-    <event_num>F21026506</event_num>
+    <dispatch_time>2021-03-24 20:58:34</dispatch_time>
+    <event_num>F21026513</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 20:34:30</dispatch_time>
-    <event_num>F21026507</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>DUNDAS ST, ET</prime_street>
+    <cross_streets>MABELLE AVE / AVONHURST RD</cross_streets>
+    <dispatch_time>2021-03-24 21:02:31</dispatch_time>
+    <event_num>F21026515</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>TREFANN ST / TRACY ST</cross_streets>
-    <dispatch_time>2021-03-24 20:35:26</dispatch_time>
-    <event_num>F21026508</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, C33, P324, P333, R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 20:38:36</dispatch_time>
-    <event_num>F21026509</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
-  </event>
-  <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>GRACEDALE BLVD / ARDWICK BLVD</cross_streets>
-    <dispatch_time>2021-03-24 20:44:27</dispatch_time>
-    <event_num>F21026510</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
+    <beat>445</beat>
+    <units_disp> S445, P431, A432, C44, P432, P443</units_disp>
   </event>
 </tfs_active_incidents>
