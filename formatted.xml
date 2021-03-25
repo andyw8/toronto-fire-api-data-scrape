@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 21:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-24 21:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>RATHBURN RD / ISLINGTON AVE</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>443</beat>
     <units_disp> P426, P445, P431</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 21:21:03</dispatch_time>
-    <event_num>F21026518</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
   </event>
   <event>
     <prime_street>ROGERS RD, YK</prime_street>
@@ -32,23 +22,43 @@
     <units_disp> R341, P342, A341, C34, P343, R345</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 21:22:52</dispatch_time>
-    <event_num>F21026520</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>CHALKFARM DR, NY</prime_street>
+    <cross_streets>MARLINGTON CRES / MARLINGTON CRES</cross_streets>
+    <dispatch_time>2021-03-24 21:36:15</dispatch_time>
+    <event_num>F21026522</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>146</beat>
+    <units_disp> P146, S143</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-24 21:26:57</dispatch_time>
-    <event_num>F21026521</event_num>
+    <dispatch_time>2021-03-24 21:38:17</dispatch_time>
+    <event_num>F21026523</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> A345</units_disp>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 21:46:47</dispatch_time>
+    <event_num>F21026524</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-24 21:45:53</dispatch_time>
+    <event_num>F21026525</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
 </tfs_active_incidents>
