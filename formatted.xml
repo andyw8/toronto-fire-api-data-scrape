@@ -1,34 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-24 23:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-25 00:00:04</update_from_db_time>
   <event>
-    <prime_street>SHUTER ST, TT</prime_street>
-    <cross_streets>ONTARIO ST / MILAN ST</cross_streets>
-    <dispatch_time>2021-03-24 22:41:27</dispatch_time>
-    <event_num>F21026540</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, P333, A325, C33, P313, P325, C30, CMD30, CMD30C, C31, HR332, HZ326, LA333, P312, P315, P324, P334, S313, T333</units_disp>
-  </event>
-  <event>
-    <prime_street>M8W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-24 23:35:29</dispatch_time>
-    <event_num>F21026551</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>FRIZZELL AVE, TT</prime_street>
+    <cross_streets>LN E PAPE S FRIZELL / </cross_streets>
+    <dispatch_time>2021-03-24 23:48:29</dispatch_time>
+    <event_num>F21026554</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
-  </event>
-  <event>
-    <prime_street>BORDEN ST, TT</prime_street>
-    <cross_streets>VANKOUGHNET ST / ULSTER ST</cross_streets>
-    <dispatch_time>2021-03-24 23:36:42</dispatch_time>
-    <event_num>F21026552</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315, P331, S331, A315, P314, C31</units_disp>
+    <beat>324</beat>
+    <units_disp> P145, P324, C32, HZ326, A324</units_disp>
   </event>
 </tfs_active_incidents>
