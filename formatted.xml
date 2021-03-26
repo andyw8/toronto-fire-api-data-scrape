@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-25 22:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-25 22:50:02</update_from_db_time>
   <event>
     <prime_street>M1B</prime_street>
     <cross_streets/>
@@ -22,46 +22,6 @@
     <units_disp> R341, C34, P342, P343, A135, P135</units_disp>
   </event>
   <event>
-    <prime_street>GOWAN AVE, EY</prime_street>
-    <cross_streets>PAPE AVE / COSBURN AVE</cross_streets>
-    <dispatch_time>2021-03-25 21:58:29</dispatch_time>
-    <event_num>F21026879</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-25 22:04:46</dispatch_time>
-    <event_num>F21026882</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-25 22:07:46</dispatch_time>
-    <event_num>F21026883</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>BROCK AVE / LN W BROCK S DUNDAS</cross_streets>
-    <dispatch_time>2021-03-25 22:18:08</dispatch_time>
-    <event_num>F21026884</event_num>
-    <event_type>Vehicle Accident - Trapped</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, C34, P331, S331</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>LAKE SHORE BLVD E / DON RDWY</cross_streets>
     <dispatch_time>2021-03-25 22:21:00</dispatch_time>
@@ -72,43 +32,43 @@
     <units_disp> R325, C33, P333, S143</units_disp>
   </event>
   <event>
-    <prime_street>MAIN ST, TT</prime_street>
-    <cross_streets>LN N DANFORTH W MAIN ST / STANLEY G. GRIZZLE PARK TRL</cross_streets>
-    <dispatch_time>2021-03-25 22:20:53</dispatch_time>
-    <event_num>F21026886</event_num>
-    <event_type>Fire - Subway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> R225, S313, P226, P227, R224, HR332, A222, C22, LA333</units_disp>
-  </event>
-  <event>
     <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-25 22:21:07</dispatch_time>
-    <event_num>F21026887</event_num>
+    <dispatch_time>2021-03-25 22:35:38</dispatch_time>
+    <event_num>F21026890</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>213</beat>
     <units_disp> R213</units_disp>
   </event>
   <event>
-    <prime_street>M4M</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-25 22:22:13</dispatch_time>
-    <event_num>F21026888</event_num>
+    <dispatch_time>2021-03-25 22:36:53</dispatch_time>
+    <event_num>F21026891</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
   <event>
-    <prime_street>M5R</prime_street>
+    <prime_street>M5T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-25 22:25:46</dispatch_time>
-    <event_num>F21026889</event_num>
+    <dispatch_time>2021-03-25 22:43:37</dispatch_time>
+    <event_num>F21026892</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
+    <beat>315</beat>
     <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-25 22:44:50</dispatch_time>
+    <event_num>F21026893</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
   </event>
 </tfs_active_incidents>
