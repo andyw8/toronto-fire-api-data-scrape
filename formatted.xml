@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-26 09:10:02</update_from_db_time>
+  <update_from_db_time>2021-03-26 09:30:02</update_from_db_time>
   <event>
     <prime_street>ST CLAIR AVE, YK</prime_street>
     <cross_streets>BATAVIA AVE / MARIPOSA AVE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Hazmat Level 2</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>422</beat>
-    <units_disp> P433, C42, P422, HZ145, LA421, HZ145, LA421, HZ145</units_disp>
+    <units_disp> P433, C42, P422, HZ145, LA421, HZ145, LA421, HZ145, HZ145</units_disp>
   </event>
   <event>
     <prime_street>M9A</prime_street>
@@ -22,33 +22,33 @@
     <units_disp> P443</units_disp>
   </event>
   <event>
-    <prime_street>M3K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-26 09:00:23</dispatch_time>
-    <event_num>F21027018</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BALMUTO ST, TT</prime_street>
+    <cross_streets>LN S BLOOR E BALMUTO / LN S BLOOR E BALMUTO</cross_streets>
+    <dispatch_time>2021-03-26 09:20:36</dispatch_time>
+    <event_num>F21027024</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
+    <beat>312</beat>
+    <units_disp> P312, P314, A312, C31, P313</units_disp>
   </event>
   <event>
-    <prime_street>DEVONDALE AVE, NY</prime_street>
-    <cross_streets>GRANTBROOK ST / LN W GRANTBROOK S DEVONDALE</cross_streets>
-    <dispatch_time>2021-03-26 09:01:25</dispatch_time>
-    <event_num>F21027019</event_num>
-    <event_type>Wires Down - Hydro</event_type>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>KEELE ST / ROMFIELD LANE</cross_streets>
+    <dispatch_time>2021-03-26 09:25:15</dispatch_time>
+    <event_num>F21027025</event_num>
+    <event_type>Alarm - Institution - School</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
+    <beat>141</beat>
+    <units_disp> R112, P141, P142, P143, A411, C14</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-26 09:06:49</dispatch_time>
-    <event_num>F21027020</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>STEELES AVE, NY</prime_street>
+    <cross_streets>FENMAR DR / WW E ISLINGTON S STEELES</cross_streets>
+    <dispatch_time>2021-03-26 09:26:21</dispatch_time>
+    <event_num>F21027026</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P325</units_disp>
+    <beat>411</beat>
+    <units_disp> R413, P146, A415, P442, C13</units_disp>
   </event>
 </tfs_active_incidents>
