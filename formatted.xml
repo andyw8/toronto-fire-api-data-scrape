@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-26 13:00:02</update_from_db_time>
+  <update_from_db_time>2021-03-26 13:25:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MAIN ST / GERRARD ST E</cross_streets>
@@ -23,46 +23,6 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-26 12:21:47</dispatch_time>
-    <event_num>F21027081</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>435</beat>
-    <units_disp> R435, P433, P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-26 12:46:09</dispatch_time>
-    <event_num>F21027087</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street>M1M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-26 12:46:31</dispatch_time>
-    <event_num>F21027088</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BOMBAY AVE / ARMOUR BLVD</cross_streets>
-    <dispatch_time>2021-03-26 12:51:43</dispatch_time>
-    <event_num>F21027089</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> C13, P121, P143, R112, S143, T114</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
     <cross_streets>LAWRENCE AVE E / FORTUNE GT</cross_streets>
     <dispatch_time>2021-03-26 12:54:37</dispatch_time>
     <event_num>F21027090</event_num>
@@ -70,5 +30,75 @@
     <alarm_lev>0</alarm_lev>
     <beat>231</beat>
     <units_disp> A231</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-03-26 13:03:12</dispatch_time>
+    <event_num>F21027091</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132, R133, P121, A133</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 13:08:59</dispatch_time>
+    <event_num>F21027094</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 13:14:38</dispatch_time>
+    <event_num>F21027095</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>PALM DR, NY</prime_street>
+    <cross_streets>ERICA AVE / COLLINSON BLVD</cross_streets>
+    <dispatch_time>2021-03-26 13:14:35</dispatch_time>
+    <event_num>F21027096</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P143, P145, A135, C13, R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M4B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 13:15:49</dispatch_time>
+    <event_num>F21027097</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 13:18:11</dispatch_time>
+    <event_num>F21027098</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>SIDNEY BELSEY CRES, YK</prime_street>
+    <cross_streets>PORTAGE GARDENS PARK TRL / WESTPOINT LANE</cross_streets>
+    <dispatch_time>2021-03-26 13:21:17</dispatch_time>
+    <event_num>F21027099</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P146, P443, A421, C42, P422</units_disp>
   </event>
 </tfs_active_incidents>
