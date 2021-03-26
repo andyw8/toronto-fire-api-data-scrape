@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-26 12:35:02</update_from_db_time>
+  <update_from_db_time>2021-03-26 13:00:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MAIN ST / GERRARD ST E</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street>BLAKE ST, TT</prime_street>
-    <cross_streets>LN N BOULTBEE E BLAKE ST / KEMPTON HOWARD PARK TRL</cross_streets>
-    <dispatch_time>2021-03-26 12:06:17</dispatch_time>
-    <event_num>F21027072</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> A324, C32, P323, P227, R224, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-26 12:18:52</dispatch_time>
-    <event_num>F21027079</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
   </event>
   <event>
     <prime_street>CROCKFORD BLVD, SC</prime_street>
@@ -52,23 +32,43 @@
     <units_disp> R435, P433, P433</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>EGLINTON AVE W / OAKWOOD AVE</cross_streets>
-    <dispatch_time>2021-03-26 12:26:14</dispatch_time>
-    <event_num>F21027083</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 12:46:09</dispatch_time>
+    <event_num>F21027087</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 12:46:31</dispatch_time>
+    <event_num>F21027088</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>BLOOR ST W / MONTGOMERY RD</cross_streets>
-    <dispatch_time>2021-03-26 12:31:56</dispatch_time>
-    <event_num>F21027084</event_num>
-    <event_type>Water Problem</event_type>
+    <cross_streets>BOMBAY AVE / ARMOUR BLVD</cross_streets>
+    <dispatch_time>2021-03-26 12:51:43</dispatch_time>
+    <event_num>F21027089</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431, A433</units_disp>
+    <beat>132</beat>
+    <units_disp> C13, P121, P143, R112, S143, T114</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>LAWRENCE AVE E / FORTUNE GT</cross_streets>
+    <dispatch_time>2021-03-26 12:54:37</dispatch_time>
+    <event_num>F21027090</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>231</beat>
+    <units_disp> A231</units_disp>
   </event>
 </tfs_active_incidents>
