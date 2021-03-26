@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-26 18:30:02</update_from_db_time>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-26 18:15:43</dispatch_time>
-    <event_num>F21027194</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
-  </event>
-  <event>
-    <prime_street>CHESTNUT CRES, SC</prime_street>
-    <cross_streets>WILLOWMOUNT DR / WW E PIDGEON N CHESTNUT</cross_streets>
-    <dispatch_time>2021-03-26 18:19:45</dispatch_time>
-    <event_num>F21027196</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> A222</units_disp>
-  </event>
+  <update_from_db_time>2021-03-26 18:50:01</update_from_db_time>
   <event>
     <prime_street>M1C</prime_street>
     <cross_streets/>
@@ -40,15 +20,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>215</beat>
     <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>LESLIE ST, TT</prime_street>
-    <cross_streets>TOMMY THOMPSON PK / TOMMY THOMPSON PARK TRL</cross_streets>
-    <dispatch_time>2021-03-26 18:24:25</dispatch_time>
-    <event_num>F21027199</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> P324</units_disp>
   </event>
 </tfs_active_incidents>
