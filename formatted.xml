@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-26 10:10:02</update_from_db_time>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-26 09:38:29</dispatch_time>
-    <event_num>F21027027</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>TRANSIT RD, NY</prime_street>
-    <cross_streets>WILSON AVE / TRANSIT RD ALLEN S RAMP</cross_streets>
-    <dispatch_time>2021-03-26 09:51:07</dispatch_time>
-    <event_num>F21027032</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
-  </event>
+  <update_from_db_time>2021-03-26 10:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -30,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>133</beat>
     <units_disp> A133, R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 10:14:06</dispatch_time>
+    <event_num>F21027037</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street>ONTARIO ST, TT</prime_street>
+    <cross_streets> / HOWARD ST</cross_streets>
+    <dispatch_time>2021-03-26 10:20:47</dispatch_time>
+    <event_num>F21027039</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313, S313</units_disp>
   </event>
 </tfs_active_incidents>
