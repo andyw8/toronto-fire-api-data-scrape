@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-26 06:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-26 06:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>113</beat>
     <units_disp> A113, P116, R115, C24, S232</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-26 06:14:14</dispatch_time>
-    <event_num>F21026968</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
   </event>
   <event>
     <prime_street>M5J</prime_street>
@@ -32,16 +22,6 @@
     <units_disp> P335, FB334, V335</units_disp>
   </event>
   <event>
-    <prime_street>FRONT ST, TT</prime_street>
-    <cross_streets>YONGE ST / SCOTT ST</cross_streets>
-    <dispatch_time>2021-03-26 06:21:58</dispatch_time>
-    <event_num>F21026970</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P332, C33, R325, T333</units_disp>
-  </event>
-  <event>
     <prime_street>JONES AVE, TT</prime_street>
     <cross_streets>LN N QUEEN E JONES / LESLIE GROVE PARK TRL</cross_streets>
     <dispatch_time>2021-03-26 06:26:25</dispatch_time>
@@ -50,5 +30,75 @@
     <alarm_lev>0</alarm_lev>
     <beat>326</beat>
     <units_disp> P324</units_disp>
+  </event>
+  <event>
+    <prime_street>RED DEER AVE, SC</prime_street>
+    <cross_streets>KENNY AVE / PARKER AVE</cross_streets>
+    <dispatch_time>2021-03-26 06:35:23</dispatch_time>
+    <event_num>F21026972</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225, P223, P226, P227, A222, C22, P221</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>FINCH AVE E / MIDDLEFIELD RD</cross_streets>
+    <dispatch_time>2021-03-26 06:38:28</dispatch_time>
+    <event_num>F21026973</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DON MILLS RD / GEORGE HENRY BLVD</cross_streets>
+    <dispatch_time>2021-03-26 06:38:37</dispatch_time>
+    <event_num>F21026974</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>WOOD ST, TT</prime_street>
+    <cross_streets>CHURCH ST / SCHOOL LANE</cross_streets>
+    <dispatch_time>2021-03-26 06:40:28</dispatch_time>
+    <event_num>F21026975</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314, P313, A312, C31, P312</units_disp>
+  </event>
+  <event>
+    <prime_street>MILLWOOD RD, TT</prime_street>
+    <cross_streets>LE MAY RD / WHITEWOOD RD</cross_streets>
+    <dispatch_time>2021-03-26 06:41:30</dispatch_time>
+    <event_num>F21026976</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>321</beat>
+    <units_disp> R321, R134, A125, C13, P125, C13</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 06:42:09</dispatch_time>
+    <event_num>F21026977</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>WARDEN AVE, SC</prime_street>
+    <cross_streets>CANADIAN RD / ELLESMERE RD</cross_streets>
+    <dispatch_time>2021-03-26 06:42:37</dispatch_time>
+    <event_num>F21026979</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
   </event>
 </tfs_active_incidents>
