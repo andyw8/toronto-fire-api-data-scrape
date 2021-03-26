@@ -1,34 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-26 02:25:02</update_from_db_time>
+  <update_from_db_time>2021-03-26 02:50:02</update_from_db_time>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-26 00:45:35</dispatch_time>
-    <event_num>F21026915</event_num>
+    <dispatch_time>2021-03-26 02:33:08</dispatch_time>
+    <event_num>F21026926</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
-  </event>
-  <event>
-    <prime_street>BELLAIR ST, TT</prime_street>
-    <cross_streets>BLOOR ST W / CRITCHLEY LANE</cross_streets>
-    <dispatch_time>2021-03-26 02:15:46</dispatch_time>
-    <event_num>F21026924</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312, P314, A312, C31, P313</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-26 02:17:22</dispatch_time>
-    <event_num>F21026925</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
   </event>
 </tfs_active_incidents>
