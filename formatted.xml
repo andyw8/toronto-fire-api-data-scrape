@@ -1,34 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-26 10:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-26 10:45:02</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-26 10:06:00</dispatch_time>
-    <event_num>F21027034</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133, R133</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
+    <prime_street>M1C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-26 10:14:06</dispatch_time>
-    <event_num>F21027037</event_num>
+    <dispatch_time>2021-03-26 10:27:15</dispatch_time>
+    <event_num>F21027040</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345</units_disp>
+    <beat>214</beat>
+    <units_disp> R214, R213</units_disp>
   </event>
   <event>
-    <prime_street>ONTARIO ST, TT</prime_street>
-    <cross_streets> / HOWARD ST</cross_streets>
-    <dispatch_time>2021-03-26 10:20:47</dispatch_time>
-    <event_num>F21027039</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 10:36:47</dispatch_time>
+    <event_num>F21027042</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, S313</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 10:38:40</dispatch_time>
+    <event_num>F21027043</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 10:40:50</dispatch_time>
+    <event_num>F21027044</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
   </event>
 </tfs_active_incidents>
