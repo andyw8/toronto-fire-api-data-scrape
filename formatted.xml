@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-26 16:40:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MORNINGSIDE AVE / HIGHWAY 401 X E</cross_streets>
-    <dispatch_time>2021-03-26 15:52:20</dispatch_time>
-    <event_num>F21027150</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212, R213</units_disp>
-  </event>
-  <event>
-    <prime_street>M2P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-26 16:12:59</dispatch_time>
-    <event_num>F21027155</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>SEATON ST, TT</prime_street>
-    <cross_streets>HAGAN LANE / HAGAN LANE</cross_streets>
-    <dispatch_time>2021-03-26 16:14:02</dispatch_time>
-    <event_num>F21027157</event_num>
-    <event_type>Water Problem</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, R325</units_disp>
-  </event>
+  <update_from_db_time>2021-03-26 17:10:02</update_from_db_time>
   <event>
     <prime_street>M4V</prime_street>
     <cross_streets/>
@@ -42,33 +12,113 @@
     <units_disp> P311</units_disp>
   </event>
   <event>
-    <prime_street>M4V</prime_street>
+    <prime_street>M1J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-26 16:26:36</dispatch_time>
-    <event_num>F21027160</event_num>
+    <dispatch_time>2021-03-26 16:44:19</dispatch_time>
+    <event_num>F21027163</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P312, A135</units_disp>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
   <event>
-    <prime_street>SEWELL'S RD, SC</prime_street>
-    <cross_streets>LITTLES RD / KENGATE DR</cross_streets>
-    <dispatch_time>2021-03-26 16:33:21</dispatch_time>
-    <event_num>F21027161</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>KINCORT ST, NY</prime_street>
+    <cross_streets>NORTHWESTERN AVE / INGRAM DR</cross_streets>
+    <dispatch_time>2021-03-26 16:45:38</dispatch_time>
+    <event_num>F21027166</event_num>
+    <event_type>Vehicle Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> R213, A213, C21, R214, R231</units_disp>
+    <beat>133</beat>
+    <units_disp> R133, R423</units_disp>
   </event>
   <event>
-    <prime_street>MANVILLE RD, SC</prime_street>
-    <cross_streets>SHERRY RD / CIVIC RD</cross_streets>
-    <dispatch_time>2021-03-26 16:34:02</dispatch_time>
-    <event_num>F21027162</event_num>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 16:48:31</dispatch_time>
+    <event_num>F21027168</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KENNEDY RD / DANFORTH RD</cross_streets>
+    <dispatch_time>2021-03-26 16:48:44</dispatch_time>
+    <event_num>F21027169</event_num>
+    <event_type>Water Problem</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223, A222</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 16:48:48</dispatch_time>
+    <event_num>F21027170</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>CARONDALE CRES, SC</prime_street>
+    <cross_streets>TIMBERBANK BLVD / TIMBERBANK BLVD</cross_streets>
+    <dispatch_time>2021-03-26 16:50:40</dispatch_time>
+    <event_num>F21027171</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P234, A244, C24, R241, HZ326</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>QUEEN'S PARK / BEDFORD RD</cross_streets>
+    <dispatch_time>2021-03-26 16:56:28</dispatch_time>
+    <event_num>F21027174</event_num>
     <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222, R235, A222, C22, P221</units_disp>
+    <beat>312</beat>
+    <units_disp> P312, P314, A312, C31, P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 17:00:24</dispatch_time>
+    <event_num>F21027175</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street>BARBERRY PL, NY</prime_street>
+    <cross_streets>KAREN'S WAY / KENASTON GDNS</cross_streets>
+    <dispatch_time>2021-03-26 17:04:06</dispatch_time>
+    <event_num>F21027176</event_num>
+    <event_type>Fire Highrise Residential North</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P111, P114, R122, HR114, P121, T114, C11</units_disp>
+  </event>
+  <event>
+    <prime_street>FRONTENAC AVE, NY</prime_street>
+    <cross_streets>GLEN RUSH BLVD / BATHURST ST</cross_streets>
+    <dispatch_time>2021-03-26 17:04:31</dispatch_time>
+    <event_num>F21027177</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> R134, P132, A135, C13, P131, P135</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 17:05:02</dispatch_time>
+    <event_num>F21027178</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
