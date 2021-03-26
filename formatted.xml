@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-26 03:40:02</update_from_db_time>
+  <update_from_db_time>2021-03-26 04:10:02</update_from_db_time>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>M5B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-26 03:21:59</dispatch_time>
-    <event_num>F21026932</event_num>
+    <dispatch_time>2021-03-26 03:47:47</dispatch_time>
+    <event_num>F21026936</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>325</beat>
+    <units_disp> A325</units_disp>
   </event>
   <event>
-    <prime_street>DUPONT ST, TT</prime_street>
-    <cross_streets>CLINTON ST / LOOP LINE LANE</cross_streets>
-    <dispatch_time>2021-03-26 03:25:22</dispatch_time>
-    <event_num>F21026934</event_num>
-    <event_type>Fire - Transformer/Pole</event_type>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-26 03:59:20</dispatch_time>
+    <event_num>F21026938</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A345</units_disp>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
   </event>
 </tfs_active_incidents>
