@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-27 08:10:02</update_from_db_time>
+  <update_from_db_time>2021-03-27 08:35:02</update_from_db_time>
   <event>
     <prime_street>MANVILLE RD, SC</prime_street>
     <cross_streets>SHERRY RD / CIVIC RD</cross_streets>
@@ -19,16 +19,46 @@
     <event_type>Fire - Institution</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>314</beat>
-    <units_disp> P314, A325, C33, P332, P333, R325</units_disp>
+    <units_disp> P314, A325, C33, P332, P333, R325, LA333</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets>THE QUEENSWAY / NORTH QUEEN ST</cross_streets>
+    <dispatch_time>2021-03-27 08:18:02</dispatch_time>
+    <event_num>F21027338</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>432</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-27 08:03:59</dispatch_time>
-    <event_num>F21027333</event_num>
+    <dispatch_time>2021-03-27 08:19:51</dispatch_time>
+    <event_num>F21027339</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>432</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-27 08:24:45</dispatch_time>
+    <event_num>F21027340</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
+  </event>
+  <event>
+    <prime_street>UNIVERSITY AVE, TT</prime_street>
+    <cross_streets>ORDE ST / COLLEGE ST</cross_streets>
+    <dispatch_time>2021-03-27 08:31:44</dispatch_time>
+    <event_num>F21027341</event_num>
+    <event_type>Alarm Subway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P315, P312, A315, HR332, P331, S313, C31</units_disp>
   </event>
 </tfs_active_incidents>
