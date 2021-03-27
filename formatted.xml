@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-27 06:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-27 07:10:03</update_from_db_time>
   <event>
     <prime_street>MANVILLE RD, SC</prime_street>
     <cross_streets>SHERRY RD / CIVIC RD</cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> R235, S232, C22, S232</units_disp>
   </event>
   <event>
-    <prime_street>ARMEL CRT, ET</prime_street>
-    <cross_streets>HUMBER RIVER RECREATIONAL TRL / </cross_streets>
-    <dispatch_time>2021-03-27 06:33:49</dispatch_time>
-    <event_num>F21027321</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P442, R413, A415, R441, C41</units_disp>
-  </event>
-  <event>
     <prime_street>OLIVE AVE, NY</prime_street>
     <cross_streets>LN E YONGE S OLIVE / DORIS AVE</cross_streets>
     <dispatch_time>2021-03-27 06:34:15</dispatch_time>
@@ -30,15 +20,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
     <units_disp> C11, HR114, P111, P114, R112, T114</units_disp>
-  </event>
-  <event>
-    <prime_street>M5P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-27 06:40:22</dispatch_time>
-    <event_num>F21027323</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135</units_disp>
   </event>
 </tfs_active_incidents>
