@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-27 17:30:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>VICTORIA PARK AVE / TERRAVIEW BLVD</cross_streets>
-    <dispatch_time>2021-03-27 16:43:19</dispatch_time>
-    <event_num>F21027485</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
+  <update_from_db_time>2021-03-27 17:50:01</update_from_db_time>
   <event>
     <prime_street>M1V</prime_street>
     <cross_streets/>
@@ -32,63 +22,83 @@
     <units_disp> P323</units_disp>
   </event>
   <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>SHUTER ST / DUNDAS SQ</cross_streets>
-    <dispatch_time>2021-03-27 17:15:12</dispatch_time>
-    <event_num>F21027498</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>LESLIE ST, NY</prime_street>
+    <cross_streets>INN ON THE PARK DR / WILKET CREEK TRL</cross_streets>
+    <dispatch_time>2021-03-27 17:31:26</dispatch_time>
+    <event_num>F21027506</event_num>
+    <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, R325, C33, P333, T333</units_disp>
+    <beat>125</beat>
+    <units_disp> P125, S313</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-27 17:17:17</dispatch_time>
-    <event_num>F21027499</event_num>
+    <dispatch_time>2021-03-27 17:32:18</dispatch_time>
+    <event_num>F21027508</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>DUNDAS SQ, TT</prime_street>
-    <cross_streets>YONGE ST / O'KEEFE LANE</cross_streets>
-    <dispatch_time>2021-03-27 17:17:24</dispatch_time>
-    <event_num>F21027500</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>PHARMACY AVE, SC</prime_street>
+    <cross_streets>SURREY AVE / INNISWOOD DR</cross_streets>
+    <dispatch_time>2021-03-27 17:34:32</dispatch_time>
+    <event_num>F21027509</event_num>
+    <event_type>Fire - Institution - School</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P332, P312, A312, C31, P313, A325</units_disp>
+    <beat>233</beat>
+    <units_disp> R235, P123, A222, P232, P245, C11, P222</units_disp>
   </event>
   <event>
-    <prime_street>KINGSTON RD, SC</prime_street>
-    <cross_streets>TOLLGATE MEWS / WHITECAP BLVD</cross_streets>
-    <dispatch_time>2021-03-27 17:23:43</dispatch_time>
-    <event_num>F21027501</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>CRESCENT PL, EY</prime_street>
+    <cross_streets>CRESCENT TOWN RD / CRESCENT TOWN RD</cross_streets>
+    <dispatch_time>2021-03-27 17:34:47</dispatch_time>
+    <event_num>F21027510</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> R225, P223, A231, C23, P234, R231</units_disp>
+    <beat>226</beat>
+    <units_disp> P226, R224, A226, C22, R225</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>CRAWFORD ST, TT</prime_street>
+    <cross_streets>CHRISTIE PITS PARK TRL / CHRISTIE PITS PARK TRL</cross_streets>
+    <dispatch_time>2021-03-27 17:34:43</dispatch_time>
+    <event_num>F21027511</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> A345</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>REID MANOR / HUMBERVALE BLVD</cross_streets>
+    <dispatch_time>2021-03-27 17:36:06</dispatch_time>
+    <event_num>F21027512</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>CHARLES ST, TT</prime_street>
+    <cross_streets>GEORGE HISLOP PARK TRL / MACY DUBOIS LANE</cross_streets>
+    <dispatch_time>2021-03-27 17:36:45</dispatch_time>
+    <event_num>F21027514</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312, P314, A312, C31, P311</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-27 17:25:23</dispatch_time>
-    <event_num>F21027502</event_num>
+    <dispatch_time>2021-03-27 17:38:44</dispatch_time>
+    <event_num>F21027515</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>DALHOUSIE ST / MUTUAL ST</cross_streets>
-    <dispatch_time>2021-03-27 17:26:01</dispatch_time>
-    <event_num>F21027503</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P314</units_disp>
+    <beat>224</beat>
+    <units_disp> P227, R224</units_disp>
   </event>
 </tfs_active_incidents>
