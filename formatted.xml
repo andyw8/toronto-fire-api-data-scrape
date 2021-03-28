@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-28 01:30:02</update_from_db_time>
-  <event>
-    <prime_street>ATLANTIC AVE, TT</prime_street>
-    <cross_streets>LIBERTY ST / LN S KING E JEFFERSON</cross_streets>
-    <dispatch_time>2021-03-28 01:11:12</dispatch_time>
-    <event_num>F21027638</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344, A331, C33, P331, R426</units_disp>
-  </event>
+  <update_from_db_time>2021-03-28 01:50:02</update_from_db_time>
   <event>
     <prime_street>PHARMACY AVE, SC</prime_street>
     <cross_streets>PINEMEADOW BLVD / FINCH AVE E</cross_streets>
@@ -22,13 +12,23 @@
     <units_disp> R241, S232</units_disp>
   </event>
   <event>
-    <prime_street>GILDER DR, SC</prime_street>
-    <cross_streets>MIDLAND AVE / EGLINTON AVE E</cross_streets>
-    <dispatch_time>2021-03-28 01:22:15</dispatch_time>
-    <event_num>F21027640</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-28 01:32:24</dispatch_time>
+    <event_num>F21027642</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221, P232, A231, C23, P223</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-28 01:37:24</dispatch_time>
+    <event_num>F21027643</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
 </tfs_active_incidents>
