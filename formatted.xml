@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-27 22:50:02</update_from_db_time>
+  <update_from_db_time>2021-03-27 23:05:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>BEACONHILL RD / KIPLING AVE</cross_streets>
@@ -22,33 +22,13 @@
     <units_disp> A213, P242, R213, R243, C24</units_disp>
   </event>
   <event>
-    <prime_street>M1C</prime_street>
+    <prime_street>M8V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-27 22:37:53</dispatch_time>
-    <event_num>F21027606</event_num>
+    <dispatch_time>2021-03-27 22:53:02</dispatch_time>
+    <event_num>F21027611</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>LEAFIELD DR / HUNTINGWOOD DR</cross_streets>
-    <dispatch_time>2021-03-27 22:41:09</dispatch_time>
-    <event_num>F21027607</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
-  </event>
-  <event>
-    <prime_street>PLEASANT VIEW DR, NY</prime_street>
-    <cross_streets>BRIAN DR / CLIPPER RD</cross_streets>
-    <dispatch_time>2021-03-27 22:46:52</dispatch_time>
-    <event_num>F21027610</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113</units_disp>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
   </event>
 </tfs_active_incidents>
