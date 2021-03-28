@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-28 12:10:02</update_from_db_time>
+  <update_from_db_time>2021-03-28 12:30:02</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>LN W TECUMSETH S QUEEN / EUCLID AVE</cross_streets>
@@ -12,53 +12,33 @@
     <units_disp> P331</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-28 11:39:21</dispatch_time>
-    <event_num>F21027741</event_num>
+    <dispatch_time>2021-03-28 12:14:02</dispatch_time>
+    <event_num>F21027747</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
   </event>
   <event>
-    <prime_street>M1J</prime_street>
+    <prime_street>M6J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-28 11:50:33</dispatch_time>
-    <event_num>F21027742</event_num>
+    <dispatch_time>2021-03-28 12:16:08</dispatch_time>
+    <event_num>F21027748</event_num>
     <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-28 11:51:21</dispatch_time>
-    <event_num>F21027743</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-28 11:56:06</dispatch_time>
-    <event_num>F21027745</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
-    <prime_street>KING ST, TT</prime_street>
-    <cross_streets>WATERLOO TER / BATHURST ST</cross_streets>
-    <dispatch_time>2021-03-28 12:04:45</dispatch_time>
-    <event_num>F21027746</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>331</beat>
-    <units_disp> P334</units_disp>
+    <units_disp> A331</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-28 12:24:39</dispatch_time>
+    <event_num>F21027749</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
