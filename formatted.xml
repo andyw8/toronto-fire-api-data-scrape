@@ -1,64 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-28 17:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-28 17:50:02</update_from_db_time>
   <event>
-    <prime_street>M4M</prime_street>
+    <prime_street>SYLVAN AVE, SC</prime_street>
+    <cross_streets> / HEATHFIELD DR</cross_streets>
+    <dispatch_time>2021-03-28 17:30:41</dispatch_time>
+    <event_num>F21027857</event_num>
+    <event_type>Wires Down - Hydro</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-28 17:08:24</dispatch_time>
-    <event_num>F21027850</event_num>
+    <dispatch_time>2021-03-28 17:33:11</dispatch_time>
+    <event_num>F21027858</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> HZ326</units_disp>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
+    <prime_street>M5P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-28 17:12:42</dispatch_time>
-    <event_num>F21027852</event_num>
+    <dispatch_time>2021-03-28 17:39:57</dispatch_time>
+    <event_num>F21027859</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M1T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-28 17:15:04</dispatch_time>
-    <event_num>F21027853</event_num>
+    <dispatch_time>2021-03-28 17:40:14</dispatch_time>
+    <event_num>F21027860</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>YONGE ST / YORK MILLS RD</cross_streets>
-    <dispatch_time>2021-03-28 17:18:16</dispatch_time>
-    <event_num>F21027854</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>SOUDAN AVE / EGLINTON AVE W</cross_streets>
-    <dispatch_time>2021-03-28 17:20:45</dispatch_time>
-    <event_num>F21027855</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> A135, P131, P135, R134, C13</units_disp>
-  </event>
-  <event>
-    <prime_street>DEANSCROFT SQ, SC</prime_street>
-    <cross_streets>MANSE RD / MANSE RD</cross_streets>
-    <dispatch_time>2021-03-28 17:25:42</dispatch_time>
-    <event_num>F21027856</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
   </event>
 </tfs_active_incidents>
