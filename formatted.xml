@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-27 22:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-27 22:40:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>BEACONHILL RD / KIPLING AVE</cross_streets>
@@ -12,33 +12,13 @@
     <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>ULSTER ST, TT</prime_street>
-    <cross_streets>LN E EUCLID S HARBORD / EUCLID AVE</cross_streets>
-    <dispatch_time>2021-03-27 21:57:43</dispatch_time>
-    <event_num>F21027597</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>MCCOWAN RD, SC</prime_street>
+    <cross_streets>INVERGORDON AVE / SHEPPARD AVE E</cross_streets>
+    <dispatch_time>2021-03-27 22:25:41</dispatch_time>
+    <event_num>F21027605</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>LAWRENCE AVE W / BLACK CREEK DR</cross_streets>
-    <dispatch_time>2021-03-27 21:59:45</dispatch_time>
-    <event_num>F21027598</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
-  </event>
-  <event>
-    <prime_street>PHARMACY AVE, SC</prime_street>
-    <cross_streets>DONSIDE DR / CONROY AVE</cross_streets>
-    <dispatch_time>2021-03-27 22:16:02</dispatch_time>
-    <event_num>F21027603</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
+    <beat>243</beat>
+    <units_disp> A213, P242, R213, R243, C24</units_disp>
   </event>
 </tfs_active_incidents>
