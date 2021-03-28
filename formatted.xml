@@ -1,24 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-28 16:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-28 16:40:02</update_from_db_time>
   <event>
-    <prime_street>EGLINTON AVE, TT</prime_street>
-    <cross_streets>REDPATH AVE / BROWNLOW AVE</cross_streets>
-    <dispatch_time>2021-03-28 16:19:51</dispatch_time>
-    <event_num>F21027834</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <prime_street>BRAHMS AVE, NY</prime_street>
+    <cross_streets>FINCH AVE E / RAMEAU DR</cross_streets>
+    <dispatch_time>2021-03-28 16:33:37</dispatch_time>
+    <event_num>F21027836</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M4M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-28 16:20:12</dispatch_time>
-    <event_num>F21027835</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> HZ326</units_disp>
+    <beat>113</beat>
+    <units_disp> A113, C11, P113, P116, R115</units_disp>
   </event>
 </tfs_active_incidents>
