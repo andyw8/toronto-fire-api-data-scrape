@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-28 03:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-28 03:45:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>LAWRENCE AVE E / BIRCHMOUNT RD</cross_streets>
@@ -10,35 +10,5 @@
     <alarm_lev>0</alarm_lev>
     <beat>245</beat>
     <units_disp> P245</units_disp>
-  </event>
-  <event>
-    <prime_street>CASTLEWOOD RD, TT</prime_street>
-    <cross_streets>LN N EGLINTON E CASTLEWOOD / CRESTVIEW RD</cross_streets>
-    <dispatch_time>2021-03-28 03:08:17</dispatch_time>
-    <event_num>F21027653</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135, C13, P132, P135, R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-28 03:16:43</dispatch_time>
-    <event_num>F21027654</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-28 03:21:08</dispatch_time>
-    <event_num>F21027655</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
