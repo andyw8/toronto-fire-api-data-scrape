@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-28 23:15:02</update_from_db_time>
+  <update_from_db_time>2021-03-28 23:30:02</update_from_db_time>
   <event>
     <prime_street>KENNEDY RD, SC</prime_street>
     <cross_streets>MERRIAN RD / KENMARK BLVD</cross_streets>
@@ -10,25 +10,5 @@
     <alarm_lev>2</alarm_lev>
     <beat>221</beat>
     <units_disp> S232, P221, A222, C22, P223, P232, A231, LA231, R225, R231, C23, P233, P245, R224, HZ326, C20, CMD30, CMD30C, HR332, R225</units_disp>
-  </event>
-  <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-28 22:29:11</dispatch_time>
-    <event_num>F21027941</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-28 22:56:50</dispatch_time>
-    <event_num>F21027947</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P232</units_disp>
   </event>
 </tfs_active_incidents>
