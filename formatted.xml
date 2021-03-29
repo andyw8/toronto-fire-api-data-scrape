@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-29 10:40:02</update_from_db_time>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 10:06:47</dispatch_time>
-    <event_num>F21028063</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 10:10:17</dispatch_time>
-    <event_num>F21028065</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> R421</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 10:20:26</dispatch_time>
-    <event_num>F21028070</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
-  </event>
+  <update_from_db_time>2021-03-29 11:15:02</update_from_db_time>
   <event>
     <prime_street>M4L</prime_street>
     <cross_streets/>
@@ -40,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>227</beat>
     <units_disp> P227</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 10:29:02</dispatch_time>
-    <event_num>F21028073</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
   </event>
   <event>
     <prime_street>MARKHAM ST, TT</prime_street>
@@ -62,13 +22,53 @@
     <units_disp> P315, P324, C31, HZ326</units_disp>
   </event>
   <event>
-    <prime_street>HOWDEN RD, SC</prime_street>
-    <cross_streets>LAWRENCE AVE E / LAURA SECORD WALK</cross_streets>
-    <dispatch_time>2021-03-29 10:32:26</dispatch_time>
-    <event_num>F21028075</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 10:57:21</dispatch_time>
+    <event_num>F21028082</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> A222, C23, P222, P233, P245, C24</units_disp>
+    <beat>212</beat>
+    <units_disp> P212</units_disp>
+  </event>
+  <event>
+    <prime_street>M6B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 10:59:55</dispatch_time>
+    <event_num>F21028083</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 11:02:39</dispatch_time>
+    <event_num>F21028084</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M6S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 11:10:09</dispatch_time>
+    <event_num>F21028085</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 11:10:40</dispatch_time>
+    <event_num>F21028086</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> A222</units_disp>
   </event>
 </tfs_active_incidents>
