@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-28 21:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-28 22:20:02</update_from_db_time>
   <event>
     <prime_street>KENNEDY RD, SC</prime_street>
     <cross_streets>MERRIAN RD / KENMARK BLVD</cross_streets>
@@ -9,86 +9,26 @@
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>221</beat>
-    <units_disp> S232, P221, A222, C22, P223, P232, A231, LA231, R225, R231, C23, P233, P245, R224, HZ326, C20, CMD30, CMD30C, HR332</units_disp>
+    <units_disp> S232, P221, A222, C22, P223, P232, A231, LA231, R225, R231, C23, P233, P245, R224, HZ326, C20, CMD30, CMD30C, HR332, R225</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-28 20:45:50</dispatch_time>
-    <event_num>F21027909</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>PETER ST / SPADINA AVE</cross_streets>
-    <dispatch_time>2021-03-28 21:06:57</dispatch_time>
-    <event_num>F21027922</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> A331, P331, P332, P334, C33, P315</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>PRINCESS ST / HAHN PL</cross_streets>
-    <dispatch_time>2021-03-28 21:08:54</dispatch_time>
-    <event_num>F21027923</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <prime_street>SCADDING AVE, TT</prime_street>
+    <cross_streets> / PRINCESS ST</cross_streets>
+    <dispatch_time>2021-03-28 22:06:50</dispatch_time>
+    <event_num>F21027935</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
-    <units_disp> P314, P333, R325, T333, C31</units_disp>
+    <units_disp> P333, R325, C33, P332, T333, HR332</units_disp>
   </event>
   <event>
-    <prime_street>KINGSTON RD, SC</prime_street>
-    <cross_streets>BEECHGROVE DR / HIGHWAY 2A E</cross_streets>
-    <dispatch_time>2021-03-28 21:24:50</dispatch_time>
-    <event_num>F21027926</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
+    <prime_street>CHISHOLM AVE, EY</prime_street>
+    <cross_streets>LUMSDEN AVE / WALLINGTON AVE</cross_streets>
+    <dispatch_time>2021-03-28 22:15:07</dispatch_time>
+    <event_num>F21027937</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P212, P234, R214, A215, C21</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-28 21:26:06</dispatch_time>
-    <event_num>F21027929</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>GERRARD ST, TT</prime_street>
-    <cross_streets>REDWOOD AVE / GLENSIDE AVE</cross_streets>
-    <dispatch_time>2021-03-28 21:34:10</dispatch_time>
-    <event_num>F21027931</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, P324, A324, C32, P227</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-28 21:37:09</dispatch_time>
-    <event_num>F21027932</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
-  <event>
-    <prime_street>M3M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-28 21:40:53</dispatch_time>
-    <event_num>F21027933</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
+    <beat>224</beat>
+    <units_disp> R224, R235, P322, P226, A322, C32</units_disp>
   </event>
 </tfs_active_incidents>
