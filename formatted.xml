@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-29 12:15:02</update_from_db_time>
+  <update_from_db_time>2021-03-29 12:35:02</update_from_db_time>
   <event>
     <prime_street>M1S</prime_street>
     <cross_streets/>
@@ -12,33 +12,43 @@
     <units_disp> R243</units_disp>
   </event>
   <event>
-    <prime_street>RIVERSIDE DR, YK</prime_street>
-    <cross_streets>BLOOR ST W / TRAYMORE CRES</cross_streets>
-    <dispatch_time>2021-03-29 11:33:56</dispatch_time>
-    <event_num>F21028094</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 12:13:58</dispatch_time>
+    <event_num>F21028102</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> P431, P422, A423, R423, C42</units_disp>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>KEELE ST / EGLINTON AVE W</cross_streets>
-    <dispatch_time>2021-03-29 11:38:21</dispatch_time>
-    <event_num>F21028096</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M1C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 12:15:01</dispatch_time>
+    <event_num>F21028104</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421</units_disp>
+    <beat>215</beat>
+    <units_disp> A215</units_disp>
   </event>
   <event>
-    <prime_street>WINDERMERE AVE, TT</prime_street>
-    <cross_streets>SWANSEA MEWS / WINDERMERE PL</cross_streets>
-    <dispatch_time>2021-03-29 11:41:30</dispatch_time>
-    <event_num>F21028098</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>ST JOSEPH ST, TT</prime_street>
+    <cross_streets>YONGE ST / ST NICHOLAS ST</cross_streets>
+    <dispatch_time>2021-03-29 12:18:50</dispatch_time>
+    <event_num>F21028106</event_num>
+    <event_type>Police Assist - Request</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> P433, R426, A426, P426, C34, R425, C42</units_disp>
+    <beat>314</beat>
+    <units_disp> C31</units_disp>
+  </event>
+  <event>
+    <prime_street>M4E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 12:23:16</dispatch_time>
+    <event_num>F21028107</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
 </tfs_active_incidents>
