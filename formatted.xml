@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-29 18:50:02</update_from_db_time>
-  <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 18:06:41</dispatch_time>
-    <event_num>F21028208</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
-  </event>
+  <update_from_db_time>2021-03-29 19:00:02</update_from_db_time>
   <event>
     <prime_street>CAPRI RD, ET</prime_street>
     <cross_streets>THE EAST MALL / </cross_streets>
@@ -22,33 +12,23 @@
     <units_disp> P445, S445, A441, C44, P432, R444</units_disp>
   </event>
   <event>
-    <prime_street>M3A</prime_street>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-29 18:33:27</dispatch_time>
-    <event_num>F21028217</event_num>
+    <dispatch_time>2021-03-29 18:47:04</dispatch_time>
+    <event_num>F21028221</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>M4Y</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-29 18:33:51</dispatch_time>
-    <event_num>F21028218</event_num>
+    <dispatch_time>2021-03-29 18:48:48</dispatch_time>
+    <event_num>F21028222</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M2L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 18:45:17</dispatch_time>
-    <event_num>F21028220</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
 </tfs_active_incidents>
