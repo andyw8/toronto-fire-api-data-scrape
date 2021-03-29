@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-29 18:30:02</update_from_db_time>
-  <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 16:45:52</dispatch_time>
-    <event_num>F21028185</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 17:38:22</dispatch_time>
-    <event_num>F21028196</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
-  </event>
-  <event>
-    <prime_street>KNOX AVE, TT</prime_street>
-    <cross_streets>LAKE SHORE BLVD EAST TRL / LN S EASTERN W KNOX</cross_streets>
-    <dispatch_time>2021-03-29 17:49:51</dispatch_time>
-    <event_num>F21028203</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> P324, HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street>ORCHARD VIEW BLVD, TT</prime_street>
-    <cross_streets>YONGE ST / DUPLEX AVE</cross_streets>
-    <dispatch_time>2021-03-29 17:53:17</dispatch_time>
-    <event_num>F21028205</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> S313, P135</units_disp>
-  </event>
+  <update_from_db_time>2021-03-29 18:50:02</update_from_db_time>
   <event>
     <prime_street>M6P</prime_street>
     <cross_streets/>
@@ -52,13 +12,43 @@
     <units_disp> R423</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>CAPRI RD, ET</prime_street>
+    <cross_streets>THE EAST MALL / </cross_streets>
+    <dispatch_time>2021-03-29 18:31:52</dispatch_time>
+    <event_num>F21028216</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445, S445, A441, C44, P432, R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M3A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-29 18:23:40</dispatch_time>
-    <event_num>F21028212</event_num>
+    <dispatch_time>2021-03-29 18:33:27</dispatch_time>
+    <event_num>F21028217</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 18:33:51</dispatch_time>
+    <event_num>F21028218</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M2L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 18:45:17</dispatch_time>
+    <event_num>F21028220</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
   </event>
 </tfs_active_incidents>
