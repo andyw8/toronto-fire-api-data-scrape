@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-29 15:45:02</update_from_db_time>
-  <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 15:08:46</dispatch_time>
-    <event_num>F21028157</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>HUMBERLINE DR / ALBION RD</cross_streets>
-    <dispatch_time>2021-03-29 15:16:22</dispatch_time>
-    <event_num>F21028161</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 15:21:38</dispatch_time>
-    <event_num>F21028162</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
-  </event>
-  <event>
-    <prime_street>M4A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 15:28:41</dispatch_time>
-    <event_num>F21028164</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
+  <update_from_db_time>2021-03-29 16:10:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>CHAPMAN RD / ROYAL YORK RD</cross_streets>
@@ -50,5 +10,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>443</beat>
     <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 15:54:20</dispatch_time>
+    <event_num>F21028168</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 16:00:23</dispatch_time>
+    <event_num>F21028170</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
   </event>
 </tfs_active_incidents>
