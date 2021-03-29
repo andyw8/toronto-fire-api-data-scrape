@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-29 07:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-29 08:10:02</update_from_db_time>
   <event>
     <prime_street>NEWBRIDGE RD, ET</prime_street>
     <cross_streets>SHORNCLIFFE RD / </cross_streets>
@@ -12,33 +12,23 @@
     <units_disp> P445, P433, A441, C44, P431, C43, LA421, S445, A113, A324, DE234, HS145, HZ145, P145, P234, P145</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 07:19:16</dispatch_time>
-    <event_num>F21028018</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>UNIVERSITY AVE / ARMOURY ST</cross_streets>
+    <dispatch_time>2021-03-29 07:44:51</dispatch_time>
+    <event_num>F21028021</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
   <event>
-    <prime_street>M6B</prime_street>
+    <prime_street>M4J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-29 07:31:39</dispatch_time>
-    <event_num>F21028019</event_num>
+    <dispatch_time>2021-03-29 08:05:29</dispatch_time>
+    <event_num>F21028025</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
-  </event>
-  <event>
-    <prime_street>MILNER AVE, SC</prime_street>
-    <cross_streets>MCCOWAN RD / MID-DOMINION ACRES</cross_streets>
-    <dispatch_time>2021-03-29 07:31:40</dispatch_time>
-    <event_num>F21028020</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243, R231, A231, C23, P244</units_disp>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
   </event>
 </tfs_active_incidents>
