@@ -1,54 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-29 07:00:02</update_from_db_time>
+  <update_from_db_time>2021-03-29 07:30:03</update_from_db_time>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>YONGE ST / KEMPFORD BLVD</cross_streets>
-    <dispatch_time>2021-03-29 06:24:45</dispatch_time>
-    <event_num>F21028008</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>NEWBRIDGE RD, ET</prime_street>
+    <cross_streets>SHORNCLIFFE RD / </cross_streets>
+    <dispatch_time>2021-03-29 07:14:49</dispatch_time>
+    <event_num>F21028017</event_num>
+    <event_type>Hazmat Level 3</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
+    <beat>432</beat>
+    <units_disp> P445, P433, A441, C44, P431, C43, LA421, S445, A113, A324, DE234, HS145, HZ145, P145, P234</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-29 06:35:04</dispatch_time>
-    <event_num>F21028011</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A441, P415</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
+    <prime_street>M6P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-29 06:45:23</dispatch_time>
-    <event_num>F21028012</event_num>
+    <dispatch_time>2021-03-29 07:19:16</dispatch_time>
+    <event_num>F21028018</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-29 06:54:13</dispatch_time>
-    <event_num>F21028013</event_num>
-    <event_type>Vehicle Fire - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322, C32, R224</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 06:55:13</dispatch_time>
-    <event_num>F21028014</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
 </tfs_active_incidents>
