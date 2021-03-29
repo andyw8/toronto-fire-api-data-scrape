@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-29 06:10:02</update_from_db_time>
-  <event>
-    <prime_street>M4H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 05:45:36</dispatch_time>
-    <event_num>F21028006</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
-  </event>
+  <update_from_db_time>2021-03-29 06:30:02</update_from_db_time>
   <event>
     <prime_street>M9V</prime_street>
     <cross_streets/>
@@ -20,5 +10,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
     <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>YONGE ST / KEMPFORD BLVD</cross_streets>
+    <dispatch_time>2021-03-29 06:24:45</dispatch_time>
+    <event_num>F21028008</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
 </tfs_active_incidents>
