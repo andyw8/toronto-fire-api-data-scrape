@@ -1,14 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-30 06:05:01</update_from_db_time>
-  <event>
-    <prime_street>CLANTON PARK RD, NY</prime_street>
-    <cross_streets>MIDVALE RD / LOWESMOOR AVE</cross_streets>
-    <dispatch_time>2021-03-30 05:18:27</dispatch_time>
-    <event_num>F21028350</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143, C13, P132, P145, T114</units_disp>
-  </event>
+  <update_from_db_time>2021-03-30 06:30:02</update_from_db_time>
 </tfs_active_incidents>
