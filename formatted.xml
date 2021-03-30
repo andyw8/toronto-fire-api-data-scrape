@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-30 17:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-30 18:05:02</update_from_db_time>
   <event>
     <prime_street>M9W</prime_street>
     <cross_streets/>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>415</beat>
     <units_disp> P146, A415</units_disp>
-  </event>
-  <event>
-    <prime_street>LAWRENCE AVE, SC</prime_street>
-    <cross_streets>VALPARAISO AVE / MCCOWAN RD</cross_streets>
-    <dispatch_time>2021-03-30 17:24:31</dispatch_time>
-    <event_num>F21028577</event_num>
-    <event_type>Rescue - Personal Entrapment</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232, S232, C23, R231</units_disp>
   </event>
   <event>
     <prime_street>M9N</prime_street>
@@ -32,26 +22,6 @@
     <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-30 17:37:02</dispatch_time>
-    <event_num>F21028580</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-30 17:38:30</dispatch_time>
-    <event_num>F21028581</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
-  </event>
-  <event>
     <prime_street>MOSQUE CRES, ET</prime_street>
     <cross_streets>JOHN GARLAND BLVD / JOHN GARLAND BLVD</cross_streets>
     <dispatch_time>2021-03-30 17:39:03</dispatch_time>
@@ -62,23 +32,33 @@
     <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>M6G</prime_street>
+    <prime_street>M4S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-30 17:39:36</dispatch_time>
-    <event_num>F21028583</event_num>
+    <dispatch_time>2021-03-30 17:53:10</dispatch_time>
+    <event_num>F21028588</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
   <event>
-    <prime_street>HOSEYHILL CRES, SC</prime_street>
-    <cross_streets>NORHEAD AVE / NORHEAD AVE</cross_streets>
-    <dispatch_time>2021-03-30 17:41:04</dispatch_time>
-    <event_num>F21028584</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-30 18:00:34</dispatch_time>
+    <event_num>F21028589</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> P242</units_disp>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
+  </event>
+  <event>
+    <prime_street>M5C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-30 18:00:31</dispatch_time>
+    <event_num>F21028590</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
 </tfs_active_incidents>
