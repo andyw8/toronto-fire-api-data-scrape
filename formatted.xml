@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-29 20:40:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>TORONTO SHORELINE / BELLAMY RAVINE CREEK</cross_streets>
-    <dispatch_time>2021-03-29 20:02:22</dispatch_time>
-    <event_num>F21028239</event_num>
-    <event_type>Rescue - Bluffs</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> P223, S232, S313, C22, P232, R225, LA231</units_disp>
-  </event>
+  <update_from_db_time>2021-03-29 21:05:02</update_from_db_time>
   <event>
     <prime_street>M9M</prime_street>
     <cross_streets/>
@@ -22,33 +12,43 @@
     <units_disp> R411</units_disp>
   </event>
   <event>
-    <prime_street>BOND ST, TT</prime_street>
-    <cross_streets>QUEEN ST E / SHUTER ST</cross_streets>
-    <dispatch_time>2021-03-29 20:22:44</dispatch_time>
-    <event_num>F21028247</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> A325, C33, P325, P332, P333, R325</units_disp>
-  </event>
-  <event>
-    <prime_street>NORELCO DR, NY</prime_street>
-    <cross_streets>FENMAR DR / ORMONT DR</cross_streets>
-    <dispatch_time>2021-03-29 20:27:05</dispatch_time>
-    <event_num>F21028249</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> P141, P142, A411, R413, C14</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M1K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-29 20:27:29</dispatch_time>
-    <event_num>F21028250</event_num>
+    <dispatch_time>2021-03-29 20:45:10</dispatch_time>
+    <event_num>F21028253</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P312</units_disp>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 20:55:45</dispatch_time>
+    <event_num>F21028254</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 20:56:25</dispatch_time>
+    <event_num>F21028255</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
+  </event>
+  <event>
+    <prime_street>SPADINA AVE, TT</prime_street>
+    <cross_streets>GLEN MORRIS ST / SUSSEX AVE</cross_streets>
+    <dispatch_time>2021-03-29 20:58:23</dispatch_time>
+    <event_num>F21028256</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> R325, C31, P315, S331</units_disp>
   </event>
 </tfs_active_incidents>
