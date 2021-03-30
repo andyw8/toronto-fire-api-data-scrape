@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-30 11:50:02</update_from_db_time>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>GIVINS ST / OSSINGTON AVE</cross_streets>
-    <dispatch_time>2021-03-30 11:10:57</dispatch_time>
-    <event_num>F21028423</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> A331, C33, P314, P315, S331, R426, C34</units_disp>
-  </event>
+  <update_from_db_time>2021-03-30 12:10:02</update_from_db_time>
   <event>
     <prime_street>M4H</prime_street>
     <cross_streets/>
@@ -20,46 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>322</beat>
     <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-30 11:35:14</dispatch_time>
-    <event_num>F21028428</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R425</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-30 11:37:20</dispatch_time>
-    <event_num>F21028429</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-30 11:37:29</dispatch_time>
-    <event_num>F21028430</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-30 11:38:36</dispatch_time>
-    <event_num>F21028431</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -82,13 +32,53 @@
     <units_disp> P244</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>BERKSHIRE AVE / JONES AVE</cross_streets>
-    <dispatch_time>2021-03-30 11:42:30</dispatch_time>
-    <event_num>F21028434</event_num>
-    <event_type>Alarm Residential</event_type>
+    <prime_street>M2L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-30 11:52:44</dispatch_time>
+    <event_num>F21028437</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> P324, P323, A324, C32, P227</units_disp>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>MIDLAND AVE / BROCKLEY DR</cross_streets>
+    <dispatch_time>2021-03-30 11:53:49</dispatch_time>
+    <event_num>F21028438</event_num>
+    <event_type>Rescue - Personal Entrapment</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> S232, P313, C23, P221</units_disp>
+  </event>
+  <event>
+    <prime_street>JOYCE PKWY, NY</prime_street>
+    <cross_streets>SAGE AVE / DELO RD</cross_streets>
+    <dispatch_time>2021-03-30 12:03:15</dispatch_time>
+    <event_num>F21028439</event_num>
+    <event_type>Rescue - Personal Entrapment</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> P143, S143, C13, R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-30 12:05:46</dispatch_time>
+    <event_num>F21028440</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-30 12:05:56</dispatch_time>
+    <event_num>F21028441</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
