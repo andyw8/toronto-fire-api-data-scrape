@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-29 23:05:02</update_from_db_time>
+  <update_from_db_time>2021-03-29 23:30:02</update_from_db_time>
   <event>
     <prime_street>JONES AVE, TT</prime_street>
     <cross_streets>BOULTBEE AVE / HUNTER ST</cross_streets>
@@ -22,46 +22,6 @@
     <units_disp> P113, P226, C22, HZ326</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>BEACONSFIELD AVE / NORTHCOTE AVE</cross_streets>
-    <dispatch_time>2021-03-29 22:42:25</dispatch_time>
-    <event_num>F21028285</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, P426, A426, C33, P331</units_disp>
-  </event>
-  <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-29 22:51:57</dispatch_time>
-    <event_num>F21028288</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> A226</units_disp>
-  </event>
-  <event>
-    <prime_street>CARLTON ST, TT</prime_street>
-    <cross_streets>YONGE ST / REVEREND PORTER LANE</cross_streets>
-    <dispatch_time>2021-03-29 22:53:22</dispatch_time>
-    <event_num>F21028289</event_num>
-    <event_type>Alarm Highrise Commercial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> C33, P315, P332, P333, T333, A312, C31</units_disp>
-  </event>
-  <event>
-    <prime_street>CARLTON ST, TT</prime_street>
-    <cross_streets>YONGE ST / REVEREND PORTER LANE</cross_streets>
-    <dispatch_time>2021-03-29 22:58:04</dispatch_time>
-    <event_num>F21028290</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> A315, C33, P325, P331, P334, P313</units_disp>
-  </event>
-  <event>
     <prime_street>BELLEVUE CRES, YK</prime_street>
     <cross_streets>LN S WESTON W BELLEVUE / HICKORY TREE RD</cross_streets>
     <dispatch_time>2021-03-29 22:57:34</dispatch_time>
@@ -72,13 +32,83 @@
     <units_disp> P442, R133, C42, A133, P146</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
+    <prime_street>M6P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-29 22:59:52</dispatch_time>
-    <event_num>F21028292</event_num>
+    <dispatch_time>2021-03-29 23:05:49</dispatch_time>
+    <event_num>F21028293</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>345</beat>
-    <units_disp> R345</units_disp>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-03-29 23:12:31</dispatch_time>
+    <event_num>F21028295</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> P212, R214</units_disp>
+  </event>
+  <event>
+    <prime_street>CRESCENT PL, EY</prime_street>
+    <cross_streets>CRESCENT TOWN RD / CRESCENT TOWN RD</cross_streets>
+    <dispatch_time>2021-03-29 23:10:59</dispatch_time>
+    <event_num>F21028296</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> A226, C22, P222, P227, R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 23:15:33</dispatch_time>
+    <event_num>F21028297</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 23:18:54</dispatch_time>
+    <event_num>F21028299</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 23:20:48</dispatch_time>
+    <event_num>F21028300</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 23:24:54</dispatch_time>
+    <event_num>F21028301</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-29 23:26:52</dispatch_time>
+    <event_num>F21028302</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
