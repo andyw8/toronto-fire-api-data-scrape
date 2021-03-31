@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 09:15:02</update_from_db_time>
+  <update_from_db_time>2021-03-31 09:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MIDLAND AVE / HIGHWAY 401 X E</cross_streets>
@@ -9,17 +9,7 @@
     <event_type>Fire - Other</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>232</beat>
-    <units_disp> P232, R243, C24, C23, P244, P245, A244, LA231, A231, C23</units_disp>
-  </event>
-  <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 08:25:42</dispatch_time>
-    <event_num>F21028772</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
+    <units_disp> P232, R243, C24, C23, P244, P245, A244, LA231, A231, C23, C20</units_disp>
   </event>
   <event>
     <prime_street>M6M</prime_street>
@@ -32,16 +22,6 @@
     <units_disp> R133</units_disp>
   </event>
   <event>
-    <prime_street>M4V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 08:53:59</dispatch_time>
-    <event_num>F21028780</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
-  </event>
-  <event>
     <prime_street>M4C</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-31 08:56:27</dispatch_time>
@@ -52,16 +32,6 @@
     <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>MULOCK AVE / JUNCTION RD</cross_streets>
-    <dispatch_time>2021-03-31 09:04:23</dispatch_time>
-    <event_num>F21028784</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423, P342, A423, C42, P422, R345</units_disp>
-  </event>
-  <event>
     <prime_street>M3C</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-31 09:04:46</dispatch_time>
@@ -70,16 +40,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>125</beat>
     <units_disp> P125</units_disp>
-  </event>
-  <event>
-    <prime_street>ROEHAMPTON AVE, TT</prime_street>
-    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
-    <dispatch_time>2021-03-31 09:10:06</dispatch_time>
-    <event_num>F21028786</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134, P135, A135, C13, P131</units_disp>
   </event>
   <event>
     <prime_street>M1M</prime_street>
@@ -100,5 +60,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>113</beat>
     <units_disp> P113</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 09:12:40</dispatch_time>
+    <event_num>F21028789</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 09:14:10</dispatch_time>
+    <event_num>F21028790</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>STRACHAN AVE / MASSEY ST</cross_streets>
+    <dispatch_time>2021-03-31 09:16:11</dispatch_time>
+    <event_num>F21028791</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
