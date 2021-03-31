@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 08:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-31 08:55:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MIDLAND AVE / HIGHWAY 401 X E</cross_streets>
@@ -9,27 +9,7 @@
     <event_type>Fire - Other</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>232</beat>
-    <units_disp> P232, R243, C24, C23, P244, P245, A244, LA231, A231</units_disp>
-  </event>
-  <event>
-    <prime_street>UNWIN AVE, TT</prime_street>
-    <cross_streets>MARTIN GOODMAN TRL / CHERRY BEACH SPORTS FIELDS TRL</cross_streets>
-    <dispatch_time>2021-03-31 07:52:31</dispatch_time>
-    <event_num>F21028761</event_num>
-    <event_type>Wires Down - Hydro</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M5J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 08:15:56</dispatch_time>
-    <event_num>F21028769</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> HR332</units_disp>
+    <units_disp> P232, R243, C24, C23, P244, P245, A244, LA231, A231, C23</units_disp>
   </event>
   <event>
     <prime_street>M9N</prime_street>
@@ -42,16 +22,6 @@
     <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 08:23:14</dispatch_time>
-    <event_num>F21028771</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
     <prime_street>M1C</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-31 08:25:42</dispatch_time>
@@ -60,5 +30,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>215</beat>
     <units_disp> A215</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 08:41:59</dispatch_time>
+    <event_num>F21028776</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 08:47:22</dispatch_time>
+    <event_num>F21028777</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 08:48:53</dispatch_time>
+    <event_num>F21028778</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 08:51:24</dispatch_time>
+    <event_num>F21028779</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> R133</units_disp>
   </event>
 </tfs_active_incidents>
