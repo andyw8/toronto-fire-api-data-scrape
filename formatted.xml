@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 01:30:03</update_from_db_time>
+  <update_from_db_time>2021-03-31 01:40:03</update_from_db_time>
   <event>
     <prime_street>M6G</prime_street>
     <cross_streets/>
@@ -12,36 +12,6 @@
     <units_disp> P343</units_disp>
   </event>
   <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 01:17:07</dispatch_time>
-    <event_num>F21028715</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-31 01:17:24</dispatch_time>
-    <event_num>F21028716</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433, R435</units_disp>
-  </event>
-  <event>
-    <prime_street>M9C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 01:17:36</dispatch_time>
-    <event_num>F21028717</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
-  </event>
-  <event>
     <prime_street>M4H</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-31 01:26:24</dispatch_time>
@@ -50,5 +20,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>322</beat>
     <units_disp> P322</units_disp>
+  </event>
+  <event>
+    <prime_street>M6E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 01:32:39</dispatch_time>
+    <event_num>F21028719</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342</units_disp>
   </event>
 </tfs_active_incidents>
