@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-30 23:10:02</update_from_db_time>
+  <update_from_db_time>2021-03-30 23:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MCNICOLL AVE / TIFFIELD RD</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>211</beat>
     <units_disp> P211</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-30 22:46:42</dispatch_time>
-    <event_num>F21028688</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
   </event>
   <event>
     <prime_street>M4V</prime_street>
@@ -32,16 +22,6 @@
     <units_disp> P312</units_disp>
   </event>
   <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-30 22:57:52</dispatch_time>
-    <event_num>F21028691</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
     <prime_street>M6P</prime_street>
     <cross_streets/>
     <dispatch_time>2021-03-30 23:06:33</dispatch_time>
@@ -50,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>423</beat>
     <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>YORK MILLS RD, NY</prime_street>
+    <cross_streets>UPJOHN RD / DON MILLS RD</cross_streets>
+    <dispatch_time>2021-03-30 23:19:41</dispatch_time>
+    <event_num>F21028693</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123, R122, A125, C11, R115</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SCOTT ST / CHURCH ST</cross_streets>
+    <dispatch_time>2021-03-30 23:25:12</dispatch_time>
+    <event_num>F21028694</event_num>
+    <event_type>Alarm Highrise - Commercial - Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P332, P333, HR332, C33, R325, T333</units_disp>
   </event>
 </tfs_active_incidents>
