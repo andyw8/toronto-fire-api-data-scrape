@@ -1,4 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 02:25:03</update_from_db_time>
+  <update_from_db_time>2021-03-31 02:50:02</update_from_db_time>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DANFORTH RD / TRUDELLE ST</cross_streets>
+    <dispatch_time>2021-03-31 02:34:45</dispatch_time>
+    <event_num>F21028721</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M2J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 02:39:46</dispatch_time>
+    <event_num>F21028724</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> P113</units_disp>
+  </event>
 </tfs_active_incidents>
