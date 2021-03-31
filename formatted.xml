@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 11:30:02</update_from_db_time>
+  <update_from_db_time>2021-03-31 11:50:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MIDLAND AVE / HIGHWAY 401 X E</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>232</beat>
     <units_disp> P232, R243, C24, C23, P244, P245, A244, LA231, A231, C23, C20, P245, CMD10, P222, FI21</units_disp>
-  </event>
-  <event>
-    <prime_street>KING ST, TT</prime_street>
-    <cross_streets>SACKVILLE ST / VIRGIN PL</cross_streets>
-    <dispatch_time>2021-03-31 10:26:19</dispatch_time>
-    <event_num>F21028812</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> A324, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>FOXRIDGE DR, SC</prime_street>
-    <cross_streets>GARTHWOOD DR / KENNEDY RD</cross_streets>
-    <dispatch_time>2021-03-31 10:49:45</dispatch_time>
-    <event_num>F21028820</event_num>
-    <event_type>Rescue - High Level</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> S313, S331, A226, P221, C32, P143, P232, P232, S232, C22, C23</units_disp>
   </event>
   <event>
     <prime_street>HUXLEY RD, NY</prime_street>
@@ -52,36 +32,6 @@
     <units_disp> A325, C33, P313, P325, P334, P315, R321, T333, LA333, HR332, C30, C31, HZ326, P311, P322, P323, CMD30, CMD30C, LA421, S313, FI19</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 11:03:38</dispatch_time>
-    <event_num>F21028829</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 11:12:44</dispatch_time>
-    <event_num>F21028832</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 11:16:22</dispatch_time>
-    <event_num>F21028833</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
     <prime_street>MOUNT PLEASANT RD, TT</prime_street>
     <cross_streets>KEEWATIN AVE / SHERWOOD AVE</cross_streets>
     <dispatch_time>2021-03-31 11:20:55</dispatch_time>
@@ -102,23 +52,103 @@
     <units_disp> P141</units_disp>
   </event>
   <event>
-    <prime_street>EGLINTON AVE, YK</prime_street>
-    <cross_streets>SCOTT RD / KEELE ST</cross_streets>
-    <dispatch_time>2021-03-31 11:25:24</dispatch_time>
-    <event_num>F21028836</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 11:30:52</dispatch_time>
+    <event_num>F21028840</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
   <event>
-    <prime_street>VALLEY WOODS RD, NY</prime_street>
-    <cross_streets>BROOKBANKS DR / BROOKBANKS PARK TRL</cross_streets>
-    <dispatch_time>2021-03-31 11:26:26</dispatch_time>
-    <event_num>F21028837</event_num>
+    <prime_street>M5R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 11:32:50</dispatch_time>
+    <event_num>F21028841</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> A315</units_disp>
+  </event>
+  <event>
+    <prime_street>JANE ST, NY</prime_street>
+    <cross_streets>CANE GRASSWAY / YEWTREE BLVD</cross_streets>
+    <dispatch_time>2021-03-31 11:33:37</dispatch_time>
+    <event_num>F21028843</event_num>
     <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123, P233, R122, A244, C11</units_disp>
+    <beat>142</beat>
+    <units_disp> P142, A142, R112, C42, R411, C14</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 11:36:53</dispatch_time>
+    <event_num>F21028844</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P123</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 11:40:14</dispatch_time>
+    <event_num>F21028845</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>NEILSON RD, SC</prime_street>
+    <cross_streets>SILVERBELL GRV / TAPSCOTT RD</cross_streets>
+    <dispatch_time>2021-03-31 11:41:24</dispatch_time>
+    <event_num>F21028846</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> R213, S232</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, ET</prime_street>
+    <cross_streets>ORBITOR DR / SATELLITE DR</cross_streets>
+    <dispatch_time>2021-03-31 11:43:07</dispatch_time>
+    <event_num>F21028847</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444, R441, A432, C44, P443</units_disp>
+  </event>
+  <event>
+    <prime_street>CRESCENT PL, EY</prime_street>
+    <cross_streets>CRESCENT TOWN RD / CRESCENT TOWN RD</cross_streets>
+    <dispatch_time>2021-03-31 11:44:21</dispatch_time>
+    <event_num>F21028848</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> R225, A226, P226, P227, R224, C22</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 11:45:04</dispatch_time>
+    <event_num>F21028849</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 11:46:35</dispatch_time>
+    <event_num>F21028850</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> P113</units_disp>
   </event>
 </tfs_active_incidents>
