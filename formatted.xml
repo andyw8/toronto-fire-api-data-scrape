@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 10:05:02</update_from_db_time>
+  <update_from_db_time>2021-03-31 10:30:03</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MIDLAND AVE / HIGHWAY 401 X E</cross_streets>
@@ -12,53 +12,63 @@
     <units_disp> P232, R243, C24, C23, P244, P245, A244, LA231, A231, C23, C20, P245, CMD10</units_disp>
   </event>
   <event>
-    <prime_street>M9M</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-31 09:34:09</dispatch_time>
-    <event_num>F21028796</event_num>
+    <dispatch_time>2021-03-31 10:10:54</dispatch_time>
+    <event_num>F21028805</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
   <event>
-    <prime_street>M6J</prime_street>
+    <prime_street>M3N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-31 09:42:10</dispatch_time>
-    <event_num>F21028798</event_num>
+    <dispatch_time>2021-03-31 10:12:12</dispatch_time>
+    <event_num>F21028807</event_num>
     <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> A331</units_disp>
-  </event>
-  <event>
-    <prime_street>BULWER ST, TT</prime_street>
-    <cross_streets>SOHO ST / SPADINA AVE</cross_streets>
-    <dispatch_time>2021-03-31 09:50:35</dispatch_time>
-    <event_num>F21028801</event_num>
-    <event_type>Alarm Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P334, A315, C31, P315</units_disp>
-  </event>
-  <event>
-    <prime_street>GRANDRAVINE DR, NY</prime_street>
-    <cross_streets>DRIFTWOOD AVE / OAKDALE PARK TRL</cross_streets>
-    <dispatch_time>2021-03-31 09:52:38</dispatch_time>
-    <event_num>F21028802</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
     <units_disp> P142</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 10:00:23</dispatch_time>
-    <event_num>F21028803</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>DOWLING AVE, TT</prime_street>
+    <cross_streets>F G GARDINER XY E / GLENAVON RD</cross_streets>
+    <dispatch_time>2021-03-31 10:12:37</dispatch_time>
+    <event_num>F21028808</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P325</units_disp>
+    <beat>346</beat>
+    <units_disp> P344, P426, C34, R345, A426</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>QUEEN ST W / SHUTER ST</cross_streets>
+    <dispatch_time>2021-03-31 10:14:53</dispatch_time>
+    <event_num>F21028809</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333, P325, C33, P324, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>EXBURY RD, NY</prime_street>
+    <cross_streets>MONCLOVA RD / JANE ST</cross_streets>
+    <dispatch_time>2021-03-31 10:25:40</dispatch_time>
+    <event_num>F21028811</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> P146, P442, A142, C14, R133</units_disp>
+  </event>
+  <event>
+    <prime_street>KING ST, TT</prime_street>
+    <cross_streets>SACKVILLE ST / VIRGIN PL</cross_streets>
+    <dispatch_time>2021-03-31 10:26:19</dispatch_time>
+    <event_num>F21028812</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> A324, P332</units_disp>
   </event>
 </tfs_active_incidents>
