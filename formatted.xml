@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 17:00:02</update_from_db_time>
+  <update_from_db_time>2021-03-31 17:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MIDLAND AVE / HIGHWAY 401 X E</cross_streets>
@@ -32,63 +32,93 @@
     <units_disp> S143, A142, C13, P141, P143, S331, P313, C10, C7, C2</units_disp>
   </event>
   <event>
-    <prime_street>KEELE ST, NY</prime_street>
-    <cross_streets>LN S KEELEGATE E KEELE / KEELEGATE DR</cross_streets>
-    <dispatch_time>2021-03-31 16:31:08</dispatch_time>
-    <event_num>F21028947</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> A133, C14, P142, P145, P146, R133</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
-    <cross_streets>GRENVIEW BLVD S / HUMBERVALE BLVD</cross_streets>
-    <dispatch_time>2021-03-31 16:40:04</dispatch_time>
-    <event_num>F21028954</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-03-31 17:01:47</dispatch_time>
+    <event_num>F21028959</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
+    <beat>235</beat>
+    <units_disp> P125, R235</units_disp>
   </event>
   <event>
-    <prime_street>PHEASANT RD, NY</prime_street>
-    <cross_streets>NORTHWOOD DR / PAMCREST DR</cross_streets>
-    <dispatch_time>2021-03-31 16:48:41</dispatch_time>
-    <event_num>F21028955</event_num>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 17:07:12</dispatch_time>
+    <event_num>F21028962</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, ET</prime_street>
+    <cross_streets>WINCOTT DR / DRYDEN WAY</cross_streets>
+    <dispatch_time>2021-03-31 17:13:52</dispatch_time>
+    <event_num>F21028964</event_num>
+    <event_type>Alarm Institution</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443, R441, A441, C44, P445, R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M9L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 17:22:23</dispatch_time>
+    <event_num>F21028966</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
+  </event>
+  <event>
+    <prime_street>MEADOWVALE RD, SC</prime_street>
+    <cross_streets>LAWRENCE AVE E / WANITA RD</cross_streets>
+    <dispatch_time>2021-03-31 17:22:38</dispatch_time>
+    <event_num>F21028967</event_num>
+    <event_type>Alarm - Institution - School</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>215</beat>
+    <units_disp> A215, C21, P234, R213, R214, R231</units_disp>
+  </event>
+  <event>
+    <prime_street>FIRVALLEY CRT, SC</prime_street>
+    <cross_streets>CATARAQUI CRES / WARDEN AVE</cross_streets>
+    <dispatch_time>2021-03-31 17:23:56</dispatch_time>
+    <event_num>F21028968</event_num>
     <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111, P114, C11, P113, T114</units_disp>
+    <beat>225</beat>
+    <units_disp> R225, P222, A226, C22, P223</units_disp>
   </event>
   <event>
-    <prime_street>M4S</prime_street>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-31 16:54:03</dispatch_time>
-    <event_num>F21028956</event_num>
+    <dispatch_time>2021-03-31 17:24:50</dispatch_time>
+    <event_num>F21028969</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
   <event>
-    <prime_street>M5B</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-31 16:55:01</dispatch_time>
-    <event_num>F21028957</event_num>
+    <dispatch_time>2021-03-31 17:24:28</dispatch_time>
+    <event_num>F21028970</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
   <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 16:56:07</dispatch_time>
-    <event_num>F21028958</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>CAMDEN ST, TT</prime_street>
+    <cross_streets>SPADINA AVE / BRANT ST</cross_streets>
+    <dispatch_time>2021-03-31 17:26:07</dispatch_time>
+    <event_num>F21028971</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313, P325</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
