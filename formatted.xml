@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 13:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-31 13:55:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MIDLAND AVE / HIGHWAY 401 X E</cross_streets>
@@ -22,93 +22,53 @@
     <units_disp> A325, C33, P313, P325, P334, P315, R321, T333, LA333, HR332, C30, C31, HZ326, P311, P322, P323, CMD30, CMD30C, LA421, S313, FI19, P324</units_disp>
   </event>
   <event>
-    <prime_street>M6A</prime_street>
+    <prime_street>M1G</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-31 13:00:31</dispatch_time>
-    <event_num>F21028869</event_num>
+    <dispatch_time>2021-03-31 13:38:07</dispatch_time>
+    <event_num>F21028886</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> HZ145, HS145</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 13:02:37</dispatch_time>
-    <event_num>F21028871</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> A324</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 13:07:18</dispatch_time>
-    <event_num>F21028872</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M1V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 13:07:37</dispatch_time>
-    <event_num>F21028873</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>UNIVERSITY AVE / DUNDAS ST W</cross_streets>
-    <dispatch_time>2021-03-31 13:10:24</dispatch_time>
-    <event_num>F21028875</event_num>
-    <event_type>Vehicle - Spill Clean Up</event_type>
+    <cross_streets>CHARLES ST W / BLOOR ST W</cross_streets>
+    <dispatch_time>2021-03-31 13:39:35</dispatch_time>
+    <event_num>F21028887</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>312</beat>
+    <units_disp> P312, P314, P315, A312, C31</units_disp>
   </event>
   <event>
-    <prime_street>LEAHANN DR, SC</prime_street>
-    <cross_streets>FLORA DR / TRIPP CRES</cross_streets>
-    <dispatch_time>2021-03-31 13:12:09</dispatch_time>
-    <event_num>F21028876</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-03-31 13:13:14</dispatch_time>
-    <event_num>F21028877</event_num>
-    <event_type>Vehicle Accident - Trapped - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P244, R231, A244, S232, C11, P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
+    <prime_street>M6H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-31 13:13:47</dispatch_time>
-    <event_num>F21028878</event_num>
+    <dispatch_time>2021-03-31 13:44:43</dispatch_time>
+    <event_num>F21028889</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P226, P323</units_disp>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
   </event>
   <event>
-    <prime_street>DUPONT ST, TT</prime_street>
-    <cross_streets>SPADINA RD / LN W SPADINA S DUPONT</cross_streets>
-    <dispatch_time>2021-03-31 13:15:28</dispatch_time>
-    <event_num>F21028879</event_num>
-    <event_type>Alarm Subway</event_type>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 13:47:57</dispatch_time>
+    <event_num>F21028891</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P312, P315, S313, A312, C31, HR332, R345</units_disp>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>WELLINGTON ST, TT</prime_street>
+    <cross_streets>DRAPER ST / PORTLAND ST</cross_streets>
+    <dispatch_time>2021-03-31 13:51:43</dispatch_time>
+    <event_num>F21028892</event_num>
+    <event_type>Natural Gas Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P433, P332, C33, HZ326</units_disp>
   </event>
 </tfs_active_incidents>
