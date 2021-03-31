@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 16:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-31 17:00:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MIDLAND AVE / HIGHWAY 401 X E</cross_streets>
@@ -32,36 +32,6 @@
     <units_disp> S143, A142, C13, P141, P143, S331, P313, C10, C7, C2</units_disp>
   </event>
   <event>
-    <prime_street>ELLESMERE RD, SC</prime_street>
-    <cross_streets>PARKINGTON CRES / BELLAMY RD N</cross_streets>
-    <dispatch_time>2021-03-31 16:20:03</dispatch_time>
-    <event_num>F21028940</event_num>
-    <event_type>Rescue - Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> P232, S232, C23, R243, A231, R213</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 16:28:06</dispatch_time>
-    <event_num>F21028945</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>OAKWOOD AVE, YK</prime_street>
-    <cross_streets>LN N ST CLAIR W OAKWOOD / GLENHURST AVE</cross_streets>
-    <dispatch_time>2021-03-31 16:28:29</dispatch_time>
-    <event_num>F21028946</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P331, P343</units_disp>
-  </event>
-  <event>
     <prime_street>KEELE ST, NY</prime_street>
     <cross_streets>LN S KEELEGATE E KEELE / KEELEGATE DR</cross_streets>
     <dispatch_time>2021-03-31 16:31:08</dispatch_time>
@@ -72,36 +42,6 @@
     <units_disp> A133, C14, P142, P145, P146, R133</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 16:35:23</dispatch_time>
-    <event_num>F21028951</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
-  </event>
-  <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 16:36:18</dispatch_time>
-    <event_num>F21028952</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNCAIRN RD, NY</prime_street>
-    <cross_streets>DUNCAIRN PARK TRL / ADDISON CRES</cross_streets>
-    <dispatch_time>2021-03-31 16:39:36</dispatch_time>
-    <event_num>F21028953</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>GRENVIEW BLVD S / HUMBERVALE BLVD</cross_streets>
     <dispatch_time>2021-03-31 16:40:04</dispatch_time>
@@ -110,5 +50,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>431</beat>
     <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>PHEASANT RD, NY</prime_street>
+    <cross_streets>NORTHWOOD DR / PAMCREST DR</cross_streets>
+    <dispatch_time>2021-03-31 16:48:41</dispatch_time>
+    <event_num>F21028955</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P111, P114, C11, P113, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 16:54:03</dispatch_time>
+    <event_num>F21028956</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 16:55:01</dispatch_time>
+    <event_num>F21028957</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 16:56:07</dispatch_time>
+    <event_num>F21028958</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> S313, P325</units_disp>
   </event>
 </tfs_active_incidents>
