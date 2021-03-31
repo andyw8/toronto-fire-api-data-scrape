@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 10:45:02</update_from_db_time>
+  <update_from_db_time>2021-03-31 11:10:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>MIDLAND AVE / HIGHWAY 401 X E</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P142</units_disp>
   </event>
   <event>
-    <prime_street>EXBURY RD, NY</prime_street>
-    <cross_streets>MONCLOVA RD / JANE ST</cross_streets>
-    <dispatch_time>2021-03-31 10:25:40</dispatch_time>
-    <event_num>F21028811</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146, P442, A142, C14, R133</units_disp>
-  </event>
-  <event>
     <prime_street>KING ST, TT</prime_street>
     <cross_streets>SACKVILLE ST / VIRGIN PL</cross_streets>
     <dispatch_time>2021-03-31 10:26:19</dispatch_time>
@@ -42,33 +32,93 @@
     <units_disp> A324, P332</units_disp>
   </event>
   <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 10:27:41</dispatch_time>
-    <event_num>F21028813</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>FOXRIDGE DR, SC</prime_street>
+    <cross_streets>GARTHWOOD DR / KENNEDY RD</cross_streets>
+    <dispatch_time>2021-03-31 10:49:45</dispatch_time>
+    <event_num>F21028820</event_num>
+    <event_type>Rescue - High Level</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> P433</units_disp>
+    <beat>222</beat>
+    <units_disp> S313, S331, A226, P221, C32, P143, P232, P232, S232, C22, C23</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-03-31 10:31:49</dispatch_time>
-    <event_num>F21028814</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LAWRENCE AVE, NY</prime_street>
+    <cross_streets>CORONA ST / DUFFERIN ST</cross_streets>
+    <dispatch_time>2021-03-31 10:51:26</dispatch_time>
+    <event_num>F21028822</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
+    <beat>132</beat>
+    <units_disp> A133, C13, P132, P145, R133</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-31 10:36:06</dispatch_time>
-    <event_num>F21028815</event_num>
+    <dispatch_time>2021-03-31 10:54:20</dispatch_time>
+    <event_num>F21028823</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R213</units_disp>
+    <beat>426</beat>
+    <units_disp> A426</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 10:57:56</dispatch_time>
+    <event_num>F21028825</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>HUXLEY RD, NY</prime_street>
+    <cross_streets>CLAYSON RD / </cross_streets>
+    <dispatch_time>2021-03-31 11:00:35</dispatch_time>
+    <event_num>F21028826</event_num>
+    <event_type>Alarm Commercial/Industrial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>146</beat>
+    <units_disp> A142, P146, P442, R411, C14</units_disp>
+  </event>
+  <event>
+    <prime_street>SHUTER ST, TT</prime_street>
+    <cross_streets>ONTARIO ST / MILAN ST</cross_streets>
+    <dispatch_time>2021-03-31 11:01:03</dispatch_time>
+    <event_num>F21028827</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325, C33, P313, P325, P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 11:03:14</dispatch_time>
+    <event_num>F21028828</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 11:03:38</dispatch_time>
+    <event_num>F21028829</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>422</beat>
+    <units_disp> P422</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>FREDERICK ST / LOWER SHERBOURNE ST</cross_streets>
+    <dispatch_time>2021-03-31 11:04:53</dispatch_time>
+    <event_num>F21028830</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
 </tfs_active_incidents>
