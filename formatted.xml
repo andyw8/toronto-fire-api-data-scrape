@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-01 07:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-01 07:40:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, EY</prime_street>
     <cross_streets>SUTHERLAND DR / LAIRD DR</cross_streets>
@@ -12,43 +12,13 @@
     <units_disp> R321, P125</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 07:11:28</dispatch_time>
-    <event_num>F21029144</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>VICTORIA PARK AVE / VAN HORNE AVE</cross_streets>
+    <dispatch_time>2021-04-01 07:36:45</dispatch_time>
+    <event_num>F21029148</event_num>
+    <event_type>Vehicle Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> R243</units_disp>
-  </event>
-  <event>
-    <prime_street>M3L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 07:15:15</dispatch_time>
-    <event_num>F21029145</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
-  </event>
-  <event>
-    <prime_street>M5J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 07:16:19</dispatch_time>
-    <event_num>F21029146</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> HR332</units_disp>
-  </event>
-  <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>DUNDAS ST E / LN N DUNDAS W SHERBOURNE</cross_streets>
-    <dispatch_time>2021-04-01 07:17:36</dispatch_time>
-    <event_num>F21029147</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, P313, A325, P314, C31</units_disp>
+    <beat>113</beat>
+    <units_disp> A113</units_disp>
   </event>
 </tfs_active_incidents>
