@@ -1,54 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 22:20:02</update_from_db_time>
+  <update_from_db_time>2021-03-31 22:55:02</update_from_db_time>
   <event>
-    <prime_street>KECALA RD, SC</prime_street>
-    <cross_streets>PORTSDOWN RD / BLAISDALE RD</cross_streets>
-    <dispatch_time>2021-03-31 20:50:35</dispatch_time>
-    <event_num>F21029043</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>245</beat>
-    <units_disp> S232, P245, A244, P222, P232, C23, A231, LA231, R231, R235, C20</units_disp>
-  </event>
-  <event>
-    <prime_street>KING ST, TT</prime_street>
-    <cross_streets>YONGE ST / VICTORIA ST</cross_streets>
-    <dispatch_time>2021-03-31 22:00:49</dispatch_time>
-    <event_num>F21029073</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> HR332, P333, R325, T333, C33, P314, P333</units_disp>
-  </event>
-  <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>WELLINGTON ST W / KING ST W</cross_streets>
-    <dispatch_time>2021-03-31 22:09:38</dispatch_time>
-    <event_num>F21029074</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P333, C33, HR332, P334, T333, R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M6L</prime_street>
+    <prime_street>M1M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-31 22:09:49</dispatch_time>
-    <event_num>F21029075</event_num>
+    <dispatch_time>2021-03-31 22:41:01</dispatch_time>
+    <event_num>F21029081</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133</units_disp>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>M5G</prime_street>
+    <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-31 22:11:06</dispatch_time>
-    <event_num>F21029077</event_num>
+    <dispatch_time>2021-03-31 22:45:23</dispatch_time>
+    <event_num>F21029082</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <beat>415</beat>
+    <units_disp> P415</units_disp>
   </event>
 </tfs_active_incidents>
