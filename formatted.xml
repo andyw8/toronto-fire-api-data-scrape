@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-01 14:00:02</update_from_db_time>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-04-01 13:19:57</dispatch_time>
-    <event_num>F21029269</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> A322, R321</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 13:37:51</dispatch_time>
-    <event_num>F21029276</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
+  <update_from_db_time>2021-04-01 14:15:02</update_from_db_time>
   <event>
     <prime_street>METEOR DR, ET</prime_street>
     <cross_streets>CARLINGVIEW DR / GALAXY BLVD</cross_streets>
@@ -42,46 +22,6 @@
     <units_disp> P332, A331</units_disp>
   </event>
   <event>
-    <prime_street>D'ARCY ST, TT</prime_street>
-    <cross_streets>MC CAUL ST / LN E BEVERLEY S D ARCY</cross_streets>
-    <dispatch_time>2021-04-01 13:48:59</dispatch_time>
-    <event_num>F21029280</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P315, P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 13:49:15</dispatch_time>
-    <event_num>F21029281</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> A426</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 13:50:41</dispatch_time>
-    <event_num>F21029282</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 13:51:00</dispatch_time>
-    <event_num>F21029283</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
-  </event>
-  <event>
     <prime_street>M3N</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-01 13:55:04</dispatch_time>
@@ -96,19 +36,49 @@
     <cross_streets>MONCLOVA RD / JANE ST</cross_streets>
     <dispatch_time>2021-04-01 13:55:39</dispatch_time>
     <event_num>F21029285</event_num>
-    <event_type>Alarm Single Source</event_type>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>146</beat>
-    <units_disp> P442, A142</units_disp>
+    <units_disp> P442, A142, C14, P141, R133</units_disp>
   </event>
   <event>
-    <prime_street>M9W</prime_street>
+    <prime_street>M4X</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-01 13:56:54</dispatch_time>
-    <event_num>F21029286</event_num>
+    <dispatch_time>2021-04-01 14:06:12</dispatch_time>
+    <event_num>F21029288</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R413</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-01 14:06:42</dispatch_time>
+    <event_num>F21029289</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
+  </event>
+  <event>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>ELM ST / WALTON ST</cross_streets>
+    <dispatch_time>2021-04-01 14:07:50</dispatch_time>
+    <event_num>F21029290</event_num>
+    <event_type>Alarm Single Source</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314, P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-01 14:09:08</dispatch_time>
+    <event_num>F21029291</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> S313</units_disp>
   </event>
 </tfs_active_incidents>
