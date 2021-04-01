@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-01 02:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-01 02:50:02</update_from_db_time>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>M6C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-01 02:06:54</dispatch_time>
-    <event_num>F21029109</event_num>
+    <dispatch_time>2021-04-01 02:35:35</dispatch_time>
+    <event_num>F21029112</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>DUNDAS ST W / BEATRICE ST</cross_streets>
-    <dispatch_time>2021-04-01 02:14:14</dispatch_time>
-    <event_num>F21029110</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>DUGGAN AVE, TT</prime_street>
+    <cross_streets>LAWTON BLVD / ORIOLE PKWY</cross_streets>
+    <dispatch_time>2021-04-01 02:37:15</dispatch_time>
+    <event_num>F21029113</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
+    <beat>311</beat>
+    <units_disp> P311, C31, A135, P135, R134</units_disp>
   </event>
 </tfs_active_incidents>
