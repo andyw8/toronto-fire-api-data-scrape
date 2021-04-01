@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-03-31 22:55:02</update_from_db_time>
+  <update_from_db_time>2021-03-31 23:10:02</update_from_db_time>
   <event>
     <prime_street>M1M</prime_street>
     <cross_streets/>
@@ -12,13 +12,53 @@
     <units_disp> P223</units_disp>
   </event>
   <event>
+    <prime_street>BATHURST ST, TT</prime_street>
+    <cross_streets>ALEXANDRA PARK TRL / ALEXANDRA PARK TRL</cross_streets>
+    <dispatch_time>2021-03-31 22:59:58</dispatch_time>
+    <event_num>F21029083</event_num>
+    <event_type>Fire - Encampment</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315, P331, A315, C33</units_disp>
+  </event>
+  <event>
     <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-03-31 22:45:23</dispatch_time>
-    <event_num>F21029082</event_num>
+    <dispatch_time>2021-03-31 23:00:00</dispatch_time>
+    <event_num>F21029084</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P415</units_disp>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 23:02:20</dispatch_time>
+    <event_num>F21029085</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M9M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-03-31 23:02:28</dispatch_time>
+    <event_num>F21029086</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
+  </event>
+  <event>
+    <prime_street>DAVENPORT RD, TT</prime_street>
+    <cross_streets>YONGE ST / MCMURRICH ST</cross_streets>
+    <dispatch_time>2021-03-31 23:03:57</dispatch_time>
+    <event_num>F21029087</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> S313, P312, A312, C31, P311, P314</units_disp>
   </event>
 </tfs_active_incidents>
