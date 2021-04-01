@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-01 19:15:02</update_from_db_time>
-  <event>
-    <prime_street>DURANT AVE, EY</prime_street>
-    <cross_streets>PLAINS RD / JUDITH DR</cross_streets>
-    <dispatch_time>2021-04-01 18:38:02</dispatch_time>
-    <event_num>F21029374</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
+  <update_from_db_time>2021-04-01 19:30:02</update_from_db_time>
   <event>
     <prime_street>WELLESLEY ST, TT</prime_street>
     <cross_streets>ONTARIO ST / ROSE AVE</cross_streets>
@@ -42,26 +32,6 @@
     <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 18:57:53</dispatch_time>
-    <event_num>F21029385</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 18:59:19</dispatch_time>
-    <event_num>F21029386</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets> / DAWES RD</cross_streets>
     <dispatch_time>2021-04-01 18:59:55</dispatch_time>
@@ -70,16 +40,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>226</beat>
     <units_disp> R224, R225, A226, C22, R235, R321</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 19:01:20</dispatch_time>
-    <event_num>F21029388</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
   </event>
   <event>
     <prime_street>FALSTAFF AVE, NY</prime_street>
@@ -102,13 +62,33 @@
     <units_disp> P334</units_disp>
   </event>
   <event>
-    <prime_street>NORTHAMPTON DR, ET</prime_street>
-    <cross_streets>SHAVER AVE N / MAYDOLPH RD</cross_streets>
-    <dispatch_time>2021-04-01 19:07:21</dispatch_time>
-    <event_num>F21029392</event_num>
-    <event_type>Fire - Transformer/Pole</event_type>
+    <prime_street>M5M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-01 19:20:17</dispatch_time>
+    <event_num>F21029394</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>EDGEHILL RD, ET</prime_street>
+    <cross_streets>EDGEVALLEY DR / COLWOOD RD</cross_streets>
+    <dispatch_time>2021-04-01 19:22:43</dispatch_time>
+    <event_num>F21029395</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> S445, P431, A433, C44, P422, P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M6L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-01 19:24:02</dispatch_time>
+    <event_num>F21029396</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> A142</units_disp>
   </event>
 </tfs_active_incidents>
