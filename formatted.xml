@@ -1,66 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-02 18:30:02</update_from_db_time>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 18:10:35</dispatch_time>
-    <event_num>F21029692</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
-  </event>
-  <event>
-    <prime_street>CLEARVIEW HTS, YK</prime_street>
-    <cross_streets>TRETHEWEY DR / GREENTREE CRT</cross_streets>
-    <dispatch_time>2021-04-02 18:15:00</dispatch_time>
-    <event_num>F21029694</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133, A133</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 18:16:07</dispatch_time>
-    <event_num>F21029695</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 18:20:20</dispatch_time>
-    <event_num>F21029696</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 18:23:22</dispatch_time>
-    <event_num>F21029697</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 18:23:27</dispatch_time>
-    <event_num>F21029698</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
+  <update_from_db_time>2021-04-02 18:50:02</update_from_db_time>
   <event>
     <prime_street>M9A</prime_street>
     <cross_streets/>
@@ -72,13 +12,73 @@
     <units_disp> P443</units_disp>
   </event>
   <event>
-    <prime_street>M4W</prime_street>
+    <prime_street>M5N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-02 18:25:55</dispatch_time>
-    <event_num>F21029700</event_num>
+    <dispatch_time>2021-04-02 18:29:23</dispatch_time>
+    <event_num>F21029701</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-02 18:31:29</dispatch_time>
+    <event_num>F21029702</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>DUFFERIN ST, NY</prime_street>
+    <cross_streets>LAWRENCE AVE W / DANE AVE</cross_streets>
+    <dispatch_time>2021-04-02 18:32:50</dispatch_time>
+    <event_num>F21029703</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> A133, P145, A135, P131, C13, P442, R341</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>ST THOMAS ST / QUEEN'S PARK</cross_streets>
+    <dispatch_time>2021-04-02 18:33:07</dispatch_time>
+    <event_num>F21029704</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312, P314, P315, A315, C31, S331</units_disp>
+  </event>
+  <event>
+    <prime_street>M3M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-02 18:33:11</dispatch_time>
+    <event_num>F21029705</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> HZ145</units_disp>
+  </event>
+  <event>
+    <prime_street>EUCLID AVE, TT</prime_street>
+    <cross_streets>ALLAN REYNOLDS LANE / VIA DEI GIARDINI LANE</cross_streets>
+    <dispatch_time>2021-04-02 18:36:52</dispatch_time>
+    <event_num>F21029706</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street>BLOOR ST, TT</prime_street>
+    <cross_streets>QUEEN'S PARK / BEDFORD RD</cross_streets>
+    <dispatch_time>2021-04-02 18:43:30</dispatch_time>
+    <event_num>F21029707</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> A331, C33, P311, P332, R325, S313</units_disp>
   </event>
 </tfs_active_incidents>
