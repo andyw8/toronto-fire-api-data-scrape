@@ -1,44 +1,54 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-02 11:10:02</update_from_db_time>
+  <update_from_db_time>2021-04-02 11:30:02</update_from_db_time>
   <event>
-    <prime_street>M9C</prime_street>
+    <prime_street>M1V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-02 10:46:30</dispatch_time>
-    <event_num>F21029578</event_num>
+    <dispatch_time>2021-04-02 11:07:42</dispatch_time>
+    <event_num>F21029583</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 10:50:43</dispatch_time>
-    <event_num>F21029579</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>LAUDER AVE / GENESSEE AVE</cross_streets>
+    <dispatch_time>2021-04-02 11:10:09</dispatch_time>
+    <event_num>F21029585</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>341</beat>
+    <units_disp> R341, P342, C34, P343, R345, A135</units_disp>
   </event>
   <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 10:58:04</dispatch_time>
-    <event_num>F21029581</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>SPADINA AVE, TT</prime_street>
+    <cross_streets>WILLISON SQ / DUNDAS ST W</cross_streets>
+    <dispatch_time>2021-04-02 11:22:26</dispatch_time>
+    <event_num>F21029586</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P315</units_disp>
+    <beat>315</beat>
+    <units_disp> P332, A315, C33, P315, P331</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets>THE DONWAY W / LAWRENCE AVE E</cross_streets>
+    <dispatch_time>2021-04-02 11:23:39</dispatch_time>
+    <event_num>F21029587</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
+  </event>
+  <event>
+    <prime_street>M4H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-02 11:01:42</dispatch_time>
-    <event_num>F21029582</event_num>
+    <dispatch_time>2021-04-02 11:25:53</dispatch_time>
+    <event_num>F21029589</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
+    <beat>322</beat>
+    <units_disp> R321</units_disp>
   </event>
 </tfs_active_incidents>
