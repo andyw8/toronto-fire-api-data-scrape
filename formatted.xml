@@ -1,26 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-02 03:30:02</update_from_db_time>
-  <event>
-    <prime_street>M8Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 03:05:13</dispatch_time>
-    <event_num>F21029495</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P431</units_disp>
-  </event>
-  <event>
-    <prime_street>M5N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 03:10:48</dispatch_time>
-    <event_num>F21029497</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> A135</units_disp>
-  </event>
+  <update_from_db_time>2021-04-02 03:40:02</update_from_db_time>
   <event>
     <prime_street>M3A</prime_street>
     <cross_streets/>
