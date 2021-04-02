@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-02 12:10:02</update_from_db_time>
-  <event>
-    <prime_street>NORTHCLIFFE BLVD, YK</prime_street>
-    <cross_streets>ROGERS RD / GENESSEE AVE</cross_streets>
-    <dispatch_time>2021-04-02 11:10:09</dispatch_time>
-    <event_num>F21029585</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341, P342, C34, P343, R345, A135</units_disp>
-  </event>
+  <update_from_db_time>2021-04-02 12:35:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets>THE DONWAY W / LAWRENCE AVE E</cross_streets>
@@ -22,73 +12,43 @@
     <units_disp> P123</units_disp>
   </event>
   <event>
-    <prime_street>MCROBERTS AVE, TT</prime_street>
-    <cross_streets>LN 2 N ST CLAIR E MCROBERTS / LN S INNES E CALEDONIA</cross_streets>
-    <dispatch_time>2021-04-02 11:48:44</dispatch_time>
-    <event_num>F21029595</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> R341, P343, C34, R345, A421, R421</units_disp>
-  </event>
-  <event>
-    <prime_street>M2H</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-02 11:56:14</dispatch_time>
-    <event_num>F21029596</event_num>
+    <dispatch_time>2021-04-02 12:10:34</dispatch_time>
+    <event_num>F21029604</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113</units_disp>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
   </event>
   <event>
-    <prime_street>NORWOOD TER, TT</prime_street>
-    <cross_streets>ENDERBY RD / LN E ENDERBY S NORWOOD TER</cross_streets>
-    <dispatch_time>2021-04-02 11:57:41</dispatch_time>
-    <event_num>F21029597</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BAYVIEW AVE / WIMPOLE DR</cross_streets>
-    <dispatch_time>2021-04-02 11:58:15</dispatch_time>
-    <event_num>F21029598</event_num>
-    <event_type>Vehicle Fire</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122</units_disp>
-  </event>
-  <event>
-    <prime_street>EDGAR AVE, TT</prime_street>
-    <cross_streets>MACLENNAN AVE / ROXBOROUGH DR</cross_streets>
-    <dispatch_time>2021-04-02 11:58:40</dispatch_time>
-    <event_num>F21029599</event_num>
-    <event_type>Alarm Single Source</event_type>
+    <prime_street>M4X</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-02 12:17:13</dispatch_time>
+    <event_num>F21029606</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>313</beat>
-    <units_disp> P313, P311</units_disp>
+    <units_disp> S313</units_disp>
   </event>
   <event>
-    <prime_street>M1P</prime_street>
+    <prime_street>M6L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-02 12:02:48</dispatch_time>
-    <event_num>F21029600</event_num>
+    <dispatch_time>2021-04-02 12:20:13</dispatch_time>
+    <event_num>F21029607</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <beat>133</beat>
+    <units_disp> R133</units_disp>
   </event>
   <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 12:05:27</dispatch_time>
-    <event_num>F21029601</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>ELIZABETH ST, TT</prime_street>
+    <cross_streets>EDWARD ST / ELM ST</cross_streets>
+    <dispatch_time>2021-04-02 12:24:19</dispatch_time>
+    <event_num>F21029608</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
+    <beat>314</beat>
+    <units_disp> A315, HR332, P314, P315, P332, R325, C33</units_disp>
   </event>
 </tfs_active_incidents>
