@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-02 15:10:02</update_from_db_time>
-  <event>
-    <prime_street>ASCOT AVE, TT</prime_street>
-    <cross_streets>EARLSCOURT AVE / NAIRN AVE</cross_streets>
-    <dispatch_time>2021-04-02 14:33:02</dispatch_time>
-    <event_num>F21029637</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> C34, P324, P342, HZ145</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 14:49:17</dispatch_time>
-    <event_num>F21029641</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
-  </event>
-  <event>
-    <prime_street>EGLINTON AVE, EY</prime_street>
-    <cross_streets>BRENTCLIFFE RD / GLASSWORKS DR</cross_streets>
-    <dispatch_time>2021-04-02 14:59:20</dispatch_time>
-    <event_num>F21029643</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R321, P125</units_disp>
-  </event>
+  <update_from_db_time>2021-04-02 15:30:02</update_from_db_time>
   <event>
     <prime_street>ALEXMUIR BLVD, SC</prime_street>
     <cross_streets>VALDOR DR / CLEADON RD</cross_streets>
@@ -42,33 +12,23 @@
     <units_disp> A213, P242, C24, HZ326</units_disp>
   </event>
   <event>
-    <prime_street>BIRCHMOUNT RD, SC</prime_street>
-    <cross_streets>ST. CLAIR RAVINE TRL / WILLOWMOUNT DR</cross_streets>
-    <dispatch_time>2021-04-02 15:02:34</dispatch_time>
-    <event_num>F21029645</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-04-02 15:19:03</dispatch_time>
+    <event_num>F21029649</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
+    <beat>214</beat>
+    <units_disp> P212, R214</units_disp>
   </event>
   <event>
-    <prime_street>SACKVILLE ST, TT</prime_street>
-    <cross_streets>SUTTON AVE / ST DAVID ST</cross_streets>
-    <dispatch_time>2021-04-02 15:05:54</dispatch_time>
-    <event_num>F21029646</event_num>
-    <event_type>Alarm Single Source</event_type>
+    <prime_street>CORUNDUM CRES, SC</prime_street>
+    <cross_streets>BIRCHARD ST / LYNNGATE PARK TRL</cross_streets>
+    <dispatch_time>2021-04-02 15:25:06</dispatch_time>
+    <event_num>F21029650</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325, A325</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 15:05:59</dispatch_time>
-    <event_num>F21029647</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <beat>244</beat>
+    <units_disp> A244, P244, P245, R243, R115, C11</units_disp>
   </event>
 </tfs_active_incidents>
