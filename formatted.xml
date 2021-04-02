@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-01 23:50:02</update_from_db_time>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 23:26:18</dispatch_time>
-    <event_num>F21029459</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 23:33:14</dispatch_time>
-    <event_num>F21029462</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 23:39:20</dispatch_time>
-    <event_num>F21029464</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222</units_disp>
-  </event>
+  <update_from_db_time>2021-04-02 00:10:02</update_from_db_time>
   <event>
     <prime_street>RICHVIEW RD, ET</prime_street>
     <cross_streets>SCARLETT RD / </cross_streets>
@@ -40,5 +10,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>443</beat>
     <units_disp> P422, P443, R421, R441, A421, C44</units_disp>
+  </event>
+  <event>
+    <prime_street>DUNDAS ST, TT</prime_street>
+    <cross_streets>HURON ST / LN E SPADINA N DUNDAS</cross_streets>
+    <dispatch_time>2021-04-01 23:48:38</dispatch_time>
+    <event_num>F21029466</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-02 00:00:04</dispatch_time>
+    <event_num>F21029468</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>222</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>SUMACH ST, TT</prime_street>
+    <cross_streets>WYATT AVE / DUNDAS ST E</cross_streets>
+    <dispatch_time>2021-04-02 00:01:06</dispatch_time>
+    <event_num>F21029469</event_num>
+    <event_type>Alarm Single Source</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325, A325</units_disp>
   </event>
 </tfs_active_incidents>
