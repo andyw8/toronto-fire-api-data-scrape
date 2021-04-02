@@ -1,34 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-02 02:00:02</update_from_db_time>
+  <update_from_db_time>2021-04-02 02:30:03</update_from_db_time>
   <event>
-    <prime_street>LESLIE ST, NY</prime_street>
-    <cross_streets>SUNNYBROOK PARK TRL / INN ON THE PARK DR</cross_streets>
-    <dispatch_time>2021-04-02 01:53:03</dispatch_time>
-    <event_num>F21029482</event_num>
-    <event_type>Alarm Single Source</event_type>
+    <prime_street>BRENTCLIFFE RD, EY</prime_street>
+    <cross_streets>EGLINTON AVE E / DONLEA DR</cross_streets>
+    <dispatch_time>2021-04-02 02:16:53</dispatch_time>
+    <event_num>F21029488</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> P125, A125</units_disp>
+    <beat>321</beat>
+    <units_disp> R321, P125, C32, A125, P131, R134</units_disp>
   </event>
   <event>
-    <prime_street>GEORGE ST, TT</prime_street>
-    <cross_streets>LN N DUNDAS E GEORGE / GERRARD ST E</cross_streets>
-    <dispatch_time>2021-04-02 01:54:51</dispatch_time>
-    <event_num>F21029483</event_num>
-    <event_type>Fire - Institution</event_type>
+    <prime_street>M5M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-02 02:25:44</dispatch_time>
+    <event_num>F21029489</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P313, P314, R325, A325, C33, P333</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>MARTIN GROVE RD / GARFELLA DR</cross_streets>
-    <dispatch_time>2021-04-02 01:54:45</dispatch_time>
-    <event_num>F21029484</event_num>
-    <event_type>Vehicle - Spill Clean Up</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <beat>131</beat>
+    <units_disp> P131</units_disp>
   </event>
 </tfs_active_incidents>
