@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-01 19:50:02</update_from_db_time>
-  <event>
-    <prime_street>WELLESLEY ST, TT</prime_street>
-    <cross_streets>ONTARIO ST / ROSE AVE</cross_streets>
-    <dispatch_time>2021-04-01 18:43:36</dispatch_time>
-    <event_num>F21029377</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>2</alarm_lev>
-    <beat>313</beat>
-    <units_disp> A325, C31, P313, P314, R325, S313, A312, LA333, P312, R134, C32, HZ326, P311, P315, P324, HR114, C30, CMD30, CMD30C</units_disp>
-  </event>
+  <update_from_db_time>2021-04-01 20:25:02</update_from_db_time>
   <event>
     <prime_street>FALSTAFF AVE, NY</prime_street>
     <cross_streets>MAIDSTONE ST / SPRINGVIEW AVE</cross_streets>
@@ -32,16 +22,6 @@
     <units_disp> S445, P431, A433, C44, P422, P445</units_disp>
   </event>
   <event>
-    <prime_street>M5J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 19:35:38</dispatch_time>
-    <event_num>F21029398</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
     <prime_street>WEST LODGE AVE, TT</prime_street>
     <cross_streets>LN N QUEEN E LANSDOWNE / </cross_streets>
     <dispatch_time>2021-04-01 19:44:05</dispatch_time>
@@ -52,23 +32,53 @@
     <units_disp> R426, P331, A426, C34, P344</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-01 19:45:12</dispatch_time>
-    <event_num>F21029400</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>KIPLING AVE / ALBION RD</cross_streets>
+    <dispatch_time>2021-04-01 19:57:18</dispatch_time>
+    <event_num>F21029402</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
     <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-01 19:46:29</dispatch_time>
-    <event_num>F21029401</event_num>
+    <dispatch_time>2021-04-01 19:58:31</dispatch_time>
+    <event_num>F21029403</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <beat>326</beat>
+    <units_disp> HZ326</units_disp>
+  </event>
+  <event>
+    <prime_street>CANADIAN RD, SC</prime_street>
+    <cross_streets>PRINCIPAL RD / BIRCHMOUNT RD</cross_streets>
+    <dispatch_time>2021-04-01 20:03:35</dispatch_time>
+    <event_num>F21029406</event_num>
+    <event_type>Alarm Single Source</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245, A244</units_disp>
+  </event>
+  <event>
+    <prime_street>M4Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-01 20:16:18</dispatch_time>
+    <event_num>F21029408</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
+  </event>
+  <event>
+    <prime_street>M9P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-01 20:22:00</dispatch_time>
+    <event_num>F21029409</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
