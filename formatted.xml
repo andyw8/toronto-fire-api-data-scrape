@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-02 23:10:02</update_from_db_time>
+  <update_from_db_time>2021-04-02 23:35:02</update_from_db_time>
   <event>
     <prime_street>LOGAN AVE, TT</prime_street>
     <cross_streets>GARNOCK AVE / LN S DANFORTH E LOGAN</cross_streets>
@@ -12,46 +12,6 @@
     <units_disp> P323</units_disp>
   </event>
   <event>
-    <prime_street>M6P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 22:50:32</dispatch_time>
-    <event_num>F21029771</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>M9R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 22:57:19</dispatch_time>
-    <event_num>F21029772</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A441</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>YONGE ST / SCOTT ST</cross_streets>
-    <dispatch_time>2021-04-02 22:57:49</dispatch_time>
-    <event_num>F21029773</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P332, P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 23:00:50</dispatch_time>
-    <event_num>F21029774</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
-  </event>
-  <event>
     <prime_street>ROWNTREE RD, ET</prime_street>
     <cross_streets>HUMBER RIVER RECREATIONAL TRL / </cross_streets>
     <dispatch_time>2021-04-02 23:06:02</dispatch_time>
@@ -59,17 +19,7 @@
     <event_type>Rescue - Elevator</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>413</beat>
-    <units_disp> S331, P342</units_disp>
-  </event>
-  <event>
-    <prime_street>M6E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-02 23:06:44</dispatch_time>
-    <event_num>F21029777</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341</units_disp>
+    <units_disp> S331, P342, R413, S445, R413, S445</units_disp>
   </event>
   <event>
     <prime_street>WILSON AVE, NY</prime_street>
@@ -80,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>145</beat>
     <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M5M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-02 23:17:33</dispatch_time>
+    <event_num>F21029781</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>121</beat>
+    <units_disp> P121</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-02 23:25:56</dispatch_time>
+    <event_num>F21029782</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
