@@ -1,76 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-03 13:50:02</update_from_db_time>
-  <event>
-    <prime_street>WILLOWDALE AVE, NY</prime_street>
-    <cross_streets>CHURCH AVE / BYNG AVE</cross_streets>
-    <dispatch_time>2021-04-03 13:17:55</dispatch_time>
-    <event_num>F21029945</event_num>
-    <event_type>Alarm Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P111, P113, A113, C11, P116</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 13:21:58</dispatch_time>
-    <event_num>F21029947</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>125</beat>
-    <units_disp> A125</units_disp>
-  </event>
-  <event>
-    <prime_street>M8W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 13:23:43</dispatch_time>
-    <event_num>F21029948</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
-  </event>
-  <event>
-    <prime_street>KATRINE RD, ET</prime_street>
-    <cross_streets>BARFORD RD / HENLEY CRES</cross_streets>
-    <dispatch_time>2021-04-03 13:26:01</dispatch_time>
-    <event_num>F21029950</event_num>
-    <event_type>Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTERN BATTERY RD, TT</prime_street>
-    <cross_streets>GATEWAY PARK TRL / PIRANDELLO ST</cross_streets>
-    <dispatch_time>2021-04-03 13:27:51</dispatch_time>
-    <event_num>F21029951</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> A331</units_disp>
-  </event>
-  <event>
-    <prime_street>BAYVIEW AVE, NY</prime_street>
-    <cross_streets>STRATFORD PARK TRL / STRATFORD PARK TRL</cross_streets>
-    <dispatch_time>2021-04-03 13:27:49</dispatch_time>
-    <event_num>F21029952</event_num>
-    <event_type>Alarm Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131, R321, R122, C13, P121, A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 13:35:54</dispatch_time>
-    <event_num>F21029954</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
+  <update_from_db_time>2021-04-03 14:15:02</update_from_db_time>
   <event>
     <prime_street>THE POND RD, NY</prime_street>
     <cross_streets>SENTINEL RD / ATKINSON RD</cross_streets>
@@ -79,6 +9,76 @@
     <event_type>Vehicle Accident - Trapped</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
-    <units_disp> P141, R133, S143, C14</units_disp>
+    <units_disp> P141, C14, R133, S143</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 13:55:34</dispatch_time>
+    <event_num>F21029957</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 13:57:34</dispatch_time>
+    <event_num>F21029959</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>326</beat>
+    <units_disp> P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 13:59:43</dispatch_time>
+    <event_num>F21029960</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWRENCE AVE, SC</prime_street>
+    <cross_streets>HIGHLAND CREEK TRL / OVERTURE RD</cross_streets>
+    <dispatch_time>2021-04-03 14:02:17</dispatch_time>
+    <event_num>F21029961</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> S232, P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M4J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 14:05:00</dispatch_time>
+    <event_num>F21029962</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 14:07:03</dispatch_time>
+    <event_num>F21029963</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>ST CLAIR GDNS, TT</prime_street>
+    <cross_streets>NORTON AVE / ASCOT AVE</cross_streets>
+    <dispatch_time>2021-04-03 14:08:55</dispatch_time>
+    <event_num>F21029964</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>342</beat>
+    <units_disp> P342, P343, R341, A345, C34, R423</units_disp>
   </event>
 </tfs_active_incidents>
