@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-03 09:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-03 09:45:01</update_from_db_time>
   <event>
     <prime_street>MEDHURST RD, EY</prime_street>
     <cross_streets>MEIGHEN AVE / VICTORIA PARK AVE</cross_streets>
@@ -12,66 +12,6 @@
     <units_disp> C22, R224, HZ326, P324</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 09:06:47</dispatch_time>
-    <event_num>F21029886</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 09:10:27</dispatch_time>
-    <event_num>F21029888</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 09:11:19</dispatch_time>
-    <event_num>F21029890</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
-  </event>
-  <event>
-    <prime_street>RICHMOND ST, TT</prime_street>
-    <cross_streets>TWILIGHT LANE / DUNCAN ST</cross_streets>
-    <dispatch_time>2021-04-03 09:16:01</dispatch_time>
-    <event_num>F21029891</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 09:16:42</dispatch_time>
-    <event_num>F21029893</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 09:18:18</dispatch_time>
-    <event_num>F21029894</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
-  <event>
     <prime_street>M4C</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-03 09:25:24</dispatch_time>
@@ -80,5 +20,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>224</beat>
     <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 09:34:57</dispatch_time>
+    <event_num>F21029896</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M4K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 09:37:30</dispatch_time>
+    <event_num>F21029897</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 09:39:29</dispatch_time>
+    <event_num>F21029898</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
