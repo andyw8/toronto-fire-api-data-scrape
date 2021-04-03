@@ -1,66 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-03 11:30:03</update_from_db_time>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>BROOKFIELD ST / FENNINGS ST</cross_streets>
-    <dispatch_time>2021-04-03 10:48:47</dispatch_time>
-    <event_num>F21029906</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331, HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street>BRUNSWICK AVE, TT</prime_street>
-    <cross_streets>COLLEGE ST / ULSTER ST</cross_streets>
-    <dispatch_time>2021-04-03 11:06:01</dispatch_time>
-    <event_num>F21029909</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> A331, P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M6S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 11:06:52</dispatch_time>
-    <event_num>F21029910</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
-  </event>
-  <event>
-    <prime_street>EGLINTON AVE, YK</prime_street>
-    <cross_streets>NORTHCLIFFE BLVD / DUFFERIN N EGLINTON E RAMP</cross_streets>
-    <dispatch_time>2021-04-03 11:08:40</dispatch_time>
-    <event_num>F21029911</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R341, S331</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-04-03 11:16:33</dispatch_time>
-    <event_num>F21029912</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M6G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 11:19:58</dispatch_time>
-    <event_num>F21029913</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> A331, A331</units_disp>
-  </event>
+  <update_from_db_time>2021-04-03 11:50:02</update_from_db_time>
   <event>
     <prime_street>M4C</prime_street>
     <cross_streets/>
@@ -70,5 +10,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>323</beat>
     <units_disp> P323</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 11:35:49</dispatch_time>
+    <event_num>F21029915</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>YORK ST, TT</prime_street>
+    <cross_streets>QUEENS QUAY W / HARBOUR ST</cross_streets>
+    <dispatch_time>2021-04-03 11:35:22</dispatch_time>
+    <event_num>F21029916</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> HR332, P332, P334, P344, T333, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>ARDWICK BLVD / MILADY RD</cross_streets>
+    <dispatch_time>2021-04-03 11:37:18</dispatch_time>
+    <event_num>F21029917</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R412, A411, C41, R411, R413, P146</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 11:39:44</dispatch_time>
+    <event_num>F21029918</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 11:40:18</dispatch_time>
+    <event_num>F21029919</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SPANBRIDGE RD / SPANBRIDGE RD</cross_streets>
+    <dispatch_time>2021-04-03 11:41:28</dispatch_time>
+    <event_num>F21029920</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235, P125, A125, C32, P123</units_disp>
   </event>
 </tfs_active_incidents>
