@@ -1,14 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-03 02:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-03 03:05:02</update_from_db_time>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>BAY ST / YORK ST</cross_streets>
-    <dispatch_time>2021-04-03 02:42:05</dispatch_time>
-    <event_num>F21029819</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 02:52:08</dispatch_time>
+    <event_num>F21029820</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> R325</units_disp>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 02:56:42</dispatch_time>
+    <event_num>F21029821</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
 </tfs_active_incidents>
