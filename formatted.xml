@@ -1,44 +1,104 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-03 17:40:02</update_from_db_time>
+  <update_from_db_time>2021-04-03 18:05:02</update_from_db_time>
   <event>
-    <prime_street>M1V</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-03 17:23:41</dispatch_time>
-    <event_num>F21030027</event_num>
+    <dispatch_time>2021-04-03 17:38:17</dispatch_time>
+    <event_num>F21030031</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
   </event>
   <event>
-    <prime_street>M4M</prime_street>
+    <prime_street>M1J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-03 17:26:12</dispatch_time>
-    <event_num>F21030028</event_num>
+    <dispatch_time>2021-04-03 17:40:26</dispatch_time>
+    <event_num>F21030032</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
   <event>
-    <prime_street>M4N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 17:35:29</dispatch_time>
-    <event_num>F21030029</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>MEDALIST RD, NY</prime_street>
+    <cross_streets>FENN AVE / KNOLLWOOD ST</cross_streets>
+    <dispatch_time>2021-04-03 17:40:34</dispatch_time>
+    <event_num>F21030033</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131</units_disp>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
   </event>
   <event>
-    <prime_street>M9B</prime_street>
+    <prime_street>M9P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-03 17:36:12</dispatch_time>
-    <event_num>F21030030</event_num>
+    <dispatch_time>2021-04-03 17:41:28</dispatch_time>
+    <event_num>F21030035</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
+    <beat>443</beat>
+    <units_disp> P443, C44</units_disp>
+  </event>
+  <event>
+    <prime_street>CHURCH ST, TT</prime_street>
+    <cross_streets>CONGER COAL LANE / THE ESPLANADE</cross_streets>
+    <dispatch_time>2021-04-03 17:44:04</dispatch_time>
+    <event_num>F21030036</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> C33, HR332, P332, P333, R325, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>RIVERVIEW HTS, ET</prime_street>
+    <cross_streets>DIXON RD / INCHCLIFFE CRES</cross_streets>
+    <dispatch_time>2021-04-03 17:45:18</dispatch_time>
+    <event_num>F21030037</event_num>
+    <event_type>Vehicle Accident - Minor Fuel Leak</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>MUSGRAVE ST, TT</prime_street>
+    <cross_streets>DENGATE RD / VICTORIA PARK AVE</cross_streets>
+    <dispatch_time>2021-04-03 17:49:57</dispatch_time>
+    <event_num>F21030039</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226, S313</units_disp>
+  </event>
+  <event>
+    <prime_street>M8V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 17:54:16</dispatch_time>
+    <event_num>F21030041</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>435</beat>
+    <units_disp> R435</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 17:56:59</dispatch_time>
+    <event_num>F21030043</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M5J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 18:00:56</dispatch_time>
+    <event_num>F21030044</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
