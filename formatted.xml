@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-03 11:10:02</update_from_db_time>
+  <update_from_db_time>2021-04-03 11:30:03</update_from_db_time>
   <event>
     <prime_street>QUEEN ST, TT</prime_street>
     <cross_streets>BROOKFIELD ST / FENNINGS ST</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>331</beat>
     <units_disp> P331, HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 10:52:37</dispatch_time>
-    <event_num>F21029907</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
-  </event>
-  <event>
-    <prime_street>OAKDALE RD, NY</prime_street>
-    <cross_streets>TORBARRIE RD / JODY AVE</cross_streets>
-    <dispatch_time>2021-04-03 11:00:57</dispatch_time>
-    <event_num>F21029908</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
   </event>
   <event>
     <prime_street>BRUNSWICK AVE, TT</prime_street>
@@ -50,5 +30,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>422</beat>
     <units_disp> P422</units_disp>
+  </event>
+  <event>
+    <prime_street>EGLINTON AVE, YK</prime_street>
+    <cross_streets>NORTHCLIFFE BLVD / DUFFERIN N EGLINTON E RAMP</cross_streets>
+    <dispatch_time>2021-04-03 11:08:40</dispatch_time>
+    <event_num>F21029911</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> R341, S331</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-04-03 11:16:33</dispatch_time>
+    <event_num>F21029912</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M6G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 11:19:58</dispatch_time>
+    <event_num>F21029913</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> A331, A331</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 11:24:08</dispatch_time>
+    <event_num>F21029914</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
