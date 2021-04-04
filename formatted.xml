@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 19:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-04 19:50:02</update_from_db_time>
   <event>
     <prime_street>ST EDMUND'S DR, TT</prime_street>
     <cross_streets>LYMPSTONE AVE / LAWRENCE AVE E</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> A125, C10, R321, C40, P125, C10, C8, REHAB01, P131, P114, S143</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 18:52:39</dispatch_time>
-    <event_num>F21030376</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
     <prime_street>WEST LODGE AVE, TT</prime_street>
     <cross_streets>LN N QUEEN E LANSDOWNE / </cross_streets>
     <dispatch_time>2021-04-04 18:54:39</dispatch_time>
@@ -39,37 +29,7 @@
     <event_type>Hazmat Level 2</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>426</beat>
-    <units_disp> P433, R426, C34, HZ326</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 19:10:35</dispatch_time>
-    <event_num>F21030382</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> P311</units_disp>
-  </event>
-  <event>
-    <prime_street>M6R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 19:20:47</dispatch_time>
-    <event_num>F21030384</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426</units_disp>
-  </event>
-  <event>
-    <prime_street>M4Y</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 19:23:25</dispatch_time>
-    <event_num>F21030385</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <units_disp> P433, R426, C34, HZ326, A426</units_disp>
   </event>
   <event>
     <prime_street>NORTHTOWN WAY, NY</prime_street>
@@ -79,6 +39,26 @@
     <event_type>Alarms Highrise Residential North</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
-    <units_disp> P111, R112, C13, HR114, P121, T114</units_disp>
+    <units_disp> C13, HR114, P111, P121, R112, T114</units_disp>
+  </event>
+  <event>
+    <prime_street>CRESTHAVEN DR, NY</prime_street>
+    <cross_streets>DEXTER BLVD / THREADNEEDLE CRES</cross_streets>
+    <dispatch_time>2021-04-04 19:42:03</dispatch_time>
+    <event_num>F21030389</event_num>
+    <event_type>Alarm Single Source</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>113</beat>
+    <units_disp> P113, P116</units_disp>
+  </event>
+  <event>
+    <prime_street>ALBION RD, ET</prime_street>
+    <cross_streets>ARMEL CRT / SHENDALE DR</cross_streets>
+    <dispatch_time>2021-04-04 19:42:12</dispatch_time>
+    <event_num>F21030390</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> P415, S445</units_disp>
   </event>
 </tfs_active_incidents>
