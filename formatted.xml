@@ -1,14 +1,4 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 00:30:02</update_from_db_time>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 00:21:15</dispatch_time>
-    <event_num>F21030144</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
-  </event>
+  <update_from_db_time>2021-04-04 00:50:02</update_from_db_time>
 </tfs_active_incidents>
