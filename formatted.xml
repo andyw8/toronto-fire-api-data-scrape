@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 14:15:02</update_from_db_time>
-  <event>
-    <prime_street>MOUNT PLEASANT RD, TT</prime_street>
-    <cross_streets>EGLINTON AVE E / ROEHAMPTON AVE</cross_streets>
-    <dispatch_time>2021-04-04 13:44:53</dispatch_time>
-    <event_num>F21030281</event_num>
-    <event_type>Fire - Highrise Commercial</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134, A135, C13, P131, P311, R321, A125, LA333, P312, S313, HR114, C10</units_disp>
-  </event>
+  <update_from_db_time>2021-04-04 14:30:02</update_from_db_time>
   <event>
     <prime_street>M6H</prime_street>
     <cross_streets/>
@@ -29,7 +19,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>131</beat>
-    <units_disp> R122, P132, P121, P125, A322, C31, HR114, P312, S313, C10, LA333, C13, A125, P311, HZ145, R321, R341, CMD10, A133, T114, R235</units_disp>
+    <units_disp> R122, P132, P121, P125, A322, C31, HR114, P312, S313, C10, LA333, C13, A125, P311, HZ145, R321, R341, CMD10, A133, T114, R235, C30, C10</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -39,26 +29,66 @@
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>131</beat>
-    <units_disp> A125, C10</units_disp>
+    <units_disp> A125, C10, R321</units_disp>
   </event>
   <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 14:05:07</dispatch_time>
-    <event_num>F21030289</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>REMEMBRANCE DR / ONTARIO PLACE BLVD</cross_streets>
+    <dispatch_time>2021-04-04 14:12:55</dispatch_time>
+    <event_num>F21030291</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
+    <beat>346</beat>
+    <units_disp> P344, LA421</units_disp>
   </event>
   <event>
-    <prime_street>M5P</prime_street>
+    <prime_street>M5N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-04 14:09:18</dispatch_time>
-    <event_num>F21030290</event_num>
+    <dispatch_time>2021-04-04 14:15:15</dispatch_time>
+    <event_num>F21030292</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>135</beat>
-    <units_disp> P343</units_disp>
+    <units_disp> P342</units_disp>
+  </event>
+  <event>
+    <prime_street>MACEY AVE, SC</prime_street>
+    <cross_streets>LN N DANFORTH E VICTORIA PARK / DENTON AVE</cross_streets>
+    <dispatch_time>2021-04-04 14:16:09</dispatch_time>
+    <event_num>F21030293</event_num>
+    <event_type>Alarm Single Source</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225, P226</units_disp>
+  </event>
+  <event>
+    <prime_street>ROSELAWN AVE, YK</prime_street>
+    <cross_streets>MARLEE AVE / HEPC</cross_streets>
+    <dispatch_time>2021-04-04 14:17:47</dispatch_time>
+    <event_num>F21030294</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>341</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 14:19:16</dispatch_time>
+    <event_num>F21030295</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 14:23:51</dispatch_time>
+    <event_num>F21030296</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> P227</units_disp>
   </event>
 </tfs_active_incidents>
