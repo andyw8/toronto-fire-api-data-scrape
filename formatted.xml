@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 15:45:02</update_from_db_time>
+  <update_from_db_time>2021-04-04 16:00:08</update_from_db_time>
   <event>
     <prime_street>ST EDMUND'S DR, TT</prime_street>
     <cross_streets>LYMPSTONE AVE / LAWRENCE AVE E</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> A125, C10, R321, C40, P125</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 15:19:06</dispatch_time>
-    <event_num>F21030312</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133</units_disp>
-  </event>
-  <event>
     <prime_street>BELLAMY RD, SC</prime_street>
     <cross_streets>GRANARD BLVD / ADANAC DR</cross_streets>
     <dispatch_time>2021-04-04 15:21:35</dispatch_time>
@@ -42,13 +32,23 @@
     <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>BAYVIEW AVE / BLOOR W BAYVIEW N RAMP</cross_streets>
-    <dispatch_time>2021-04-04 15:27:27</dispatch_time>
-    <event_num>F21030315</event_num>
-    <event_type>Vehicle Fire</event_type>
+    <prime_street>STRATHMORE BLVD, TT</prime_street>
+    <cross_streets>COXWELL AVE / WOODINGTON AVE</cross_streets>
+    <dispatch_time>2021-04-04 15:50:28</dispatch_time>
+    <event_num>F21030318</event_num>
+    <event_type>Alarm Single Source</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
+    <beat>323</beat>
+    <units_disp> P323, R224</units_disp>
+  </event>
+  <event>
+    <prime_street>M6R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 15:51:35</dispatch_time>
+    <event_num>F21030319</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> A426, A426</units_disp>
   </event>
 </tfs_active_incidents>
