@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 16:45:02</update_from_db_time>
+  <update_from_db_time>2021-04-04 17:10:02</update_from_db_time>
   <event>
     <prime_street>ST EDMUND'S DR, TT</prime_street>
     <cross_streets>LYMPSTONE AVE / LAWRENCE AVE E</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>131</beat>
-    <units_disp> R122, P132, P121, P125, A322, C31, HR114, P312, S313, C10, LA333, C13, A125, P311, HZ145, R321, R341, CMD10, A133, T114, R235, C30, C10</units_disp>
+    <units_disp> R122, P132, P121, P125, A322, C31, HR114, P312, S313, C10, LA333, C13, A125, P311, HZ145, R321, R341, CMD10, A133, T114, R235, C30, C10, P121, P131, A135</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -19,7 +19,7 @@
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>131</beat>
-    <units_disp> A125, C10, R321, C40, P125</units_disp>
+    <units_disp> A125, C10, R321, C40, P125, C10</units_disp>
   </event>
   <event>
     <prime_street>M9A</prime_street>
@@ -32,33 +32,53 @@
     <units_disp> P431</units_disp>
   </event>
   <event>
-    <prime_street>M4H</prime_street>
+    <prime_street>M6S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-04 16:23:15</dispatch_time>
-    <event_num>F21030323</event_num>
+    <dispatch_time>2021-04-04 16:52:37</dispatch_time>
+    <event_num>F21030327</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P322</units_disp>
+    <beat>425</beat>
+    <units_disp> R425</units_disp>
   </event>
   <event>
-    <prime_street>M5V</prime_street>
+    <prime_street>M1T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-04 16:37:18</dispatch_time>
-    <event_num>F21030325</event_num>
+    <dispatch_time>2021-04-04 16:56:27</dispatch_time>
+    <event_num>F21030329</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
   <event>
-    <prime_street>M1P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 16:40:10</dispatch_time>
-    <event_num>F21030326</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>EDENVALE CRES, ET</prime_street>
+    <cross_streets>ALLANHURST DR / ROYAL YORK RD</cross_streets>
+    <dispatch_time>2021-04-04 16:56:54</dispatch_time>
+    <event_num>F21030330</event_num>
+    <event_type>Alarm Single Source</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
+    <beat>443</beat>
+    <units_disp> P443, R421</units_disp>
+  </event>
+  <event>
+    <prime_street>GLENORCHY RD, NY</prime_street>
+    <cross_streets>SUNCREST DR / </cross_streets>
+    <dispatch_time>2021-04-04 17:00:21</dispatch_time>
+    <event_num>F21030331</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>CHARLES ST, TT</prime_street>
+    <cross_streets>YONGE ST / ST NICHOLAS ST</cross_streets>
+    <dispatch_time>2021-04-04 17:01:31</dispatch_time>
+    <event_num>F21030332</event_num>
+    <event_type>Alarm Single Source</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>312</beat>
+    <units_disp> P312, A312</units_disp>
   </event>
 </tfs_active_incidents>
