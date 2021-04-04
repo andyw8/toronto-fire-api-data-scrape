@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 16:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-04 16:45:02</update_from_db_time>
   <event>
     <prime_street>ST EDMUND'S DR, TT</prime_street>
     <cross_streets>LYMPSTONE AVE / LAWRENCE AVE E</cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> P431</units_disp>
   </event>
   <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 16:17:47</dispatch_time>
-    <event_num>F21030321</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
-  </event>
-  <event>
-    <prime_street>JAYBELL GRV, SC</prime_street>
-    <cross_streets>FRIENDSHIP AVE / KIRKDENE DR</cross_streets>
-    <dispatch_time>2021-04-04 16:19:02</dispatch_time>
-    <event_num>F21030322</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
-  </event>
-  <event>
     <prime_street>M4H</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-04 16:23:15</dispatch_time>
@@ -62,13 +42,23 @@
     <units_disp> P322</units_disp>
   </event>
   <event>
-    <prime_street>M1X</prime_street>
+    <prime_street>M5V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-04 16:24:43</dispatch_time>
-    <event_num>F21030324</event_num>
+    <dispatch_time>2021-04-04 16:37:18</dispatch_time>
+    <event_num>F21030325</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211</units_disp>
+    <beat>332</beat>
+    <units_disp> P332</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 16:40:10</dispatch_time>
+    <event_num>F21030326</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
   </event>
 </tfs_active_incidents>
