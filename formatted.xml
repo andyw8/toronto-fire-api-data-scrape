@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 02:05:03</update_from_db_time>
+  <update_from_db_time>2021-04-04 02:25:02</update_from_db_time>
   <event>
     <prime_street>SHEPPARD AVE, NY</prime_street>
     <cross_streets>ATRIA BLVD / SETTLERS RD</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>115</beat>
     <units_disp> R115, P116, A113, C11, P113</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 01:52:03</dispatch_time>
-    <event_num>F21030159</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
   </event>
   <event>
     <prime_street>M6S</prime_street>
@@ -32,23 +22,13 @@
     <units_disp> P422</units_disp>
   </event>
   <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>M6S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-04 01:54:57</dispatch_time>
-    <event_num>F21030161</event_num>
+    <dispatch_time>2021-04-04 02:14:43</dispatch_time>
+    <event_num>F21030163</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 02:01:56</dispatch_time>
-    <event_num>F21030162</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
+    <beat>422</beat>
+    <units_disp> A421</units_disp>
   </event>
 </tfs_active_incidents>
