@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-03 23:50:02</update_from_db_time>
-  <event>
-    <prime_street>M3A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-03 23:10:59</dispatch_time>
-    <event_num>F21030131</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
+  <update_from_db_time>2021-04-04 00:00:04</update_from_db_time>
   <event>
     <prime_street>M2N</prime_street>
     <cross_streets/>
@@ -40,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> A244</units_disp>
+  </event>
+  <event>
+    <prime_street>REDPATH AVE, TT</prime_street>
+    <cross_streets>BROADWAY AVE / ERSKINE AVE</cross_streets>
+    <dispatch_time>2021-04-03 23:47:42</dispatch_time>
+    <event_num>F21030140</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-03 23:49:08</dispatch_time>
+    <event_num>F21030141</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
