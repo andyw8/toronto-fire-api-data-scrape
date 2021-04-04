@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 15:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-04 15:45:02</update_from_db_time>
   <event>
     <prime_street>ST EDMUND'S DR, TT</prime_street>
     <cross_streets>LYMPSTONE AVE / LAWRENCE AVE E</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> A125, C10, R321, C40, P125</units_disp>
   </event>
   <event>
-    <prime_street>SHEPPARD AVE, SC</prime_street>
-    <cross_streets>ALLANFORD RD / KENNEDY RD</cross_streets>
-    <dispatch_time>2021-04-04 14:54:59</dispatch_time>
-    <event_num>F21030304</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P232, P245, R243, R115, A244, C24</units_disp>
-  </event>
-  <event>
-    <prime_street>WEST LODGE AVE, TT</prime_street>
-    <cross_streets>SEAFORTH AVE / WEST LODGE PARK TRL</cross_streets>
-    <dispatch_time>2021-04-04 14:56:41</dispatch_time>
-    <event_num>F21030305</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> S331, P331, A345, C34, P344, R345, P426, R426</units_disp>
-  </event>
-  <event>
     <prime_street>M6M</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-04 15:19:06</dispatch_time>
@@ -52,8 +32,8 @@
     <units_disp> A133</units_disp>
   </event>
   <event>
-    <prime_street>STANLAND DR, SC</prime_street>
-    <cross_streets>MASON RD / BELLAMY RD S</cross_streets>
+    <prime_street>BELLAMY RD, SC</prime_street>
+    <cross_streets>GRANARD BLVD / ADANAC DR</cross_streets>
     <dispatch_time>2021-04-04 15:21:35</dispatch_time>
     <event_num>F21030313</event_num>
     <event_type>Check Call</event_type>
@@ -62,13 +42,13 @@
     <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>CHESTER LE BLVD, SC</prime_street>
-    <cross_streets>44 CHESTER LE BLVD / DUSAY PL</cross_streets>
-    <dispatch_time>2021-04-04 15:22:24</dispatch_time>
-    <event_num>F21030314</event_num>
-    <event_type>Alarm Single Source</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>BAYVIEW AVE / BLOOR W BAYVIEW N RAMP</cross_streets>
+    <dispatch_time>2021-04-04 15:27:27</dispatch_time>
+    <event_num>F21030315</event_num>
+    <event_type>Vehicle Fire</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113, P113</units_disp>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
 </tfs_active_incidents>
