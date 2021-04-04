@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 14:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-04 15:10:02</update_from_db_time>
   <event>
     <prime_street>ST EDMUND'S DR, TT</prime_street>
     <cross_streets>LYMPSTONE AVE / LAWRENCE AVE E</cross_streets>
@@ -19,46 +19,56 @@
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>131</beat>
-    <units_disp> A125, C10, R321, C40</units_disp>
+    <units_disp> A125, C10, R321, C40, P125</units_disp>
   </event>
   <event>
-    <prime_street>MACEY AVE, SC</prime_street>
-    <cross_streets>LN N DANFORTH E VICTORIA PARK / DENTON AVE</cross_streets>
-    <dispatch_time>2021-04-04 14:33:42</dispatch_time>
-    <event_num>F21030297</event_num>
-    <event_type>Check Call</event_type>
+    <prime_street>D'ARCY ST, TT</prime_street>
+    <cross_streets>LN E BEVERLEY S D ARCY / BEVERLEY ST</cross_streets>
+    <dispatch_time>2021-04-04 14:52:12</dispatch_time>
+    <event_num>F21030303</event_num>
+    <event_type>Alarm Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225, C22</units_disp>
+    <beat>332</beat>
+    <units_disp> P332, P315, A312, C33, P314</units_disp>
   </event>
   <event>
-    <prime_street>M2M</prime_street>
+    <prime_street>SHEPPARD AVE, SC</prime_street>
+    <cross_streets>ALLANFORD RD / KENNEDY RD</cross_streets>
+    <dispatch_time>2021-04-04 14:54:59</dispatch_time>
+    <event_num>F21030304</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P232, P245, R243, R115, A244, C24</units_disp>
+  </event>
+  <event>
+    <prime_street>WEST LODGE AVE, TT</prime_street>
+    <cross_streets>SEAFORTH AVE / WEST LODGE PARK TRL</cross_streets>
+    <dispatch_time>2021-04-04 14:56:41</dispatch_time>
+    <event_num>F21030305</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> S331, P331, A345, C34, P344, R345, P426, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-04 14:38:43</dispatch_time>
-    <event_num>F21030298</event_num>
+    <dispatch_time>2021-04-04 14:59:49</dispatch_time>
+    <event_num>F21030307</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
   </event>
   <event>
-    <prime_street>M1P</prime_street>
+    <prime_street>M9N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-04 14:42:22</dispatch_time>
-    <event_num>F21030300</event_num>
+    <dispatch_time>2021-04-04 15:00:28</dispatch_time>
+    <event_num>F21030308</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>245</beat>
-    <units_disp> P245</units_disp>
-  </event>
-  <event>
-    <prime_street>M9A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 14:42:25</dispatch_time>
-    <event_num>F21030301</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
 </tfs_active_incidents>
