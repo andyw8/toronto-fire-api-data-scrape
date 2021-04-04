@@ -1,64 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 08:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-04 08:55:02</update_from_db_time>
   <event>
-    <prime_street>BAYVIEW AVE, NY</prime_street>
-    <cross_streets>BAYVIEW S LAWRENCE RAMP / ARJAY CRES</cross_streets>
-    <dispatch_time>2021-04-04 07:52:57</dispatch_time>
-    <event_num>F21030200</event_num>
-    <event_type>Alarm Institution</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>MARKET ST / THE ESPLANADE</cross_streets>
+    <dispatch_time>2021-04-04 08:42:03</dispatch_time>
+    <event_num>F21030211</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> R122, P131, A125, C13, P121, P132</units_disp>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
+    <prime_street>M4K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-04 08:08:24</dispatch_time>
-    <event_num>F21030205</event_num>
+    <dispatch_time>2021-04-04 08:48:16</dispatch_time>
+    <event_num>F21030212</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 08:10:53</dispatch_time>
-    <event_num>F21030206</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
-  </event>
-  <event>
-    <prime_street>M9N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 08:14:32</dispatch_time>
-    <event_num>F21030207</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 08:16:38</dispatch_time>
-    <event_num>F21030209</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>UNIVERSITY AVE, TT</prime_street>
-    <cross_streets>GERRARD ST W / ORDE ST</cross_streets>
-    <dispatch_time>2021-04-04 08:17:16</dispatch_time>
-    <event_num>F21030210</event_num>
-    <event_type>Alarms Highrise Institution Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, P332, A312, C33, HR332, P312, P315</units_disp>
+    <beat>323</beat>
+    <units_disp> HZ326</units_disp>
   </event>
 </tfs_active_incidents>
