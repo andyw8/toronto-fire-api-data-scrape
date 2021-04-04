@@ -1,24 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 05:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-04 05:50:02</update_from_db_time>
   <event>
-    <prime_street>DIXON RD, ET</prime_street>
-    <cross_streets>KELFIELD ST / DIXON W 27 N RAMP</cross_streets>
-    <dispatch_time>2021-04-04 04:14:04</dispatch_time>
-    <event_num>F21030176</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 05:28:31</dispatch_time>
+    <event_num>F21030185</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A441</units_disp>
-  </event>
-  <event>
-    <prime_street>BLOOR ST, TT</prime_street>
-    <cross_streets>ST THOMAS ST / QUEEN'S PARK</cross_streets>
-    <dispatch_time>2021-04-04 05:11:09</dispatch_time>
-    <event_num>F21030184</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
+    <beat>232</beat>
+    <units_disp> P232, P232</units_disp>
   </event>
 </tfs_active_incidents>
