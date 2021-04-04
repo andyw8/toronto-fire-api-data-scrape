@@ -1,36 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 01:30:02</update_from_db_time>
-  <event>
-    <prime_street>DIVADALE DR, EY</prime_street>
-    <cross_streets>WINSLOE AVE / HANNA RD</cross_streets>
-    <dispatch_time>2021-04-04 00:58:48</dispatch_time>
-    <event_num>F21030147</event_num>
-    <event_type>Fire - Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R321, A125, P125, P131, R134, C13</units_disp>
-  </event>
-  <event>
-    <prime_street>WELLINGTON ST, TT</prime_street>
-    <cross_streets>STAFFORD ST / STRACHAN AVE</cross_streets>
-    <dispatch_time>2021-04-04 01:09:38</dispatch_time>
-    <event_num>F21030149</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331, A331</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>ALBION RD / ARMEL CRT</cross_streets>
-    <dispatch_time>2021-04-04 01:19:12</dispatch_time>
-    <event_num>F21030150</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> A415</units_disp>
-  </event>
+  <update_from_db_time>2021-04-04 01:45:02</update_from_db_time>
   <event>
     <prime_street>M1T</prime_street>
     <cross_streets/>
@@ -50,5 +20,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>245</beat>
     <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M4B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 01:29:41</dispatch_time>
+    <event_num>F21030153</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>224</beat>
+    <units_disp> R224</units_disp>
+  </event>
+  <event>
+    <prime_street>LAWLOR AVE, TT</prime_street>
+    <cross_streets>KINGSTON RD / JIM SAMUEL LANE</cross_streets>
+    <dispatch_time>2021-04-04 01:31:17</dispatch_time>
+    <event_num>F21030154</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>226</beat>
+    <units_disp> P226</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, NY</prime_street>
+    <cross_streets>ATRIA BLVD / SETTLERS RD</cross_streets>
+    <dispatch_time>2021-04-04 01:33:42</dispatch_time>
+    <event_num>F21030155</event_num>
+    <event_type>Alarm Highrise Commercial</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>115</beat>
+    <units_disp> R115, P116, A113, C11, P113</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 01:40:03</dispatch_time>
+    <event_num>F21030156</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
