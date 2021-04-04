@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 14:30:02</update_from_db_time>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 13:48:01</dispatch_time>
-    <event_num>F21030282</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426</units_disp>
-  </event>
+  <update_from_db_time>2021-04-04 14:50:02</update_from_db_time>
   <event>
     <prime_street>ST EDMUND'S DR, TT</prime_street>
     <cross_streets>LYMPSTONE AVE / LAWRENCE AVE E</cross_streets>
@@ -29,66 +19,46 @@
     <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>131</beat>
-    <units_disp> A125, C10, R321</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>REMEMBRANCE DR / ONTARIO PLACE BLVD</cross_streets>
-    <dispatch_time>2021-04-04 14:12:55</dispatch_time>
-    <event_num>F21030291</event_num>
-    <event_type>Check Call - Non Emergency</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344, LA421</units_disp>
-  </event>
-  <event>
-    <prime_street>M5N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 14:15:15</dispatch_time>
-    <event_num>F21030292</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>135</beat>
-    <units_disp> P342</units_disp>
+    <units_disp> A125, C10, R321, C40</units_disp>
   </event>
   <event>
     <prime_street>MACEY AVE, SC</prime_street>
     <cross_streets>LN N DANFORTH E VICTORIA PARK / DENTON AVE</cross_streets>
-    <dispatch_time>2021-04-04 14:16:09</dispatch_time>
-    <event_num>F21030293</event_num>
-    <event_type>Alarm Single Source</event_type>
+    <dispatch_time>2021-04-04 14:33:42</dispatch_time>
+    <event_num>F21030297</event_num>
+    <event_type>Check Call</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
-    <units_disp> R225, P226</units_disp>
+    <units_disp> R225, C22</units_disp>
   </event>
   <event>
-    <prime_street>ROSELAWN AVE, YK</prime_street>
-    <cross_streets>MARLEE AVE / HEPC</cross_streets>
-    <dispatch_time>2021-04-04 14:17:47</dispatch_time>
-    <event_num>F21030294</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R345</units_disp>
-  </event>
-  <event>
-    <prime_street>M4S</prime_street>
+    <prime_street>M2M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-04 14:19:16</dispatch_time>
-    <event_num>F21030295</event_num>
+    <dispatch_time>2021-04-04 14:38:43</dispatch_time>
+    <event_num>F21030298</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-04 14:23:51</dispatch_time>
-    <event_num>F21030296</event_num>
+    <dispatch_time>2021-04-04 14:42:22</dispatch_time>
+    <event_num>F21030300</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M9A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 14:42:25</dispatch_time>
+    <event_num>F21030301</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
   </event>
 </tfs_active_incidents>
