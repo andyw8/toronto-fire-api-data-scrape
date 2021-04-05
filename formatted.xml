@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-05 14:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-05 14:50:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> P324, A324, C32, HZ326, P323</units_disp>
   </event>
   <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 14:04:10</dispatch_time>
-    <event_num>F21030625</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> HR114, P114</units_disp>
-  </event>
-  <event>
-    <prime_street>MCNICOLL AVE, SC</prime_street>
-    <cross_streets>MAYBROOK DR / C P R</cross_streets>
-    <dispatch_time>2021-04-05 14:14:47</dispatch_time>
-    <event_num>F21030626</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> R115, R241</units_disp>
-  </event>
-  <event>
     <prime_street>M8W</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-05 14:19:12</dispatch_time>
@@ -52,23 +32,43 @@
     <units_disp> R434</units_disp>
   </event>
   <event>
-    <prime_street>M5S</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-05 14:19:50</dispatch_time>
-    <event_num>F21030629</event_num>
+    <dispatch_time>2021-04-05 14:31:02</dispatch_time>
+    <event_num>F21030632</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>M5M</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-05 14:26:16</dispatch_time>
-    <event_num>F21030630</event_num>
+    <dispatch_time>2021-04-05 14:31:45</dispatch_time>
+    <event_num>F21030633</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P121</units_disp>
+    <beat>234</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>PHARMACY AVE, SC</prime_street>
+    <cross_streets>SHEPPARD AVE E / 2020 PHARMACY AVE</cross_streets>
+    <dispatch_time>2021-04-05 14:37:20</dispatch_time>
+    <event_num>F21030634</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> A244, P245, R241, C11, P116</units_disp>
+  </event>
+  <event>
+    <prime_street>MILVERTON BLVD, TT</prime_street>
+    <cross_streets>WOODINGTON AVE / GLEBEMOUNT AVE</cross_streets>
+    <dispatch_time>2021-04-05 14:43:45</dispatch_time>
+    <event_num>F21030635</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> A322, C32, P323, P227, R224, R235</units_disp>
   </event>
 </tfs_active_incidents>
