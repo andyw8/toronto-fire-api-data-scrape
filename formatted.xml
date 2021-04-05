@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-05 19:05:02</update_from_db_time>
+  <update_from_db_time>2021-04-05 19:30:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -10,26 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
     <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244</units_disp>
-  </event>
-  <event>
-    <prime_street>GORDONRIDGE PL, SC</prime_street>
-    <cross_streets>DANFORTH RD / </cross_streets>
-    <dispatch_time>2021-04-05 18:14:01</dispatch_time>
-    <event_num>F21030720</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P232, R225, A231, C22, R235</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, TT</prime_street>
-    <cross_streets>SHERIDAN AVE / BROCK AVE</cross_streets>
-    <dispatch_time>2021-04-05 18:29:09</dispatch_time>
-    <event_num>F21030725</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426, HZ145</units_disp>
   </event>
   <event>
     <prime_street>ST CLAIR AVE, SC</prime_street>
@@ -42,23 +22,53 @@
     <units_disp> P222, C32, HZ326, P324, P234, HR332</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 18:52:11</dispatch_time>
-    <event_num>F21030735</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>GOODWOOD PARK CRT, EY</prime_street>
+    <cross_streets>HEPC / DENTONIA PARK TRL</cross_streets>
+    <dispatch_time>2021-04-05 19:04:48</dispatch_time>
+    <event_num>F21030737</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
+    <beat>226</beat>
+    <units_disp> R224, P227, A226, C22, R235</units_disp>
   </event>
   <event>
-    <prime_street>M1P</prime_street>
+    <prime_street>UNIVERSITY AVE, TT</prime_street>
+    <cross_streets>LN S WELLINGTON W UNIVERSITY / WELLINGTON ST W</cross_streets>
+    <dispatch_time>2021-04-05 19:16:53</dispatch_time>
+    <event_num>F21030741</event_num>
+    <event_type>Alarm Highrise Residential Downtown</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P333, P334, T333, C33</units_disp>
+  </event>
+  <event>
+    <prime_street>M9B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-05 18:56:13</dispatch_time>
-    <event_num>F21030736</event_num>
+    <dispatch_time>2021-04-05 19:20:54</dispatch_time>
+    <event_num>F21030742</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>232</beat>
-    <units_disp> P232</units_disp>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 19:23:26</dispatch_time>
+    <event_num>F21030743</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN'S PLATE DR, ET</prime_street>
+    <cross_streets>TRIPLE CROWN AVE / REXDALE BLVD</cross_streets>
+    <dispatch_time>2021-04-05 19:25:21</dispatch_time>
+    <event_num>F21030744</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412, R441, A415, C41, R413</units_disp>
   </event>
 </tfs_active_incidents>
