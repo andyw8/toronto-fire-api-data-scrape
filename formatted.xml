@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-05 18:10:02</update_from_db_time>
+  <update_from_db_time>2021-04-05 18:30:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
     <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244</units_disp>
-  </event>
-  <event>
-    <prime_street>DAWES RD, EY</prime_street>
-    <cross_streets>HEPC / CRESCENT TOWN RD</cross_streets>
-    <dispatch_time>2021-04-05 17:33:25</dispatch_time>
-    <event_num>F21030702</event_num>
-    <event_type>Rescue - Elevator</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> A226, S232</units_disp>
   </event>
   <event>
     <prime_street>EGLINTON AVE, SC</prime_street>
@@ -32,73 +22,53 @@
     <units_disp> P222, R235</units_disp>
   </event>
   <event>
-    <prime_street>DUFFERIN ST, NY</prime_street>
-    <cross_streets>ANTHONY RD / WILSON AVE</cross_streets>
-    <dispatch_time>2021-04-05 17:49:30</dispatch_time>
-    <event_num>F21030711</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145, P143</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 17:57:41</dispatch_time>
-    <event_num>F21030712</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 17:58:40</dispatch_time>
-    <event_num>F21030713</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 17:58:03</dispatch_time>
-    <event_num>F21030714</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
-    <cross_streets>EGLINTON AVE W / KEELE ST</cross_streets>
-    <dispatch_time>2021-04-05 17:59:47</dispatch_time>
-    <event_num>F21030715</event_num>
-    <event_type>Vehicle Fire</event_type>
+    <cross_streets>EGLINTON AVE E / CENTRE ST</cross_streets>
+    <dispatch_time>2021-04-05 18:13:45</dispatch_time>
+    <event_num>F21030719</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
   <event>
-    <prime_street>ORTON PARK RD, SC</prime_street>
-    <cross_streets>MERKLEY SQ / BOTANY HILL RD</cross_streets>
-    <dispatch_time>2021-04-05 18:00:16</dispatch_time>
-    <event_num>F21030716</event_num>
-    <event_type>Fire - Residential</event_type>
+    <prime_street>GORDONRIDGE PL, SC</prime_street>
+    <cross_streets>DANFORTH RD / </cross_streets>
+    <dispatch_time>2021-04-05 18:14:01</dispatch_time>
+    <event_num>F21030720</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>231</beat>
-    <units_disp> A231, C23, P226, P234, R214, R243, R214, P232</units_disp>
+    <beat>221</beat>
+    <units_disp> P232, R225, A231, C22, R235</units_disp>
   </event>
   <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-05 18:06:54</dispatch_time>
-    <event_num>F21030717</event_num>
+    <dispatch_time>2021-04-05 18:19:05</dispatch_time>
+    <event_num>F21030721</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>234</beat>
+    <units_disp> P226, A215, P234</units_disp>
+  </event>
+  <event>
+    <prime_street>M5A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 18:20:26</dispatch_time>
+    <event_num>F21030722</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M4V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 18:25:50</dispatch_time>
+    <event_num>F21030723</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>311</beat>
+    <units_disp> P311</units_disp>
   </event>
 </tfs_active_incidents>
