@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 21:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-04 22:25:02</update_from_db_time>
   <event>
     <prime_street>ST EDMUND'S DR, TT</prime_street>
     <cross_streets>LYMPSTONE AVE / LAWRENCE AVE E</cross_streets>
@@ -22,26 +22,6 @@
     <units_disp> A125, C10, R321, C40, P125, C10, C8, REHAB01, P131, P114, S143</units_disp>
   </event>
   <event>
-    <prime_street>DUPONT ST, TT</prime_street>
-    <cross_streets>CRAFTSMAN LANE / GLADSTONE AVE</cross_streets>
-    <dispatch_time>2021-04-04 21:05:22</dispatch_time>
-    <event_num>F21030421</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>345</beat>
-    <units_disp> A345, R345</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BATHURST ST / LAKE SHORE BLVD W</cross_streets>
-    <dispatch_time>2021-04-04 21:20:19</dispatch_time>
-    <event_num>F21030428</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
     <prime_street>M1E</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-04 21:25:26</dispatch_time>
@@ -52,23 +32,43 @@
     <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>COWLEY AVE, ET</prime_street>
-    <cross_streets>NORTHGLEN AVE / WARWOOD RD</cross_streets>
-    <dispatch_time>2021-04-04 21:36:07</dispatch_time>
-    <event_num>F21030433</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>M4Y</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-04 21:42:30</dispatch_time>
-    <event_num>F21030434</event_num>
+    <dispatch_time>2021-04-04 22:07:54</dispatch_time>
+    <event_num>F21030443</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R421</units_disp>
+    <beat>433</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 22:11:47</dispatch_time>
+    <event_num>F21030444</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M9W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 22:11:57</dispatch_time>
+    <event_num>F21030445</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>412</beat>
+    <units_disp> R412</units_disp>
+  </event>
+  <event>
+    <prime_street>LAKE SHORE BLVD, ET</prime_street>
+    <cross_streets>HUMBER BAY PARK WEST TRL / LOUISA ST</cross_streets>
+    <dispatch_time>2021-04-04 22:13:18</dispatch_time>
+    <event_num>F21030446</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>433</beat>
+    <units_disp> A433, C43, P431, R425, R435</units_disp>
   </event>
 </tfs_active_incidents>
