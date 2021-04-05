@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-05 13:00:03</update_from_db_time>
-  <event>
-    <prime_street>NORVAL ST, YK</prime_street>
-    <cross_streets>HENRIETTA ST / GAFFNEY PARK TRL</cross_streets>
-    <dispatch_time>2021-04-05 12:28:06</dispatch_time>
-    <event_num>F21030602</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P433, C42, P422, HZ145</units_disp>
-  </event>
+  <update_from_db_time>2021-04-05 13:25:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -22,46 +12,6 @@
     <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>STEELES AVE E / LAURELEAF RD</cross_streets>
-    <dispatch_time>2021-04-05 12:41:28</dispatch_time>
-    <event_num>F21030607</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
-  </event>
-  <event>
-    <prime_street>COVINGTON RD, NY</prime_street>
-    <cross_streets>BATHURST ST / SARANAC BLVD</cross_streets>
-    <dispatch_time>2021-04-05 12:41:55</dispatch_time>
-    <event_num>F21030608</event_num>
-    <event_type>Rescue - Personal Entrapment</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P143, S313, C13, P132</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 12:46:49</dispatch_time>
-    <event_num>F21030609</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>M4B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 12:54:34</dispatch_time>
-    <event_num>F21030610</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224</units_disp>
-  </event>
-  <event>
     <prime_street>GRACE ST, TT</prime_street>
     <cross_streets>LN N PLYMOUTH E GRACE / MANSFIELD AVE</cross_streets>
     <dispatch_time>2021-04-05 12:55:22</dispatch_time>
@@ -70,5 +20,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>331</beat>
     <units_disp> P331, A331</units_disp>
+  </event>
+  <event>
+    <prime_street>M9N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 12:59:33</dispatch_time>
+    <event_num>F21030612</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 13:08:05</dispatch_time>
+    <event_num>F21030615</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M6H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 13:14:20</dispatch_time>
+    <event_num>F21030616</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 13:17:08</dispatch_time>
+    <event_num>F21030617</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 13:18:58</dispatch_time>
+    <event_num>F21030618</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P142</units_disp>
   </event>
 </tfs_active_incidents>
