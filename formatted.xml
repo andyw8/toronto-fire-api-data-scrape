@@ -1,34 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-05 07:45:02</update_from_db_time>
+  <update_from_db_time>2021-04-05 08:10:02</update_from_db_time>
   <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 07:22:30</dispatch_time>
-    <event_num>F21030512</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>BAYVIEW AVE / DAWLISH AVE</cross_streets>
+    <dispatch_time>2021-04-05 07:49:46</dispatch_time>
+    <event_num>F21030518</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
+    <beat>131</beat>
+    <units_disp> P131</units_disp>
   </event>
   <event>
-    <prime_street>KEELE ST, NY</prime_street>
-    <cross_streets>THE POND RD / YORK BLVD</cross_streets>
-    <dispatch_time>2021-04-05 07:36:11</dispatch_time>
-    <event_num>F21030513</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> A142, P141</units_disp>
-  </event>
-  <event>
-    <prime_street>M4M</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-05 07:40:40</dispatch_time>
-    <event_num>F21030514</event_num>
+    <dispatch_time>2021-04-05 08:00:54</dispatch_time>
+    <event_num>F21030520</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
 </tfs_active_incidents>
