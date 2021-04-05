@@ -1,43 +1,14 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-05 08:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-05 08:50:02</update_from_db_time>
   <event>
-    <prime_street>M1S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 08:08:36</dispatch_time>
-    <event_num>F21030522</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M1X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 08:16:42</dispatch_time>
-    <event_num>F21030524</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
+    <prime_street>WINGARDEN CRT, SC</prime_street>
+    <cross_streets>90 WINGARDEN CRT / CROW TRL</cross_streets>
+    <dispatch_time>2021-04-05 08:31:31</dispatch_time>
+    <event_num>F21030527</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>2</alarm_lev>
     <beat>211</beat>
-    <units_disp> P211</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 08:24:19</dispatch_time>
-    <event_num>F21030525</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 08:27:02</dispatch_time>
-    <event_num>F21030526</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
+    <units_disp> R213, P212, A213, C21, P242, R214, P211, A231, LA231, P234, P244, R241, S232, C24, HZ326, HR114, C20, CMD10</units_disp>
   </event>
 </tfs_active_incidents>
