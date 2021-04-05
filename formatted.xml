@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-04 22:55:02</update_from_db_time>
+  <update_from_db_time>2021-04-04 23:10:02</update_from_db_time>
   <event>
     <prime_street>ST EDMUND'S DR, TT</prime_street>
     <cross_streets>LYMPSTONE AVE / LAWRENCE AVE E</cross_streets>
@@ -22,36 +22,6 @@
     <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>LAKE SHORE BLVD, ET</prime_street>
-    <cross_streets>HUMBER BAY PARK WEST TRL / LOUISA ST</cross_streets>
-    <dispatch_time>2021-04-04 22:13:18</dispatch_time>
-    <event_num>F21030446</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433, P431, R425, R435, C43</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-04 22:38:18</dispatch_time>
-    <event_num>F21030450</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-04-04 22:42:50</dispatch_time>
-    <event_num>F21030451</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P227</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>HUMBER BAY PARK RD W / LAKE SHORE BLVD W</cross_streets>
     <dispatch_time>2021-04-04 22:46:49</dispatch_time>
@@ -62,16 +32,6 @@
     <units_disp> P433</units_disp>
   </event>
   <event>
-    <prime_street>WELLINGTON ST, TT</prime_street>
-    <cross_streets>VICTORIA MEMORIAL SQUARE PARK TRL / LN E BATHURST S WELLINGTON</cross_streets>
-    <dispatch_time>2021-04-04 22:48:58</dispatch_time>
-    <event_num>F21030453</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331, P332, C33, HR332, P334, T333</units_disp>
-  </event>
-  <event>
     <prime_street>M4P</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-04 22:50:01</dispatch_time>
@@ -80,5 +40,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
     <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 22:55:04</dispatch_time>
+    <event_num>F21030455</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-04 23:00:52</dispatch_time>
+    <event_num>F21030456</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
+  </event>
+  <event>
+    <prime_street>SHUTER ST, TT</prime_street>
+    <cross_streets>SEATON ST / NIGHTHAWK LANE</cross_streets>
+    <dispatch_time>2021-04-04 23:02:06</dispatch_time>
+    <event_num>F21030457</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325, C33, P314, P333, R325</units_disp>
   </event>
 </tfs_active_incidents>
