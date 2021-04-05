@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-05 19:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-05 19:50:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
-    <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244</units_disp>
+    <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244, R241</units_disp>
   </event>
   <event>
     <prime_street>ST CLAIR AVE, SC</prime_street>
@@ -22,46 +22,6 @@
     <units_disp> P222, C32, HZ326, P324, P234, HR332</units_disp>
   </event>
   <event>
-    <prime_street>GOODWOOD PARK CRT, EY</prime_street>
-    <cross_streets>HEPC / DENTONIA PARK TRL</cross_streets>
-    <dispatch_time>2021-04-05 19:04:48</dispatch_time>
-    <event_num>F21030737</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> R224, P227, A226, C22, R235</units_disp>
-  </event>
-  <event>
-    <prime_street>UNIVERSITY AVE, TT</prime_street>
-    <cross_streets>LN S WELLINGTON W UNIVERSITY / WELLINGTON ST W</cross_streets>
-    <dispatch_time>2021-04-05 19:16:53</dispatch_time>
-    <event_num>F21030741</event_num>
-    <event_type>Alarm Highrise Residential Downtown</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P333, P334, T333, C33</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 19:20:54</dispatch_time>
-    <event_num>F21030742</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-05 19:23:26</dispatch_time>
-    <event_num>F21030743</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> P331</units_disp>
-  </event>
-  <event>
     <prime_street>QUEEN'S PLATE DR, ET</prime_street>
     <cross_streets>TRIPLE CROWN AVE / REXDALE BLVD</cross_streets>
     <dispatch_time>2021-04-05 19:25:21</dispatch_time>
@@ -70,5 +30,105 @@
     <alarm_lev>0</alarm_lev>
     <beat>412</beat>
     <units_disp> R412, R441, A415, C41, R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M6A</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 19:28:33</dispatch_time>
+    <event_num>F21030745</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P132</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-04-05 19:29:59</dispatch_time>
+    <event_num>F21030746</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R224</units_disp>
+  </event>
+  <event>
+    <prime_street>MCCORMACK ST, TT</prime_street>
+    <cross_streets>LN W WESTON S NORTHLAND / MAYBANK AVE</cross_streets>
+    <dispatch_time>2021-04-05 19:29:27</dispatch_time>
+    <event_num>F21030747</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
+    <alarm_lev>1</alarm_lev>
+    <beat>423</beat>
+    <units_disp> A421, C42, P422, R421, R423, P342, LA421, S445, A345, R345, C40</units_disp>
+  </event>
+  <event>
+    <prime_street>M5E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 19:40:31</dispatch_time>
+    <event_num>F21030748</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>M5S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 19:41:21</dispatch_time>
+    <event_num>F21030749</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street>M8Y</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 19:40:42</dispatch_time>
+    <event_num>F21030750</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>431</beat>
+    <units_disp> P431</units_disp>
+  </event>
+  <event>
+    <prime_street>SHEPPARD AVE, SC</prime_street>
+    <cross_streets>MCCOWAN RD / SHORTING RD</cross_streets>
+    <dispatch_time>2021-04-05 19:41:51</dispatch_time>
+    <event_num>F21030751</event_num>
+    <event_type>Alarm Single Source</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>243</beat>
+    <units_disp> R243, R213</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 19:42:53</dispatch_time>
+    <event_num>F21030752</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>213</beat>
+    <units_disp> A213</units_disp>
+  </event>
+  <event>
+    <prime_street>GROSBEAK CRES, SC</prime_street>
+    <cross_streets>OASIS BLVD / SEASONS PARK TRL</cross_streets>
+    <dispatch_time>2021-04-05 19:42:41</dispatch_time>
+    <event_num>F21030753</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>211</beat>
+    <units_disp> P211</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DON VALLEY PKWY N / PRINCE EDWARD VIADUCT</cross_streets>
+    <dispatch_time>2021-04-05 19:44:59</dispatch_time>
+    <event_num>F21030754</event_num>
+    <event_type>Fire - Encampment</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> A324, P313, P323, C32</units_disp>
   </event>
 </tfs_active_incidents>
