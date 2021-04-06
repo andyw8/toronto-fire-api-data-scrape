@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 18:30:02</update_from_db_time>
-  <event>
-    <prime_street>MONCRIEFF DR, ET</prime_street>
-    <cross_streets>GENTHORN AVE / CROWLAND DR</cross_streets>
-    <dispatch_time>2021-04-06 17:07:54</dispatch_time>
-    <event_num>F21031105</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>415</beat>
-    <units_disp> P145, P415, C41, HZ326</units_disp>
-  </event>
+  <update_from_db_time>2021-04-06 18:50:02</update_from_db_time>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>EDMUND AVE / CLOUSTON AVE</cross_streets>
@@ -20,26 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
     <units_disp> P442, R421</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 18:14:10</dispatch_time>
-    <event_num>F21031126</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> HR332</units_disp>
-  </event>
-  <event>
-    <prime_street>BERESFORD AVE, YK</prime_street>
-    <cross_streets>ST JOHN'S RD / DUNDAS ST W</cross_streets>
-    <dispatch_time>2021-04-06 18:15:22</dispatch_time>
-    <event_num>F21031127</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
   </event>
   <event>
     <prime_street>KEELE ST, TT</prime_street>
@@ -60,5 +30,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>242</beat>
     <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 18:33:51</dispatch_time>
+    <event_num>F21031131</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>VILLAGE GREEN SQ, SC</prime_street>
+    <cross_streets>401 C W KENNEDY RD N RAMP / </cross_streets>
+    <dispatch_time>2021-04-06 18:38:58</dispatch_time>
+    <event_num>F21031132</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
   </event>
 </tfs_active_incidents>
