@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 01:25:02</update_from_db_time>
+  <update_from_db_time>2021-04-06 01:50:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
-    <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244, R241, R243, P223</units_disp>
+    <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244, R241, R243, P223, P245</units_disp>
   </event>
   <event>
     <prime_street>EASTERN AVE, TT</prime_street>
@@ -22,33 +22,33 @@
     <units_disp> R321, C33, P333, S313</units_disp>
   </event>
   <event>
-    <prime_street>M6K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 00:48:14</dispatch_time>
-    <event_num>F21030840</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
+    <cross_streets>R. V. BURGESS PARK TRL / WEST DON RIVER TRL</cross_streets>
+    <dispatch_time>2021-04-06 01:34:48</dispatch_time>
+    <event_num>F21030846</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>322</beat>
+    <units_disp> A322, C32, R321, P125, R224</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>DIXON RD / MARTIN GROVE RD</cross_streets>
-    <dispatch_time>2021-04-06 01:00:12</dispatch_time>
-    <event_num>F21030841</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
+    <prime_street>BAY ST, TT</prime_street>
+    <cross_streets>CRITCHLEY LANE / CUMBERLAND ST</cross_streets>
+    <dispatch_time>2021-04-06 01:41:56</dispatch_time>
+    <event_num>F21030847</event_num>
+    <event_type>Rescue - Subway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> R441</units_disp>
+    <beat>312</beat>
+    <units_disp> P312, P313, R325, S313, HR332, A312, C31</units_disp>
   </event>
   <event>
-    <prime_street>VAN HORNE AVE, NY</prime_street>
-    <cross_streets>DON MILLS RD E / AXSMITH CRES</cross_streets>
-    <dispatch_time>2021-04-06 01:06:16</dispatch_time>
-    <event_num>F21030844</event_num>
+    <prime_street>ONTARIO ST, TT</prime_street>
+    <cross_streets>ST JAMES AVE / </cross_streets>
+    <dispatch_time>2021-04-06 01:43:55</dispatch_time>
+    <event_num>F21030848</event_num>
     <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> R115, P113, A113, C11, P111, P116</units_disp>
+    <beat>313</beat>
+    <units_disp> S331, P314, A325, C33, P311, P324</units_disp>
   </event>
 </tfs_active_incidents>
