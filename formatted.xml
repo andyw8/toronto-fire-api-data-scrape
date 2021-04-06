@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 02:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-06 03:10:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -22,16 +22,6 @@
     <units_disp> P312, R325, HR332, P313, S313, A312, C31</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 02:35:05</dispatch_time>
-    <event_num>F21030852</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
     <prime_street>DUNDAS ST, TT</prime_street>
     <cross_streets>CARLAW AVE / BOSTON AVE</cross_streets>
     <dispatch_time>2021-04-06 02:40:26</dispatch_time>
@@ -42,13 +32,23 @@
     <units_disp> P324, A324</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>BATHURST ST, NY</prime_street>
+    <cross_streets>MCALLISTER RD / EARL BALES PARK TRL</cross_streets>
+    <dispatch_time>2021-04-06 02:59:48</dispatch_time>
+    <event_num>F21030856</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>143</beat>
+    <units_disp> P143</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-06 02:46:36</dispatch_time>
-    <event_num>F21030854</event_num>
+    <dispatch_time>2021-04-06 03:06:03</dispatch_time>
+    <event_num>F21030857</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133</units_disp>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
 </tfs_active_incidents>
