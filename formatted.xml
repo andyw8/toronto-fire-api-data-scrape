@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 09:15:02</update_from_db_time>
+  <update_from_db_time>2021-04-06 09:30:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -9,17 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
-    <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244, R241, R243, P223, P245, P233, A213, R213, P211</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-04-06 08:33:33</dispatch_time>
-    <event_num>F21030901</event_num>
-    <event_type>Vehicle Accident - Trapped - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> C13, P113, P123, R122, S143</units_disp>
+    <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244, R241, R243, P223, P245, P233, A213, R213, P211, FI15, FI18</units_disp>
   </event>
   <event>
     <prime_street>M6B</prime_street>
@@ -32,36 +22,6 @@
     <units_disp> R133</units_disp>
   </event>
   <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 08:52:49</dispatch_time>
-    <event_num>F21030908</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>315</beat>
-    <units_disp> P315</units_disp>
-  </event>
-  <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 08:56:31</dispatch_time>
-    <event_num>F21030909</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
-    <prime_street>EUGENE ST, NY</prime_street>
-    <cross_streets>JOYCE PKWY / MARCIA AVE</cross_streets>
-    <dispatch_time>2021-04-06 08:57:11</dispatch_time>
-    <event_num>F21030910</event_num>
-    <event_type>Police Assist - Request</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> C42, A133</units_disp>
-  </event>
-  <event>
     <prime_street>M1T</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-06 08:57:43</dispatch_time>
@@ -70,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M5T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 09:01:01</dispatch_time>
-    <event_num>F21030913</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> HR332</units_disp>
   </event>
   <event>
     <prime_street>M9V</prime_street>
@@ -100,5 +50,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>343</beat>
     <units_disp> P311</units_disp>
+  </event>
+  <event>
+    <prime_street>ELDORA AVE, NY</prime_street>
+    <cross_streets>FINCH AVE W / HENDON AVE</cross_streets>
+    <dispatch_time>2021-04-06 09:15:26</dispatch_time>
+    <event_num>F21030916</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, P113</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 09:22:48</dispatch_time>
+    <event_num>F21030917</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>GEORGE ST / STONECUTTERS LANE</cross_streets>
+    <dispatch_time>2021-04-06 09:24:01</dispatch_time>
+    <event_num>F21030918</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> P333</units_disp>
+  </event>
+  <event>
+    <prime_street>SUMACH ST, TT</prime_street>
+    <cross_streets>SHUTER ST / ST DAVID ST</cross_streets>
+    <dispatch_time>2021-04-06 09:24:14</dispatch_time>
+    <event_num>F21030919</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> A325, C32, P313, P314, P324, R325</units_disp>
   </event>
 </tfs_active_incidents>
