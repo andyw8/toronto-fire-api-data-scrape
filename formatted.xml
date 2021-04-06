@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-05 20:40:02</update_from_db_time>
+  <update_from_db_time>2021-04-05 21:05:03</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -32,13 +32,43 @@
     <units_disp> P324</units_disp>
   </event>
   <event>
-    <prime_street>M4S</prime_street>
+    <prime_street>M1T</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-05 20:16:35</dispatch_time>
-    <event_num>F21030763</event_num>
+    <dispatch_time>2021-04-05 20:42:25</dispatch_time>
+    <event_num>F21030768</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P311</units_disp>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KEELE ST / ANNETTE ST</cross_streets>
+    <dispatch_time>2021-04-05 20:47:21</dispatch_time>
+    <event_num>F21030771</event_num>
+    <event_type>Public Hazard</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>TILLINGHAST LANE, SC</prime_street>
+    <cross_streets>SCARBOROUGH GOLF CLUB RD / </cross_streets>
+    <dispatch_time>2021-04-05 20:53:15</dispatch_time>
+    <event_num>F21030773</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
+  </event>
+  <event>
+    <prime_street>FINCH AVE, NY</prime_street>
+    <cross_streets>WESTON RD / LINDYLOU PARK TRL</cross_streets>
+    <dispatch_time>2021-04-05 20:54:03</dispatch_time>
+    <event_num>F21030774</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> S143, R411</units_disp>
   </event>
 </tfs_active_incidents>
