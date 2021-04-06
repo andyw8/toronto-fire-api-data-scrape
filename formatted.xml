@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-05 21:05:03</update_from_db_time>
+  <update_from_db_time>2021-04-05 21:50:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -9,66 +9,76 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
-    <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244, R241</units_disp>
+    <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244, R241, R243</units_disp>
   </event>
   <event>
-    <prime_street>MCCORMACK ST, TT</prime_street>
-    <cross_streets>LN W WESTON S NORTHLAND / MAYBANK AVE</cross_streets>
-    <dispatch_time>2021-04-05 19:29:27</dispatch_time>
-    <event_num>F21030747</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>1</alarm_lev>
-    <beat>423</beat>
-    <units_disp> A421, C42, P422, R421, R423, P342, LA421, S445, A345, R345, C40, C40</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>TOMMY THOMPSON PK / SCARBOROUGH SHORELINE</cross_streets>
-    <dispatch_time>2021-04-05 20:12:30</dispatch_time>
-    <event_num>F21030762</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>326</beat>
-    <units_disp> P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-05 20:42:25</dispatch_time>
-    <event_num>F21030768</event_num>
+    <dispatch_time>2021-04-05 21:07:51</dispatch_time>
+    <event_num>F21030778</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>KEELE ST / ANNETTE ST</cross_streets>
-    <dispatch_time>2021-04-05 20:47:21</dispatch_time>
-    <event_num>F21030771</event_num>
-    <event_type>Public Hazard</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-04-05 21:29:45</dispatch_time>
+    <event_num>F21030787</event_num>
+    <event_type>Vehicle Fire - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423</units_disp>
+    <beat>441</beat>
+    <units_disp> P443, R441, C41</units_disp>
   </event>
   <event>
-    <prime_street>TILLINGHAST LANE, SC</prime_street>
-    <cross_streets>SCARBOROUGH GOLF CLUB RD / </cross_streets>
-    <dispatch_time>2021-04-05 20:53:15</dispatch_time>
-    <event_num>F21030773</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 21:38:16</dispatch_time>
+    <event_num>F21030789</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
+    <beat>221</beat>
+    <units_disp> P223, P221</units_disp>
   </event>
   <event>
-    <prime_street>FINCH AVE, NY</prime_street>
-    <cross_streets>WESTON RD / LINDYLOU PARK TRL</cross_streets>
-    <dispatch_time>2021-04-05 20:54:03</dispatch_time>
-    <event_num>F21030774</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street>M5R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 21:39:25</dispatch_time>
+    <event_num>F21030790</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> S143, R411</units_disp>
+    <beat>344</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-04-05 21:41:53</dispatch_time>
+    <event_num>F21030791</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P332, P334</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DUNDAS ST W / AUKLAND RD</cross_streets>
+    <dispatch_time>2021-04-05 21:42:20</dispatch_time>
+    <event_num>F21030792</event_num>
+    <event_type>Check Call</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M3J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 21:46:25</dispatch_time>
+    <event_num>F21030793</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
   </event>
 </tfs_active_incidents>
