@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 00:35:02</update_from_db_time>
+  <update_from_db_time>2021-04-06 00:55:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> S331, S313, T333</units_disp>
   </event>
   <event>
-    <prime_street>GREENWOOD AVE, TT</prime_street>
-    <cross_streets>TORBRICK RD / FELSTEAD AVE</cross_streets>
-    <dispatch_time>2021-04-06 00:13:39</dispatch_time>
-    <event_num>F21030832</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323, P324</units_disp>
-  </event>
-  <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 00:26:36</dispatch_time>
-    <event_num>F21030834</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>342</beat>
-    <units_disp> P342</units_disp>
-  </event>
-  <event>
     <prime_street>M4W</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-06 00:31:03</dispatch_time>
@@ -60,5 +40,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>312</beat>
     <units_disp> P312</units_disp>
+  </event>
+  <event>
+    <prime_street>GEORGE ST, TT</prime_street>
+    <cross_streets>DUNDAS ST E / LN N DUNDAS E GEORGE</cross_streets>
+    <dispatch_time>2021-04-06 00:35:22</dispatch_time>
+    <event_num>F21030836</event_num>
+    <event_type>Hazmat Level 2</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> P145, R325, C33, HZ326, P324</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KIPLING AVE / JOHN GARLAND BLVD</cross_streets>
+    <dispatch_time>2021-04-06 00:37:00</dispatch_time>
+    <event_num>F21030837</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M6G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 00:37:33</dispatch_time>
+    <event_num>F21030838</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P343</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 00:48:14</dispatch_time>
+    <event_num>F21030840</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
   </event>
 </tfs_active_incidents>
