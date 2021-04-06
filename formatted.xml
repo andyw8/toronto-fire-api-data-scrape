@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 15:45:01</update_from_db_time>
+  <update_from_db_time>2021-04-06 16:10:02</update_from_db_time>
   <event>
     <prime_street>M8V</prime_street>
     <cross_streets/>
@@ -12,33 +12,43 @@
     <units_disp> A433</units_disp>
   </event>
   <event>
-    <prime_street>YORK BLVD, NY</prime_street>
-    <cross_streets>IAN MACDONALD BLVD / IAN MACDONALD BLVD</cross_streets>
-    <dispatch_time>2021-04-06 15:28:32</dispatch_time>
-    <event_num>F21031068</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141, P142</units_disp>
-  </event>
-  <event>
-    <prime_street>M4K</prime_street>
+    <prime_street>M2N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-06 15:35:55</dispatch_time>
-    <event_num>F21031069</event_num>
+    <dispatch_time>2021-04-06 15:43:08</dispatch_time>
+    <event_num>F21031072</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> S313, P313</units_disp>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>DALHOUSIE ST / DUNDAS ST E</cross_streets>
-    <dispatch_time>2021-04-06 15:40:17</dispatch_time>
-    <event_num>F21031070</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-04-06 15:44:32</dispatch_time>
+    <event_num>F21031073</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>433</beat>
+    <units_disp> A432, P432</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 15:46:46</dispatch_time>
+    <event_num>F21031075</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M2H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 16:03:31</dispatch_time>
+    <event_num>F21031079</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
   </event>
 </tfs_active_incidents>
