@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 11:10:02</update_from_db_time>
+  <update_from_db_time>2021-04-06 11:30:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -22,83 +22,53 @@
     <units_disp> P311</units_disp>
   </event>
   <event>
-    <prime_street>ELDORA AVE, NY</prime_street>
-    <cross_streets>FINCH AVE W / HENDON AVE</cross_streets>
-    <dispatch_time>2021-04-06 09:15:26</dispatch_time>
-    <event_num>F21030916</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114, P113</units_disp>
-  </event>
-  <event>
-    <prime_street>OAK ST, TT</prime_street>
-    <cross_streets>PARLIAMENT ST / REGENT ST</cross_streets>
-    <dispatch_time>2021-04-06 10:35:40</dispatch_time>
-    <event_num>F21030940</event_num>
+    <prime_street>PHARMACY AVE, SC</prime_street>
+    <cross_streets>SEABURY GT / MEADOWACRES DR</cross_streets>
+    <dispatch_time>2021-04-06 11:11:41</dispatch_time>
+    <event_num>F21030954</event_num>
     <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
   <event>
-    <prime_street>LAWRENCE AVE, NY</prime_street>
-    <cross_streets>KEELE ST / PIMLICO RD</cross_streets>
-    <dispatch_time>2021-04-06 10:49:02</dispatch_time>
-    <event_num>F21030942</event_num>
-    <event_type>Rescue - Elevator</event_type>
+    <prime_street>TANJOE CRES, NY</prime_street>
+    <cross_streets>GREEN BUSH RD / GREEN BUSH RD</cross_streets>
+    <dispatch_time>2021-04-06 11:13:07</dispatch_time>
+    <event_num>F21030955</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133, S143</units_disp>
+    <beat>112</beat>
+    <units_disp> R112, P111</units_disp>
   </event>
   <event>
-    <prime_street>M4W</prime_street>
+    <prime_street>M5P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-06 10:56:04</dispatch_time>
-    <event_num>F21030946</event_num>
+    <dispatch_time>2021-04-06 11:16:23</dispatch_time>
+    <event_num>F21030956</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P312</units_disp>
+    <beat>343</beat>
+    <units_disp> P135</units_disp>
   </event>
   <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M6K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-06 10:59:20</dispatch_time>
-    <event_num>F21030947</event_num>
+    <dispatch_time>2021-04-06 11:18:03</dispatch_time>
+    <event_num>F21030957</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
+    <beat>426</beat>
+    <units_disp> R426</units_disp>
   </event>
   <event>
-    <prime_street>M2H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 11:00:24</dispatch_time>
-    <event_num>F21030948</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>FORBES AVE, YK</prime_street>
+    <cross_streets>ROGERS RD / NASHVILLE AVE</cross_streets>
+    <dispatch_time>2021-04-06 11:19:41</dispatch_time>
+    <event_num>F21030958</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>113</beat>
-    <units_disp> A113</units_disp>
-  </event>
-  <event>
-    <prime_street>LOWER JARVIS ST, TT</prime_street>
-    <cross_streets>QUEENS QUAY E / LAKE SHORE BLVD E</cross_streets>
-    <dispatch_time>2021-04-06 11:02:59</dispatch_time>
-    <event_num>F21030950</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M6L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 11:06:31</dispatch_time>
-    <event_num>F21030951</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> A133</units_disp>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
   </event>
 </tfs_active_incidents>
