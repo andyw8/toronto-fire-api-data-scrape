@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 09:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-06 09:50:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244, R241, R243, P223, P245, P233, A213, R213, P211, FI15, FI18</units_disp>
   </event>
   <event>
-    <prime_street>M6B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 08:50:37</dispatch_time>
-    <event_num>F21030907</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>133</beat>
-    <units_disp> R133</units_disp>
-  </event>
-  <event>
     <prime_street>M1T</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-06 08:57:43</dispatch_time>
@@ -30,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>244</beat>
     <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 09:03:51</dispatch_time>
-    <event_num>F21030914</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
   </event>
   <event>
     <prime_street>M5P</prime_street>
@@ -56,39 +36,59 @@
     <cross_streets>FINCH AVE W / HENDON AVE</cross_streets>
     <dispatch_time>2021-04-06 09:15:26</dispatch_time>
     <event_num>F21030916</event_num>
-    <event_type>Hazmat Level 1</event_type>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>114</beat>
     <units_disp> P114, P113</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
+    <prime_street>GENERATION BLVD, SC</prime_street>
+    <cross_streets>RAINBOW RIDGE AVE / 95 GENERATION BLVD</cross_streets>
+    <dispatch_time>2021-04-06 09:29:29</dispatch_time>
+    <event_num>F21030921</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214, P212, A213, C21, R213, R231</units_disp>
+  </event>
+  <event>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-06 09:22:48</dispatch_time>
-    <event_num>F21030917</event_num>
+    <dispatch_time>2021-04-06 09:34:22</dispatch_time>
+    <event_num>F21030924</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>326</beat>
+    <units_disp> P227</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>GEORGE ST / STONECUTTERS LANE</cross_streets>
-    <dispatch_time>2021-04-06 09:24:01</dispatch_time>
-    <event_num>F21030918</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>FINCH AVE W / SIGNET DR</cross_streets>
+    <dispatch_time>2021-04-06 09:36:43</dispatch_time>
+    <event_num>F21030925</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
   </event>
   <event>
-    <prime_street>SUMACH ST, TT</prime_street>
-    <cross_streets>SHUTER ST / ST DAVID ST</cross_streets>
-    <dispatch_time>2021-04-06 09:24:14</dispatch_time>
-    <event_num>F21030919</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>KENNEDY RD / PASSMORE AVE</cross_streets>
+    <dispatch_time>2021-04-06 09:41:11</dispatch_time>
+    <event_num>F21030926</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, C32, P313, P314, P324, R325</units_disp>
+    <beat>242</beat>
+    <units_disp> R241</units_disp>
+  </event>
+  <event>
+    <prime_street>M1R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 09:44:18</dispatch_time>
+    <event_num>F21030927</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>233</beat>
+    <units_disp> P233</units_disp>
   </event>
 </tfs_active_incidents>
