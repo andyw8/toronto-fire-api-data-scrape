@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 08:55:02</update_from_db_time>
+  <update_from_db_time>2021-04-06 09:15:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -13,16 +13,6 @@
   </event>
   <event>
     <prime_street> </prime_street>
-    <cross_streets>HARGRAVE LANE / BAYVIEW AVE</cross_streets>
-    <dispatch_time>2021-04-06 08:24:29</dispatch_time>
-    <event_num>F21030897</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>131</beat>
-    <units_disp> P131</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
     <dispatch_time>2021-04-06 08:33:33</dispatch_time>
     <event_num>F21030901</event_num>
@@ -30,36 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>116</beat>
     <units_disp> C13, P113, P123, R122, S143</units_disp>
-  </event>
-  <event>
-    <prime_street>M5R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 08:37:23</dispatch_time>
-    <event_num>F21030904</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>344</beat>
-    <units_disp> A312</units_disp>
-  </event>
-  <event>
-    <prime_street>CHURCH ST, TT</prime_street>
-    <cross_streets>GLOUCESTER ST / ISABELLA ST</cross_streets>
-    <dispatch_time>2021-04-06 08:43:50</dispatch_time>
-    <event_num>F21030905</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>HAYTER ST / COLLEGE ST</cross_streets>
-    <dispatch_time>2021-04-06 08:50:14</dispatch_time>
-    <event_num>F21030906</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314, P332, A325, C31, R325</units_disp>
   </event>
   <event>
     <prime_street>M6B</prime_street>
@@ -70,5 +30,75 @@
     <alarm_lev>0</alarm_lev>
     <beat>133</beat>
     <units_disp> R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 08:52:49</dispatch_time>
+    <event_num>F21030908</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M1W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 08:56:31</dispatch_time>
+    <event_num>F21030909</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>241</beat>
+    <units_disp> R241</units_disp>
+  </event>
+  <event>
+    <prime_street>EUGENE ST, NY</prime_street>
+    <cross_streets>JOYCE PKWY / MARCIA AVE</cross_streets>
+    <dispatch_time>2021-04-06 08:57:11</dispatch_time>
+    <event_num>F21030910</event_num>
+    <event_type>Police Assist - Request</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> C42, A133</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 08:57:43</dispatch_time>
+    <event_num>F21030911</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M5T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 09:01:01</dispatch_time>
+    <event_num>F21030913</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>332</beat>
+    <units_disp> HR332</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 09:03:51</dispatch_time>
+    <event_num>F21030914</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M5P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 09:04:48</dispatch_time>
+    <event_num>F21030915</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>343</beat>
+    <units_disp> P311</units_disp>
   </event>
 </tfs_active_incidents>
