@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-05 23:10:03</update_from_db_time>
+  <update_from_db_time>2021-04-05 23:30:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -32,16 +32,6 @@
     <units_disp> R423, A345</units_disp>
   </event>
   <event>
-    <prime_street>SHELDRAKE BLVD, TT</prime_street>
-    <cross_streets>MOUNT PLEASANT RD / DALEWOOD RD</cross_streets>
-    <dispatch_time>2021-04-05 22:57:55</dispatch_time>
-    <event_num>F21030815</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134, P131</units_disp>
-  </event>
-  <event>
     <prime_street>THIRTIETH ST, ET</prime_street>
     <cross_streets>SKEENS LANE / SKEENS LANE</cross_streets>
     <dispatch_time>2021-04-05 23:00:22</dispatch_time>
@@ -52,13 +42,43 @@
     <units_disp> R435</units_disp>
   </event>
   <event>
-    <prime_street>ST CLAIR AVE, SC</prime_street>
-    <cross_streets>BIRCHMOUNT RD / NORTH WOODROW BLVD</cross_streets>
-    <dispatch_time>2021-04-05 23:01:43</dispatch_time>
-    <event_num>F21030817</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
+    <prime_street>PARSON CRT, NY</prime_street>
+    <cross_streets>CULFORD RD / </cross_streets>
+    <dispatch_time>2021-04-05 23:11:36</dispatch_time>
+    <event_num>F21030819</event_num>
+    <event_type>Hazmat Level 1</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>222</beat>
-    <units_disp> P222, R225, A226, C22, P221</units_disp>
+    <beat>133</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KIPLING AVE / STEELES AVE W</cross_streets>
+    <dispatch_time>2021-04-05 23:16:02</dispatch_time>
+    <event_num>F21030820</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-05 23:24:29</dispatch_time>
+    <event_num>F21030821</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>214</beat>
+    <units_disp> R214</units_disp>
+  </event>
+  <event>
+    <prime_street>YONGE ST, TT</prime_street>
+    <cross_streets>EDWARD ST / GOULD ST</cross_streets>
+    <dispatch_time>2021-04-05 23:26:42</dispatch_time>
+    <event_num>F21030822</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
