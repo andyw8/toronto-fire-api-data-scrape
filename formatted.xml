@@ -1,54 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 16:10:02</update_from_db_time>
-  <event>
-    <prime_street>M8V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 13:07:01</dispatch_time>
-    <event_num>F21031008</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 15:43:08</dispatch_time>
-    <event_num>F21031072</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
+  <update_from_db_time>2021-04-06 16:30:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2021-04-06 15:44:32</dispatch_time>
-    <event_num>F21031073</event_num>
+    <dispatch_time>2021-04-06 16:07:29</dispatch_time>
+    <event_num>F21031080</event_num>
     <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A432, P432</units_disp>
+    <beat>441</beat>
+    <units_disp> A441, R441</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 15:46:46</dispatch_time>
-    <event_num>F21031075</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>BELLEFONTAINE ST, SC</prime_street>
+    <cross_streets>SOUTHLAWN DR / BELLBROOK RD</cross_streets>
+    <dispatch_time>2021-04-06 16:09:08</dispatch_time>
+    <event_num>F21031083</event_num>
+    <event_type>Natural Gas Leak</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <beat>244</beat>
+    <units_disp> P244, P113, C24, HZ326</units_disp>
   </event>
   <event>
-    <prime_street>M2H</prime_street>
+    <prime_street>ANNETTE ST, TT</prime_street>
+    <cross_streets>INDIAN ROAD CRES / LN E INDIAN GRV S ANNETTE</cross_streets>
+    <dispatch_time>2021-04-06 16:14:15</dispatch_time>
+    <event_num>F21031088</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> P422, R423, A423, R345, R425, C42</units_disp>
+  </event>
+  <event>
+    <prime_street>M1N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-06 16:03:31</dispatch_time>
-    <event_num>F21031079</event_num>
+    <dispatch_time>2021-04-06 16:22:20</dispatch_time>
+    <event_num>F21031090</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
 </tfs_active_incidents>
