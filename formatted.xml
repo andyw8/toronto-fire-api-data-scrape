@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 03:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-06 03:40:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
     <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244, R241, R243, P223, P245</units_disp>
-  </event>
-  <event>
-    <prime_street>BATHURST ST, NY</prime_street>
-    <cross_streets>MCALLISTER RD / EARL BALES PARK TRL</cross_streets>
-    <dispatch_time>2021-04-06 02:59:48</dispatch_time>
-    <event_num>F21030856</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
   </event>
   <event>
     <prime_street>M1M</prime_street>
