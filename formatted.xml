@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 09:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-06 10:05:02</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
     <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244, R241, R243, P223, P245, P233, A213, R213, P211, FI15, FI18</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 08:57:43</dispatch_time>
-    <event_num>F21030911</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
   </event>
   <event>
     <prime_street>M5P</prime_street>
@@ -62,33 +52,23 @@
     <units_disp> P227</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>FINCH AVE W / SIGNET DR</cross_streets>
-    <dispatch_time>2021-04-06 09:36:43</dispatch_time>
-    <event_num>F21030925</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> R411</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>KENNEDY RD / PASSMORE AVE</cross_streets>
-    <dispatch_time>2021-04-06 09:41:11</dispatch_time>
-    <event_num>F21030926</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>242</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
-    <prime_street>M1R</prime_street>
+    <prime_street>M6E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-06 09:44:18</dispatch_time>
-    <event_num>F21030927</event_num>
+    <dispatch_time>2021-04-06 09:47:15</dispatch_time>
+    <event_num>F21030928</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <beat>341</beat>
+    <units_disp> R341</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 09:57:10</dispatch_time>
+    <event_num>F21030929</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
 </tfs_active_incidents>
