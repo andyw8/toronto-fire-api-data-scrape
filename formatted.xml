@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 11:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-06 12:10:03</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -10,56 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>212</beat>
     <units_disp> R213, P212, A213, C21, P211, R214, A231, LA231, R243, S331, C23, C20, C23, P232, P234, P242, HZ326, CMD30, CMD30C, S232, FI15, A215, FI18, A244, R241, R243, P223, P245, P233, A213, R213, P211, FI15, FI18, LA231, P212</units_disp>
-  </event>
-  <event>
-    <prime_street>M5P</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 09:04:48</dispatch_time>
-    <event_num>F21030915</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P311</units_disp>
-  </event>
-  <event>
-    <prime_street>YONGE ST, TT</prime_street>
-    <cross_streets>DUNDAS ST E / EDWARD ST</cross_streets>
-    <dispatch_time>2021-04-06 11:27:09</dispatch_time>
-    <event_num>F21030959</event_num>
-    <event_type>Fire - Commercial/Industrial</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> R325, P314, C33, P332, P333, T333, P312</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 11:29:34</dispatch_time>
-    <event_num>F21030960</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
-  <event>
-    <prime_street>M4S</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 11:33:29</dispatch_time>
-    <event_num>F21030962</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M6A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 11:36:57</dispatch_time>
-    <event_num>F21030963</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -72,63 +22,73 @@
     <units_disp> A441, P415, P443, R441, C41, S445, C41</units_disp>
   </event>
   <event>
-    <prime_street>M3H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 11:37:26</dispatch_time>
-    <event_num>F21030965</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-04-06 11:47:55</dispatch_time>
+    <event_num>F21030973</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>143</beat>
-    <units_disp> P143</units_disp>
+    <beat>434</beat>
+    <units_disp> R434, R444, C44, P432, S445, P445</units_disp>
   </event>
   <event>
-    <prime_street>BAY ST, TT</prime_street>
-    <cross_streets>ELM ST / WALTON ST</cross_streets>
-    <dispatch_time>2021-04-06 11:39:30</dispatch_time>
-    <event_num>F21030966</event_num>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-04-06 11:51:42</dispatch_time>
+    <event_num>F21030978</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116, R122</units_disp>
+  </event>
+  <event>
+    <prime_street>M2M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 11:56:34</dispatch_time>
+    <event_num>F21030979</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M4E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 12:00:51</dispatch_time>
+    <event_num>F21030980</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>227</beat>
+    <units_disp> A226</units_disp>
+  </event>
+  <event>
+    <prime_street>L3T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 12:04:04</dispatch_time>
+    <event_num>F21030981</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 12:05:28</dispatch_time>
+    <event_num>F21030982</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P141, P142</units_disp>
+  </event>
+  <event>
+    <prime_street>WILLIAM KITCHEN RD, SC</prime_street>
+    <cross_streets>PROGRESS AVE / KENNEDY RD</cross_streets>
+    <dispatch_time>2021-04-06 12:06:00</dispatch_time>
+    <event_num>F21030983</event_num>
     <event_type>Alarm Single Source</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> A312, R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M6N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 11:39:25</dispatch_time>
-    <event_num>F21030967</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> A421</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 11:39:48</dispatch_time>
-    <event_num>F21030968</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325</units_disp>
-  </event>
-  <event>
-    <prime_street>JARVIS ST, TT</prime_street>
-    <cross_streets>DUNDAS ST E / GERRARD ST E</cross_streets>
-    <dispatch_time>2021-04-06 11:43:28</dispatch_time>
-    <event_num>F21030970</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> P312, P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M4C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 11:44:37</dispatch_time>
-    <event_num>F21030971</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>226</beat>
-    <units_disp> P226</units_disp>
+    <beat>245</beat>
+    <units_disp> P245, P244</units_disp>
   </event>
 </tfs_active_incidents>
