@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 12:10:03</update_from_db_time>
+  <update_from_db_time>2021-04-06 12:30:03</update_from_db_time>
   <event>
     <prime_street>WAYFORD CRES, SC</prime_street>
     <cross_streets>JOHN TABOR TRL / WARWICK CASTLE CRT</cross_streets>
@@ -14,62 +14,12 @@
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
-    <dispatch_time>2021-04-06 11:36:48</dispatch_time>
-    <event_num>F21030964</event_num>
-    <event_type>Vehicle Accident - Trapped - Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>441</beat>
-    <units_disp> A441, P415, P443, R441, C41, S445, C41</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
     <dispatch_time>2021-04-06 11:47:55</dispatch_time>
     <event_num>F21030973</event_num>
     <event_type>Vehicle Accident - Trapped - Highway</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>434</beat>
     <units_disp> R434, R444, C44, P432, S445, P445</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-04-06 11:51:42</dispatch_time>
-    <event_num>F21030978</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>116</beat>
-    <units_disp> P116, R122</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 11:56:34</dispatch_time>
-    <event_num>F21030979</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M4E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 12:00:51</dispatch_time>
-    <event_num>F21030980</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> A226</units_disp>
-  </event>
-  <event>
-    <prime_street>L3T</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 12:04:04</dispatch_time>
-    <event_num>F21030981</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>111</beat>
-    <units_disp> P111</units_disp>
   </event>
   <event>
     <prime_street>M3N</prime_street>
@@ -90,5 +40,65 @@
     <alarm_lev>0</alarm_lev>
     <beat>245</beat>
     <units_disp> P245, P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 12:09:08</dispatch_time>
+    <event_num>F21030985</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> R243</units_disp>
+  </event>
+  <event>
+    <prime_street>M9P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 12:11:56</dispatch_time>
+    <event_num>F21030987</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>443</beat>
+    <units_disp> P443</units_disp>
+  </event>
+  <event>
+    <prime_street>M6N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 12:17:38</dispatch_time>
+    <event_num>F21030989</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street>M2K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 12:19:25</dispatch_time>
+    <event_num>F21030990</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
+  </event>
+  <event>
+    <prime_street>M2N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 12:21:41</dispatch_time>
+    <event_num>F21030991</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114</units_disp>
+  </event>
+  <event>
+    <prime_street>M1E</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 12:24:13</dispatch_time>
+    <event_num>F21030992</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
 </tfs_active_incidents>
