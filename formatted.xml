@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-06 19:10:03</update_from_db_time>
+  <update_from_db_time>2021-04-06 19:30:02</update_from_db_time>
   <event>
     <prime_street>WESTON RD, YK</prime_street>
     <cross_streets>EDMUND AVE / CLOUSTON AVE</cross_streets>
@@ -10,56 +10,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>442</beat>
     <units_disp> P442, R421</units_disp>
-  </event>
-  <event>
-    <prime_street>KEELE ST, TT</prime_street>
-    <cross_streets>LN 1 N BLOOR E KEELE / LN 2 N BLOOR E KEELE</cross_streets>
-    <dispatch_time>2021-04-06 18:16:36</dispatch_time>
-    <event_num>F21031128</event_num>
-    <event_type>Fire - Subway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>423</beat>
-    <units_disp> R423, S331, R425, R426, HR114, R345, A423, C42, LA421</units_disp>
-  </event>
-  <event>
-    <prime_street>VILLAGE GREEN SQ, SC</prime_street>
-    <cross_streets>401 C W KENNEDY RD N RAMP / </cross_streets>
-    <dispatch_time>2021-04-06 18:38:58</dispatch_time>
-    <event_num>F21031132</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> P244</units_disp>
-  </event>
-  <event>
-    <prime_street>AURORA CRT, SC</prime_street>
-    <cross_streets>BRIDLETOWNE CRCL / </cross_streets>
-    <dispatch_time>2021-04-06 18:53:57</dispatch_time>
-    <event_num>F21031135</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244, R241, C24, P113, R115, P242, A113</units_disp>
-  </event>
-  <event>
-    <prime_street>M4W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 18:54:49</dispatch_time>
-    <event_num>F21031136</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P313</units_disp>
-  </event>
-  <event>
-    <prime_street>GREENVALE TER, SC</prime_street>
-    <cross_streets>HIGHLAND CREEK TRL / CELESTE DR</cross_streets>
-    <dispatch_time>2021-04-06 18:58:03</dispatch_time>
-    <event_num>F21031137</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> R214, P234</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -72,13 +22,63 @@
     <units_disp> R115, P116</units_disp>
   </event>
   <event>
-    <prime_street>M4P</prime_street>
+    <prime_street>M6S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-06 19:06:13</dispatch_time>
-    <event_num>F21031139</event_num>
+    <dispatch_time>2021-04-06 19:09:57</dispatch_time>
+    <event_num>F21031141</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>425</beat>
+    <units_disp> A433</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 19:17:25</dispatch_time>
+    <event_num>F21031144</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>345</beat>
+    <units_disp> R345</units_disp>
+  </event>
+  <event>
+    <prime_street>WESTON RD, YK</prime_street>
+    <cross_streets>OAK ST / FAIRGLEN CRES</cross_streets>
+    <dispatch_time>2021-04-06 19:19:32</dispatch_time>
+    <event_num>F21031145</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P146, R441, A441, P415, C41</units_disp>
+  </event>
+  <event>
+    <prime_street>GARNOCK AVE, TT</prime_street>
+    <cross_streets>HAMPTON AVE / LN W LOGAN N GARNOCK</cross_streets>
+    <dispatch_time>2021-04-06 19:23:47</dispatch_time>
+    <event_num>F21031146</event_num>
+    <event_type>Alarm Single Source</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> P323, P324</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-06 19:23:46</dispatch_time>
+    <event_num>F21031147</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
+  </event>
+  <event>
+    <prime_street>WELLESLEY ST, TT</prime_street>
+    <cross_streets>BLEECKER ST / ONTARIO ST</cross_streets>
+    <dispatch_time>2021-04-06 19:24:13</dispatch_time>
+    <event_num>F21031148</event_num>
+    <event_type>Hazmat Level 1</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
   </event>
 </tfs_active_incidents>
