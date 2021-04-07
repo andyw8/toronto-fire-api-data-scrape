@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-07 18:05:02</update_from_db_time>
+  <update_from_db_time>2021-04-07 18:30:02</update_from_db_time>
   <event>
     <prime_street>MANCHESTER AVE, TT</prime_street>
     <cross_streets>SHAW ST / OSSINGTON AVE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>345</beat>
-    <units_disp> R426, P342, P343, A345, C34, P426, P341CA, S331, A426, LA421, P344, FI21, P312</units_disp>
+    <units_disp> R426, P342, P343, A345, C34, P426, P341CA, S331, A426, LA421, P344, FI21, P312, P322</units_disp>
   </event>
   <event>
     <prime_street>DENTON AVE, SC</prime_street>
@@ -22,26 +22,6 @@
     <units_disp> R225, P222, A226, C22, P221, P226, LA231, R235, A423, S232, C20, C32, P226, FI11</units_disp>
   </event>
   <event>
-    <prime_street>M6H</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 17:43:24</dispatch_time>
-    <event_num>F21031501</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 17:45:54</dispatch_time>
-    <event_num>F21031502</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P143, P141</units_disp>
-  </event>
-  <event>
     <prime_street>YORKWOODS GT, NY</prime_street>
     <cross_streets>YORKWOODS PARK TRL / YORKWOODS PARK TRL</cross_streets>
     <dispatch_time>2021-04-07 17:47:58</dispatch_time>
@@ -50,16 +30,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>142</beat>
     <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 17:51:18</dispatch_time>
-    <event_num>F21031505</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
   </event>
   <event>
     <prime_street> </prime_street>
@@ -72,13 +42,23 @@
     <units_disp> P121, P132</units_disp>
   </event>
   <event>
-    <prime_street>M4S</prime_street>
+    <prime_street>M4C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-07 18:00:15</dispatch_time>
-    <event_num>F21031507</event_num>
+    <dispatch_time>2021-04-07 18:07:55</dispatch_time>
+    <event_num>F21031509</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <beat>226</beat>
+    <units_disp> A226</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 18:22:44</dispatch_time>
+    <event_num>F21031511</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> P141</units_disp>
   </event>
 </tfs_active_incidents>
