@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-07 00:30:02</update_from_db_time>
-  <event>
-    <prime_street>M4K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-06 23:38:48</dispatch_time>
-    <event_num>F21031216</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>324</beat>
-    <units_disp> P324</units_disp>
-  </event>
+  <update_from_db_time>2021-04-07 00:45:02</update_from_db_time>
   <event>
     <prime_street>EGLINTON AVE, YK</prime_street>
     <cross_streets>GABIAN WAY / VENN CRES</cross_streets>
@@ -20,5 +10,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>421</beat>
     <units_disp> A421, C42, R421, P341CA, R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 00:27:42</dispatch_time>
+    <event_num>F21031224</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 00:27:56</dispatch_time>
+    <event_num>F21031225</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 00:29:36</dispatch_time>
+    <event_num>F21031226</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>CANTERBURY PL, NY</prime_street>
+    <cross_streets>ELLERSLIE AVE / CHURCHILL AVE</cross_streets>
+    <dispatch_time>2021-04-07 00:38:44</dispatch_time>
+    <event_num>F21031227</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>114</beat>
+    <units_disp> P114, P121, S143, P111, C11, T114</units_disp>
   </event>
 </tfs_active_incidents>
