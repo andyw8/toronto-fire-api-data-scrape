@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-07 08:30:03</update_from_db_time>
+  <update_from_db_time>2021-04-07 08:50:02</update_from_db_time>
   <event>
     <prime_street>M3N</prime_street>
     <cross_streets/>
@@ -12,53 +12,43 @@
     <units_disp> A142</units_disp>
   </event>
   <event>
-    <prime_street>M6A</prime_street>
+    <prime_street>M9A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-07 08:11:46</dispatch_time>
-    <event_num>F21031279</event_num>
+    <dispatch_time>2021-04-07 08:36:00</dispatch_time>
+    <event_num>F21031286</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>145</beat>
-    <units_disp> P145</units_disp>
+    <beat>445</beat>
+    <units_disp> S445</units_disp>
   </event>
   <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>BAY ST / YORK ST</cross_streets>
-    <dispatch_time>2021-04-07 08:13:21</dispatch_time>
-    <event_num>F21031280</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332, P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M6K</prime_street>
+    <prime_street>M2K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-07 08:24:08</dispatch_time>
-    <event_num>F21031281</event_num>
+    <dispatch_time>2021-04-07 08:40:25</dispatch_time>
+    <event_num>F21031288</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> P344</units_disp>
+    <beat>111</beat>
+    <units_disp> P111</units_disp>
   </event>
   <event>
-    <prime_street>M5R</prime_street>
+    <prime_street>ESSEX ST, TT</prime_street>
+    <cross_streets>WILLOWVALE LANE / LN W WILLOWVALE LN S ESSEX</cross_streets>
+    <dispatch_time>2021-04-07 08:46:01</dispatch_time>
+    <event_num>F21031289</event_num>
+    <event_type>Rescue - Personal Entrapment</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>344</beat>
+    <units_disp> P331, C34, P343, S331</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-07 08:24:02</dispatch_time>
-    <event_num>F21031282</event_num>
+    <dispatch_time>2021-04-07 08:46:24</dispatch_time>
+    <event_num>F21031290</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
-  </event>
-  <event>
-    <prime_street>WESTON RD, NY</prime_street>
-    <cross_streets>HUMBER RIVER RECREATIONAL TRL / SHEPPARD AVE W</cross_streets>
-    <dispatch_time>2021-04-07 08:24:22</dispatch_time>
-    <event_num>F21031283</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411, P442, C14, P141, P146</units_disp>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
 </tfs_active_incidents>
