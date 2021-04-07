@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-07 19:10:02</update_from_db_time>
+  <update_from_db_time>2021-04-07 19:30:03</update_from_db_time>
   <event>
     <prime_street>MANCHESTER AVE, TT</prime_street>
     <cross_streets>SHAW ST / OSSINGTON AVE</cross_streets>
@@ -32,53 +32,73 @@
     <units_disp> A142, C10</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>BALES AVE / AVONDALE AVE</cross_streets>
-    <dispatch_time>2021-04-07 18:32:21</dispatch_time>
-    <event_num>F21031513</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>121</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 18:47:54</dispatch_time>
-    <event_num>F21031515</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M9W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 18:53:52</dispatch_time>
-    <event_num>F21031517</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>412</beat>
-    <units_disp> R412</units_disp>
-  </event>
-  <event>
-    <prime_street> </prime_street>
-    <cross_streets>BLACK CREEK / HEPC</cross_streets>
+    <prime_street>TOBERMORY DR, NY</prime_street>
+    <cross_streets>KINNIE CRT / NISKA RD</cross_streets>
     <dispatch_time>2021-04-07 19:03:19</dispatch_time>
     <event_num>F21031519</event_num>
     <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
-    <units_disp> P141</units_disp>
+    <units_disp> P141, P143</units_disp>
   </event>
   <event>
-    <prime_street>MURELLEN CRES, NY</prime_street>
-    <cross_streets>KNIGHTON DR / KNIGHTON DR</cross_streets>
-    <dispatch_time>2021-04-07 19:03:13</dispatch_time>
-    <event_num>F21031520</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
+    <prime_street>WESTON RD, YK</prime_street>
+    <cross_streets>KING ST / FERN AVE</cross_streets>
+    <dispatch_time>2021-04-07 19:15:51</dispatch_time>
+    <event_num>F21031521</event_num>
+    <event_type>Vehicle - Spill Clean Up</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M3K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 19:18:55</dispatch_time>
+    <event_num>F21031522</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>145</beat>
+    <units_disp> P145</units_disp>
+  </event>
+  <event>
+    <prime_street>M9B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 19:21:15</dispatch_time>
+    <event_num>F21031523</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>445</beat>
+    <units_disp> P445</units_disp>
+  </event>
+  <event>
+    <prime_street>WESTMINSTER AVE, TT</prime_street>
+    <cross_streets>LN W SORAUREN S WESTMINSTER / LN E RONCESVALLES S WESTMINSTE</cross_streets>
+    <dispatch_time>2021-04-07 19:21:35</dispatch_time>
+    <event_num>F21031524</event_num>
+    <event_type>Alarm Single Source</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>426</beat>
+    <units_disp> P426, R426</units_disp>
+  </event>
+  <event>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 19:24:15</dispatch_time>
+    <event_num>F21031525</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P332, P314</units_disp>
+  </event>
+  <event>
+    <prime_street>SACKVILLE ST, TT</prime_street>
+    <cross_streets>DUNDAS ST E / COLE ST</cross_streets>
+    <dispatch_time>2021-04-07 19:25:40</dispatch_time>
+    <event_num>F21031526</event_num>
+    <event_type>Rescue - Elevator</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325, S313</units_disp>
   </event>
 </tfs_active_incidents>
