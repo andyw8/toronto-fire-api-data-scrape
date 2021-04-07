@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-07 17:50:03</update_from_db_time>
+  <update_from_db_time>2021-04-07 18:05:02</update_from_db_time>
   <event>
     <prime_street>MANCHESTER AVE, TT</prime_street>
     <cross_streets>SHAW ST / OSSINGTON AVE</cross_streets>
@@ -22,46 +22,6 @@
     <units_disp> R225, P222, A226, C22, P221, P226, LA231, R235, A423, S232, C20, C32, P226, FI11</units_disp>
   </event>
   <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 17:23:27</dispatch_time>
-    <event_num>F21031495</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>234</beat>
-    <units_disp> P234</units_disp>
-  </event>
-  <event>
-    <prime_street>M5G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 17:27:33</dispatch_time>
-    <event_num>F21031496</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P332</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 17:33:35</dispatch_time>
-    <event_num>F21031499</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>M2M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 17:34:32</dispatch_time>
-    <event_num>F21031500</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
     <prime_street>M6H</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-07 17:43:24</dispatch_time>
@@ -79,6 +39,46 @@
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
-    <units_disp> P143</units_disp>
+    <units_disp> P143, P141</units_disp>
+  </event>
+  <event>
+    <prime_street>YORKWOODS GT, NY</prime_street>
+    <cross_streets>YORKWOODS PARK TRL / YORKWOODS PARK TRL</cross_streets>
+    <dispatch_time>2021-04-07 17:47:58</dispatch_time>
+    <event_num>F21031503</event_num>
+    <event_type>Check Call - Non Emergency</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
+  </event>
+  <event>
+    <prime_street>M1K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 17:51:18</dispatch_time>
+    <event_num>F21031505</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-04-07 18:00:09</dispatch_time>
+    <event_num>F21031506</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P121, P132</units_disp>
+  </event>
+  <event>
+    <prime_street>M4S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 18:00:15</dispatch_time>
+    <event_num>F21031507</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
 </tfs_active_incidents>
