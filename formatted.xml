@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-07 16:45:02</update_from_db_time>
+  <update_from_db_time>2021-04-07 17:00:03</update_from_db_time>
   <event>
     <prime_street>MANCHESTER AVE, TT</prime_street>
     <cross_streets>SHAW ST / OSSINGTON AVE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>345</beat>
-    <units_disp> R426, P342, P343, A345, C34, P426, P341CA, S331, A426, LA421, P344, FI21</units_disp>
+    <units_disp> R426, P342, P343, A345, C34, P426, P341CA, S331, A426, LA421, P344, FI21, P312</units_disp>
   </event>
   <event>
     <prime_street>DENTON AVE, SC</prime_street>
@@ -42,58 +42,8 @@
     <units_disp> P442, R133, C41, R421, A133</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 16:26:41</dispatch_time>
-    <event_num>F21031468</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 16:31:49</dispatch_time>
-    <event_num>F21031470</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M5V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 16:33:52</dispatch_time>
-    <event_num>F21031471</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 16:34:29</dispatch_time>
-    <event_num>F21031472</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333</units_disp>
-  </event>
-  <event>
-    <prime_street>M5M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 16:39:09</dispatch_time>
-    <event_num>F21031474</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P132</units_disp>
-  </event>
-  <event>
-    <prime_street>KENNEDY RD, SC</prime_street>
-    <cross_streets>VILLAGE GREEN SQ / PENTLY CRES</cross_streets>
+    <prime_street>EARLTON RD, SC</prime_street>
+    <cross_streets>LEJUNE RD / PENTLY CRES</cross_streets>
     <dispatch_time>2021-04-07 16:39:55</dispatch_time>
     <event_num>F21031475</event_num>
     <event_type>Fire - Grass/Rubbish</event_type>
@@ -110,5 +60,35 @@
     <alarm_lev>0</alarm_lev>
     <beat>431</beat>
     <units_disp> S445, P431, A433, C44, P422, P445</units_disp>
+  </event>
+  <event>
+    <prime_street>M4L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 16:45:03</dispatch_time>
+    <event_num>F21031478</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>326</beat>
+    <units_disp> HZ326</units_disp>
+  </event>
+  <event>
+    <prime_street>M5B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 16:49:52</dispatch_time>
+    <event_num>F21031481</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> A325</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>PARLIAMENT ST / DUNDAS ST E</cross_streets>
+    <dispatch_time>2021-04-07 16:55:47</dispatch_time>
+    <event_num>F21031482</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
 </tfs_active_incidents>
