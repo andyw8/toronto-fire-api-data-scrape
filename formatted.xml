@@ -1,74 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-07 12:10:02</update_from_db_time>
+  <update_from_db_time>2021-04-07 12:35:02</update_from_db_time>
   <event>
-    <prime_street>VICTORIA PARK AVE, NY</prime_street>
-    <cross_streets>DEANVAR AVE / LYNVALLEY CRES</cross_streets>
-    <dispatch_time>2021-04-07 09:51:34</dispatch_time>
-    <event_num>F21031309</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233, S232, C23</units_disp>
-  </event>
-  <event>
-    <prime_street>MARLEE AVE, YK</prime_street>
-    <cross_streets>RIDELLE AVE / BRIAR HILL AVE</cross_streets>
-    <dispatch_time>2021-04-07 11:56:42</dispatch_time>
-    <event_num>F21031348</event_num>
-    <event_type>Fire -  Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> R133, P341CA, P343, A135, P132, C13, HR332, HR114</units_disp>
-  </event>
-  <event>
-    <prime_street>M5C</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-07 11:59:35</dispatch_time>
-    <event_num>F21031350</event_num>
+    <dispatch_time>2021-04-07 12:07:09</dispatch_time>
+    <event_num>F21031355</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> P332</units_disp>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 12:00:33</dispatch_time>
-    <event_num>F21031351</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>DANFORTH AVE / EASTWOOD AVE</cross_streets>
+    <dispatch_time>2021-04-07 12:27:52</dispatch_time>
+    <event_num>F21031359</event_num>
+    <event_type>Vehicle - Spill Clean Up</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
     <units_disp> R225</units_disp>
   </event>
   <event>
-    <prime_street>M8W</prime_street>
+    <prime_street>M6P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-07 12:01:17</dispatch_time>
-    <event_num>F21031352</event_num>
+    <dispatch_time>2021-04-07 12:28:10</dispatch_time>
+    <event_num>F21031360</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>434</beat>
-    <units_disp> R434</units_disp>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
   </event>
   <event>
-    <prime_street>RONCESVALLES AVE, TT</prime_street>
-    <cross_streets>HARVARD AVE / MARION ST</cross_streets>
-    <dispatch_time>2021-04-07 12:02:08</dispatch_time>
-    <event_num>F21031353</event_num>
-    <event_type>Alarm Single Source</event_type>
+    <prime_street>PROGRESS AVE, SC</prime_street>
+    <cross_streets>BOROUGH DR / 401 C E PROGRESS AV RAMP</cross_streets>
+    <dispatch_time>2021-04-07 12:29:01</dispatch_time>
+    <event_num>F21031361</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> P426, R426</units_disp>
-  </event>
-  <event>
-    <prime_street>M5M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 12:05:53</dispatch_time>
-    <event_num>F21031354</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>132</beat>
-    <units_disp> P131</units_disp>
+    <beat>243</beat>
+    <units_disp> R243</units_disp>
   </event>
 </tfs_active_incidents>
