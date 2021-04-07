@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-07 15:10:03</update_from_db_time>
+  <update_from_db_time>2021-04-07 15:30:02</update_from_db_time>
   <event>
     <prime_street>MANCHESTER AVE, TT</prime_street>
     <cross_streets>SHAW ST / OSSINGTON AVE</cross_streets>
@@ -20,16 +20,6 @@
     <alarm_lev>1</alarm_lev>
     <beat>225</beat>
     <units_disp> R225, P222, A226, C22, P221, P226, LA231, R235, A423, S232, C20, C32</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS ST, ET</prime_street>
-    <cross_streets>OLD DUNDAS ST / EARLINGTON AVE</cross_streets>
-    <dispatch_time>2021-04-07 14:18:18</dispatch_time>
-    <event_num>F21031412</event_num>
-    <event_type>Natural Gas Leak</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>431</beat>
-    <units_disp> P145, P422, C44, HZ145</units_disp>
   </event>
   <event>
     <prime_street>PANNAHILL RD, NY</prime_street>
@@ -52,16 +42,6 @@
     <units_disp> P415</units_disp>
   </event>
   <event>
-    <prime_street>M5J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 14:51:48</dispatch_time>
-    <event_num>F21031426</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>332</beat>
-    <units_disp> HR332</units_disp>
-  </event>
-  <event>
     <prime_street>M2R</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-07 14:59:06</dispatch_time>
@@ -70,16 +50,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>112</beat>
     <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M1E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 14:59:49</dispatch_time>
-    <event_num>F21031429</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>215</beat>
-    <units_disp> A215</units_disp>
   </event>
   <event>
     <prime_street>THORNCLIFFE PARK DR, EY</prime_street>
@@ -100,5 +70,55 @@
     <alarm_lev>0</alarm_lev>
     <beat>445</beat>
     <units_disp> P445, R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M4W</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 15:15:41</dispatch_time>
+    <event_num>F21031433</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>313</beat>
+    <units_disp> P313</units_disp>
+  </event>
+  <event>
+    <prime_street>HIGH PARK AVE, TT</prime_street>
+    <cross_streets>GLENLAKE AVE / HUMBERSIDE AVE</cross_streets>
+    <dispatch_time>2021-04-07 15:19:31</dispatch_time>
+    <event_num>F21031434</event_num>
+    <event_type>Rescue - Personal Entrapment</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> P331, S331, C42, R423</units_disp>
+  </event>
+  <event>
+    <prime_street>SUNMOUNT RD, SC</prime_street>
+    <cross_streets>CARNCASTLE GT / CASS AVE</cross_streets>
+    <dispatch_time>2021-04-07 15:24:31</dispatch_time>
+    <event_num>F21031435</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> A244, R243</units_disp>
+  </event>
+  <event>
+    <prime_street>M5S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 15:25:58</dispatch_time>
+    <event_num>F21031436</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 15:26:48</dispatch_time>
+    <event_num>F21031437</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P232</units_disp>
   </event>
 </tfs_active_incidents>
