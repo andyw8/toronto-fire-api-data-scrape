@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-08 19:10:02</update_from_db_time>
-  <event>
-    <prime_street>M9M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 18:14:47</dispatch_time>
-    <event_num>F21031965</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411, R411</units_disp>
-  </event>
-  <event>
-    <prime_street>M9M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 18:29:48</dispatch_time>
-    <event_num>F21031972</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>411</beat>
-    <units_disp> A411</units_disp>
-  </event>
-  <event>
-    <prime_street>M2N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 18:36:12</dispatch_time>
-    <event_num>F21031976</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>114</beat>
-    <units_disp> P114</units_disp>
-  </event>
-  <event>
-    <prime_street>M6C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 18:42:23</dispatch_time>
-    <event_num>F21031979</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
-  </event>
+  <update_from_db_time>2021-04-08 19:30:02</update_from_db_time>
   <event>
     <prime_street>WARDEN AVE, SC</prime_street>
     <cross_streets>CATARAQUI CRES / FIRVALLEY CRT</cross_streets>
@@ -49,37 +9,7 @@
     <event_type>Fire - Commercial/Industrial</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>225</beat>
-    <units_disp> P222, P223, P226, R225, A226, C22</units_disp>
-  </event>
-  <event>
-    <prime_street>M2R</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 18:49:17</dispatch_time>
-    <event_num>F21031983</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>112</beat>
-    <units_disp> R112</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 18:53:49</dispatch_time>
-    <event_num>F21031985</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
-    <prime_street>M5B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 19:01:03</dispatch_time>
-    <event_num>F21031987</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> P314</units_disp>
+    <units_disp> P222, P223, P226, R225, A226, C22, LA231, LA333</units_disp>
   </event>
   <event>
     <prime_street>M6N</prime_street>
@@ -102,13 +32,53 @@
     <units_disp> A142, C14, P141, P143, P146</units_disp>
   </event>
   <event>
-    <prime_street>M4J</prime_street>
+    <prime_street>DEWSON ST, TT</prime_street>
+    <cross_streets>ROXTON RD / LN E OSSINGTON S DEWSON</cross_streets>
+    <dispatch_time>2021-04-08 19:09:08</dispatch_time>
+    <event_num>F21031991</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-08 19:02:29</dispatch_time>
-    <event_num>F21031990</event_num>
+    <dispatch_time>2021-04-08 19:09:50</dispatch_time>
+    <event_num>F21031992</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
+    <beat>112</beat>
+    <units_disp> HR114</units_disp>
+  </event>
+  <event>
+    <prime_street>M9C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 19:11:03</dispatch_time>
+    <event_num>F21031994</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>444</beat>
+    <units_disp> R444</units_disp>
+  </event>
+  <event>
+    <prime_street>M1P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 19:11:15</dispatch_time>
+    <event_num>F21031995</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
+  </event>
+  <event>
+    <prime_street>M5V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 19:26:45</dispatch_time>
+    <event_num>F21031997</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>334</beat>
+    <units_disp> P334</units_disp>
   </event>
 </tfs_active_incidents>
