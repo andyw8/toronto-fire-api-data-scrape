@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-08 08:10:03</update_from_db_time>
+  <update_from_db_time>2021-04-08 08:30:02</update_from_db_time>
   <event>
     <prime_street>DENTON AVE, SC</prime_street>
     <cross_streets>LEYTON AVE / PATTERSON AVE</cross_streets>
@@ -22,43 +22,33 @@
     <units_disp> S313, P313, A312, C31, P312, P314, A325, LA333, R321, R325, C30, P324, P323, R321, P333, P313</units_disp>
   </event>
   <event>
-    <prime_street>M5E</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 07:45:52</dispatch_time>
-    <event_num>F21031709</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>PRINCES' BLVD, TT</prime_street>
+    <cross_streets>NEWFOUNDLAND RD / NUNAVUT RD</cross_streets>
+    <dispatch_time>2021-04-08 08:22:40</dispatch_time>
+    <event_num>F21031714</event_num>
+    <event_type>Rescue - Structural Collapse</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> T333</units_disp>
+    <beat>346</beat>
+    <units_disp> S331, S313, P331, P344, A426, P445, C33, HR332, HZ326, LA333, R235, TRS235, C34, C30, C33</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
+    <prime_street>M2R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-08 07:51:43</dispatch_time>
-    <event_num>F21031710</event_num>
+    <dispatch_time>2021-04-08 08:26:10</dispatch_time>
+    <event_num>F21031715</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <beat>112</beat>
+    <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>M4R</prime_street>
+    <prime_street>M3K</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-08 07:53:45</dispatch_time>
-    <event_num>F21031712</event_num>
+    <dispatch_time>2021-04-08 08:26:44</dispatch_time>
+    <event_num>F21031716</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>FALSTAFF AVE, NY</prime_street>
-    <cross_streets>MAIDSTONE ST / SPRINGVIEW AVE</cross_streets>
-    <dispatch_time>2021-04-08 07:55:23</dispatch_time>
-    <event_num>F21031713</event_num>
-    <event_type>Fire Alarm - Check Call</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P146</units_disp>
+    <beat>145</beat>
+    <units_disp> HZ145</units_disp>
   </event>
 </tfs_active_incidents>
