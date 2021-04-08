@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-08 11:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-08 12:10:02</update_from_db_time>
   <event>
     <prime_street>DENTON AVE, SC</prime_street>
     <cross_streets>LEYTON AVE / PATTERSON AVE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>225</beat>
-    <units_disp> R225, P222, A226, C22, P221, P226, LA231, R235, A423, S232, C20, C32, P226, FI11, A231, P223, P227, P232, R235, R224, C22, P227, P223, P226</units_disp>
+    <units_disp> R225, P222, A226, C22, P221, P226, LA231, R235, A423, S232, C20, C32, P226, FI11, A231, P223, P227, P232, R235, R224, C22, P227, P223, P226, P222</units_disp>
   </event>
   <event>
     <prime_street>UNWIN AVE, TT</prime_street>
@@ -32,36 +32,6 @@
     <units_disp> P342</units_disp>
   </event>
   <event>
-    <prime_street>BRIXHAM TER, NY</prime_street>
-    <cross_streets>DOWNSVIEW DELLS PARK TRL / </cross_streets>
-    <dispatch_time>2021-04-08 11:24:58</dispatch_time>
-    <event_num>F21031796</event_num>
-    <event_type>Hazmat Level 1</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>146</beat>
-    <units_disp> P145</units_disp>
-  </event>
-  <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 11:32:01</dispatch_time>
-    <event_num>F21031800</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
-  </event>
-  <event>
-    <prime_street>STEELES AVE, SC</prime_street>
-    <cross_streets>EASTVALE DR / C P R</cross_streets>
-    <dispatch_time>2021-04-08 11:37:27</dispatch_time>
-    <event_num>F21031801</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>211</beat>
-    <units_disp> P211, R213</units_disp>
-  </event>
-  <event>
     <prime_street>M6A</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-08 11:45:42</dispatch_time>
@@ -70,5 +40,85 @@
     <alarm_lev>0</alarm_lev>
     <beat>132</beat>
     <units_disp> R133</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 11:49:21</dispatch_time>
+    <event_num>F21031803</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> P244</units_disp>
+  </event>
+  <event>
+    <prime_street>M1M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 11:49:47</dispatch_time>
+    <event_num>F21031804</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P221</units_disp>
+  </event>
+  <event>
+    <prime_street>M3H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 11:50:38</dispatch_time>
+    <event_num>F21031805</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>132</beat>
+    <units_disp> P121</units_disp>
+  </event>
+  <event>
+    <prime_street>M5J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 11:53:31</dispatch_time>
+    <event_num>F21031806</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>335</beat>
+    <units_disp> FB334, P335, P332, V335</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 11:55:10</dispatch_time>
+    <event_num>F21031807</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>QUEEN ST, TT</prime_street>
+    <cross_streets>BERKSHIRE AVE / JONES AVE</cross_streets>
+    <dispatch_time>2021-04-08 11:56:54</dispatch_time>
+    <event_num>F21031808</event_num>
+    <event_type>Alarm Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>326</beat>
+    <units_disp> P324, P323, A324, C32, R325</units_disp>
+  </event>
+  <event>
+    <prime_street>WAKUNDA PL, NY</prime_street>
+    <cross_streets>O'CONNOR DR / </cross_streets>
+    <dispatch_time>2021-04-08 11:58:38</dispatch_time>
+    <event_num>F21031809</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>235</beat>
+    <units_disp> R235, R224, C22, A135, P125, P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 12:01:17</dispatch_time>
+    <event_num>F21031810</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
 </tfs_active_incidents>
