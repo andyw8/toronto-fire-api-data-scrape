@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-08 06:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-08 07:00:02</update_from_db_time>
   <event>
     <prime_street>DENTON AVE, SC</prime_street>
     <cross_streets>LEYTON AVE / PATTERSON AVE</cross_streets>
@@ -40,5 +40,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>421</beat>
     <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M3B</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 06:49:00</dispatch_time>
+    <event_num>F21031697</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>123</beat>
+    <units_disp> P123</units_disp>
+  </event>
+  <event>
+    <prime_street>M6M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 06:51:56</dispatch_time>
+    <event_num>F21031698</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
   </event>
 </tfs_active_incidents>
