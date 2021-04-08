@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-07 22:55:02</update_from_db_time>
+  <update_from_db_time>2021-04-07 23:10:02</update_from_db_time>
   <event>
     <prime_street>MANCHESTER AVE, TT</prime_street>
     <cross_streets>SHAW ST / OSSINGTON AVE</cross_streets>
@@ -32,26 +32,6 @@
     <units_disp> S313, P313, A312, C31, P312, P314, A325, LA333, R321, R325, C30</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-04-07 22:40:18</dispatch_time>
-    <event_num>F21031617</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P333, P323, A324</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 22:45:36</dispatch_time>
-    <event_num>F21031619</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
-  </event>
-  <event>
     <prime_street>M1K</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-07 22:49:36</dispatch_time>
@@ -60,5 +40,15 @@
     <alarm_lev>0</alarm_lev>
     <beat>221</beat>
     <units_disp> P222</units_disp>
+  </event>
+  <event>
+    <prime_street>M5G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-07 22:54:26</dispatch_time>
+    <event_num>F21031621</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
 </tfs_active_incidents>
