@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-08 08:55:02</update_from_db_time>
+  <update_from_db_time>2021-04-08 09:10:02</update_from_db_time>
   <event>
     <prime_street>DENTON AVE, SC</prime_street>
     <cross_streets>LEYTON AVE / PATTERSON AVE</cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> R225, P222, A226, C22, P221, P226, LA231, R235, A423, S232, C20, C32, P226, FI11, A231, P223, P227, P232, R235, R224, C22, P227, P223</units_disp>
   </event>
   <event>
-    <prime_street>PRINCES' BLVD, TT</prime_street>
-    <cross_streets>NEWFOUNDLAND RD / NUNAVUT RD</cross_streets>
-    <dispatch_time>2021-04-08 08:22:40</dispatch_time>
-    <event_num>F21031714</event_num>
-    <event_type>Rescue - Structural Collapse</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>346</beat>
-    <units_disp> S331, S313, P331, P344, A426, P445, C33, HR332, HZ326, LA333, R235, TRS235, C34, C30, C33</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>EGLINTON AVE W / CASTLE KNOCK RD</cross_streets>
     <dispatch_time>2021-04-08 08:31:51</dispatch_time>
@@ -30,36 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>135</beat>
     <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M3J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 08:39:58</dispatch_time>
-    <event_num>F21031720</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> A142</units_disp>
-  </event>
-  <event>
-    <prime_street>M3C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 08:40:39</dispatch_time>
-    <event_num>F21031721</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
-  </event>
-  <event>
-    <prime_street>M1K</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 08:48:19</dispatch_time>
-    <event_num>F21031722</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
   </event>
   <event>
     <prime_street>M1L</prime_street>
@@ -80,5 +40,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>235</beat>
     <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M3K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 08:58:20</dispatch_time>
+    <event_num>F21031725</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 09:00:25</dispatch_time>
+    <event_num>F21031726</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>425</beat>
+    <units_disp> P433</units_disp>
+  </event>
+  <event>
+    <prime_street>M6P</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 09:04:11</dispatch_time>
+    <event_num>F21031727</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>423</beat>
+    <units_disp> R423</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>SHEPPARD AVE W / ARLETA AVE</cross_streets>
+    <dispatch_time>2021-04-08 09:04:34</dispatch_time>
+    <event_num>F21031728</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
   </event>
 </tfs_active_incidents>
