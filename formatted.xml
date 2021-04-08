@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-08 00:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-08 00:50:02</update_from_db_time>
   <event>
     <prime_street>MANCHESTER AVE, TT</prime_street>
     <cross_streets>SHAW ST / OSSINGTON AVE</cross_streets>
@@ -9,7 +9,7 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>1</alarm_lev>
     <beat>345</beat>
-    <units_disp> R426, P342, P343, A345, C34, P426, P341CA, S331, A426, LA421, P344, FI21, P312, P322, P311, P341CA</units_disp>
+    <units_disp> R426, P342, P343, A345, C34, P426, P341CA, S331, A426, LA421, P344, FI21, P312, P322, P311, P341CA, P343</units_disp>
   </event>
   <event>
     <prime_street>DENTON AVE, SC</prime_street>
@@ -32,36 +32,6 @@
     <units_disp> S313, P313, A312, C31, P312, P314, A325, LA333, R321, R325, C30, P324</units_disp>
   </event>
   <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-07 23:58:06</dispatch_time>
-    <event_num>F21031633</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>442</beat>
-    <units_disp> P442</units_disp>
-  </event>
-  <event>
-    <prime_street>BROADWAY AVE, TT</prime_street>
-    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
-    <dispatch_time>2021-04-08 00:08:43</dispatch_time>
-    <event_num>F21031635</event_num>
-    <event_type>Vehicle - Personal Injury</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>QUEEN ST, TT</prime_street>
-    <cross_streets>DALHOUSIE ST / MUTUAL ST</cross_streets>
-    <dispatch_time>2021-04-08 00:12:22</dispatch_time>
-    <event_num>F21031636</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> P332, P333, T333</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>DENNIS FLYNN PARK TRL / CIVIC CENTRE CRT</cross_streets>
     <dispatch_time>2021-04-08 00:13:35</dispatch_time>
@@ -72,33 +42,33 @@
     <units_disp> S445, P445, A432, C44, P432, R411</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
+    <prime_street>GARFELLA DR, ET</prime_street>
+    <cross_streets>BULBOURNE RD / STEVENSON RD</cross_streets>
+    <dispatch_time>2021-04-08 00:32:08</dispatch_time>
+    <event_num>F21031641</event_num>
+    <event_type>Water Problem</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413, A411</units_disp>
+  </event>
+  <event>
+    <prime_street>M1B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-08 00:16:27</dispatch_time>
-    <event_num>F21031638</event_num>
+    <dispatch_time>2021-04-08 00:35:59</dispatch_time>
+    <event_num>F21031643</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> R434</units_disp>
+    <beat>213</beat>
+    <units_disp> R213</units_disp>
   </event>
   <event>
-    <prime_street>PASSY CRES, NY</prime_street>
-    <cross_streets>THE POND RD / THE POND RD</cross_streets>
-    <dispatch_time>2021-04-08 00:22:12</dispatch_time>
-    <event_num>F21031639</event_num>
-    <event_type>Alarm Single Source</event_type>
+    <prime_street>M4H</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 00:44:50</dispatch_time>
+    <event_num>F21031645</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141, A142</units_disp>
-  </event>
-  <event>
-    <prime_street>HEATHERSIDE DR, SC</prime_street>
-    <cross_streets>BEVERLY GLEN PARK TRL / REDBIRD GT</cross_streets>
-    <dispatch_time>2021-04-08 00:26:41</dispatch_time>
-    <event_num>F21031640</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>241</beat>
-    <units_disp> R241</units_disp>
+    <beat>322</beat>
+    <units_disp> P322</units_disp>
   </event>
 </tfs_active_incidents>
