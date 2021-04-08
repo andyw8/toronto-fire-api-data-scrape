@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-08 09:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-08 10:00:03</update_from_db_time>
   <event>
     <prime_street>DENTON AVE, SC</prime_street>
     <cross_streets>LEYTON AVE / PATTERSON AVE</cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> R225, P222, A226, C22, P221, P226, LA231, R235, A423, S232, C20, C32, P226, FI11, A231, P223, P227, P232, R235, R224, C22, P227, P223</units_disp>
   </event>
   <event>
-    <prime_street>LANKIN BLVD, EY</prime_street>
-    <cross_streets>COSBURN AVE / PLAINS RD</cross_streets>
-    <dispatch_time>2021-04-08 09:10:58</dispatch_time>
-    <event_num>F21031732</event_num>
-    <event_type>Rescue - Personal Entrapment</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> P232, S232, A322, C32</units_disp>
-  </event>
-  <event>
     <prime_street>UNWIN AVE, TT</prime_street>
     <cross_streets>REGATTA RD / TORONTO SHORELINE</cross_streets>
     <dispatch_time>2021-04-08 09:17:36</dispatch_time>
@@ -30,16 +20,6 @@
     <alarm_lev>0</alarm_lev>
     <beat>326</beat>
     <units_disp> A324, P227, C33, P333, P324, T333, C30</units_disp>
-  </event>
-  <event>
-    <prime_street>M9B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 09:28:09</dispatch_time>
-    <event_num>F21031739</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>445</beat>
-    <units_disp> P445</units_disp>
   </event>
   <event>
     <prime_street>M6E</prime_street>
@@ -72,16 +52,6 @@
     <units_disp> R112</units_disp>
   </event>
   <event>
-    <prime_street>M2J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 09:37:09</dispatch_time>
-    <event_num>F21031743</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>115</beat>
-    <units_disp> R115</units_disp>
-  </event>
-  <event>
     <prime_street>M9C</prime_street>
     <cross_streets/>
     <dispatch_time>2021-04-08 09:38:27</dispatch_time>
@@ -112,26 +82,6 @@
     <units_disp> R122</units_disp>
   </event>
   <event>
-    <prime_street>EGLINTON AVE, TT</prime_street>
-    <cross_streets>FALCON ST / FORMAN AVE</cross_streets>
-    <dispatch_time>2021-04-08 09:41:05</dispatch_time>
-    <event_num>F21031747</event_num>
-    <event_type>Fire - Grass/Rubbish</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> R134</units_disp>
-  </event>
-  <event>
-    <prime_street>M3A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 09:44:07</dispatch_time>
-    <event_num>F21031748</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>233</beat>
-    <units_disp> P233</units_disp>
-  </event>
-  <event>
     <prime_street> </prime_street>
     <cross_streets>BLACK CREEK DR / TRETHEWEY DR</cross_streets>
     <dispatch_time>2021-04-08 09:44:34</dispatch_time>
@@ -160,5 +110,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>141</beat>
     <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>M6G</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 09:49:14</dispatch_time>
+    <event_num>F21031752</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>315</beat>
+    <units_disp> P315</units_disp>
+  </event>
+  <event>
+    <prime_street>MACLEOD ST, NY</prime_street>
+    <cross_streets>RUSTIC RD / FLORAL PKWY</cross_streets>
+    <dispatch_time>2021-04-08 09:49:27</dispatch_time>
+    <event_num>F21031753</event_num>
+    <event_type>Fire - Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> C13, P146, R133, A421, P442, R421, C42</units_disp>
+  </event>
+  <event>
+    <prime_street>M6J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 09:53:24</dispatch_time>
+    <event_num>F21031754</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>331</beat>
+    <units_disp> A315</units_disp>
+  </event>
+  <event>
+    <prime_street>M3J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 09:54:41</dispatch_time>
+    <event_num>F21031755</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> A142</units_disp>
   </event>
 </tfs_active_incidents>
