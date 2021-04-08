@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-08 07:40:02</update_from_db_time>
+  <update_from_db_time>2021-04-08 08:10:03</update_from_db_time>
   <event>
     <prime_street>DENTON AVE, SC</prime_street>
     <cross_streets>LEYTON AVE / PATTERSON AVE</cross_streets>
@@ -22,63 +22,43 @@
     <units_disp> S313, P313, A312, C31, P312, P314, A325, LA333, R321, R325, C30, P324, P323, R321, P333, P313</units_disp>
   </event>
   <event>
-    <prime_street>M3B</prime_street>
+    <prime_street>M5E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-08 06:49:00</dispatch_time>
-    <event_num>F21031697</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>123</beat>
-    <units_disp> P123</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 07:20:50</dispatch_time>
-    <event_num>F21031700</event_num>
+    <dispatch_time>2021-04-08 07:45:52</dispatch_time>
+    <event_num>F21031709</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
-    <units_disp> P333</units_disp>
+    <units_disp> T333</units_disp>
   </event>
   <event>
-    <prime_street>M6C</prime_street>
+    <prime_street>M9V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-08 07:24:19</dispatch_time>
-    <event_num>F21031701</event_num>
+    <dispatch_time>2021-04-08 07:51:43</dispatch_time>
+    <event_num>F21031710</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>343</beat>
-    <units_disp> P343</units_disp>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
   </event>
   <event>
-    <prime_street>YORK MILLS RD, NY</prime_street>
-    <cross_streets>MOSSGROVE PARK TRL / LESLIE ST</cross_streets>
-    <dispatch_time>2021-04-08 07:34:49</dispatch_time>
-    <event_num>F21031702</event_num>
-    <event_type>Rescue - High Level</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>122</beat>
-    <units_disp> A113, P143, R122, S143, C11, P232, S313</units_disp>
-  </event>
-  <event>
-    <prime_street>M1S</prime_street>
+    <prime_street>M4R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-08 07:35:50</dispatch_time>
-    <event_num>F21031703</event_num>
+    <dispatch_time>2021-04-08 07:53:45</dispatch_time>
+    <event_num>F21031712</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>243</beat>
-    <units_disp> R243</units_disp>
+    <beat>134</beat>
+    <units_disp> R134</units_disp>
   </event>
   <event>
-    <prime_street>OLIVER MEWS, TT</prime_street>
-    <cross_streets>MAUGHAN CRES / </cross_streets>
-    <dispatch_time>2021-04-08 07:36:46</dispatch_time>
-    <event_num>F21031704</event_num>
-    <event_type>Natural Gas Leak</event_type>
+    <prime_street>FALSTAFF AVE, NY</prime_street>
+    <cross_streets>MAIDSTONE ST / SPRINGVIEW AVE</cross_streets>
+    <dispatch_time>2021-04-08 07:55:23</dispatch_time>
+    <event_num>F21031713</event_num>
+    <event_type>Fire Alarm - Check Call</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>227</beat>
-    <units_disp> P324, P226, C32, HZ326</units_disp>
+    <beat>146</beat>
+    <units_disp> P146</units_disp>
   </event>
 </tfs_active_incidents>
