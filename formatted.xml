@@ -1,14 +1,24 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-09 04:10:02</update_from_db_time>
+  <update_from_db_time>2021-04-09 04:35:03</update_from_db_time>
   <event>
-    <prime_street>M6K</prime_street>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-04-09 04:18:17</dispatch_time>
+    <event_num>F21032141</event_num>
+    <event_type>Vehicle Accident - Trapped - Highway</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>333</beat>
+    <units_disp> R325, C33, P333, P334, S331</units_disp>
+  </event>
+  <event>
+    <prime_street>M4H</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 04:03:36</dispatch_time>
-    <event_num>F21032140</event_num>
+    <dispatch_time>2021-04-09 04:18:43</dispatch_time>
+    <event_num>F21032142</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>426</beat>
-    <units_disp> R426</units_disp>
+    <beat>322</beat>
+    <units_disp> A322</units_disp>
   </event>
 </tfs_active_incidents>
