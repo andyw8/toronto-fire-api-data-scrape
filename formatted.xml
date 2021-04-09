@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-09 11:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-09 12:10:03</update_from_db_time>
   <event>
     <prime_street>SIXTH ST, ET</prime_street>
     <cross_streets>LN E ISLINGTON N BIRMINGHAM / </cross_streets>
@@ -12,33 +12,73 @@
     <units_disp> R434, P432, A433, C43, P445, R425, R435, A426, LA421, S445, P422, P443, R426, C44, HZ145, CMD30, CMD30C, C40, C42, C34</units_disp>
   </event>
   <event>
-    <prime_street>M1M</prime_street>
+    <prime_street>M9B</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 11:31:16</dispatch_time>
-    <event_num>F21032246</event_num>
+    <dispatch_time>2021-04-09 11:52:20</dispatch_time>
+    <event_num>F21032251</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>223</beat>
-    <units_disp> P223</units_disp>
+    <beat>445</beat>
+    <units_disp> R444</units_disp>
   </event>
   <event>
-    <prime_street>M6N</prime_street>
+    <prime_street>M9R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 11:34:38</dispatch_time>
-    <event_num>F21032247</event_num>
+    <dispatch_time>2021-04-09 11:54:50</dispatch_time>
+    <event_num>F21032252</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
+    <beat>441</beat>
+    <units_disp> P415</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets>RIVERSIDE DR / TRAYMORE CRES</cross_streets>
-    <dispatch_time>2021-04-09 11:43:02</dispatch_time>
-    <event_num>F21032248</event_num>
-    <event_type>Wires Down - Hydro</event_type>
+    <prime_street>M5N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 11:55:51</dispatch_time>
+    <event_num>F21032254</event_num>
+    <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>425</beat>
-    <units_disp> R423</units_disp>
+    <beat>135</beat>
+    <units_disp> R134</units_disp>
+  </event>
+  <event>
+    <prime_street>M9L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 11:59:51</dispatch_time>
+    <event_num>F21032255</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>411</beat>
+    <units_disp> R411</units_disp>
+  </event>
+  <event>
+    <prime_street>M2L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 12:00:26</dispatch_time>
+    <event_num>F21032256</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>122</beat>
+    <units_disp> R122</units_disp>
+  </event>
+  <event>
+    <prime_street>MARTIN GROVE RD, ET</prime_street>
+    <cross_streets>REXDALE BLVD / RACINE RD</cross_streets>
+    <dispatch_time>2021-04-09 12:01:18</dispatch_time>
+    <event_num>F21032257</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>415</beat>
+    <units_disp> R412</units_disp>
+  </event>
+  <event>
+    <prime_street>M5N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 12:02:48</dispatch_time>
+    <event_num>F21032258</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P135</units_disp>
   </event>
 </tfs_active_incidents>
