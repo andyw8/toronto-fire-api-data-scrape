@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-08 23:30:02</update_from_db_time>
-  <event>
-    <prime_street>BROADWAY AVE, TT</prime_street>
-    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
-    <dispatch_time>2021-04-08 23:07:55</dispatch_time>
-    <event_num>F21032091</event_num>
-    <event_type>Police Assist - Request</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>134</beat>
-    <units_disp> C13, A135</units_disp>
-  </event>
-  <event>
-    <prime_street>M4G</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 23:08:22</dispatch_time>
-    <event_num>F21032092</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>321</beat>
-    <units_disp> R321</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 23:16:38</dispatch_time>
-    <event_num>F21032096</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> R325</units_disp>
-  </event>
-  <event>
-    <prime_street>M6M</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-08 23:18:05</dispatch_time>
-    <event_num>F21032098</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>421</beat>
-    <units_disp> R421</units_disp>
-  </event>
+  <update_from_db_time>2021-04-08 23:50:01</update_from_db_time>
   <event>
     <prime_street>M8Y</prime_street>
     <cross_streets/>
@@ -52,23 +12,23 @@
     <units_disp> P431</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-04-08 23:23:22</dispatch_time>
-    <event_num>F21032100</event_num>
-    <event_type>Vehicle - Personal Injury Highway</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, A324</units_disp>
-  </event>
-  <event>
     <prime_street>M5J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-08 23:25:23</dispatch_time>
-    <event_num>F21032101</event_num>
+    <dispatch_time>2021-04-08 23:28:40</dispatch_time>
+    <event_num>F21032102</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>334</beat>
-    <units_disp> P334</units_disp>
+    <units_disp> P333, P334</units_disp>
+  </event>
+  <event>
+    <prime_street>M4M</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-08 23:41:39</dispatch_time>
+    <event_num>F21032103</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>324</beat>
+    <units_disp> P324</units_disp>
   </event>
 </tfs_active_incidents>
