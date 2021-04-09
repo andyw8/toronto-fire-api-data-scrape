@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-09 15:20:02</update_from_db_time>
+  <update_from_db_time>2021-04-09 15:45:02</update_from_db_time>
   <event>
     <prime_street>SIXTH ST, ET</prime_street>
     <cross_streets>LN E ISLINGTON N BIRMINGHAM / </cross_streets>
@@ -12,83 +12,83 @@
     <units_disp> R434, P432, A433, C43, P445, R425, R435, A426, LA421, S445, P422, P443, R426, C44, HZ145, CMD30, CMD30C, C40, C42, C34, P415, FI8</units_disp>
   </event>
   <event>
-    <prime_street>BOND ST, TT</prime_street>
-    <cross_streets>QUEEN ST E / SHUTER ST</cross_streets>
-    <dispatch_time>2021-04-09 12:51:28</dispatch_time>
-    <event_num>F21032279</event_num>
-    <event_type>Rescue - Personal Entrapment</event_type>
+    <prime_street> </prime_street>
+    <cross_streets> / </cross_streets>
+    <dispatch_time>2021-04-09 15:20:12</dispatch_time>
+    <event_num>F21032322</event_num>
+    <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>333</beat>
-    <units_disp> C31, P331, S313, T333</units_disp>
+    <beat>442</beat>
+    <units_disp> P442, P146</units_disp>
   </event>
   <event>
-    <prime_street>AVENUE RD, TT</prime_street>
-    <cross_streets>LN N DAVENPORT W AVENUE / PEARS AVE</cross_streets>
-    <dispatch_time>2021-04-09 14:23:35</dispatch_time>
-    <event_num>F21032310</event_num>
-    <event_type>Public Hazard</event_type>
+    <prime_street>WRIGHT AVE, YK</prime_street>
+    <cross_streets>PLAINFIELD RD / ROMANWAY CRES</cross_streets>
+    <dispatch_time>2021-04-09 15:25:49</dispatch_time>
+    <event_num>F21032323</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312</units_disp>
+    <beat>442</beat>
+    <units_disp> P422, P443, R421, R423, C42, A133, A423</units_disp>
   </event>
   <event>
-    <prime_street>NEILSON DR, ET</prime_street>
-    <cross_streets>JEFF DR / ELMCREST CREEK TRL</cross_streets>
-    <dispatch_time>2021-04-09 14:49:01</dispatch_time>
-    <event_num>F21032314</event_num>
-    <event_type>Fire - Institution</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>432</beat>
-    <units_disp> P432, R441, C43</units_disp>
-  </event>
-  <event>
-    <prime_street>M4N</prime_street>
+    <prime_street>M1R</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 15:01:13</dispatch_time>
-    <event_num>F21032316</event_num>
+    <dispatch_time>2021-04-09 15:28:32</dispatch_time>
+    <event_num>F21032324</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> P245</units_disp>
+  </event>
+  <event>
+    <prime_street>M1V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 15:32:09</dispatch_time>
+    <event_num>F21032325</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>KENNEDY RD / ELLESMERE RD</cross_streets>
+    <dispatch_time>2021-04-09 15:36:03</dispatch_time>
+    <event_num>F21032326</event_num>
+    <event_type>Vehicle - Spill Clean Up</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>245</beat>
+    <units_disp> A244, R243</units_disp>
+  </event>
+  <event>
+    <prime_street>M4R</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 15:36:21</dispatch_time>
+    <event_num>F21032327</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>134</beat>
-    <units_disp> R134</units_disp>
+    <units_disp> P135</units_disp>
   </event>
   <event>
-    <prime_street>M8Y</prime_street>
+    <prime_street>M5G</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 15:02:29</dispatch_time>
-    <event_num>F21032317</event_num>
+    <dispatch_time>2021-04-09 15:36:48</dispatch_time>
+    <event_num>F21032328</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>433</beat>
-    <units_disp> A433</units_disp>
+    <beat>314</beat>
+    <units_disp> P314</units_disp>
   </event>
   <event>
-    <prime_street>NORTHCLIFFE BLVD, YK</prime_street>
-    <cross_streets>VAUGHAN RD / LN S EGLINTON E NORTHCLIFFE</cross_streets>
-    <dispatch_time>2021-04-09 15:07:39</dispatch_time>
-    <event_num>F21032318</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> A345, P341CA, P342, P343, C34</units_disp>
-  </event>
-  <event>
-    <prime_street>M1T</prime_street>
+    <prime_street>M4L</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 15:09:47</dispatch_time>
-    <event_num>F21032319</event_num>
+    <dispatch_time>2021-04-09 15:37:56</dispatch_time>
+    <event_num>F21032329</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
-  </event>
-  <event>
-    <prime_street>M1J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-09 15:14:24</dispatch_time>
-    <event_num>F21032320</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>221</beat>
-    <units_disp> P221</units_disp>
+    <beat>323</beat>
+    <units_disp> P323</units_disp>
   </event>
 </tfs_active_incidents>
