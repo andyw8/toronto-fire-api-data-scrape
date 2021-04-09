@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-09 00:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-09 01:05:02</update_from_db_time>
   <event>
     <prime_street> </prime_street>
     <cross_streets> / </cross_streets>
@@ -8,8 +8,8 @@
     <event_num>F21032109</event_num>
     <event_type>Vehicle - Personal Injury Highway</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313, P323</units_disp>
+    <beat>325</beat>
+    <units_disp> P313, P323, P333, T333</units_disp>
   </event>
   <event>
     <prime_street>FINGAL PL, ET</prime_street>
@@ -30,5 +30,45 @@
     <alarm_lev>0</alarm_lev>
     <beat>331</beat>
     <units_disp> P331</units_disp>
+  </event>
+  <event>
+    <prime_street>M3N</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 00:51:59</dispatch_time>
+    <event_num>F21032113</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>142</beat>
+    <units_disp> A142</units_disp>
+  </event>
+  <event>
+    <prime_street>M3J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 00:53:36</dispatch_time>
+    <event_num>F21032114</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>BROADWAY AVE, TT</prime_street>
+    <cross_streets>YONGE ST / REDPATH AVE</cross_streets>
+    <dispatch_time>2021-04-09 00:56:48</dispatch_time>
+    <event_num>F21032115</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>134</beat>
+    <units_disp> R134, P135, A135, C13, P131</units_disp>
+  </event>
+  <event>
+    <prime_street>M2K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 01:01:45</dispatch_time>
+    <event_num>F21032116</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>116</beat>
+    <units_disp> P116</units_disp>
   </event>
 </tfs_active_incidents>
