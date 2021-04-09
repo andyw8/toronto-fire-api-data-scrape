@@ -1,74 +1,44 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-09 05:30:02</update_from_db_time>
+  <update_from_db_time>2021-04-09 05:50:02</update_from_db_time>
   <event>
-    <prime_street>O'CONNOR DR, EY</prime_street>
-    <cross_streets>DOHME AVE / YARDLEY AVE</cross_streets>
-    <dispatch_time>2021-04-09 05:05:34</dispatch_time>
-    <event_num>F21032146</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>224</beat>
-    <units_disp> R224, R235</units_disp>
-  </event>
-  <event>
-    <prime_street>M6S</prime_street>
+    <prime_street>M1G</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 05:09:45</dispatch_time>
-    <event_num>F21032148</event_num>
+    <dispatch_time>2021-04-09 05:30:14</dispatch_time>
+    <event_num>F21032154</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>422</beat>
-    <units_disp> P422</units_disp>
+    <beat>231</beat>
+    <units_disp> R231</units_disp>
   </event>
   <event>
-    <prime_street>SHERBOURNE ST, TT</prime_street>
-    <cross_streets>LN N QUEEN E SHERBOURNE / SHUTER ST</cross_streets>
-    <dispatch_time>2021-04-09 05:12:59</dispatch_time>
-    <event_num>F21032149</event_num>
-    <event_type>Fire - Encampment</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>325</beat>
-    <units_disp> A325, C33, P333, R325</units_disp>
-  </event>
-  <event>
-    <prime_street>ISABELLA ST, TT</prime_street>
-    <cross_streets>GEORGE HISLOP PARK TRL / CHURCH ST</cross_streets>
-    <dispatch_time>2021-04-09 05:13:41</dispatch_time>
-    <event_num>F21032150</event_num>
-    <event_type>Alarm Highrise Residential</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>312</beat>
-    <units_disp> P312, A312, C31, P313, P314</units_disp>
-  </event>
-  <event>
-    <prime_street>M5A</prime_street>
+    <prime_street>M6M</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 05:23:06</dispatch_time>
-    <event_num>F21032151</event_num>
+    <dispatch_time>2021-04-09 05:40:54</dispatch_time>
+    <event_num>F21032156</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>442</beat>
+    <units_disp> P442</units_disp>
+  </event>
+  <event>
+    <prime_street>M5C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 05:41:11</dispatch_time>
+    <event_num>F21032157</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
-    <units_disp> T333</units_disp>
+    <units_disp> P332</units_disp>
   </event>
   <event>
-    <prime_street>M3J</prime_street>
+    <prime_street>M1V</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 05:24:08</dispatch_time>
-    <event_num>F21032152</event_num>
+    <dispatch_time>2021-04-09 05:45:59</dispatch_time>
+    <event_num>F21032158</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
-  </event>
-  <event>
-    <prime_street>CLOVELLY AVE, YK</prime_street>
-    <cross_streets>WINONA DR / ALAMEDA AVE</cross_streets>
-    <dispatch_time>2021-04-09 05:26:20</dispatch_time>
-    <event_num>F21032153</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>341</beat>
-    <units_disp> P341CA, P342</units_disp>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
   </event>
 </tfs_active_incidents>
