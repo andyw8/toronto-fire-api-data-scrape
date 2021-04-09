@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-09 19:10:02</update_from_db_time>
+  <update_from_db_time>2021-04-09 19:30:02</update_from_db_time>
   <event>
     <prime_street>SIXTH ST, ET</prime_street>
     <cross_streets>LN E ISLINGTON N BIRMINGHAM / </cross_streets>
@@ -32,43 +32,43 @@
     <units_disp> P442</units_disp>
   </event>
   <event>
-    <prime_street>M9C</prime_street>
+    <prime_street>M9W</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 19:01:59</dispatch_time>
-    <event_num>F21032419</event_num>
+    <dispatch_time>2021-04-09 19:12:18</dispatch_time>
+    <event_num>F21032425</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>444</beat>
-    <units_disp> R444</units_disp>
+    <beat>441</beat>
+    <units_disp> R441</units_disp>
   </event>
   <event>
-    <prime_street>M9V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-09 19:02:03</dispatch_time>
-    <event_num>F21032420</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street> </prime_street>
+    <cross_streets>PARLIAMENT ST / GERRARD ST E</cross_streets>
+    <dispatch_time>2021-04-09 19:21:17</dispatch_time>
+    <event_num>F21032426</event_num>
+    <event_type>Vehicle - Personal Injury</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>413</beat>
-    <units_disp> R413</units_disp>
+    <beat>325</beat>
+    <units_disp> R325</units_disp>
   </event>
   <event>
-    <prime_street>M1C</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-09 19:05:07</dispatch_time>
-    <event_num>F21032421</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>GRAND TRUNK CRES, TT</prime_street>
+    <cross_streets>LOWER SIMCOE ST / BREMNER BLVD</cross_streets>
+    <dispatch_time>2021-04-09 19:21:25</dispatch_time>
+    <event_num>F21032427</event_num>
+    <event_type>Fire -  Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> R214</units_disp>
+    <beat>334</beat>
+    <units_disp> HR332, P332, P334, P344, S331, T333, C33</units_disp>
   </event>
   <event>
-    <prime_street>M3J</prime_street>
+    <prime_street>M1J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 19:05:42</dispatch_time>
-    <event_num>F21032422</event_num>
+    <dispatch_time>2021-04-09 19:25:20</dispatch_time>
+    <event_num>F21032428</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>141</beat>
-    <units_disp> P141</units_disp>
+    <beat>221</beat>
+    <units_disp> P221</units_disp>
   </event>
 </tfs_active_incidents>
