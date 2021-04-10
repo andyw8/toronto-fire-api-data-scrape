@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-10 02:05:02</update_from_db_time>
+  <update_from_db_time>2021-04-10 02:50:02</update_from_db_time>
   <event>
     <prime_street>SIXTH ST, ET</prime_street>
     <cross_streets>LN E ISLINGTON N BIRMINGHAM / </cross_streets>
@@ -9,56 +9,36 @@
     <event_type>Fire - Residential</event_type>
     <alarm_lev>2</alarm_lev>
     <beat>435</beat>
-    <units_disp> R434, P432, A433, C43, P445, R425, R435, A426, LA421, S445, P422, P443, R426, C44, HZ145, CMD30, CMD30C, C40, C42, C34, P415, FI8, R423, P426, P445, R412</units_disp>
+    <units_disp> R434, P432, A433, C43, P445, R425, R435, A426, LA421, S445, P422, P443, R426, C44, HZ145, CMD30, CMD30C, C40, C42, C34, P415, FI8, R423, P426, P445, R412, R425</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-10 01:35:58</dispatch_time>
-    <event_num>F21032563</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>JOHN ST, TT</prime_street>
+    <cross_streets>WELLINGTON ST W / MERCER ST</cross_streets>
+    <dispatch_time>2021-04-10 02:08:01</dispatch_time>
+    <event_num>F21032570</event_num>
+    <event_type>Fire - Highrise Residential - Downtown</event_type>
+    <alarm_lev>2</alarm_lev>
+    <beat>332</beat>
+    <units_disp> P332, P334, A315, C33, HR332, P331, C34, HZ326, LA333, P312, P333, P344, R325, S331, T333, R426, C30, CMD30C, CMD30</units_disp>
+  </event>
+  <event>
+    <prime_street>GERRARD ST, TT</prime_street>
+    <cross_streets>YONGE ST / BAY ST</cross_streets>
+    <dispatch_time>2021-04-10 02:38:34</dispatch_time>
+    <event_num>F21032576</event_num>
+    <event_type>Alarm Highrise Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142</units_disp>
+    <beat>314</beat>
+    <units_disp> A312, P314, C31, P311, P313</units_disp>
   </event>
   <event>
     <prime_street>M3C</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-10 01:37:28</dispatch_time>
-    <event_num>F21032564</event_num>
+    <dispatch_time>2021-04-10 02:39:22</dispatch_time>
+    <event_num>F21032578</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>235</beat>
     <units_disp> R235</units_disp>
-  </event>
-  <event>
-    <prime_street>M1N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-10 01:46:40</dispatch_time>
-    <event_num>F21032566</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
-  </event>
-  <event>
-    <prime_street>DUNDAS SQ, TT</prime_street>
-    <cross_streets>YONGE ST / O'KEEFE LANE</cross_streets>
-    <dispatch_time>2021-04-10 01:48:10</dispatch_time>
-    <event_num>F21032567</event_num>
-    <event_type>Alarm Single Source</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>314</beat>
-    <units_disp> R325, A325</units_disp>
-  </event>
-  <event>
-    <prime_street>M4X</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-10 02:01:24</dispatch_time>
-    <event_num>F21032568</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>313</beat>
-    <units_disp> P313</units_disp>
   </event>
 </tfs_active_incidents>
