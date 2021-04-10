@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-09 20:20:02</update_from_db_time>
+  <update_from_db_time>2021-04-09 20:40:02</update_from_db_time>
   <event>
     <prime_street>SIXTH ST, ET</prime_street>
     <cross_streets>LN E ISLINGTON N BIRMINGHAM / </cross_streets>
@@ -10,16 +10,6 @@
     <alarm_lev>2</alarm_lev>
     <beat>435</beat>
     <units_disp> R434, P432, A433, C43, P445, R425, R435, A426, LA421, S445, P422, P443, R426, C44, HZ145, CMD30, CMD30C, C40, C42, C34, P415, FI8, R423, P426</units_disp>
-  </event>
-  <event>
-    <prime_street>M6J</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-09 19:40:05</dispatch_time>
-    <event_num>F21032437</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>331</beat>
-    <units_disp> R426</units_disp>
   </event>
   <event>
     <prime_street>JANE ST, NY</prime_street>
@@ -32,53 +22,43 @@
     <units_disp> R421, A133</units_disp>
   </event>
   <event>
-    <prime_street> </prime_street>
-    <cross_streets> / </cross_streets>
-    <dispatch_time>2021-04-09 19:57:55</dispatch_time>
-    <event_num>F21032447</event_num>
-    <event_type>Vehicle Accident - Trapped - Highway</event_type>
+    <prime_street>WELLINGTON ST, TT</prime_street>
+    <cross_streets>STAFFORD ST / STRACHAN AVE</cross_streets>
+    <dispatch_time>2021-04-09 20:21:13</dispatch_time>
+    <event_num>F21032456</event_num>
+    <event_type>Fire - Residential</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>214</beat>
-    <units_disp> P212, R213, C21, R243, S232, P232</units_disp>
+    <beat>331</beat>
+    <units_disp> S331, P331, A315, HR332, P332, P334, C33</units_disp>
   </event>
   <event>
-    <prime_street>M1B</prime_street>
+    <prime_street>M1E</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 19:58:44</dispatch_time>
-    <event_num>F21032450</event_num>
+    <dispatch_time>2021-04-09 20:24:04</dispatch_time>
+    <event_num>F21032457</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>213</beat>
-    <units_disp> A213</units_disp>
+    <beat>234</beat>
+    <units_disp> P234</units_disp>
   </event>
   <event>
-    <prime_street>M3N</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-09 20:05:27</dispatch_time>
-    <event_num>F21032452</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>LANDFAIR CRES, SC</prime_street>
+    <cross_streets>BANMOOR BLVD / CEDARBROOK PARK TRL</cross_streets>
+    <dispatch_time>2021-04-09 20:30:54</dispatch_time>
+    <event_num>F21032458</event_num>
+    <event_type>Fire - Grass/Rubbish</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>142</beat>
-    <units_disp> P142</units_disp>
+    <beat>231</beat>
+    <units_disp> R231</units_disp>
   </event>
   <event>
-    <prime_street>M4H</prime_street>
+    <prime_street>M3A</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 20:11:30</dispatch_time>
-    <event_num>F21032453</event_num>
+    <dispatch_time>2021-04-09 20:33:13</dispatch_time>
+    <event_num>F21032459</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>322</beat>
-    <units_disp> A322</units_disp>
-  </event>
-  <event>
-    <prime_street>M4V</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-09 20:13:04</dispatch_time>
-    <event_num>F21032454</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>311</beat>
-    <units_disp> P312</units_disp>
+    <beat>115</beat>
+    <units_disp> R115</units_disp>
   </event>
 </tfs_active_incidents>
