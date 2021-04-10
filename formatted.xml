@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-10 03:10:02</update_from_db_time>
+  <update_from_db_time>2021-04-10 03:25:02</update_from_db_time>
   <event>
     <prime_street>SIXTH ST, ET</prime_street>
     <cross_streets>LN E ISLINGTON N BIRMINGHAM / </cross_streets>
@@ -22,13 +22,23 @@
     <units_disp> P332, P334, A315, C33, HR332, P331, C34, HZ326, LA333, P312, P333, P344, R325, S331, T333, R426, C30, CMD30C, CMD30</units_disp>
   </event>
   <event>
-    <prime_street>M3C</prime_street>
+    <prime_street>M3J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-10 02:39:22</dispatch_time>
-    <event_num>F21032578</event_num>
+    <dispatch_time>2021-04-10 03:12:32</dispatch_time>
+    <event_num>F21032579</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>235</beat>
-    <units_disp> R235</units_disp>
+    <beat>141</beat>
+    <units_disp> P141</units_disp>
+  </event>
+  <event>
+    <prime_street>M1T</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-10 03:18:02</dispatch_time>
+    <event_num>F21032580</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>244</beat>
+    <units_disp> A244</units_disp>
   </event>
 </tfs_active_incidents>
