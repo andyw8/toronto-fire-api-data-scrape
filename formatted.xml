@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-09 23:10:02</update_from_db_time>
+  <update_from_db_time>2021-04-09 23:30:03</update_from_db_time>
   <event>
     <prime_street>SIXTH ST, ET</prime_street>
     <cross_streets>LN E ISLINGTON N BIRMINGHAM / </cross_streets>
@@ -32,23 +32,83 @@
     <units_disp> R444</units_disp>
   </event>
   <event>
-    <prime_street>M9R</prime_street>
+    <prime_street>M1P</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 22:55:34</dispatch_time>
-    <event_num>F21032521</event_num>
+    <dispatch_time>2021-04-09 23:15:54</dispatch_time>
+    <event_num>F21032523</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>443</beat>
-    <units_disp> P443</units_disp>
+    <beat>232</beat>
+    <units_disp> P232</units_disp>
   </event>
   <event>
-    <prime_street>M1W</prime_street>
+    <prime_street>M6N</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-09 23:05:32</dispatch_time>
-    <event_num>F21032522</event_num>
+    <dispatch_time>2021-04-09 23:17:06</dispatch_time>
+    <event_num>F21032524</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>244</beat>
-    <units_disp> A244</units_disp>
+    <beat>421</beat>
+    <units_disp> R421</units_disp>
+  </event>
+  <event>
+    <prime_street>M6C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 23:18:54</dispatch_time>
+    <event_num>F21032525</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>135</beat>
+    <units_disp> P135</units_disp>
+  </event>
+  <event>
+    <prime_street>CLEARVIEW HTS, YK</prime_street>
+    <cross_streets>BLACK CREEK TRL / TRETHEWEY DR</cross_streets>
+    <dispatch_time>2021-04-09 23:19:39</dispatch_time>
+    <event_num>F21032526</event_num>
+    <event_type>Police Assist - Request</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>133</beat>
+    <units_disp> A133</units_disp>
+  </event>
+  <event>
+    <prime_street>M9V</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 23:21:45</dispatch_time>
+    <event_num>F21032527</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>413</beat>
+    <units_disp> R413</units_disp>
+  </event>
+  <event>
+    <prime_street>M3C</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 23:22:28</dispatch_time>
+    <event_num>F21032528</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>125</beat>
+    <units_disp> P125</units_disp>
+  </event>
+  <event>
+    <prime_street>M6K</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 23:22:44</dispatch_time>
+    <event_num>F21032529</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>346</beat>
+    <units_disp> P344</units_disp>
+  </event>
+  <event>
+    <prime_street>M1J</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-09 23:26:26</dispatch_time>
+    <event_num>F21032530</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>223</beat>
+    <units_disp> P223</units_disp>
   </event>
 </tfs_active_incidents>
