@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-10 04:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-10 05:00:02</update_from_db_time>
   <event>
     <prime_street>SIXTH ST, ET</prime_street>
     <cross_streets>LN E ISLINGTON N BIRMINGHAM / </cross_streets>
@@ -12,16 +12,6 @@
     <units_disp> R434, P432, A433, C43, P445, R425, R435, A426, LA421, S445, P422, P443, R426, C44, HZ145, CMD30, CMD30C, C40, C42, C34, P415, FI8, R423, P426, P445, R412, R425, P431</units_disp>
   </event>
   <event>
-    <prime_street>M4L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-10 04:29:42</dispatch_time>
-    <event_num>F21032588</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>323</beat>
-    <units_disp> P323</units_disp>
-  </event>
-  <event>
     <prime_street>ADELAIDE ST, TT</prime_street>
     <cross_streets>ONTARIO ST / POMPADOUR LANE</cross_streets>
     <dispatch_time>2021-04-10 04:45:26</dispatch_time>
@@ -30,5 +20,25 @@
     <alarm_lev>0</alarm_lev>
     <beat>333</beat>
     <units_disp> P333, R325, P332, C33, T333</units_disp>
+  </event>
+  <event>
+    <prime_street>M1S</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-10 04:48:19</dispatch_time>
+    <event_num>F21032590</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>242</beat>
+    <units_disp> P242</units_disp>
+  </event>
+  <event>
+    <prime_street>M1L</prime_street>
+    <cross_streets/>
+    <dispatch_time>2021-04-10 04:49:41</dispatch_time>
+    <event_num>F21032591</event_num>
+    <event_type>MEDICAL</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>225</beat>
+    <units_disp> R225</units_disp>
   </event>
 </tfs_active_incidents>
