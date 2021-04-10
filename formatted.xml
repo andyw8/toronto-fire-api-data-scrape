@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <tfs_active_incidents>
-  <update_from_db_time>2021-04-10 05:50:02</update_from_db_time>
+  <update_from_db_time>2021-04-10 06:10:02</update_from_db_time>
   <event>
     <prime_street>SIXTH ST, ET</prime_street>
     <cross_streets>LN E ISLINGTON N BIRMINGHAM / </cross_streets>
@@ -12,33 +12,33 @@
     <units_disp> R434, P432, A433, C43, P445, R425, R435, A426, LA421, S445, P422, P443, R426, C44, HZ145, CMD30, CMD30C, C40, C42, C34, P415, FI8, R423, P426, P445, R412, R425, P431</units_disp>
   </event>
   <event>
-    <prime_street>M1L</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-10 04:49:41</dispatch_time>
-    <event_num>F21032591</event_num>
-    <event_type>MEDICAL</event_type>
+    <prime_street>CANSO RD, ET</prime_street>
+    <cross_streets>ENTERPRISE RD / </cross_streets>
+    <dispatch_time>2021-04-10 05:52:14</dispatch_time>
+    <event_num>F21032596</event_num>
+    <event_type>Alarm Single Source</event_type>
     <alarm_lev>0</alarm_lev>
-    <beat>225</beat>
-    <units_disp> R225</units_disp>
+    <beat>441</beat>
+    <units_disp> R441, P415</units_disp>
+  </event>
+  <event>
+    <prime_street> </prime_street>
+    <cross_streets>DANFORTH AVE / DEWHURST BLVD</cross_streets>
+    <dispatch_time>2021-04-10 05:55:35</dispatch_time>
+    <event_num>F21032597</event_num>
+    <event_type>Vehicle Accident - Trapped</event_type>
+    <alarm_lev>0</alarm_lev>
+    <beat>323</beat>
+    <units_disp> C32, P323, R325, S313</units_disp>
   </event>
   <event>
     <prime_street>M5J</prime_street>
     <cross_streets/>
-    <dispatch_time>2021-04-10 05:40:56</dispatch_time>
-    <event_num>F21032594</event_num>
+    <dispatch_time>2021-04-10 06:00:15</dispatch_time>
+    <event_num>F21032598</event_num>
     <event_type>MEDICAL</event_type>
     <alarm_lev>0</alarm_lev>
     <beat>334</beat>
-    <units_disp> P334</units_disp>
-  </event>
-  <event>
-    <prime_street>M1B</prime_street>
-    <cross_streets/>
-    <dispatch_time>2021-04-10 05:42:30</dispatch_time>
-    <event_num>F21032595</event_num>
-    <event_type>MEDICAL</event_type>
-    <alarm_lev>0</alarm_lev>
-    <beat>212</beat>
-    <units_disp> P212</units_disp>
+    <units_disp> P332</units_disp>
   </event>
 </tfs_active_incidents>
